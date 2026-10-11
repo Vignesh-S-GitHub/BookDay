@@ -4,7 +4,7 @@ on:
     - cron: '23 3 * * *'
   workflow_dispatch:
   push:
-    branches: [main, feature/automated-all-state-holidays]
+    branches: [main]
     paths:
       - '.github/workflows/holiday-sources.yml'
       - 'scripts/holiday_pipeline/**'
