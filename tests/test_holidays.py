@@ -69,3 +69,17 @@ def test_demand_is_explained_and_missing_is_unknown() -> None:
         "Moderate",
         ["Weekend"],
     )
+
+
+def test_school_bank_provisional_and_district_days_are_not_general_leave() -> None:
+    rows: list[Holiday] = [
+        holiday("2026-07-03", kind="school_holiday"),
+        holiday("2026-07-03", kind="bank_holiday"),
+        holiday("2026-07-03", status="tentative"),
+        {**holiday("2026-07-03"), "district": "One district"},
+    ]
+    assert long_weekends(rows, "Tamil Nadu") == []
+    assert demand_signal(rows, "Tamil Nadu", date(2026, 7, 3)) == (
+        "Insufficient data",
+        [],
+    )

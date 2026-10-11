@@ -1,7 +1,1531 @@
 {
-  "version": 1,
+  "version": 2,
   "coverage": "Tamil Nadu 2026 annual public-holiday schedule (Gazette 721 / G.O. 708) plus the statewide 23 April polling holiday (Gazette 208 / G.O. 239), annual national holidays for 2026–2027, and selected Kerala 2026 records. Other state/UT schedules, later local orders, constituency-only election closures, school and district holidays are not complete. No 2027 state schedule is assumed. Absence of a record does not mean a working day.",
   "records": [
+    {
+      "id": "tn-2024-annual-01",
+      "date": "2024-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "new-year-s-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "new_year"
+    },
+    {
+      "id": "tn-2024-annual-02",
+      "date": "2024-01-15",
+      "name": "Pongal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "pongal",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "pongal"
+    },
+    {
+      "id": "tn-2024-annual-03",
+      "date": "2024-01-16",
+      "name": "Thiruvalluvar Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "thiruvalluvar-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-04",
+      "date": "2024-01-17",
+      "name": "Uzhavar Thirunal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "uzhavar-thirunal",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "pongal"
+    },
+    {
+      "id": "tn-2024-annual-05",
+      "date": "2024-01-25",
+      "name": "Thai Poosam",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "thai-poosam",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "thai_poosam"
+    },
+    {
+      "id": "tn-2024-annual-06",
+      "date": "2024-01-26",
+      "name": "Republic Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "republic-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-07",
+      "date": "2024-03-29",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "good-friday",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "good_friday"
+    },
+    {
+      "id": "tn-2024-annual-08",
+      "date": "2024-04-01",
+      "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "bank_holiday",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "bank",
+      "note": "Commercial/cooperative banks only.",
+      "source_id": "tn-2024-annual",
+      "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-09",
+      "date": "2024-04-09",
+      "name": "Telugu New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "telugu-new-year-s-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "ugadi"
+    },
+    {
+      "id": "tn-2024-annual-10",
+      "date": "2024-04-11",
+      "name": "Ramzan (Idu'l Fitr)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "ramzan-idu-l-fitr",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "eid_fitr"
+    },
+    {
+      "id": "tn-2024-annual-11",
+      "date": "2024-04-14",
+      "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "tamil_new_year"
+    },
+    {
+      "id": "tn-2024-annual-12",
+      "date": "2024-04-21",
+      "name": "Mahaveer Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "mahaveer-jayanthi",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "mahavir_jayanti"
+    },
+    {
+      "id": "tn-2024-annual-13",
+      "date": "2024-05-01",
+      "name": "May Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "may-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-14",
+      "date": "2024-06-17",
+      "name": "Bakrid (Idul Azha)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "bakrid-idul-azha",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "eid_adha"
+    },
+    {
+      "id": "tn-2024-annual-15",
+      "date": "2024-07-17",
+      "name": "Muharram",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "muharram",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "muharram"
+    },
+    {
+      "id": "tn-2024-annual-16",
+      "date": "2024-08-15",
+      "name": "Independence Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "independence-day",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-17",
+      "date": "2024-08-26",
+      "name": "Krishna Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "krishna-jayanthi",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "janmashtami"
+    },
+    {
+      "id": "tn-2024-annual-18",
+      "date": "2024-09-07",
+      "name": "Vinayakar Chathurthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "vinayakar-chathurthi",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "ganesh_chaturthi"
+    },
+    {
+      "id": "tn-2024-annual-19",
+      "date": "2024-09-16",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "milad-un-nabi",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "milad"
+    },
+    {
+      "id": "tn-2024-annual-20",
+      "date": "2024-10-02",
+      "name": "Gandhi Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "gandhi-jayanthi",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      }
+    },
+    {
+      "id": "tn-2024-annual-21",
+      "date": "2024-10-11",
+      "name": "Ayutha Pooja",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "ayutha-pooja",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "ayutha_pooja"
+    },
+    {
+      "id": "tn-2024-annual-22",
+      "date": "2024-10-12",
+      "name": "Vijaya Dasami",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "vijaya-dasami",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "dussehra"
+    },
+    {
+      "id": "tn-2024-annual-23",
+      "date": "2024-10-31",
+      "name": "Deepavali",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "deepavali",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "diwali"
+    },
+    {
+      "id": "tn-2024-annual-24",
+      "date": "2024-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2024-annual",
+      "event_key": "christmas",
+      "provenance": {
+        "source_id": "tn-2024-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2023-11-09",
+        "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+        "retrieved": "2026-10-11T11:17:33.610732+00:00",
+        "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+        "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+        "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+      },
+      "festival_id": "christmas"
+    },
+    {
+      "id": "tn-2025-annual-01",
+      "date": "2025-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "new-year-s-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "new_year"
+    },
+    {
+      "id": "tn-2025-annual-02",
+      "date": "2025-01-14",
+      "name": "Pongal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "pongal",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "pongal"
+    },
+    {
+      "id": "tn-2025-annual-03",
+      "date": "2025-01-15",
+      "name": "Thiruvalluvar Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "thiruvalluvar-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-04",
+      "date": "2025-01-16",
+      "name": "Uzhavar Thirunal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "uzhavar-thirunal",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "pongal"
+    },
+    {
+      "id": "tn-2025-annual-05",
+      "date": "2025-01-26",
+      "name": "Republic Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "republic-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-06",
+      "date": "2025-02-11",
+      "name": "Thai Poosam",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "thai-poosam",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "thai_poosam"
+    },
+    {
+      "id": "tn-2025-annual-07",
+      "date": "2025-03-30",
+      "name": "Telugu New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "telugu-new-year-s-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "ugadi"
+    },
+    {
+      "id": "tn-2025-annual-08",
+      "date": "2025-03-31",
+      "name": "Ramzan (Idu'l Fitr)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "ramzan-idu-l-fitr",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "eid_fitr"
+    },
+    {
+      "id": "tn-2025-annual-09",
+      "date": "2025-04-01",
+      "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "bank_holiday",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "bank",
+      "note": "Commercial/cooperative banks only.",
+      "source_id": "tn-2025-annual",
+      "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-10",
+      "date": "2025-04-10",
+      "name": "Mahaveer Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "mahaveer-jayanthi",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "mahavir_jayanti"
+    },
+    {
+      "id": "tn-2025-annual-11",
+      "date": "2025-04-14",
+      "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "tamil_new_year"
+    },
+    {
+      "id": "tn-2025-annual-12",
+      "date": "2025-04-18",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "good-friday",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "good_friday"
+    },
+    {
+      "id": "tn-2025-annual-13",
+      "date": "2025-05-01",
+      "name": "May Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "may-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-14",
+      "date": "2025-06-07",
+      "name": "Bakrid (Idul Azha)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "bakrid-idul-azha",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "eid_adha"
+    },
+    {
+      "id": "tn-2025-annual-15",
+      "date": "2025-07-06",
+      "name": "Muharram",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "muharram",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "muharram"
+    },
+    {
+      "id": "tn-2025-annual-16",
+      "date": "2025-08-15",
+      "name": "Independence Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "independence-day",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-17",
+      "date": "2025-08-16",
+      "name": "Krishna Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "krishna-jayanthi",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "janmashtami"
+    },
+    {
+      "id": "tn-2025-annual-18",
+      "date": "2025-08-27",
+      "name": "Vinayakar Chathurthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "vinayakar-chathurthi",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "ganesh_chaturthi"
+    },
+    {
+      "id": "tn-2025-annual-19",
+      "date": "2025-09-05",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "milad-un-nabi",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "milad"
+    },
+    {
+      "id": "tn-2025-annual-20",
+      "date": "2025-10-01",
+      "name": "Ayutha Pooja",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "ayutha-pooja",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "ayutha_pooja"
+    },
+    {
+      "id": "tn-2025-annual-21",
+      "date": "2025-10-02",
+      "name": "Vijaya Dasami",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "vijaya-dasami",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "dussehra"
+    },
+    {
+      "id": "tn-2025-annual-22",
+      "date": "2025-10-02",
+      "name": "Gandhi Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": false,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "gandhi-jayanthi",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      }
+    },
+    {
+      "id": "tn-2025-annual-23",
+      "date": "2025-10-20",
+      "name": "Deepavali",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "deepavali",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "diwali"
+    },
+    {
+      "id": "tn-2025-annual-24",
+      "date": "2025-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "festival": true,
+      "reviewed": "2026-10-11",
+      "district": null,
+      "scope": "state_government",
+      "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+      "source_id": "tn-2025-annual",
+      "event_key": "christmas",
+      "provenance": {
+        "source_id": "tn-2025-annual",
+        "authority": "Tamil Nadu Public Department",
+        "issued": "2024-11-22",
+        "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+        "retrieved": "2026-10-11T11:11:42.615939+00:00",
+        "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+        "reviewer": "BookDay source table review",
+        "review_decision": "approved",
+        "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+        "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+        "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+      },
+      "festival_id": "christmas"
+    },
     {
       "id": "2026-01-01-new-year's-day-tamil-nadu",
       "date": "2026-01-01",
@@ -15,7 +1539,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "new_year",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-01-02-mannam-jayanthi-kerala",
@@ -30,7 +1567,19 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-01-15-pongal-tamil-nadu",
@@ -45,7 +1594,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "pongal",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-01-16-thiruvalluvar-day-tamil-nadu",
@@ -60,7 +1622,19 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-01-17-uzhavar-thirunal-tamil-nadu",
@@ -75,7 +1649,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "pongal",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-01-26-republic-day-in",
@@ -90,7 +1677,19 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-02-01-thai-poosam-tamil-nadu",
@@ -105,7 +1704,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "thai_poosam",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-03-19-telugu-new-year's-day-tamil-nadu",
@@ -120,7 +1732,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ugadi",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-03-21-ramzan-(idu'l-fitr)-tamil-nadu",
@@ -135,7 +1760,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "eid_fitr",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-03-31-mahaveer-jayanthi-tamil-nadu",
@@ -150,7 +1788,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "mahavir_jayanti",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-01-bank-annual-closing-kerala",
@@ -165,7 +1816,19 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Commercial and cooperative banks; not a general public holiday."
+      "note": "Commercial and cooperative banks; not a general public holiday.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "bank"
     },
     {
       "id": "2026-04-01-bank-annual-closing-tamil-nadu",
@@ -180,7 +1843,19 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Commercial and cooperative banks only; not a general state-office holiday."
+      "note": "Commercial and cooperative banks only; not a general state-office holiday.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "bank"
     },
     {
       "id": "2026-04-02-maundy-thursday-kerala",
@@ -195,7 +1870,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-03-good-friday-kerala",
@@ -210,7 +1898,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-03-good-friday-tamil-nadu",
@@ -225,7 +1926,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-14-dr.-b.-r.-ambedkar-jayanthi-kerala",
@@ -240,7 +1954,19 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-14-tamil-new-year's-day-/-dr.-b.-r.-ambedkar's-birthday-tamil-nadu",
@@ -255,7 +1981,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "tamil_new_year",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-15-vishu-kerala",
@@ -270,7 +2009,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "vishu",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-04-23-tamil-nadu-assembly-polling-day-tamil-nadu",
@@ -285,7 +2037,19 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2026/208_Ex_II_1_2026.pdf",
       "reviewed": "2026-10-11",
-      "note": "Statewide polling-day public holiday under G.O. Ms. 239, 26 March 2026. Limited constituency bye-election closures are not treated as statewide holidays."
+      "note": "Statewide polling-day public holiday under G.O. Ms. 239, 26 March 2026. Limited constituency bye-election closures are not treated as statewide holidays.",
+      "source_id": "baseline-6",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-05-01-may-day-kerala",
@@ -300,7 +2064,19 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-05-01-may-day-tamil-nadu",
@@ -315,7 +2091,19 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-05-28-bakrid-(idul-azha)-tamil-nadu",
@@ -330,7 +2118,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "eid_adha",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-06-26-muharram-tamil-nadu",
@@ -345,7 +2146,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "muharram",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-08-12-karkadaka-vavu-kerala",
@@ -360,7 +2174,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "karkadaka_vavu",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-08-15-independence-day-in",
@@ -375,22 +2202,19 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
-    },
-    {
-      "id": "2026-08-26-thiruvonam-kerala",
-      "date": "2026-08-26",
-      "name": "Thiruvonam",
-      "jurisdictions": [
-        "Kerala"
-      ],
-      "districts": [],
-      "type": "state_public",
-      "festival": true,
-      "status": "official",
-      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
-      "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-08-26-milad-un-nabi-tamil-nadu",
@@ -405,7 +2229,48 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "milad",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-26-thiruvonam-kerala",
+      "date": "2026-08-26",
+      "name": "Thiruvonam",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-08-27-third-onam-kerala",
@@ -420,7 +2285,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-08-28-fourth-onam-/-sree-narayana-guru-jayanthi-/-ayyankali-jayanthi-kerala",
@@ -435,22 +2313,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
-    },
-    {
-      "id": "2026-09-04-sreekrishna-jayanthi-kerala",
-      "date": "2026-09-04",
-      "name": "Sreekrishna Jayanthi",
-      "jurisdictions": [
-        "Kerala"
-      ],
-      "districts": [],
-      "type": "state_public",
-      "festival": true,
-      "status": "official",
-      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
-      "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-09-04-krishna-jayanthi-tamil-nadu",
@@ -465,7 +2341,48 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "janmashtami",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-09-04-sreekrishna-jayanthi-kerala",
+      "date": "2026-09-04",
+      "name": "Sreekrishna Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "janmashtami",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-09-14-vinayakar-chathurthi-tamil-nadu",
@@ -480,7 +2397,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ganesh_chaturthi",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-09-21-sree-narayana-guru-samadhi-day-kerala",
@@ -495,7 +2425,19 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-10-02-gandhi-jayanti-in",
@@ -510,7 +2452,19 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-10-19-ayutha-pooja-tamil-nadu",
@@ -525,7 +2479,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ayutha_pooja",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-10-20-mahanavami-kerala",
@@ -540,7 +2507,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "ayutha_pooja",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-10-20-vijaya-dasami-tamil-nadu",
@@ -555,7 +2535,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "dussehra",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-10-21-vijayadasami-kerala",
@@ -570,7 +2563,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "dussehra",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-11-08-deepavali-kerala",
@@ -585,7 +2591,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Falls on Sunday; listed as an occasion, not an additional weekday public holiday."
+      "note": "Falls on Sunday; listed as an occasion, not an additional weekday public holiday.",
+      "festival_id": "diwali",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "observance"
     },
     {
       "id": "2026-11-08-deepavali-tamil-nadu",
@@ -600,7 +2619,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "diwali",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-12-25-christmas-kerala",
@@ -615,7 +2647,20 @@
       "status": "official",
       "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
       "reviewed": "2026-10-11",
-      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "christmas",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2026-12-25-christmas-tamil-nadu",
@@ -630,7 +2675,20 @@
       "status": "official",
       "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
       "reviewed": "2026-10-11",
-      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed."
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "christmas",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2027-01-26-republic-day-in",
@@ -645,7 +2703,19 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2027-08-15-independence-day-in",
@@ -660,7 +2730,19 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     },
     {
       "id": "2027-10-02-gandhi-jayanti-in",
@@ -675,7 +2757,2015 @@
       "status": "official",
       "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
       "reviewed": "2026-10-11",
-      "note": "Fixed annual national holiday; employer schedules may differ."
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
     }
-  ]
+  ],
+  "festival_art": {
+    "new_year": {
+      "name": "New Year's Day",
+      "image": "/art/festivals/new_year.webp"
+    },
+    "pongal": {
+      "name": "Pongal",
+      "image": "/art/festivals/pongal.webp"
+    },
+    "sankranti": {
+      "name": "Makar Sankranti",
+      "image": "/art/festivals/sankranti.webp"
+    },
+    "vasant_panchami": {
+      "name": "Vasant Panchami",
+      "image": "/art/festivals/vasant_panchami.webp"
+    },
+    "thai_poosam": {
+      "name": "Thai Poosam",
+      "image": "/art/festivals/thai_poosam.webp"
+    },
+    "shivratri": {
+      "name": "Maha Shivratri",
+      "image": "/art/festivals/shivratri.webp"
+    },
+    "holi": {
+      "name": "Holi",
+      "image": "/art/festivals/holi.webp"
+    },
+    "ugadi": {
+      "name": "Ugadi / Gudi Padwa",
+      "image": "/art/festivals/ugadi.webp"
+    },
+    "eid_fitr": {
+      "name": "Eid al-Fitr",
+      "image": "/art/festivals/eid_fitr.webp"
+    },
+    "ram_navami": {
+      "name": "Ram Navami",
+      "image": "/art/festivals/ram_navami.webp"
+    },
+    "mahavir_jayanti": {
+      "name": "Mahavir Jayanti",
+      "image": "/art/festivals/mahavir_jayanti.webp"
+    },
+    "good_friday": {
+      "name": "Good Friday",
+      "image": "/art/festivals/good_friday.webp"
+    },
+    "easter": {
+      "name": "Easter",
+      "image": "/art/festivals/easter.webp"
+    },
+    "tamil_new_year": {
+      "name": "Tamil New Year / Puthandu",
+      "image": "/art/festivals/tamil_new_year.webp"
+    },
+    "vishu": {
+      "name": "Vishu",
+      "image": "/art/festivals/vishu.webp"
+    },
+    "vaisakhi": {
+      "name": "Vaisakhi",
+      "image": "/art/festivals/vaisakhi.webp"
+    },
+    "bihu": {
+      "name": "Bohag Bihu",
+      "image": "/art/festivals/bihu.webp"
+    },
+    "buddha_purnima": {
+      "name": "Buddha Purnima",
+      "image": "/art/festivals/buddha_purnima.webp"
+    },
+    "eid_adha": {
+      "name": "Eid al-Adha / Bakrid",
+      "image": "/art/festivals/eid_adha.webp"
+    },
+    "muharram": {
+      "name": "Muharram",
+      "image": "/art/festivals/muharram.webp"
+    },
+    "rath_yatra": {
+      "name": "Rath Yatra",
+      "image": "/art/festivals/rath_yatra.webp"
+    },
+    "karkadaka_vavu": {
+      "name": "Karkadaka Vavu",
+      "image": "/art/festivals/karkadaka_vavu.webp"
+    },
+    "milad": {
+      "name": "Milad-un-Nabi",
+      "image": "/art/festivals/milad.webp"
+    },
+    "onam": {
+      "name": "Onam / Thiruvonam",
+      "image": "/art/festivals/onam.webp"
+    },
+    "raksha_bandhan": {
+      "name": "Raksha Bandhan",
+      "image": "/art/festivals/raksha_bandhan.webp"
+    },
+    "janmashtami": {
+      "name": "Krishna Janmashtami",
+      "image": "/art/festivals/janmashtami.webp"
+    },
+    "ganesh_chaturthi": {
+      "name": "Ganesh Chaturthi",
+      "image": "/art/festivals/ganesh_chaturthi.webp"
+    },
+    "durga_puja": {
+      "name": "Durga Puja / Maha Ashtami",
+      "image": "/art/festivals/durga_puja.webp"
+    },
+    "ayutha_pooja": {
+      "name": "Ayutha Pooja / Mahanavami",
+      "image": "/art/festivals/ayutha_pooja.webp"
+    },
+    "dussehra": {
+      "name": "Dussehra / Vijayadashami",
+      "image": "/art/festivals/dussehra.webp"
+    },
+    "diwali": {
+      "name": "Diwali / Deepavali",
+      "image": "/art/festivals/diwali.webp"
+    },
+    "chhath": {
+      "name": "Chhath Puja",
+      "image": "/art/festivals/chhath.webp"
+    },
+    "gurpurab": {
+      "name": "Guru Nanak Jayanti",
+      "image": "/art/festivals/gurpurab.webp"
+    },
+    "christmas": {
+      "name": "Christmas",
+      "image": "/art/festivals/christmas.webp"
+    }
+  },
+  "festival_calendar": [
+    {
+      "id": "festival-2026-new_year",
+      "festival_id": "new_year",
+      "date": "2026-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-sankranti",
+      "festival_id": "sankranti",
+      "date": "2026-01-14",
+      "name": "Makar Sankranti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-pongal",
+      "festival_id": "pongal",
+      "date": "2026-01-15",
+      "name": "Pongal",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "scope": "Tamil Nadu calendar",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu calendar. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-vasant_panchami",
+      "festival_id": "vasant_panchami",
+      "date": "2026-01-23",
+      "name": "Vasant Panchami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-thai_poosam",
+      "festival_id": "thai_poosam",
+      "date": "2026-02-01",
+      "name": "Thai Poosam",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "scope": "Tamil Nadu calendar",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu calendar. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-shivratri",
+      "festival_id": "shivratri",
+      "date": "2026-02-15",
+      "name": "Maha Shivratri",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-holi",
+      "festival_id": "holi",
+      "date": "2026-03-04",
+      "name": "Holi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-ugadi",
+      "festival_id": "ugadi",
+      "date": "2026-03-19",
+      "name": "Ugadi / Gudi Padwa",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-eid_fitr",
+      "festival_id": "eid_fitr",
+      "date": "2026-03-21",
+      "name": "Eid al-Fitr",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-ram_navami",
+      "festival_id": "ram_navami",
+      "date": "2026-03-26",
+      "name": "Ram Navami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-mahavir_jayanti",
+      "festival_id": "mahavir_jayanti",
+      "date": "2026-03-31",
+      "name": "Mahavir Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-good_friday",
+      "festival_id": "good_friday",
+      "date": "2026-04-03",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-easter",
+      "festival_id": "easter",
+      "date": "2026-04-05",
+      "name": "Easter",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-tamil_new_year",
+      "festival_id": "tamil_new_year",
+      "date": "2026-04-14",
+      "name": "Tamil New Year / Puthandu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-vaisakhi",
+      "festival_id": "vaisakhi",
+      "date": "2026-04-14",
+      "name": "Vaisakhi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-vishu",
+      "festival_id": "vishu",
+      "date": "2026-04-15",
+      "name": "Vishu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "scope": "Kerala calendar",
+      "reviewed": "2026-10-11",
+      "note": "Kerala calendar. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-bihu",
+      "festival_id": "bihu",
+      "date": "2026-04-15",
+      "name": "Bohag Bihu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-buddha_purnima",
+      "festival_id": "buddha_purnima",
+      "date": "2026-05-01",
+      "name": "Buddha Purnima",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-eid_adha",
+      "festival_id": "eid_adha",
+      "date": "2026-05-27",
+      "name": "Eid al-Adha / Bakrid",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-muharram",
+      "festival_id": "muharram",
+      "date": "2026-06-26",
+      "name": "Muharram",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-rath_yatra",
+      "festival_id": "rath_yatra",
+      "date": "2026-07-16",
+      "name": "Rath Yatra",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-karkadaka_vavu",
+      "festival_id": "karkadaka_vavu",
+      "date": "2026-08-12",
+      "name": "Karkadaka Vavu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "scope": "Kerala calendar",
+      "reviewed": "2026-10-11",
+      "note": "Kerala calendar. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-milad",
+      "festival_id": "milad",
+      "date": "2026-08-26",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-onam",
+      "festival_id": "onam",
+      "date": "2026-08-26",
+      "name": "Onam / Thiruvonam",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-raksha_bandhan",
+      "festival_id": "raksha_bandhan",
+      "date": "2026-08-28",
+      "name": "Raksha Bandhan",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-janmashtami",
+      "festival_id": "janmashtami",
+      "date": "2026-09-04",
+      "name": "Krishna Janmashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-ganesh_chaturthi",
+      "festival_id": "ganesh_chaturthi",
+      "date": "2026-09-14",
+      "name": "Ganesh Chaturthi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-durga_puja",
+      "festival_id": "durga_puja",
+      "date": "2026-10-19",
+      "name": "Durga Puja / Maha Ashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-ayutha_pooja",
+      "festival_id": "ayutha_pooja",
+      "date": "2026-10-19",
+      "name": "Ayutha Pooja / Mahanavami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "scope": "Tamil Nadu calendar",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu calendar. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-dussehra",
+      "festival_id": "dussehra",
+      "date": "2026-10-20",
+      "name": "Dussehra / Vijayadashami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-diwali",
+      "festival_id": "diwali",
+      "date": "2026-11-08",
+      "name": "Diwali / Deepavali",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-chhath",
+      "festival_id": "chhath",
+      "date": "2026-11-15",
+      "name": "Chhath Puja",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-gurpurab",
+      "festival_id": "gurpurab",
+      "date": "2026-11-24",
+      "name": "Guru Nanak Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2026-christmas",
+      "festival_id": "christmas",
+      "date": "2026-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-2",
+      "provenance": {
+        "authority": "NHAI",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-new_year",
+      "festival_id": "new_year",
+      "date": "2027-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-sankranti",
+      "festival_id": "sankranti",
+      "date": "2027-01-14",
+      "name": "Makar Sankranti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-pongal",
+      "festival_id": "pongal",
+      "date": "2027-01-15",
+      "name": "Pongal",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-vasant_panchami",
+      "festival_id": "vasant_panchami",
+      "date": "2027-02-11",
+      "name": "Vasant Panchami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-shivratri",
+      "festival_id": "shivratri",
+      "date": "2027-03-06",
+      "name": "Maha Shivratri",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-eid_fitr",
+      "festival_id": "eid_fitr",
+      "date": "2027-03-10",
+      "name": "Eid al-Fitr",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-holi",
+      "festival_id": "holi",
+      "date": "2027-03-23",
+      "name": "Holi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-good_friday",
+      "festival_id": "good_friday",
+      "date": "2027-03-26",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-easter",
+      "festival_id": "easter",
+      "date": "2027-03-28",
+      "name": "Easter",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ugadi",
+      "festival_id": "ugadi",
+      "date": "2027-04-07",
+      "name": "Ugadi / Gudi Padwa",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-tamil_new_year",
+      "festival_id": "tamil_new_year",
+      "date": "2027-04-14",
+      "name": "Tamil New Year / Puthandu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-vaisakhi",
+      "festival_id": "vaisakhi",
+      "date": "2027-04-14",
+      "name": "Vaisakhi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ram_navami",
+      "festival_id": "ram_navami",
+      "date": "2027-04-15",
+      "name": "Ram Navami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-bihu",
+      "festival_id": "bihu",
+      "date": "2027-04-15",
+      "name": "Bohag Bihu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-mahavir_jayanti",
+      "festival_id": "mahavir_jayanti",
+      "date": "2027-04-19",
+      "name": "Mahavir Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-eid_adha",
+      "festival_id": "eid_adha",
+      "date": "2027-05-17",
+      "name": "Eid al-Adha / Bakrid",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-buddha_purnima",
+      "festival_id": "buddha_purnima",
+      "date": "2027-05-20",
+      "name": "Buddha Purnima",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-muharram",
+      "festival_id": "muharram",
+      "date": "2027-06-16",
+      "name": "Muharram",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-rath_yatra",
+      "festival_id": "rath_yatra",
+      "date": "2027-07-05",
+      "name": "Rath Yatra",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-milad",
+      "festival_id": "milad",
+      "date": "2027-08-15",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-raksha_bandhan",
+      "festival_id": "raksha_bandhan",
+      "date": "2027-08-17",
+      "name": "Raksha Bandhan",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-janmashtami",
+      "festival_id": "janmashtami",
+      "date": "2027-08-25",
+      "name": "Krishna Janmashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ganesh_chaturthi",
+      "festival_id": "ganesh_chaturthi",
+      "date": "2027-09-04",
+      "name": "Ganesh Chaturthi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-onam",
+      "festival_id": "onam",
+      "date": "2027-09-12",
+      "name": "Onam / Thiruvonam",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-durga_puja",
+      "festival_id": "durga_puja",
+      "date": "2027-10-07",
+      "name": "Durga Puja / Maha Ashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ayutha_pooja",
+      "festival_id": "ayutha_pooja",
+      "date": "2027-10-08",
+      "name": "Ayutha Pooja / Mahanavami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-dussehra",
+      "festival_id": "dussehra",
+      "date": "2027-10-09",
+      "name": "Dussehra / Vijayadashami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-diwali",
+      "festival_id": "diwali",
+      "date": "2027-10-29",
+      "name": "Diwali / Deepavali",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-chhath",
+      "festival_id": "chhath",
+      "date": "2027-11-04",
+      "name": "Chhath Puja",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-gurpurab",
+      "festival_id": "gurpurab",
+      "date": "2027-11-14",
+      "name": "Guru Nanak Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-christmas",
+      "festival_id": "christmas",
+      "date": "2027-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    }
+  ],
+  "festival_coverage": "34 main and regional Indian festival themes. Reviewed yearly observance dates for 2026 and 2027; these are not general state public-holiday declarations. Local state records take precedence, including Tamil Nadu Pongal/Bakrid and Kerala Vishu/Vijayadashami. Thai Poosam, Vishu and Karkadaka Vavu have only reviewed 2026 dates. Future-year dates are not generated from recurrence rules; absence means not yet reviewed. Islamic dates may be revised after local moon sighting.",
+  "schedules": [
+    {
+      "year": 2026,
+      "jurisdiction": "Tamil Nadu",
+      "category": "public",
+      "sufficient": true,
+      "scope": "Reviewed complete annual state-government schedule plus statewide polling notice; later/local amendments may be missing.",
+      "source_ids": [
+        "baseline-5",
+        "baseline-6"
+      ]
+    },
+    {
+      "year": 2024,
+      "jurisdiction": "Tamil Nadu",
+      "category": "public",
+      "sufficient": true,
+      "scope": "Complete published annual state-government schedule only; later/local amendments require separate review.",
+      "source_ids": [
+        "tn-2024-annual"
+      ]
+    },
+    {
+      "year": 2025,
+      "jurisdiction": "Tamil Nadu",
+      "category": "public",
+      "sufficient": true,
+      "scope": "Complete published annual state-government schedule only; later/local amendments require separate review.",
+      "source_ids": [
+        "tn-2025-annual"
+      ]
+    }
+  ],
+  "changes": [],
+  "publication_version": "9e8798e5586db91f385c"
 }

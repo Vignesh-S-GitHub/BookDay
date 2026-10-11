@@ -60,10 +60,13 @@ export function googleCalendarUrl(plan) {
     dates: `${event.start}/${event.end}`,
     stz: "Asia/Kolkata",
     etz: "Asia/Kolkata",
+    ctz: "Asia/Kolkata",
     details: event.description,
     location: event.location,
   });
-  return "https://calendar.google.com/calendar/r/eventedit?" + params;
+  // www.google.com/render avoids mobile Calendar's /r/eventedit app-link route,
+  // which can discard template fields and show only the current month.
+  return "https://www.google.com/calendar/render?" + params;
 }
 export function escapeText(value) {
   return String(value)

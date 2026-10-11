@@ -1,7 +1,7 @@
 """Source-aware calendar helpers; holidays never imply employer leave."""
 
 from datetime import date, timedelta
-from typing import TypedDict
+from typing import NotRequired, TypedDict
 
 
 class Holiday(TypedDict):
@@ -11,6 +11,7 @@ class Holiday(TypedDict):
     type: str
     status: str
     source: str
+    district: NotRequired[str | None]
 
 
 def applicable(records: list[Holiday], state: str) -> list[Holiday]:
@@ -27,6 +28,7 @@ def long_weekends(records: list[Holiday], state: str) -> list[list[date]]:
         for row in applicable(records, state)
         if row["status"] == "official"
         and row["type"] in {"national_public", "state_public"}
+        and not row.get("district")
     }
     blocks: set[tuple[date, ...]] = set()
     for day in days:
@@ -53,7 +55,9 @@ def demand_signal(
         row
         for row in applicable(records, state)
         if row["status"] == "official"
-        and row["type"] != "bank_holiday"
+        and row["type"]
+        in {"national_public", "state_public", "religious_festival", "local_event"}
+        and not row.get("district")
         and abs((date.fromisoformat(row["date"]) - day).days) <= 1
     ]
     reasons = [row["name"] for row in nearby]

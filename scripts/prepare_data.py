@@ -3,6 +3,8 @@
 import json
 from pathlib import Path
 
+from festival_data import ALIASES, festival_catalog, festival_observances
+
 ROOT = Path(__file__).resolve().parents[1]
 categories = [
     ("trains", "Trains", "Rail journeys, general advance reservation and Tatkal"),
@@ -238,6 +240,8 @@ holidays.append(
 )
 # Keep separate jurisdiction-specific IDs for holidays with the same name/date.
 for item in holidays:
+    if item["festival"]:
+        item["festival_id"] = ALIASES[str(item["name"])]
     item["id"] = (
         str(item["id"])
         + "-"
@@ -250,9 +254,12 @@ for filename, value in [
     (
         "holidays.json",
         {
-            "version": 1,
+            "version": 2,
             "coverage": "Tamil Nadu 2026 annual public-holiday schedule (Gazette 721 / G.O. 708) plus the statewide 23 April polling holiday (Gazette 208 / G.O. 239), annual national holidays for 2026–2027, and selected Kerala 2026 records. Other state/UT schedules, later local orders, constituency-only election closures, school and district holidays are not complete. No 2027 state schedule is assumed. Absence of a record does not mean a working day.",
             "records": sorted(holidays, key=lambda item: item["date"]),
+            "festival_art": festival_catalog(),
+            "festival_calendar": festival_observances(),
+            "festival_coverage": "34 main and regional Indian festival themes. Reviewed yearly observance dates for 2026 and 2027; these are not general state public-holiday declarations. Local state records take precedence, including Tamil Nadu Pongal/Bakrid and Kerala Vishu/Vijayadashami. Thai Poosam, Vishu and Karkadaka Vavu have only reviewed 2026 dates. Future-year dates are not generated from recurrence rules; absence means not yet reviewed. Islamic dates may be revised after local moon sighting.",
         },
     ),
 ]:
@@ -261,3 +268,13 @@ for filename, value in [
         encoding="utf-8",
         newline="\n",
     )
+
+# Reviewed data is authoritative during migration. Legacy literals above remain
+# a recovery fixture only; ingestion and source changes never run in this script.
+if (ROOT / "data/holidays/approved.json").exists():
+    import sys
+
+    sys.path.insert(0, str(ROOT))
+    from scripts.holiday_pipeline.publish import publish
+
+    publish()

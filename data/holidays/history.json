@@ -1,0 +1,3135 @@
+{
+  "decisions": [
+    {
+      "source_id": "tn-2025-annual",
+      "authority": "Tamil Nadu Public Department",
+      "issued": "2024-11-22",
+      "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+      "retrieved": "2026-10-11T11:11:42.615939+00:00",
+      "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+      "reviewer": "BookDay source table review",
+      "review_decision": "approved",
+      "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+      "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+      "diff": {
+        "added": [
+          {
+            "id": "tn-2025-annual-01",
+            "date": "2025-01-01",
+            "name": "New Year's Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "new-year-s-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "new_year"
+          },
+          {
+            "id": "tn-2025-annual-02",
+            "date": "2025-01-14",
+            "name": "Pongal",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "pongal",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "pongal"
+          },
+          {
+            "id": "tn-2025-annual-03",
+            "date": "2025-01-15",
+            "name": "Thiruvalluvar Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "thiruvalluvar-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-04",
+            "date": "2025-01-16",
+            "name": "Uzhavar Thirunal",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "uzhavar-thirunal",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "pongal"
+          },
+          {
+            "id": "tn-2025-annual-05",
+            "date": "2025-01-26",
+            "name": "Republic Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "republic-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-06",
+            "date": "2025-02-11",
+            "name": "Thai Poosam",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "thai-poosam",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "thai_poosam"
+          },
+          {
+            "id": "tn-2025-annual-07",
+            "date": "2025-03-30",
+            "name": "Telugu New Year's Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "telugu-new-year-s-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "ugadi"
+          },
+          {
+            "id": "tn-2025-annual-08",
+            "date": "2025-03-31",
+            "name": "Ramzan (Idu'l Fitr)",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "ramzan-idu-l-fitr",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "eid_fitr"
+          },
+          {
+            "id": "tn-2025-annual-09",
+            "date": "2025-04-01",
+            "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "bank_holiday",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "bank",
+            "note": "Commercial/cooperative banks only.",
+            "source_id": "tn-2025-annual",
+            "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-10",
+            "date": "2025-04-10",
+            "name": "Mahaveer Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "mahaveer-jayanthi",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "mahavir_jayanti"
+          },
+          {
+            "id": "tn-2025-annual-11",
+            "date": "2025-04-14",
+            "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "tamil_new_year"
+          },
+          {
+            "id": "tn-2025-annual-12",
+            "date": "2025-04-18",
+            "name": "Good Friday",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "good-friday",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "good_friday"
+          },
+          {
+            "id": "tn-2025-annual-13",
+            "date": "2025-05-01",
+            "name": "May Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "may-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-14",
+            "date": "2025-06-07",
+            "name": "Bakrid (Idul Azha)",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "bakrid-idul-azha",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "eid_adha"
+          },
+          {
+            "id": "tn-2025-annual-15",
+            "date": "2025-07-06",
+            "name": "Muharram",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "muharram",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "muharram"
+          },
+          {
+            "id": "tn-2025-annual-16",
+            "date": "2025-08-15",
+            "name": "Independence Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "independence-day",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-17",
+            "date": "2025-08-16",
+            "name": "Krishna Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "krishna-jayanthi",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "janmashtami"
+          },
+          {
+            "id": "tn-2025-annual-18",
+            "date": "2025-08-27",
+            "name": "Vinayakar Chathurthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "vinayakar-chathurthi",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "ganesh_chaturthi"
+          },
+          {
+            "id": "tn-2025-annual-19",
+            "date": "2025-09-05",
+            "name": "Milad-un-Nabi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "milad-un-nabi",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "milad"
+          },
+          {
+            "id": "tn-2025-annual-20",
+            "date": "2025-10-01",
+            "name": "Ayutha Pooja",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "ayutha-pooja",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "ayutha_pooja"
+          },
+          {
+            "id": "tn-2025-annual-21",
+            "date": "2025-10-02",
+            "name": "Vijaya Dasami",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "vijaya-dasami",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "dussehra"
+          },
+          {
+            "id": "tn-2025-annual-22",
+            "date": "2025-10-02",
+            "name": "Gandhi Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "gandhi-jayanthi",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            }
+          },
+          {
+            "id": "tn-2025-annual-23",
+            "date": "2025-10-20",
+            "name": "Deepavali",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "deepavali",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "diwali"
+          },
+          {
+            "id": "tn-2025-annual-24",
+            "date": "2025-12-25",
+            "name": "Christmas",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2025-annual",
+            "event_key": "christmas",
+            "provenance": {
+              "source_id": "tn-2025-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2024-11-22",
+              "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+              "retrieved": "2026-10-11T11:11:42.615939+00:00",
+              "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+              "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+            },
+            "festival_id": "christmas"
+          }
+        ],
+        "removed": [],
+        "changed": []
+      },
+      "publication_version": "9369a272b45c31ea867c"
+    },
+    {
+      "source_id": "tn-2024-annual",
+      "authority": "Tamil Nadu Public Department",
+      "issued": "2023-11-09",
+      "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+      "retrieved": "2026-10-11T11:17:33.610732+00:00",
+      "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+      "reviewer": "BookDay source table review",
+      "review_decision": "approved",
+      "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+      "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+      "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4",
+      "diff": {
+        "added": [
+          {
+            "id": "tn-2024-annual-01",
+            "date": "2024-01-01",
+            "name": "New Year's Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "new-year-s-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "new_year"
+          },
+          {
+            "id": "tn-2024-annual-02",
+            "date": "2024-01-15",
+            "name": "Pongal",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "pongal",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "pongal"
+          },
+          {
+            "id": "tn-2024-annual-03",
+            "date": "2024-01-16",
+            "name": "Thiruvalluvar Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "thiruvalluvar-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-04",
+            "date": "2024-01-17",
+            "name": "Uzhavar Thirunal",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "uzhavar-thirunal",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "pongal"
+          },
+          {
+            "id": "tn-2024-annual-05",
+            "date": "2024-01-25",
+            "name": "Thai Poosam",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "thai-poosam",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "thai_poosam"
+          },
+          {
+            "id": "tn-2024-annual-06",
+            "date": "2024-01-26",
+            "name": "Republic Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "republic-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-07",
+            "date": "2024-03-29",
+            "name": "Good Friday",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "good-friday",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "good_friday"
+          },
+          {
+            "id": "tn-2024-annual-08",
+            "date": "2024-04-01",
+            "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "bank_holiday",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "bank",
+            "note": "Commercial/cooperative banks only.",
+            "source_id": "tn-2024-annual",
+            "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-09",
+            "date": "2024-04-09",
+            "name": "Telugu New Year's Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "telugu-new-year-s-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "ugadi"
+          },
+          {
+            "id": "tn-2024-annual-10",
+            "date": "2024-04-11",
+            "name": "Ramzan (Idu'l Fitr)",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "ramzan-idu-l-fitr",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "eid_fitr"
+          },
+          {
+            "id": "tn-2024-annual-11",
+            "date": "2024-04-14",
+            "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "tamil_new_year"
+          },
+          {
+            "id": "tn-2024-annual-12",
+            "date": "2024-04-21",
+            "name": "Mahaveer Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "mahaveer-jayanthi",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "mahavir_jayanti"
+          },
+          {
+            "id": "tn-2024-annual-13",
+            "date": "2024-05-01",
+            "name": "May Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "may-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-14",
+            "date": "2024-06-17",
+            "name": "Bakrid (Idul Azha)",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "bakrid-idul-azha",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "eid_adha"
+          },
+          {
+            "id": "tn-2024-annual-15",
+            "date": "2024-07-17",
+            "name": "Muharram",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "muharram",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "muharram"
+          },
+          {
+            "id": "tn-2024-annual-16",
+            "date": "2024-08-15",
+            "name": "Independence Day",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "independence-day",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-17",
+            "date": "2024-08-26",
+            "name": "Krishna Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "krishna-jayanthi",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "janmashtami"
+          },
+          {
+            "id": "tn-2024-annual-18",
+            "date": "2024-09-07",
+            "name": "Vinayakar Chathurthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "vinayakar-chathurthi",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "ganesh_chaturthi"
+          },
+          {
+            "id": "tn-2024-annual-19",
+            "date": "2024-09-16",
+            "name": "Milad-un-Nabi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "milad-un-nabi",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "milad"
+          },
+          {
+            "id": "tn-2024-annual-20",
+            "date": "2024-10-02",
+            "name": "Gandhi Jayanthi",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": false,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "gandhi-jayanthi",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            }
+          },
+          {
+            "id": "tn-2024-annual-21",
+            "date": "2024-10-11",
+            "name": "Ayutha Pooja",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "ayutha-pooja",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "ayutha_pooja"
+          },
+          {
+            "id": "tn-2024-annual-22",
+            "date": "2024-10-12",
+            "name": "Vijaya Dasami",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "vijaya-dasami",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "dussehra"
+          },
+          {
+            "id": "tn-2024-annual-23",
+            "date": "2024-10-31",
+            "name": "Deepavali",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "deepavali",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "diwali"
+          },
+          {
+            "id": "tn-2024-annual-24",
+            "date": "2024-12-25",
+            "name": "Christmas",
+            "jurisdictions": [
+              "Tamil Nadu"
+            ],
+            "type": "state_public",
+            "status": "official",
+            "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+            "festival": true,
+            "reviewed": "2026-10-11",
+            "district": null,
+            "scope": "state_government",
+            "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+            "source_id": "tn-2024-annual",
+            "event_key": "christmas",
+            "provenance": {
+              "source_id": "tn-2024-annual",
+              "authority": "Tamil Nadu Public Department",
+              "issued": "2023-11-09",
+              "document_sha256": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+              "retrieved": "2026-10-11T11:17:33.610732+00:00",
+              "reviewed_at": "2026-10-11T11:20:55.240696+00:00",
+              "reviewer": "BookDay source table review",
+              "review_decision": "approved",
+              "reason": "Reviewed all 24 English rows in original Gazette 385, pages 1–2, including wrapped bank and Ambedkar cells, weekday consistency and published 2024 dates.",
+              "candidate_hash": "d6ab84dd97b70ec3f7fbf2583f65a27d6348cef4f2711b81fc8b232cea77ec20",
+              "parse_hash": "7ad9cfcdf5fa280ae6c097c16dd540fea21a28aceaae2153d7fe31ab2b9d23a4"
+            },
+            "festival_id": "christmas"
+          }
+        ],
+        "removed": [],
+        "changed": []
+      },
+      "publication_version": "c60f4efb2be67a54429a"
+    },
+    {
+      "source_id": "tn-2025-annual",
+      "authority": "Tamil Nadu Public Department",
+      "issued": "2024-11-22",
+      "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+      "retrieved": "2026-10-11T11:11:42.615939+00:00",
+      "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+      "reviewer": "BookDay source table review",
+      "review_decision": "approved",
+      "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+      "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+      "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867",
+      "diff": {
+        "added": [],
+        "removed": [],
+        "changed": [
+          {
+            "id": "tn-2025-annual-01",
+            "old": {
+              "id": "tn-2025-annual-01",
+              "date": "2025-01-01",
+              "name": "New Year's Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "new-year-s-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "new_year"
+            },
+            "new": {
+              "id": "tn-2025-annual-01",
+              "date": "2025-01-01",
+              "name": "New Year's Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "new-year-s-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "new_year"
+            }
+          },
+          {
+            "id": "tn-2025-annual-02",
+            "old": {
+              "id": "tn-2025-annual-02",
+              "date": "2025-01-14",
+              "name": "Pongal",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "pongal",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "pongal"
+            },
+            "new": {
+              "id": "tn-2025-annual-02",
+              "date": "2025-01-14",
+              "name": "Pongal",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "pongal",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "pongal"
+            }
+          },
+          {
+            "id": "tn-2025-annual-03",
+            "old": {
+              "id": "tn-2025-annual-03",
+              "date": "2025-01-15",
+              "name": "Thiruvalluvar Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "thiruvalluvar-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-03",
+              "date": "2025-01-15",
+              "name": "Thiruvalluvar Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "thiruvalluvar-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-04",
+            "old": {
+              "id": "tn-2025-annual-04",
+              "date": "2025-01-16",
+              "name": "Uzhavar Thirunal",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "uzhavar-thirunal",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "pongal"
+            },
+            "new": {
+              "id": "tn-2025-annual-04",
+              "date": "2025-01-16",
+              "name": "Uzhavar Thirunal",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "uzhavar-thirunal",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "pongal"
+            }
+          },
+          {
+            "id": "tn-2025-annual-05",
+            "old": {
+              "id": "tn-2025-annual-05",
+              "date": "2025-01-26",
+              "name": "Republic Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "republic-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-05",
+              "date": "2025-01-26",
+              "name": "Republic Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "republic-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-06",
+            "old": {
+              "id": "tn-2025-annual-06",
+              "date": "2025-02-11",
+              "name": "Thai Poosam",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "thai-poosam",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "thai_poosam"
+            },
+            "new": {
+              "id": "tn-2025-annual-06",
+              "date": "2025-02-11",
+              "name": "Thai Poosam",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "thai-poosam",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "thai_poosam"
+            }
+          },
+          {
+            "id": "tn-2025-annual-07",
+            "old": {
+              "id": "tn-2025-annual-07",
+              "date": "2025-03-30",
+              "name": "Telugu New Year's Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "telugu-new-year-s-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "ugadi"
+            },
+            "new": {
+              "id": "tn-2025-annual-07",
+              "date": "2025-03-30",
+              "name": "Telugu New Year's Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "telugu-new-year-s-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "ugadi"
+            }
+          },
+          {
+            "id": "tn-2025-annual-08",
+            "old": {
+              "id": "tn-2025-annual-08",
+              "date": "2025-03-31",
+              "name": "Ramzan (Idu'l Fitr)",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "ramzan-idu-l-fitr",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "eid_fitr"
+            },
+            "new": {
+              "id": "tn-2025-annual-08",
+              "date": "2025-03-31",
+              "name": "Ramzan (Idu'l Fitr)",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "ramzan-idu-l-fitr",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "eid_fitr"
+            }
+          },
+          {
+            "id": "tn-2025-annual-09",
+            "old": {
+              "id": "tn-2025-annual-09",
+              "date": "2025-04-01",
+              "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "bank_holiday",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "bank",
+              "note": "Commercial/cooperative banks only.",
+              "source_id": "tn-2025-annual",
+              "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-09",
+              "date": "2025-04-01",
+              "name": "Annual closing of Accounts for Commercial Banks & Co-operative Banks",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "bank_holiday",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "bank",
+              "note": "Commercial/cooperative banks only.",
+              "source_id": "tn-2025-annual",
+              "event_key": "annual-closing-of-accounts-for-commercial-banks-co-operative-banks",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-10",
+            "old": {
+              "id": "tn-2025-annual-10",
+              "date": "2025-04-10",
+              "name": "Mahaveer Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "mahaveer-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "mahavir_jayanti"
+            },
+            "new": {
+              "id": "tn-2025-annual-10",
+              "date": "2025-04-10",
+              "name": "Mahaveer Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "mahaveer-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "mahavir_jayanti"
+            }
+          },
+          {
+            "id": "tn-2025-annual-11",
+            "old": {
+              "id": "tn-2025-annual-11",
+              "date": "2025-04-14",
+              "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "tamil_new_year"
+            },
+            "new": {
+              "id": "tn-2025-annual-11",
+              "date": "2025-04-14",
+              "name": "Tamil New Year's Day / Dr. B.R.Ambedkar's Birthday",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "tamil-new-year-s-day-dr-b-r-ambedkar-s-birthday",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "tamil_new_year"
+            }
+          },
+          {
+            "id": "tn-2025-annual-12",
+            "old": {
+              "id": "tn-2025-annual-12",
+              "date": "2025-04-18",
+              "name": "Good Friday",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "good-friday",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "good_friday"
+            },
+            "new": {
+              "id": "tn-2025-annual-12",
+              "date": "2025-04-18",
+              "name": "Good Friday",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "good-friday",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "good_friday"
+            }
+          },
+          {
+            "id": "tn-2025-annual-13",
+            "old": {
+              "id": "tn-2025-annual-13",
+              "date": "2025-05-01",
+              "name": "May Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "may-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-13",
+              "date": "2025-05-01",
+              "name": "May Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "may-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-14",
+            "old": {
+              "id": "tn-2025-annual-14",
+              "date": "2025-06-07",
+              "name": "Bakrid (Idul Azha)",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "bakrid-idul-azha",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "eid_adha"
+            },
+            "new": {
+              "id": "tn-2025-annual-14",
+              "date": "2025-06-07",
+              "name": "Bakrid (Idul Azha)",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "bakrid-idul-azha",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "eid_adha"
+            }
+          },
+          {
+            "id": "tn-2025-annual-15",
+            "old": {
+              "id": "tn-2025-annual-15",
+              "date": "2025-07-06",
+              "name": "Muharram",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "muharram",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "muharram"
+            },
+            "new": {
+              "id": "tn-2025-annual-15",
+              "date": "2025-07-06",
+              "name": "Muharram",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "muharram",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "muharram"
+            }
+          },
+          {
+            "id": "tn-2025-annual-16",
+            "old": {
+              "id": "tn-2025-annual-16",
+              "date": "2025-08-15",
+              "name": "Independence Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "independence-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-16",
+              "date": "2025-08-15",
+              "name": "Independence Day",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "independence-day",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-17",
+            "old": {
+              "id": "tn-2025-annual-17",
+              "date": "2025-08-16",
+              "name": "Krishna Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "krishna-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "janmashtami"
+            },
+            "new": {
+              "id": "tn-2025-annual-17",
+              "date": "2025-08-16",
+              "name": "Krishna Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "krishna-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "janmashtami"
+            }
+          },
+          {
+            "id": "tn-2025-annual-18",
+            "old": {
+              "id": "tn-2025-annual-18",
+              "date": "2025-08-27",
+              "name": "Vinayakar Chathurthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "vinayakar-chathurthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "ganesh_chaturthi"
+            },
+            "new": {
+              "id": "tn-2025-annual-18",
+              "date": "2025-08-27",
+              "name": "Vinayakar Chathurthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "vinayakar-chathurthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "ganesh_chaturthi"
+            }
+          },
+          {
+            "id": "tn-2025-annual-19",
+            "old": {
+              "id": "tn-2025-annual-19",
+              "date": "2025-09-05",
+              "name": "Milad-un-Nabi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "milad-un-nabi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "milad"
+            },
+            "new": {
+              "id": "tn-2025-annual-19",
+              "date": "2025-09-05",
+              "name": "Milad-un-Nabi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "milad-un-nabi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "milad"
+            }
+          },
+          {
+            "id": "tn-2025-annual-20",
+            "old": {
+              "id": "tn-2025-annual-20",
+              "date": "2025-10-01",
+              "name": "Ayutha Pooja",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "ayutha-pooja",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "ayutha_pooja"
+            },
+            "new": {
+              "id": "tn-2025-annual-20",
+              "date": "2025-10-01",
+              "name": "Ayutha Pooja",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "ayutha-pooja",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "ayutha_pooja"
+            }
+          },
+          {
+            "id": "tn-2025-annual-21",
+            "old": {
+              "id": "tn-2025-annual-21",
+              "date": "2025-10-02",
+              "name": "Vijaya Dasami",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "vijaya-dasami",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "dussehra"
+            },
+            "new": {
+              "id": "tn-2025-annual-21",
+              "date": "2025-10-02",
+              "name": "Vijaya Dasami",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "vijaya-dasami",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "dussehra"
+            }
+          },
+          {
+            "id": "tn-2025-annual-22",
+            "old": {
+              "id": "tn-2025-annual-22",
+              "date": "2025-10-02",
+              "name": "Gandhi Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "gandhi-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              }
+            },
+            "new": {
+              "id": "tn-2025-annual-22",
+              "date": "2025-10-02",
+              "name": "Gandhi Jayanthi",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": false,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "gandhi-jayanthi",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              }
+            }
+          },
+          {
+            "id": "tn-2025-annual-23",
+            "old": {
+              "id": "tn-2025-annual-23",
+              "date": "2025-10-20",
+              "name": "Deepavali",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "deepavali",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "diwali"
+            },
+            "new": {
+              "id": "tn-2025-annual-23",
+              "date": "2025-10-20",
+              "name": "Deepavali",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "deepavali",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "diwali"
+            }
+          },
+          {
+            "id": "tn-2025-annual-24",
+            "old": {
+              "id": "tn-2025-annual-24",
+              "date": "2025-12-25",
+              "name": "Christmas",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "christmas",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:17:26.807580+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Checked all 24 English Gazette rows against pages 1–2; bank closing remains bank only and Sunday dates are unchanged.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340"
+              },
+              "festival_id": "christmas"
+            },
+            "new": {
+              "id": "tn-2025-annual-24",
+              "date": "2025-12-25",
+              "name": "Christmas",
+              "jurisdictions": [
+                "Tamil Nadu"
+              ],
+              "type": "state_public",
+              "status": "official",
+              "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+              "festival": true,
+              "reviewed": "2026-10-11",
+              "district": null,
+              "scope": "state_government",
+              "note": "Tamil Nadu annual government-office schedule; employer schedules and later amendments may differ.",
+              "source_id": "tn-2025-annual",
+              "event_key": "christmas",
+              "provenance": {
+                "source_id": "tn-2025-annual",
+                "authority": "Tamil Nadu Public Department",
+                "issued": "2024-11-22",
+                "document_sha256": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+                "retrieved": "2026-10-11T11:11:42.615939+00:00",
+                "reviewed_at": "2026-10-11T11:33:33.494501+00:00",
+                "reviewer": "BookDay source table review",
+                "review_decision": "approved",
+                "reason": "Same reviewed 24-row 2025 Gazette table; retain extraction hash and conditional-fetch metadata for idempotent maintenance.",
+                "candidate_hash": "b51115cfd8b85bb2cee3a8dc9638dd716d81e332f324ead70db4899140de5340",
+                "parse_hash": "fcbe935b0d2184970c8ddfe7f29c469c63c6018af688ea4a3ad1aa10b9900867"
+              },
+              "festival_id": "christmas"
+            }
+          }
+        ]
+      },
+      "publication_version": "9e8798e5586db91f385c"
+    }
+  ]
+}

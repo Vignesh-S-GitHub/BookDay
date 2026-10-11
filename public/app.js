@@ -6,6 +6,9 @@ import {
 import { bookingFields } from "./booking-fields.js";
 import { enhanceControls } from "./controls.js";
 import { destinations } from "./destinations.js";
+import { calendarRecords, festivalImage, yearFestivals } from "./festivals.js";
+import { HolidayLoader } from "./holiday-loader.js";
+import { preserveImages, restoreImages } from "./image-cache.js";
 
 const $ = (selector) => document.querySelector(selector);
 const esc = (value) =>
@@ -207,8 +210,14 @@ const carouselSlides = [
 ];
 let carouselTimer,
   carouselPaused = false;
+let carouselIndex = null,
+  carouselState = null;
 function homeCarousel() {
-  const first = Math.max(0, carouselSlides.indexOf(settings.state));
+  if (carouselState !== settings.state) {
+    carouselState = settings.state;
+    carouselIndex = Math.max(0, carouselSlides.indexOf(settings.state));
+  }
+  const first = carouselIndex;
   return `<section class="bd-hero hero-carousel" aria-roledescription="carousel" aria-label="Beautiful places in India" data-slide="${first}">
     ${carouselSlides.map((state, i) => `<img class="carousel-image ${i === first ? "is-active" : ""}" src="/art/banners/${destinations[state].image}.webp" alt="Scenic illustration: ${esc(state)}" aria-hidden="${i !== first}" ${i === first ? 'fetchpriority="high"' : 'loading="lazy"'}>`).join("")}
     <div class="bd-hero-content"><h1>Plan Today,<br><span>Book Smarter</span></h1></div>
@@ -225,6 +234,7 @@ function showSlide(index, announce = false) {
   if (!carousel) return;
   const current = (index + carouselSlides.length) % carouselSlides.length;
   carousel.dataset.slide = current;
+  carouselIndex = current;
   carousel.querySelectorAll(".carousel-image").forEach((image, i) => {
     image.classList.toggle("is-active", i === current);
     image.setAttribute("aria-hidden", String(i !== current));
@@ -242,7 +252,7 @@ function startCarousel() {
   const carousel = $(".hero-carousel");
   if (!carousel) return;
   const motion = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  carouselPaused = motion;
+  carouselPaused = carouselPaused || motion;
   const pause = carousel.querySelector(".carousel-pause");
   function syncPause() {
     pause.textContent = carouselPaused ? "Play" : "Pause";
@@ -308,14 +318,13 @@ function searchBox() {
   return `<form class="search" id="search-form">${icon("search")}<input type="search" id="search-input" aria-label="Search categories and services" placeholder="Search trains, flights, hotels…" value="${esc(query)}"><button class="bd-primary" aria-label="Search">${icon("search")}</button></form>`;
 }
 function recordsFor(state = settings.state) {
-  return holidays.records.filter(
-    (h) => h.jurisdictions.includes("IN") || h.jurisdictions.includes(state),
-  );
+  return calendarRecords(holidays, state);
 }
 function publicRecords(state) {
   return recordsFor(state).filter(
     (h) =>
       h.status === "official" &&
+      !h.district &&
       ["national_public", "state_public"].includes(h.type),
   );
 }
@@ -342,7 +351,13 @@ function signal(day, state = settings.state) {
   const rows = recordsFor(state).filter(
       (h) =>
         h.status === "official" &&
-        h.type !== "bank_holiday" &&
+        !h.district &&
+        [
+          "national_public",
+          "state_public",
+          "religious_festival",
+          "local_event",
+        ].includes(h.type) &&
         Math.abs((dateObj(h.date) - dateObj(day)) / 86400000) <= 1,
     ),
     weekend = [0, 6].includes(dateObj(day).getUTCDay());
@@ -381,13 +396,66 @@ function countdown(plan) {
   return `${Math.floor(seconds / 86400)}d ${Math.floor((seconds % 86400) / 3600)}h ${Math.floor((seconds % 3600) / 60)}m ${seconds % 60}s until opening`;
 }
 function coverage() {
-  return `<p class="hint">${esc(holidays.coverage)}</p>`;
+  const state = location.hash.includes("insights")
+    ? $('#insights-form select[name="state"]')?.value || settings.state
+    : location.hash.includes("calendar")
+      ? overlay || settings.state
+      : settings.state;
+  const year = location.hash.includes("insights")
+    ? Number(
+        $('#insights-form input[name="date"]')?.value.slice(0, 4) ||
+          today().slice(0, 4),
+      )
+    : location.hash.includes("calendar")
+      ? Number(month.slice(0, 4))
+      : Number(today().slice(0, 4));
+  const rows = (holidays.coverage_rows || []).filter(
+    (row) => row.year === year && row.jurisdiction === state,
+  );
+  return `<p class="hint holiday-load-status" role="status">${holidayLoading ? "Loading reviewed annual dates…" : holidays.unavailable?.length ? "Some annual data is unavailable. Previously cached dates are used when available." : ""}</p><p class="hint">${esc(holidays.coverage)}</p>${rows.map((row) => `<p class="hint">${esc(state)} ${year} · ${esc(row.category)}: ${esc(row.status.replaceAll("_", " "))} (${row.count} records). ${esc(row.scope)}</p>`).join("")}<p class="hint">${esc(holidays.festival_coverage)}</p>`;
+}
+function amendmentNotices(state, year) {
+  return (holidays.changes || [])
+    .filter(
+      (change) =>
+        (change.jurisdictions.includes("IN") ||
+          change.jurisdictions.includes(state)) &&
+        [change.old_date, change.new_date].some((day) =>
+          day.startsWith(String(year)),
+        ),
+    )
+    .map((change) => {
+      const relevant = plans.filter(
+        (plan) =>
+          [plan.event_date, plan.result.opening_date].includes(
+            change.old_date,
+          ) &&
+          (!plan.travel_state || plan.travel_state === state),
+      );
+      return `<article class="holiday-amendment"><strong>${esc(change.name)} date revised</strong><p>${shortDate(change.old_date)} → ${shortDate(change.new_date)}. ${esc(change.reason)}</p><a href="${esc(change.source)}" target="_blank" rel="noopener">Reviewed official notice ↗</a>${relevant.length ? `<p>Your saved plan may be affected. External calendar exports are unchanged. Review your plan before creating a replacement reminder.</p>${relevant.map((plan) => `<a class="text-button" href="#/detail/${esc(plan.id)}">Review ${esc(plan.title)} and export a new reminder</a>`).join("")}` : ""}</article>`;
+    })
+    .join("");
+}
+function holidayImage(row, state = settings.state) {
+  return festivalImage(
+    holidays,
+    row,
+    `/art/banners/${destinations[state].image}.webp`,
+  );
+}
+function festivalGuide(state, year) {
+  if (!settings.layers.festivals) return "";
+  const rows = yearFestivals(holidays, state, year);
+  const missing = Object.keys(holidays.festival_art || {}).filter(
+    (id) => !rows.some((row) => row.festival_id === id),
+  );
+  return `<section class="card festival-guide"><div class="festival-guide-heading"><div><h2>Festival guide · ${year}</h2><p>Main &amp; regional Indian festivals</p></div>${icon("festivals")}</div><p class="hint">Published observance dates. Local public holidays are labelled separately.</p>${rows.length ? `<div class="festival-guide-grid">${rows.map((row) => `<button class="festival-guide-item" data-festival-date="${row.date}" aria-label="${esc(row.name)} · ${formatDate(row.date)}"><img src="${holidayImage(row, state)}" alt="" loading="lazy" width="320" height="180"><span><strong>${esc(row.name)}</strong><time datetime="${row.date}">${shortDate(row.date)}</time></span></button>`).join("")}</div>` : `<p>No reviewed festival dates for ${year}. Dates will appear after the year's sources are reviewed.</p>`}${missing.length ? `<details class="coverage-details"><summary>Dates awaiting review (${missing.length})</summary><p class="hint">${missing.map((id) => esc(holidays.festival_art[id].name)).join(" · ")}. Artwork is ready; dates are not guessed.</p></details>` : ""}</section>`;
 }
 function home() {
   const cats = catalog.categories.filter(
     (c) => !settings.hidden.includes(c.id),
   );
-  const next = recordsFor()
+  const upcoming = recordsFor()
     .filter(
       (h) =>
         h.date >= today() &&
@@ -396,13 +464,14 @@ function home() {
           (["national_public", "state_public"].includes(h.type) &&
             settings.layers.holidays)),
     )
-    .sort((a, b) => a.date.localeCompare(b.date))[0];
+    .sort((a, b) => a.date.localeCompare(b.date));
+  const next = upcoming.find((h) => h.festival) || upcoming[0];
   const nearest = plans
     .filter((p) => p.result.opening_date && status(p) !== "Already Opened")
     .sort((a, b) =>
       a.result.opening_date.localeCompare(b.result.opening_date),
     )[0];
-  return `${homeCarousel()}${searchBox()}${categoryCards(["trains", "flights", "buses", "hotels", "movies", "temples", "events", "tourism"].map((id) => cats.find((c) => c.id === id)).filter(Boolean), true)}<div class="home-highlights"><a href="#/calendar" class="festival-card"><img src="/art/banners/india_festivals.webp" alt="Temple fireworks and glowing festive lamps"><div><small>${icon("calendar")}Next ${next?.festival ? "Festival" : "Verified Holiday"}</small><h2>${next ? esc(next.name) : "India Calendar"}</h2><p>${next ? shortDate(next.date) : "Explore known dates"}</p><span class="round-arrow">${icon("chevron")}</span></div></a><section class="next-card"><small>${icon("bell")}Next Booking Opens</small><img src="${art("upcoming_train")}" alt=""><h3>${nearest ? esc(nearest.title) : "Train Booking"}</h3><p>${nearest ? shortDate(nearest.result.opening_date) : "Find your opening date"}</p><a class="bd-primary full" href="${nearest ? "#/detail/" + nearest.id : "#/book/trains"}">${icon("clock")}${nearest ? "Set Reminder" : "Plan a Journey"}${icon("chevron")}</a></section></div><a class="travel-link" href="#/insights">${icon("tourism")}Travel insights${icon("chevron")}</a><details class="coverage-details"><summary>Calendar coverage</summary>${coverage()}</details>`;
+  return `${homeCarousel()}${searchBox()}${categoryCards(["trains", "flights", "buses", "hotels", "movies", "temples", "events", "tourism"].map((id) => cats.find((c) => c.id === id)).filter(Boolean), true)}<div class="home-highlights"><a href="#/calendar" class="festival-card" ${next ? `data-festival-date="${next.date}"` : ""}><img src="${holidayImage(next)}" alt="${next ? esc(next.name) + " festival illustration" : "Scenic India"}"><div><small>${icon("calendar")}Next ${next?.festival ? "Festival" : "Verified Holiday"}</small><h2>${next ? esc(next.name) : "India Calendar"}</h2><div class="festival-card-footer">${next ? `<time class="festival-date" datetime="${next.date}">${shortDate(next.date)}</time>` : `<span class="festival-date">Explore known dates</span>`}<span class="round-arrow">${icon("chevron")}</span></div></div></a><section class="next-card"><small>${icon("bell")}Next Booking Opens</small><img src="${art("upcoming_train")}" alt=""><h3>${nearest ? esc(nearest.title) : "Train Booking"}</h3><p>${nearest ? shortDate(nearest.result.opening_date) : "Find your opening date"}</p><a class="bd-primary full" href="${nearest ? "#/detail/" + nearest.id : "#/book/trains"}">${icon("clock")}${nearest ? "Set Reminder" : "Plan a Journey"}${icon("chevron")}</a></section></div><a class="travel-link" href="#/insights">${icon("tourism")}Travel insights${icon("chevron")}</a><details class="coverage-details"><summary>Calendar coverage</summary>${coverage()}</details>`;
 }
 function explore() {
   const cats = catalog.categories.filter((c) =>
@@ -666,7 +735,7 @@ function saved() {
               ),
             )
           : null;
-        return `<article class="saved-card tone-${p.category}"><a href="#/detail/${p.id}" class="saved-thumbnail" aria-label="View ${esc(p.title)}"><img src="${["hotels", "tourism"].includes(p.category) && destinations[p.travel_state] ? "/art/banners/" + destinations[p.travel_state].image + ".webp" : art(["trains", "temples", "movies", "hotels", "government"].includes(p.category) ? "saved_" + p.category : p.category)}" alt=""></a><div class="saved-info"><div class="saved-title">${categoryIcon(p.category)}<div><a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3></a><small>${esc(p.categoryLabel)} Booking</small></div></div><p class="saved-opening">${icon("calendar")}<span>Opens on ${shortDate(p.result.opening_date)}</span></p></div><div class="saved-side"><details class="plan-menu"><summary aria-label="Actions for ${esc(p.title)}">${icon("more")}</summary><div>${planActions(p, false)}<button class="text-button" data-action="edit" data-id="${p.id}">Edit</button><button class="text-button" data-action="complete" data-id="${p.id}">${p.completed ? "Reopen" : "Complete"}</button><button class="text-button" data-action="delete" data-id="${p.id}">Delete</button></div></details><span class="days-left"><strong>${days === null ? "—" : days}</strong><small>${days === null ? "Unannounced" : status(p) === "Already Opened" ? "opened" : days === 0 ? "opens today" : "days left"}</small></span></div></article>`;
+        return `<article class="saved-card tone-${p.category}"><a href="#/detail/${p.id}" class="saved-thumbnail" aria-label="View ${esc(p.title)}"><img src="${art(p.category === "hotels" ? "saved_hotels_v2" : ["trains", "temples", "movies", "tourism", "government"].includes(p.category) ? "saved_" + p.category : p.category)}" alt=""></a><div class="saved-info"><div class="saved-title">${categoryIcon(p.category)}<div><a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3></a><small>${esc(p.categoryLabel)} Booking</small></div></div><p class="saved-opening">${icon("calendar")}<span>Opens on ${shortDate(p.result.opening_date)}</span></p></div><div class="saved-side"><details class="plan-menu"><summary aria-label="Actions for ${esc(p.title)}">${icon("more")}</summary><div>${planActions(p, false)}<button class="text-button" data-action="edit" data-id="${p.id}">Edit</button><button class="text-button" data-action="complete" data-id="${p.id}">${p.completed ? "Reopen" : "Complete"}</button><button class="text-button" data-action="delete" data-id="${p.id}">Delete</button></div></details><span class="days-left"><strong>${days === null ? "—" : days}</strong><small>${days === null ? "Unannounced" : status(p) === "Already Opened" ? "opened" : days === 0 ? "opens today" : "days left"}</small></span></div></article>`;
       })
       .join(
         "",
@@ -708,11 +777,11 @@ function calendar() {
     );
     const marker = markedHoliday
       ? icon(
-          markedHoliday.type === "national_public"
-            ? "flag"
-            : markedHoliday.festival
-              ? "festivals"
-              : "calendar",
+          markedHoliday.festival
+            ? "festival-lamp"
+            : markedHoliday.type === "national_public"
+              ? "national-holiday"
+              : "state-holiday",
         )
       : layers.bookings && opening.length
         ? icon(opening[0].category)
@@ -744,7 +813,7 @@ function calendar() {
     )
     .join(
       "",
-    )}</div><div class="calendar-layout"><section class="card calendar-card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div></section><section class="card detail-list"><div><small>${formatDate(selected)} · ${esc(state)}</small></div>${selectedRows.map((h) => `<article><img class="holiday-thumbnail" src="/art/banners/${destinations[state].image}.webp" alt=""><div><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><details class="coverage-details"><summary>Official source &amp; review</summary><small>Reviewed ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></details></div></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div class="demand-summary">${icon("demand")}<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price prediction.</small></div></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div><details class="coverage-details"><summary>Calendar options &amp; coverage</summary><button class="bd-secondary full" id="calendar-today">Today</button><p class="hint">● Public holiday / saved opening · ◆ Festival · pale amber: derived long weekend.</p><details class="coverage-details calendar-overlay"><summary>Destination overlay</summary><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label></details>${coverage()}</details>`;
+    )}</div>${amendmentNotices(state, year)}<div class="calendar-layout"><section class="card calendar-card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div></section><section class="card detail-list"><div><small>${formatDate(selected)} · ${esc(state)}</small></div>${selectedRows.map((h) => `<article><img class="holiday-thumbnail" src="${holidayImage(h, state)}" alt="" width="320" height="180"><div><time class="holiday-date" datetime="${h.date}">${shortDate(h.date)}</time><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type === "religious_festival" ? "Festival observance" : h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><details class="coverage-details"><summary>Official source &amp; review</summary><small>Reviewed ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></details></div></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div class="demand-summary">${icon("demand")}<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price prediction.</small></div></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div>${festivalGuide(state, year)}<details class="coverage-details"><summary>Calendar options &amp; coverage</summary><button class="bd-secondary full" id="calendar-today">Today</button><p class="hint">Calendar with check: national holiday · local calendar: state holiday · lamp: festival · pale amber: derived long weekend.</p><details class="coverage-details calendar-overlay"><summary>Destination overlay</summary><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label></details>${coverage()}</details>`;
 }
 function insights() {
   const state = overlay || settings.state;
@@ -754,16 +823,18 @@ function insights() {
       `<small>TRAVEL INSIGHTS</small><br><span class="destination-name">${esc(state)}</span>`,
       destinations[state].subtitle,
     ) +
-    `<form id="insights-form" class="insights-filters"><label>${categoryIcon("location")}<span>Destination<select class="bd-input" name="state" aria-label="Travel destination">${stateOptions(state)}</select></span></label><label>${categoryIcon("calendar")}<span>Travel Date<input class="bd-input" name="date" type="date" value="${selected}" min="1900-01-01" max="2100-12-31" required></span></label><label>${categoryIcon("hotels")}<span>Stay<input class="bd-input" name="duration" type="number" value="3" min="1" max="30" required aria-label="Stay duration in days"></span></label><button class="text-button" type="submit">Update insights</button></form><div class="insights-title">${icon("bulb")}<div><h2>Travel Insights</h2><p>Plan smarter with calendar travel insights</p></div></div><div id="insights-result" aria-live="polite"></div><details class="coverage-details"><summary>Sources &amp; coverage</summary>${coverage()}</details>`
+    `<form id="insights-form" class="insights-filters"><label>${categoryIcon("location")}<span>Destination<select class="bd-input" name="state" aria-label="Travel destination">${stateOptions(state)}</select></span></label><label>${categoryIcon("calendar")}<span>Travel Date<input class="bd-input" name="date" type="date" value="${selected}" min="1900-01-01" max="2100-12-31" required></span></label><label>${categoryIcon("hotels")}<span>Stay<input class="bd-input" name="duration" type="number" value="3" min="1" max="30" required aria-label="Stay duration in days"></span></label><button class="text-button" type="submit">Update insights</button></form><div class="insights-title">${icon("bulb")}<div><h2>Travel Insights</h2><p>Plan smarter with calendar travel insights</p></div></div><div id="insights-result" aria-live="polite"></div><details class="coverage-details"><summary>Sources &amp; coverage</summary><div id="insight-coverage">${coverage()}</div></details>`
   );
 }
 function renderInsights(form) {
+  queueMicrotask(refreshHolidaySelection);
   const data = Object.fromEntries(new FormData(form)),
     duration = Number(data.duration),
     dates = Array.from({ length: duration }, (_, i) => shift(data.date, i)),
     signals = dates.map((day) => signal(day, data.state)),
     score = Math.max(...signals.map((s) => s.score));
   selectedTrip = { state: data.state, date: data.date, duration };
+  if ($("#insight-coverage")) $("#insight-coverage").innerHTML = coverage();
   const scenery = destinations[data.state];
   const banner = document.querySelector(".bd-hero");
   banner.querySelector("img").src = `/art/banners/${scenery.image}.webp`;
@@ -794,7 +865,14 @@ function renderInsights(form) {
   }
 
   $("#insights-result").innerHTML =
-    `<div class="insight-grid"><article class="insight-card demand-card"><div>${icon("demand")}<span><h3>${score === 2 ? "High Demand" : score === 1 ? "Moderate Demand" : "Limited Data"}</h3><span class="badge">${score ? "Calendar signal" : "Coverage incomplete"}</span></span></div><p>${esc(reasons.join(", ") || "No verified destination events in this curated dataset.")}.</p></article><article class="insight-card holiday-card"><div>${icon("calendar")}<span><h3>Nearby Holiday</h3><span class="badge">${nearby.length ? esc(nearby[0].name) : "No known records"}</span></span></div><p>${nearby.map((h) => `${esc(h.name)} (${shortDate(h.date)})`).join(" · ") || "No verified nearby dates in the available records."}</p></article><article class="insight-card weekend-card"><div>${icon("calendar")}<span><h3>Long Weekend</h3><span class="badge">${blocks.length ? "Great for Travel" : "Check your dates"}</span></span></div><p>${blocks.map((b) => `${b.length}-day weekend: ${shortDate(b[0])} – ${shortDate(b.at(-1))}`).join(" · ") || "No derived long weekend during this stay."}</p></article><article class="insight-card alternate-card"><div>${icon("check")}<span><h3>Alternate Dates</h3><span class="badge">Fewer known signals</span></span></div><p>${
+    `<div class="insight-grid"><article class="insight-card demand-card"><div>${icon("demand")}<span><h3>${score === 2 ? "High Demand" : score === 1 ? "Moderate Demand" : "Limited Data"}</h3><span class="badge">${score ? "Calendar signal" : "Coverage incomplete"}</span></span></div><p>${esc(reasons.join(", ") || "No verified destination events in this curated dataset.")}.</p></article><article class="insight-card holiday-card"><div>${
+      nearby.find((h) => h.festival_id)
+        ? `<img class="insight-festival-art" src="${holidayImage(
+            nearby.find((h) => h.festival_id),
+            data.state,
+          )}" alt="" width="320" height="180">`
+        : icon("calendar")
+    }<span><h3>Nearby Holiday</h3><span class="badge">${nearby.length ? esc(nearby[0].name) : "No known records"}</span></span></div><p>${nearby.map((h) => `${esc(h.name)} (${shortDate(h.date)})`).join(" · ") || "No verified nearby dates in the available records."}</p></article><article class="insight-card weekend-card"><div>${icon("calendar")}<span><h3>Long Weekend</h3><span class="badge">${blocks.length ? "Great for Travel" : "Check your dates"}</span></span></div><p>${blocks.map((b) => `${b.length}-day weekend: ${shortDate(b[0])} – ${shortDate(b.at(-1))}`).join(" · ") || "No derived long weekend during this stay."}</p></article><article class="insight-card alternate-card"><div>${icon("check")}<span><h3>Alternate Dates</h3><span class="badge">Fewer known signals</span></span></div><p>${
       alternatives
         .slice(0, 3)
         .map((d) => shortDate(d))
@@ -855,7 +933,12 @@ function render() {
   else html = more();
   document.body.dataset.route = route;
   stopCarousel();
-  $("#main").innerHTML = html;
+  preserveImages($("#main"));
+  const template = document.createElement("template");
+  template.innerHTML = html;
+  $("#main").replaceChildren();
+  restoreImages(template.content);
+  $("#main").append(template.content);
   document.title = `${{ home: "Home", explore: "Explore", calendar: "India Calendar", saved: "Saved", book: "Booking Planner", result: "Booking Result", detail: "Booking Details", insights: "Travel Insights", reminders: "Calendar Reminders" }[route] || "Settings"} · BookDay`;
   for (const link of document.querySelectorAll(".bd-navitem")) {
     const active =
@@ -873,6 +956,7 @@ function render() {
   enhanceControls();
   if (route === "home") startCarousel();
   if (route === "insights") renderInsights($("#insights-form"));
+  queueMicrotask(refreshHolidaySelection);
 }
 function findPlan(id) {
   return currentPlan?.id === id ? currentPlan : plans.find((p) => p.id === id);
@@ -891,7 +975,7 @@ function savePlan(plan) {
 function openCalendar(p) {
   calendarPlan = p;
   $("#calendar-options").innerHTML =
-    `<p><strong>${esc(p.title)}</strong><br>${formatDate(p.result.opening_date)} · ${p.reminder_time ? "Reminder at " + esc(p.reminder_time) + " IST" : p.result.opening_time ? esc(p.result.opening_time) + " IST" : "All-day · time unknown"}</p><p class="hint">Provider opening time: ${p.result.opening_time ? esc(p.result.opening_time) + " IST" : "unknown"}. Your chosen reminder time does not change the provider policy.</p><a class="bd-primary full" id="google-calendar" href="${esc(googleCalendarUrl(p))}" target="_blank" rel="noopener">Google Calendar ↗</a><p class="hint">All supported fields are prefilled; tap Save there. Google Calendar uses its own notification settings, including when ICS offsets are selected below.</p><h3>Remind me (ICS)</h3>${offsetChecks(p.offsets || settings.offsets, "event-offset")}<label>Custom offset (minutes before)<input class="bd-input" id="event-custom" type="number" min="0" max="525600" value="${(p.offsets || settings.offsets).find((n) => ![0, 60, 1440, 10080].includes(n)) ?? ""}"></label><button class="bd-primary full" id="share-ics">Other Calendar Apps (.ics)</button><button class="bd-secondary full" id="download-ics">Download .ics</button><p class="hint">Your device chooses compatible apps. Imported alarm support varies; check your calendar after import. Re-importing may create duplicates in some clients. The UID stays consistent for this plan.</p>`;
+    `<p><strong>${esc(p.title)}</strong><br>${formatDate(p.result.opening_date)} · ${p.reminder_time ? "Reminder at " + esc(p.reminder_time) + " IST" : p.result.opening_time ? esc(p.result.opening_time) + " IST" : "All-day · time unknown"}</p><p class="hint">Provider opening time: ${p.result.opening_time ? esc(p.result.opening_time) + " IST" : "unknown"}. Your chosen reminder time does not change the provider policy.</p><a class="bd-primary full" id="google-calendar" href="${esc(googleCalendarUrl(p))}" target="_blank" rel="noopener" hx-boost="false">Open prefilled Google event ↗</a><p class="hint">All supported fields are prefilled; tap Save there. Google Calendar uses its own notification settings, including when ICS offsets are selected below.</p><h3>Remind me (ICS)</h3>${offsetChecks(p.offsets || settings.offsets, "event-offset")}<label>Custom offset (minutes before)<input class="bd-input" id="event-custom" type="number" min="0" max="525600" value="${(p.offsets || settings.offsets).find((n) => ![0, 60, 1440, 10080].includes(n)) ?? ""}"></label><button class="bd-primary full" id="share-ics">Other Calendar Apps (.ics)</button><button class="bd-secondary full" id="download-ics">Download .ics</button><p class="hint">Your device chooses compatible apps. Imported alarm support varies; check your calendar after import. Re-importing may create duplicates in some clients. The UID stays consistent for this plan.</p>`;
   enhanceControls($("#calendar-dialog"));
   $("#calendar-dialog").showModal();
 }
@@ -1098,6 +1182,18 @@ document.addEventListener("click", async (event) => {
       saveSettings();
       render();
     }
+    if (el.dataset.festivalDate) {
+      event.preventDefault();
+      selected = el.dataset.festivalDate;
+      month = selected.slice(0, 7);
+      settings.layers.festivals = true;
+      saveSettings();
+      if (location.hash !== "#/calendar") location.hash = "#/calendar";
+      else render();
+      requestAnimationFrame(() =>
+        $(".detail-list")?.scrollIntoView({ block: "nearest" }),
+      );
+    }
     if (el.dataset.day) {
       selected = el.dataset.day;
       month = selected.slice(0, 7);
@@ -1232,16 +1328,122 @@ window.addEventListener("beforeinstallprompt", (event) => {
   installPrompt = event;
 });
 window.addEventListener("storage", (event) => {
-  if (["bookday.settings.v1", "bookday.plans.v1"].includes(event.key))
-    location.reload();
+  if (event.key === "bookday.settings.v1") {
+    const updated = readStore(
+      event.key,
+      settings,
+      (value) => value?.version === 1 && catalog.states.includes(value.state),
+    );
+    settings = {
+      ...settings,
+      ...updated,
+      layers: { ...settings.layers, ...updated.layers },
+    };
+    applySettings();
+    render();
+  }
+  if (event.key === "bookday.plans.v1") {
+    const updated = readStore(
+      event.key,
+      { plans },
+      (value) => value?.version === 1 && Array.isArray(value.plans),
+    );
+    plans = updated.plans.filter(
+      (value) =>
+        value?.id &&
+        categoryFor(value.category) &&
+        value.result &&
+        validDate(value.event_date),
+    );
+    render();
+  }
 });
+const holidayLoader = new HolidayLoader();
+let holidayRequestKey = "",
+  holidayGeneration = 0,
+  holidayLoading = false;
+function holidaySelection() {
+  const route = location.hash.split("/")[1] || "home";
+  let year = Number(today().slice(0, 4));
+  let years = [year, year + 1],
+    states = [settings.state];
+  if (route === "calendar") {
+    year = Number(month.slice(0, 4));
+    years = [year];
+    if (month.endsWith("-01")) years.push(year - 1);
+    if (month.endsWith("-12")) years.push(year + 1);
+    states.push(overlay || settings.state);
+  } else if (route === "insights") {
+    const form = $("#insights-form");
+    const day = form?.elements.date.value || today();
+    year = Number(day.slice(0, 4));
+    years = [
+      ...new Set([
+        Number(shift(day, -7).slice(0, 4)),
+        year,
+        Number(
+          shift(day, Number(form?.elements.duration.value || 3) + 7).slice(
+            0,
+            4,
+          ),
+        ),
+      ]),
+    ];
+    states.push(form?.elements.state.value || settings.state);
+  }
+  return {
+    years,
+    states: [...new Set(states)],
+    key: JSON.stringify([route, years, states]),
+  };
+}
+async function refreshHolidaySelection() {
+  if (!holidayLoader.manifest) return;
+  const selection = holidaySelection();
+  if (selection.key === holidayRequestKey) return;
+  holidayRequestKey = selection.key;
+  const generation = ++holidayGeneration;
+  holidayLoading = true;
+  if ($(".holiday-load-status"))
+    $(".holiday-load-status").textContent = "Loading reviewed annual dates…";
+  const data = await holidayLoader.load(selection.years, selection.states);
+  if (
+    generation !== holidayGeneration ||
+    holidaySelection().key !== selection.key
+  )
+    return;
+  holidays = data;
+  holidayLoading = false;
+  if (location.hash.includes("insights")) renderInsights($("#insights-form"));
+  else render();
+}
 try {
-  const responses = await Promise.all([
-    fetch("/data/catalog.json"),
-    fetch("/data/holidays.json"),
-  ]);
-  if (responses.some((r) => !r.ok)) throw Error("Data unavailable");
-  [catalog, holidays] = await Promise.all(responses.map((r) => r.json()));
+  const response = await fetch("/data/catalog.json");
+  if (!response.ok) throw Error("Category data unavailable");
+  catalog = await response.json();
+  holidays = {
+    records: [],
+    festival_calendar: [],
+    festival_art: {},
+    coverage:
+      "Holiday data is currently unavailable; absence does not imply a working day.",
+    festival_coverage: "",
+  };
+  try {
+    await holidayLoader.init();
+    holidays = await holidayLoader.load(
+      [Number(today().slice(0, 4)), Number(today().slice(0, 4)) + 1],
+      [settings.state],
+    );
+  } catch {
+    // Calendar failure must never block the booking planner. Legacy offline fallback.
+    try {
+      const fallback = await fetch("/data/holidays.json");
+      if (fallback.ok) holidays = await fallback.json();
+    } catch {
+      /* Explicit unavailable coverage above. */
+    }
+  }
   if (!catalog.states.includes(settings.state)) settings.state = "Tamil Nadu";
   plans = plans.filter((p) => categoryFor(p.category));
   applySettings();

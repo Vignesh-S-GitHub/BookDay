@@ -329,7 +329,7 @@ main {
   padding: 0 !important;
   border: 0 !important;
 }
-.select-trigger {
+.bd-input.select-trigger {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -340,6 +340,8 @@ main {
   font-family: inherit;
 }
 .select-value {
+  display: block;
+  flex: 1 1 0;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -352,9 +354,11 @@ main {
   transform: rotate(90deg);
 }
 .state-pill .theme-select {
+  width: 110px;
   max-width: 110px;
 }
 .state-pill .select-trigger {
+  width: 100%;
   padding: 0;
   min-height: 26px;
   border: 0;
@@ -742,7 +746,7 @@ input[type="date"] {
   border-radius: 18px;
   overflow: hidden;
   min-width: 0;
-  height: 125px;
+  min-height: 145px;
 }
 .festival-card {
   color: white;
@@ -756,9 +760,12 @@ input[type="date"] {
 }
 .festival-card > div {
   position: relative;
-  padding: 13px 16px;
-  min-height: 125px;
-  background: linear-gradient(90deg, #040a245e, transparent);
+  padding: 12px;
+  height: 100%;
+  min-height: 145px;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(180deg, #040a24a0, #040a2418 35%, #040a24d9);
 }
 .festival-card small {
   display: flex;
@@ -773,8 +780,36 @@ input[type="date"] {
   height: 17px;
 }
 .festival-card h2 {
-  font-size: 23px;
-  margin: 3px 0;
+  font-size: clamp(18px, 5vw, 23px);
+  line-height: 1.12;
+  margin: 7px 0 12px;
+  overflow-wrap: anywhere;
+  text-shadow: 0 2px 8px #000b;
+}
+.festival-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  margin-top: auto;
+}
+.festival-date {
+  display: inline-block;
+  color: #080e3c;
+  background: #fff9eb;
+  border-radius: 8px;
+  padding: 5px 7px;
+  font-size: 12px;
+  line-height: 1.3;
+  font-weight: 750;
+}
+.festival-card .round-arrow {
+  position: static;
+  flex-shrink: 0;
+  width: 25px;
+  height: 25px;
+  margin: 0;
+  background: #ffffff38;
 }
 .festival-card p {
   font-size: 12px;
@@ -798,6 +833,9 @@ input[type="date"] {
 .next-card {
   background: var(--bd-pale-blue);
   padding: 12px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
 }
 .next-card > small {
   display: flex;
@@ -814,11 +852,11 @@ input[type="date"] {
 }
 .next-card > img {
   position: absolute;
-  width: 80px;
-  height: 78px;
+  width: 52px;
+  height: 48px;
   object-fit: cover;
-  right: -6px;
-  top: 30px;
+  right: 8px;
+  top: 40px;
   mix-blend-mode: multiply;
   border-radius: 40px;
   opacity: 0.9;
@@ -827,20 +865,21 @@ input[type="date"] {
   position: relative;
   margin: 6px 0;
   font-size: 15px;
-  max-width: 110px;
+  max-width: calc(100% - 42px);
 }
 .next-card p {
   position: relative;
   font-size: 10px;
-  max-width: 110px;
+  max-width: calc(100% - 42px);
   margin-bottom: 0;
 }
 .next-card .bd-primary {
-  position: absolute;
+  position: static;
+  margin-top: auto;
   bottom: 8px;
   left: 7px;
   right: 7px;
-  width: calc(100% - 14px);
+  width: 100%;
   min-height: 34px;
   font-size: 10px;
   padding: 6px;
@@ -1598,7 +1637,89 @@ input[type="checkbox"] {
 .detail-list article {
   display: flex;
   gap: 11px;
+  align-items: flex-start;
+}
+.detail-list article > div {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.holiday-date {
+  display: block;
+  color: var(--bd-muted);
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.festival-guide {
+  margin-top: 12px;
+}
+.festival-guide-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
   align-items: center;
+}
+.festival-guide-heading h2 {
+  font-size: 20px;
+}
+.festival-guide-heading p {
+  color: var(--bd-muted);
+  font-size: 12px;
+}
+.festival-guide-heading > .icon {
+  color: #ff8900;
+  width: 32px;
+  height: 32px;
+}
+.festival-guide-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 12px;
+}
+.festival-guide-item {
+  border: 1px solid var(--bd-border);
+  background: var(--bd-surface);
+  padding: 0;
+  border-radius: 14px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--bd-text);
+  min-width: 0;
+}
+.festival-guide-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+.festival-guide-item > span {
+  display: grid;
+  gap: 6px;
+  padding: 9px;
+}
+.festival-guide-item strong {
+  font-size: 13px;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+.festival-guide-item time {
+  color: var(--bd-primary);
+  font-size: 12px;
+  font-weight: 700;
+}
+.insight-festival-art {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+@media (min-width: 700px) {
+  .festival-guide-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
 }
 .holiday-thumbnail {
   width: 89px;
@@ -2413,7 +2534,7 @@ body[data-route="book"] main {
   }
   .festival-card,
   .next-card {
-    height: 220px;
+    min-height: 220px;
   }
   .festival-card > div {
     padding: 24px;
@@ -2425,8 +2546,13 @@ body[data-route="book"] main {
   .festival-card p {
     font-size: 16px;
   }
+  .festival-date {
+    font-size: 16px;
+    padding: 7px 10px;
+  }
   .next-card {
     padding: 24px;
+    padding-bottom: 75px;
   }
   .next-card h3 {
     font-size: 25px;
@@ -2448,7 +2574,7 @@ body[data-route="book"] main {
     bottom: 15px;
     left: 16px;
     right: 16px;
-    width: calc(100% - 32px);
+    width: 100%;
   }
   .fields {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -2642,6 +2768,50 @@ body[data-route="book"] main {
   }
   .bd-navitem {
     font-size: 13px;
+  }
+}
+.state-pill {
+  flex: 0 1 auto;
+  max-width: calc(100% - 190px);
+}
+.state-pill .theme-select {
+  min-width: 0;
+}
+.state-pill .select-trigger {
+  min-width: 0;
+  max-width: 100%;
+}
+.app-header > a:first-child + a {
+  min-width: 0;
+  flex-shrink: 0;
+}
+.holiday-amendment {
+  padding: 12px;
+  background: var(--bd-pale-yellow);
+  border-radius: 14px;
+  margin-bottom: 12px;
+}
+@media (max-width: 699px) {
+  .next-card > small {
+    flex-wrap: wrap;
+    line-height: 1.3;
+  }
+  .next-card h3 {
+    font-size: 14px;
+    line-height: 1.25;
+  }
+  .next-card p {
+    line-height: 1.4;
+  }
+  .next-card .bd-primary {
+    flex-wrap: wrap;
+    line-height: 1.35;
+    min-height: 38px;
+    padding: 8px 5px;
+  }
+  .next-card .bd-primary .icon {
+    width: 13px;
+    height: 13px;
   }
 }
 @media (prefers-reduced-motion: reduce) {

@@ -297,15 +297,6 @@
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   },
   {
-    "name": "saved_movies",
-    "path": "/art/categories/saved_movies.webp",
-    "width": 512,
-    "height": 512,
-    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square cinematic dramatic orange-red movie poster illustration of a rugged Tamil male film protagonist in right profile, dark swept-back hair and trimmed beard, warm red light, a large antique circular gold medallion on left with exact word 'LEO' in embossed serif letters. Original newly generated art matching movie thumbnail mood/composition. No extra lettering. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
-    "generatedBy": "Built-in image_gen",
-    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
-  },
-  {
     "name": "saved_hotels",
     "path": "/art/categories/saved_hotels.webp",
     "width": 512,
@@ -626,6 +617,339 @@
     "width": 1280,
     "height": 801,
     "prompt": "Brand new wide premium BookDay travel background, Puducherry, India. French Quarter mustard yellow colonial house bougainvillea and palm lined seafront. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "pongal",
+    "path": "/art/festivals/pongal.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Thai Pongal in Tamil Nadu: ornate terracotta pot brimming with rice boiling over on a small stone hearth, fresh sugarcane, turmeric leaves, vivid kolam, harvested rice, rural Tamil courtyard and distant golden temple at sunrise. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "sankranti",
+    "path": "/art/festivals/sankranti.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Makar Sankranti: elegant colorful kites flying high above historic Indian rooftops in brilliant blue sky at golden sunset, traditional kite reels and sesame jaggery sweets in foreground, joyful harvest celebration. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "vasant_panchami",
+    "path": "/art/festivals/vasant_panchami.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Vasant Panchami: spring mustard fields in soft golden sunlight, tasteful traditional veena instrument, books and yellow marigolds on a decorated platform, tranquil Saraswati festival atmosphere. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "shivratri",
+    "path": "/art/festivals/shivratri.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Maha Shivratri: dignified dark stone Shiva lingam with fresh bilva leaves and white flowers in an ancient temple courtyard, glowing brass lamps, ethereal blue twilight, reverent and beautiful. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "holi",
+    "path": "/art/festivals/holi.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Holi: vivid clouds of pink yellow turquoise and purple color powder floating above brass bowls of gulal in a beautiful historic Indian courtyard, flowering trees and a festive sunlit palace in background, joyous color festival. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "ugadi",
+    "path": "/art/festivals/ugadi.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Ugadi and Gudi Padwa: festive traditional raised gudi with bright silk cloth and inverted silver pot, mango leaf toran, brass bowl of Ugadi pachadi, marigold garlands in elegant Indian courtyard in spring sunshine. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "eid_fitr",
+    "path": "/art/festivals/eid_fitr.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Eid al-Fitr: peaceful illuminated historic Indian mosque with a slender crescent moon in navy twilight, delicate golden lanterns, ornate bowl of sheer khurma and dates in foreground, joyous refined Eid atmosphere, no human figures. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "ram_navami",
+    "path": "/art/festivals/ram_navami.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Ram Navami: beautiful Indian temple architecture at sunrise with tasteful orange saffron flags and marigold decorations, ceremonial decorative bow and arrows with flowers in foreground, respectful Rama festival atmosphere. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "mahavir_jayanti",
+    "path": "/art/festivals/mahavir_jayanti.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Mahavir Jayanti: serene intricately carved white marble Jain temple with a dignified seated Jain Tirthankara stone statue in its central shrine, white flowers and tiny lamps in foreground, golden morning light, peaceful respectful composition. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "good_friday",
+    "path": "/art/festivals/good_friday.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Good Friday in India: quiet historic Indian church at warm dusk, a simple wooden cross, white lilies and candles in foreground, reverent calm composition, no fireworks or party decorations. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "easter",
+    "path": "/art/festivals/easter.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Easter in India: beautiful sunlit heritage church with blooming gardens and white lilies, elegant wicker basket of pastel decorated eggs in foreground, joyful bright spring morning. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "tamil_new_year",
+    "path": "/art/festivals/tamil_new_year.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Puthandu Tamil New Year: ornate brass lamp, traditional tray of seasonal fruits mango banana jackfruit, mirror and fresh flowers, colorful kolam in a Tamil home courtyard, temple gopuram in golden dawn background. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "vishu",
+    "path": "/art/festivals/vishu.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Vishu in Kerala: authentic Vishukkani arrangement in bronze uruli with golden konna blossoms, cucumber, rice, coconut, fruits, traditional mirror and lit nilavilakku, lush Kerala courtyard at sunrise. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "vaisakhi",
+    "path": "/art/festivals/vaisakhi.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Vaisakhi in Punjab: sweeping golden wheat harvest with a beautiful illuminated Sikh gurdwara in distance, tasteful orange Nishan Sahib flag, traditional dhol and wheat sheaves in foreground, radiant sunny harvest atmosphere. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "bihu",
+    "path": "/art/festivals/bihu.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Bihu in Assam: lush paddy fields and tea-green hills, authentic Assamese dhol, pepa buffalo-horn instrument, jaapi hat and red-white gamusa in foreground, blossoming spring trees, warm vivid morning light. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "buddha_purnima",
+    "path": "/art/festivals/buddha_purnima.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Buddha Purnima: serene seated Buddha stone statue beneath a Bodhi tree with white lotus flowers and glowing butter lamps, beautiful Mahabodhi temple in background at golden dawn, tranquil respectful spiritual scene. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "eid_adha",
+    "path": "/art/festivals/eid_adha.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Eid al-Adha: elegant Indian mosque courtyard at golden sunrise with beautiful arches, intricate golden lanterns, prayer mat and dates in foreground, warm communal celebration atmosphere, no animals or sacrifice depiction. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "muharram",
+    "path": "/art/festivals/muharram.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Muharram in India: quiet historic Islamic arches at blue twilight, dignified lit lanterns and subtle crescent moon, restrained respectful contemplative composition, no fireworks, no celebratory party elements. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "milad",
+    "path": "/art/festivals/milad.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Milad-un-Nabi in India: dignified illuminated historic mosque with tasteful emerald and gold lanterns, intricate floral Islamic geometric ornament in foreground, peaceful beautiful evening, no figures or writing. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "janmashtami",
+    "path": "/art/festivals/janmashtami.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Krishna Janmashtami: ornate wooden flute and iridescent peacock feather with butter pot, small hanging decorated dahi handi, flowers and tiny lamps, beautiful Vrindavan-style temple courtyard at golden twilight. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "ganesh_chaturthi",
+    "path": "/art/festivals/ganesh_chaturthi.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Ganesh Chaturthi: beautifully crafted seated Ganesha clay idol with natural colors, marigold garlands and plate of modak sweets, lamps and tasteful festive temple backdrop at warm golden twilight, dignified respectful details. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "onam",
+    "path": "/art/festivals/onam.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Onam in Kerala: vibrant circular pookalam flower carpet in foreground, traditional banana-leaf sadya, brass nilavilakku lamp, lush Kerala backwater with distant elegant snake boat and palms, radiant warm sun. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "raksha_bandhan",
+    "path": "/art/festivals/raksha_bandhan.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Raksha Bandhan: ornate vibrant rakhi bracelets on a beautiful brass puja thali with sweets, rice and kumkum, soft marigold bokeh and bright elegant Indian home setting, warm polished realistic closeup. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "durga_puja",
+    "path": "/art/festivals/durga_puja.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Durga Puja: dignified beautifully crafted traditional Durga idol in a tasteful Bengali pandal, white kash flowers, dhak drum and glowing lamps in foreground, warm golden festive light, culturally accurate respectful scene. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "ayutha_pooja",
+    "path": "/art/festivals/ayutha_pooja.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Ayutha Pooja in Tamil Nadu: neatly arranged clean traditional tools, books and musical instruments decorated with sandalwood markings, marigold garlands and mango leaves on an elegant puja platform, brass lamps and temple courtyard at warm sunrise. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "dussehra",
+    "path": "/art/festivals/dussehra.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Vijayadashami Dussehra: magnificent illuminated Mysore Palace with tasteful festive procession atmosphere, marigolds and glowing lamps, rich blue twilight and warm gold lighting, no burned effigies or violence. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "diwali",
+    "path": "/art/festivals/diwali.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Diwali Deepavali: exquisite clay diyas glowing over vibrant rangoli beside an Indian temple tank with reflections, beautifully illuminated temple gopuram, vivid restrained golden fireworks against deep navy sky, cinematic warm festive beauty. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "gurpurab",
+    "path": "/art/festivals/gurpurab.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Guru Nanak Jayanti Gurpurab: beautiful Golden Temple in Amritsar illuminated at dusk reflected in calm sarovar, tasteful rows of glowing lamps and soft flowers in foreground, peaceful dignified Sikh festival atmosphere. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "christmas",
+    "path": "/art/festivals/christmas.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Christmas in India: beautiful heritage Indian church softly illuminated at dusk, elegant decorated Christmas tree with warm fairy lights, gold and red ornaments and star lanterns, tropical palms in background, joyful cinematic atmosphere. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "chhath",
+    "path": "/art/festivals/chhath.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Chhath Puja: serene river ghat at golden sunrise with tasteful offerings of sugarcane coconuts fruits and thekua in traditional bamboo baskets, glowing small diyas, beautiful reflecting water and distant temple silhouettes, respectful composition. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "rath_yatra",
+    "path": "/art/festivals/rath_yatra.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Rath Yatra in Puri Odisha: three magnificent traditionally decorated wooden festival chariots with red yellow green canopies on a sunlit broad avenue, authentic Jagannath temple in distance, culturally accurate respectful lively scene. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "thai_poosam",
+    "path": "/art/festivals/thai_poosam.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 Indian festival illustration for the BookDay travel planning app. Reference image is STYLE ONLY, not an edit target. Match its sharp premium cinematic photorealistic 3D rendered realism, vivid saturated natural colors, detailed materials, warm golden lighting and inviting beautiful atmosphere. Subject: Thaipusam Thai Poosam in Tamil Nadu: ornate golden vel spear with peacock feather and fresh garlands, decorated traditional kavadi frame with flowers, beautiful Murugan hill temple and stone steps at warm golden sunrise, dignified respectful composition. Central balanced composition; recognizable festival objects near center so a square thumbnail crop remains meaningful. Landscape background edge to edge. No text, typography, captions, watermark, calendar numbers, interface, borders, collage or multiple panels. No generic Christmas or Diwali elements for other festivals. One coherent culturally respectful image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "new_year",
+    "path": "/art/festivals/new_year.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 illustration for BookDay Indian festival calendar. The reference is style only. Match sharp premium cinematic photorealistic 3D rendered realism, vivid natural colors, detailed materials, warm golden lighting and beautiful inviting atmosphere. Subject: New Year's celebration in India: warm golden fireworks reflected in a tranquil waterfront beside beautiful Indian heritage architecture and palm trees, elegant brass lamps and bright festive lights, optimistic joyful cinematic dusk, no Christmas tree, no years or writing. Recognizable central arrangement should remain meaningful in a square thumbnail crop. No text, interface, collage, border, watermark. One culturally respectful coherent scene.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "karkadaka_vavu",
+    "path": "/art/festivals/karkadaka_vavu.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Create one new landscape 16:9 illustration for BookDay Indian festival calendar. The reference is style only. Match sharp premium cinematic photorealistic 3D rendered realism, vivid natural colors, detailed materials, warm golden lighting and beautiful inviting atmosphere. Subject: Karkadaka Vavu in Kerala: tranquil sacred river ghat at soft golden sunrise, traditional small banana-leaf offerings with rice sesame and flowers on wet stone steps, lit brass lamp, lush coconut palms and distant Kerala temple, reverent restrained atmosphere, no festive fireworks. Recognizable central arrangement should remain meaningful in a square thumbnail crop. No text, interface, collage, border, watermark. One culturally respectful coherent scene.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_movies",
+    "path": "/art/categories/saved_movies.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay saved-plan thumbnail. Primary request: a beautiful modern cinema auditorium, neat rows of plush red reclining seats, large empty silver screen, warm golden aisle lights, no movie poster. Match the reference's vibrant polished cinematic photorealistic 3D illustration, sharp clean details, blue sky, warm sunlight, saturated natural colors. Square composition, central subject remains recognizable in tiny square thumbnail. No text, logos, people, frames, UI, watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_hotels_v2",
+    "path": "/art/categories/saved_hotels_v2.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay saved-plan thumbnail. Primary request: a beautiful luxurious contemporary Indian resort hotel, welcoming symmetrical cream facade, blue swimming pool and palms, recognizable hotel building centered, golden late afternoon light. Match the reference's vibrant polished cinematic photorealistic 3D illustration, sharp clean details, blue sky, warm sunlight, saturated natural colors. Square composition, central subject remains recognizable in tiny square thumbnail. No text, logos, people, frames, UI, watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_tourism",
+    "path": "/art/categories/saved_tourism.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay saved-plan thumbnail. Primary request: a beautiful Indian tropical sightseeing coast, a scenic walking trail, lush palms, turquoise water and distant hills, inviting travel destination. Match the reference's vibrant polished cinematic photorealistic 3D illustration, sharp clean details, blue sky, warm sunlight, saturated natural colors. Square composition, central subject remains recognizable in tiny square thumbnail. No text, logos, people, frames, UI, watermark.",
     "generatedBy": "Built-in image_gen",
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   }

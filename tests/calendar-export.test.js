@@ -59,7 +59,10 @@ test("unknown provider time can have an explicit timed reminder", () => {
 });
 test("Google event uses opening, UTC timestamps, timezone and all supported fields", () => {
   const url = new URL(googleCalendarUrl(plan));
-  assert.equal(url.hostname, "calendar.google.com");
+  assert.equal(url.hostname, "www.google.com");
+  assert.equal(url.pathname, "/calendar/render");
+  assert.equal(url.searchParams.get("action"), "TEMPLATE");
+  assert.equal(url.searchParams.get("ctz"), "Asia/Kolkata");
   assert.equal(
     url.searchParams.get("dates"),
     "20261213T043000Z/20261213T044500Z",

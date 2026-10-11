@@ -6,6 +6,10 @@ async function regression(page) {
   });
   const p = await context.newPage();
   const errors = [];
+  p.on("response", (response) => {
+    if (response.status() >= 400)
+      errors.push(`${response.status()} ${response.url()} at ${p.url()}`);
+  });
   p.on("pageerror", (e) => errors.push(e.message));
   p.on("console", (e) => {
     if (e.type() === "error") errors.push(e.text());
@@ -19,6 +23,10 @@ async function regression(page) {
   };
   const assets = async () => {
     await p.evaluate(() => document.fonts.ready);
+    // Load the below-fold festival guide as well as above-fold artwork.
+    await p.evaluate(() => {
+      for (const image of document.images) image.loading = "eager";
+    });
     await p.waitForFunction(() =>
       [...document.images].every((i) => i.complete && i.naturalWidth > 0),
     );
@@ -261,13 +269,17 @@ async function regression(page) {
     );
     await p.locator('[data-day="2026-10-02"]').click();
     check(
-      (await p.locator('.day.selected use[href$="#flag"]').count()) === 1,
-      "National holiday flag marker",
+      (await p
+        .locator('.day.selected use[href$="#national-holiday"]')
+        .count()) === 1,
+      "National holiday calendar-check marker",
     );
     await p.locator("[data-layer=demand]").click();
     await p.locator("[data-layer=holidays]").click();
     check(
-      (await p.locator('.day.selected use[href$="#flag"]').count()) === 0,
+      (await p
+        .locator('.day.selected use[href$="#national-holiday"]')
+        .count()) === 0,
       "Disabled holidays stay hidden with demand enabled",
     );
     await goto("more");
@@ -400,6 +412,12 @@ async function regression(page) {
     await p.waitForFunction(() => navigator.serviceWorker.controller, null, {
       timeout: 45000,
     });
+    const offlineCache = await p.evaluate(async () => ({
+      annual: (await (await caches.open("bookday-holiday-data")).keys()).map(
+        (request) => request.url,
+      ),
+      manifest: Boolean(await caches.match("/data/holidays/manifest.json")),
+    }));
     await context.setOffline(true);
     await p.reload();
     await p.waitForFunction(() => !document.querySelector(".loading"));
@@ -432,7 +450,13 @@ async function regression(page) {
       (await p.locator(".saved-card").count()) === 0,
       "Malformed plans fallback",
     );
-    check(errors.length === 0, "Browser errors: " + errors.join("\n"));
+    check(
+      errors.length === 0,
+      "Browser errors: " +
+        errors.join("\n") +
+        " Cache: " +
+        JSON.stringify(offlineCache),
+    );
     return "PASS: 14 categories; reference order; search; general/Tatkal/month rules; mini-calendar; save/edit/complete; UTC/all-day exports; download/native/fallback/cancel; holiday keyboard/layers; settings; insights; escaping; 320/360/390/430/1280 layouts; loaded artwork/fonts; first install; offline exports; malformed storage; zero console errors.";
   } finally {
     await context.setOffline(false);

@@ -11,7 +11,7 @@ PUBLIC = ROOT / "public"
 
 def test_new_artwork_is_complete_and_encoded() -> None:
     items = json.loads((ROOT / "docs/artwork.json").read_text(encoding="utf-8"))
-    assert len(items) == 70
+    assert len(items) == 106
     assert len({item["path"] for item in items}) == len(items)
     for item in items:
         contents = (PUBLIC / item["path"].lstrip("/")).read_bytes()
@@ -67,7 +67,8 @@ def test_self_hosted_font_is_permitted_by_csp() -> None:
 
 def test_service_worker_caches_new_art_and_preserves_first_visit_result() -> None:
     worker = (PUBLIC / "sw.js").read_text(encoding="utf-8")
-    assert "bookday-v2" in worker
+    assert re.search(r'const CACHE = "bookday-v\d+-', worker)
+    assert 'const ANNUAL = "bookday-holiday-data"' in worker
     assert "/fonts/roboto-latin.woff2" in worker
     assert "/art/icons.svg" in worker
     assert "quick_" in worker

@@ -16,6 +16,7 @@ def generate_calendar_files() -> None:
             "--test",
             "tests/calendar-export.test.js",
             "tests/booking-fields.test.js",
+            "tests/festivals.test.js",
         ],
         cwd=OUTPUT.parent,
         check=True,
