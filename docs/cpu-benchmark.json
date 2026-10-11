@@ -1,0 +1,302 @@
+{
+  "method": "Deployed Cloudflare wrangler tail cpuTime. Small sequential sample, not a load test or SLA. No request bodies collected.",
+  "summary": [
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "count": 7,
+      "min_cpu_ms": 6,
+      "median_cpu_ms": 7,
+      "max_cpu_ms": 69,
+      "over_10ms": 2
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "count": 7,
+      "min_cpu_ms": 6,
+      "median_cpu_ms": 15,
+      "max_cpu_ms": 175,
+      "over_10ms": 5
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/health",
+      "count": 1,
+      "min_cpu_ms": 96,
+      "median_cpu_ms": 96,
+      "max_cpu_ms": 96,
+      "over_10ms": 1
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/favicon.ico",
+      "count": 1,
+      "min_cpu_ms": 66,
+      "median_cpu_ms": 66,
+      "max_cpu_ms": 66,
+      "over_10ms": 1
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/health",
+      "count": 1,
+      "min_cpu_ms": 45,
+      "median_cpu_ms": 45,
+      "max_cpu_ms": 45,
+      "over_10ms": 1
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "count": 7,
+      "min_cpu_ms": 6,
+      "median_cpu_ms": 8,
+      "max_cpu_ms": 32,
+      "over_10ms": 2
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "count": 5,
+      "min_cpu_ms": 7,
+      "median_cpu_ms": 14,
+      "max_cpu_ms": 57,
+      "over_10ms": 3
+    }
+  ],
+  "samples": [
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 50,
+      "wall_ms": 54,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 175,
+      "wall_ms": 184,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/health",
+      "cpu_ms": 96,
+      "wall_ms": 97,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/favicon.ico",
+      "cpu_ms": 66,
+      "wall_ms": 66,
+      "outcome": "ok",
+      "status": 404
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 69,
+      "wall_ms": 70,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 125,
+      "wall_ms": 131,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 7,
+      "wall_ms": 8,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 15,
+      "wall_ms": 16,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 10,
+      "wall_ms": 11,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 15,
+      "wall_ms": 16,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 7,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 14,
+      "wall_ms": 16,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 7,
+      "wall_ms": 8,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 8,
+      "wall_ms": 9,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/api/calculate",
+      "cpu_ms": 6,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "b6055117-49a9-4704-9102-841263dd2a24",
+      "path": "/fragments/calculate",
+      "cpu_ms": 6,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/health",
+      "cpu_ms": 45,
+      "wall_ms": 45,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 32,
+      "wall_ms": 33,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "cpu_ms": 57,
+      "wall_ms": 58,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 21,
+      "wall_ms": 22,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "cpu_ms": 14,
+      "wall_ms": 15,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 6,
+      "wall_ms": 6,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "cpu_ms": 8,
+      "wall_ms": 9,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 6,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "cpu_ms": 7,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 8,
+      "wall_ms": 8,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/fragments/calculate",
+      "cpu_ms": 15,
+      "wall_ms": 16,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 7,
+      "wall_ms": 7,
+      "outcome": "ok",
+      "status": 200
+    },
+    {
+      "version": "66665067-f1bd-4d7a-a444-3377e795baed",
+      "path": "/api/calculate",
+      "cpu_ms": 10,
+      "wall_ms": 11,
+      "outcome": "ok",
+      "status": 200
+    }
+  ]
+}

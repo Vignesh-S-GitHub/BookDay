@@ -1,0 +1,21 @@
+{
+  "name": "bookday",
+  "version": "1.0.0",
+  "description": "BookDay static PWA and Cloudflare deployment tools",
+  "scripts": {
+    "test": "node --test tests/calendar-export.test.js",
+    "dev": "uv run pywrangler dev",
+    "deploy": "uv run pywrangler deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "wrangler": "^4.149.0"
+  },
+  "dependencies": {
+    "htmx.org": "^2.0.11"
+  }
+}

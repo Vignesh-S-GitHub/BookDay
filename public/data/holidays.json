@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "coverage": "Curated examples: annual national holidays for 2026–2027 and selected Kerala 2026 records. State/UT, school, district and festival coverage is incomplete. Absence of a record does not mean a working day.",
+  "records": [
+    {
+      "id": "2026-01-02-mannam-jayanthi",
+      "date": "2026-01-02",
+      "name": "Mannam Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-01-26-republic-day",
+      "date": "2026-01-26",
+      "name": "Republic Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    },
+    {
+      "id": "2026-04-01-bank-annual-closing",
+      "date": "2026-04-01",
+      "name": "Bank annual closing",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "bank_holiday",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Commercial and cooperative banks; not a general public holiday."
+    },
+    {
+      "id": "2026-04-02-maundy-thursday",
+      "date": "2026-04-02",
+      "name": "Maundy Thursday",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-04-03-good-friday",
+      "date": "2026-04-03",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-04-14-dr.-b.-r.-ambedkar-jayanthi",
+      "date": "2026-04-14",
+      "name": "Dr. B. R. Ambedkar Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-04-15-vishu",
+      "date": "2026-04-15",
+      "name": "Vishu",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-05-01-may-day",
+      "date": "2026-05-01",
+      "name": "May Day",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-08-12-karkadaka-vavu",
+      "date": "2026-08-12",
+      "name": "Karkadaka Vavu",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-08-15-independence-day",
+      "date": "2026-08-15",
+      "name": "Independence Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    },
+    {
+      "id": "2026-08-26-thiruvonam",
+      "date": "2026-08-26",
+      "name": "Thiruvonam",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-08-27-third-onam",
+      "date": "2026-08-27",
+      "name": "Third Onam",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-08-28-fourth-onam-/-sree-narayana-guru-jayanthi-/-ayyankali-jayanthi",
+      "date": "2026-08-28",
+      "name": "Fourth Onam / Sree Narayana Guru Jayanthi / Ayyankali Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-09-04-sreekrishna-jayanthi",
+      "date": "2026-09-04",
+      "name": "Sreekrishna Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-09-21-sree-narayana-guru-samadhi-day",
+      "date": "2026-09-21",
+      "name": "Sree Narayana Guru Samadhi Day",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-10-02-gandhi-jayanti",
+      "date": "2026-10-02",
+      "name": "Gandhi Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    },
+    {
+      "id": "2026-10-20-mahanavami",
+      "date": "2026-10-20",
+      "name": "Mahanavami",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-10-21-vijayadasami",
+      "date": "2026-10-21",
+      "name": "Vijayadasami",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2026-11-08-deepavali",
+      "date": "2026-11-08",
+      "name": "Deepavali",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Falls on Sunday; listed as an occasion, not an additional weekday public holiday."
+    },
+    {
+      "id": "2026-12-25-christmas",
+      "date": "2026-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ."
+    },
+    {
+      "id": "2027-01-26-republic-day",
+      "date": "2027-01-26",
+      "name": "Republic Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    },
+    {
+      "id": "2027-08-15-independence-day",
+      "date": "2027-08-15",
+      "name": "Independence Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    },
+    {
+      "id": "2027-10-02-gandhi-jayanti",
+      "date": "2027-10-02",
+      "name": "Gandhi Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ."
+    }
+  ]
+}

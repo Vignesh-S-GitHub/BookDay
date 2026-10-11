@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640"><title>home india</title><defs>
+ <linearGradient id="sky" x2=".8" y2="1"><stop stop-color="#1F4477"/><stop offset=".65" stop-color="#FFB46B"/><stop offset="1" stop-color="#663B69"/></linearGradient>
+ <linearGradient id="lake" x2=".7" y2="1"><stop stop-color="#2F8C99"/><stop offset="1" stop-color="#102D51"/></linearGradient>
+ <linearGradient id="ground" x2="1" y2="1"><stop stop-color="#39596D"/><stop offset="1" stop-color="#243355"/></linearGradient>
+ </defs><rect width="1280" height="640" fill="url(#sky)"/>
+ <circle cx="1060" cy="156" r="74" fill="#FFE4A0" opacity=".86"/><circle cx="1060" cy="156" r="116" fill="#FDE8B8" opacity=".16"/>
+ <path d="M0 235q180-70 350 5t320-10 610 21" stroke="#FFE1AE" stroke-width="13" opacity=".13" fill="none"/>
+ <path d="M0 420Q130 270 255 345T520 317T790 355T1070 310T1280 349V640H0Z" fill="#8B7B88"/><path d="M0 495Q130 405 255 420T520 392T790 430T1070 385T1280 424V640H0Z" fill="#547B87"/><path d="M0 590Q130 440 255 515T520 487T790 525T1070 480T1280 519V640H0Z" fill="#37556B"/><g transform="translate(475 260) scale(1.12)" fill="#DBA25D" stroke="#8D4B2B" stroke-opacity=".17" stroke-width="2">
+ <rect x="0" y="100" width="260" height="125" rx="6"/><rect x="-25" y="201" width="310" height="25" rx="2"/>
+ <path d="M55 102 73 73h114l18 29z"/><path d="M78 73 89 47h82l12 26z"/><path d="M96 47 104 25h65l12 22z"/><path d="M110 25 122 0h40l12 25z"/>
+ <rect x="117" y="132" width="39" height="93" rx="20" fill="#542D34"/>
+ <rect x="33" y="129" width="35" height="48" rx="3" fill="#A65E2C"/><rect x="196" y="129" width="35" height="48" rx="3" fill="#A65E2C"/>
+ <path d="M21 103h220M63 78h138M89 52h86M106 28h65" fill="none" stroke="#F4C77F" stroke-width="9"/>
+ </g><g transform="translate(206 380) scale(0.6)" fill="#BC7A49" stroke="#8D4B2B" stroke-opacity=".17" stroke-width="2">
+ <rect x="0" y="100" width="260" height="125" rx="6"/><rect x="-25" y="201" width="310" height="25" rx="2"/>
+ <path d="M55 102 73 73h114l18 29z"/><path d="M78 73 89 47h82l12 26z"/><path d="M96 47 104 25h65l12 22z"/><path d="M110 25 122 0h40l12 25z"/>
+ <rect x="117" y="132" width="39" height="93" rx="20" fill="#542D34"/>
+ <rect x="33" y="129" width="35" height="48" rx="3" fill="#A65E2C"/><rect x="196" y="129" width="35" height="48" rx="3" fill="#A65E2C"/>
+ <path d="M21 103h220M63 78h138M89 52h86M106 28h65" fill="none" stroke="#F4C77F" stroke-width="9"/>
+ </g><g transform="translate(120 354) scale(0.95)"><path d="M10 185Q-8 100 15 36" fill="none" stroke="#624B3A" stroke-width="16" stroke-linecap="round"/>
+ <g fill="#226B57"><path d="M15 40Q-68 5-85 70q60-17 100-24"/><path d="M15 40Q75-18 107 38q-46-4-92 8"/><path d="M15 42Q93 42 100 101Q61 60 15 48"/><path d="M15 42Q-28-36-62-16Q-20 16 15 48"/><path d="M15 42Q45-43 73-31Q48 10 15 45"/></g></g><g transform="translate(1150 358) scale(1.05)"><path d="M10 185Q-8 100 15 36" fill="none" stroke="#624B3A" stroke-width="16" stroke-linecap="round"/>
+ <g fill="#226B57"><path d="M15 40Q-68 5-85 70q60-17 100-24"/><path d="M15 40Q75-18 107 38q-46-4-92 8"/><path d="M15 42Q93 42 100 101Q61 60 15 48"/><path d="M15 42Q-28-36-62-16Q-20 16 15 48"/><path d="M15 42Q45-43 73-31Q48 10 15 45"/></g></g></svg>

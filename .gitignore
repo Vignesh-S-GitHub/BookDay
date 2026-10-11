@@ -1,14 +1,29 @@
-.venv/
+# Python-generated files
 __pycache__/
-*.py[cod]
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.venv-workers/
 node_modules/
 .wrangler/
 .deploy/
+python_modules/
+pylock.toml
 .env
 .dev.vars
 *.pem
 *.key
 output/
+.playwright-cli/
+output-tail.jsonl
 design-assets/
 BookDay_Style2_Complete_Assets.zip
 ChatGPT Image*.png
+.coverage
+.pytest_cache/
+.ruff_cache/

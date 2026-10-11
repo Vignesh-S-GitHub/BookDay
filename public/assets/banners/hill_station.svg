@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640"><title>hill station</title><defs>
+ <linearGradient id="sky" x2=".8" y2="1"><stop stop-color="#5CA6CD"/><stop offset=".65" stop-color="#F3D6A8"/><stop offset="1" stop-color="#52756D"/></linearGradient>
+ <linearGradient id="lake" x2=".7" y2="1"><stop stop-color="#2F8C99"/><stop offset="1" stop-color="#102D51"/></linearGradient>
+ <linearGradient id="ground" x2="1" y2="1"><stop stop-color="#39596D"/><stop offset="1" stop-color="#243355"/></linearGradient>
+ </defs><rect width="1280" height="640" fill="url(#sky)"/>
+ <circle cx="1060" cy="156" r="74" fill="#FFE4A0" opacity=".86"/><circle cx="1060" cy="156" r="116" fill="#FDE8B8" opacity=".16"/>
+ <path d="M0 235q180-70 350 5t320-10 610 21" stroke="#FFE1AE" stroke-width="13" opacity=".13" fill="none"/>
+ <path d="M0 420Q130 270 255 345T520 317T790 355T1070 310T1280 349V640H0Z" fill="#8B7B88"/><path d="M0 495Q130 405 255 420T520 392T790 430T1070 385T1280 424V640H0Z" fill="#547B87"/><path d="M0 590Q130 440 255 515T520 487T790 525T1070 480T1280 519V640H0Z" fill="#42694E"/><g transform="translate(86 350) scale(0.72)"><path d="M10 185Q-8 100 15 36" fill="none" stroke="#624B3A" stroke-width="16" stroke-linecap="round"/>
+ <g fill="#226B57"><path d="M15 40Q-68 5-85 70q60-17 100-24"/><path d="M15 40Q75-18 107 38q-46-4-92 8"/><path d="M15 42Q93 42 100 101Q61 60 15 48"/><path d="M15 42Q-28-36-62-16Q-20 16 15 48"/><path d="M15 42Q45-43 73-31Q48 10 15 45"/></g></g><g transform="translate(1195 360) scale(0.78)"><path d="M10 185Q-8 100 15 36" fill="none" stroke="#624B3A" stroke-width="16" stroke-linecap="round"/>
+ <g fill="#226B57"><path d="M15 40Q-68 5-85 70q60-17 100-24"/><path d="M15 40Q75-18 107 38q-46-4-92 8"/><path d="M15 42Q93 42 100 101Q61 60 15 48"/><path d="M15 42Q-28-36-62-16Q-20 16 15 48"/><path d="M15 42Q45-43 73-31Q48 10 15 45"/></g></g><path d="M500 640Q630 540 720 480t200-100" fill="none" stroke="#D4C3A2" stroke-width="72" opacity=".65"/></svg>
