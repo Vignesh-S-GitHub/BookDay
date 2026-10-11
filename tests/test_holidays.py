@@ -1,4 +1,6 @@
+import json
 from datetime import date
+from pathlib import Path
 
 from bookday.holidays import Holiday, applicable, demand_signal, long_weekends
 
@@ -20,6 +22,25 @@ def test_jurisdiction() -> None:
     rows = [holiday("2026-01-26"), holiday("2026-04-15", "Kerala")]
     assert len(applicable(rows, "Tamil Nadu")) == 1
     assert len(applicable(rows, "Kerala")) == 2
+
+
+def test_tamil_nadu_official_annual_schedule() -> None:
+    data = json.loads(
+        (Path(__file__).resolve().parents[1] / "public/data/holidays.json").read_text(
+            encoding="utf-8"
+        )
+    )
+    rows = applicable(data["records"], "Tamil Nadu")
+    rows = [row for row in rows if row["date"].startswith("2026")]
+    assert len(rows) == 25
+    by_name = {row["name"]: row for row in rows}
+    assert by_name["Pongal"]["date"] == "2026-01-15"
+    assert by_name["Ayutha Pooja"]["date"] == "2026-10-19"
+    assert by_name["Deepavali"]["date"] == "2026-11-08"
+    assert by_name["Tamil Nadu Assembly polling day"]["date"] == "2026-04-23"
+    assert by_name["Bank annual closing"]["type"] == "bank_holiday"
+    assert "721_Ex_II_1_2025.pdf" in by_name["Pongal"]["source"]
+    assert len({row["id"] for row in data["records"]}) == len(data["records"])
 
 
 def test_long_weekends_ignore_bank_festival_and_unverified() -> None:

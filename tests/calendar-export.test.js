@@ -25,6 +25,38 @@ const plan = {
     verification_status: "Verified policy",
   },
 };
+test("chosen reminder time is exported without changing provider opening time", () => {
+  const p = { ...plan, reminder_time: "09:15" };
+  const url = new URL(googleCalendarUrl(p));
+  assert.equal(
+    url.searchParams.get("dates"),
+    "20261213T034500Z/20261213T040000Z",
+  );
+  assert.match(
+    url.searchParams.get("details"),
+    /Booking opens: 2026-12-13 10:00/,
+  );
+  assert.match(url.searchParams.get("details"), /chosen reminder time: 09:15/);
+  assert.match(url.searchParams.get("text"), /booking reminder/);
+  assert.match(createICS(p), /DTSTART:20261213T034500Z/);
+  assert.equal(plan.result.opening_time, "10:00");
+});
+test("unknown provider time can have an explicit timed reminder", () => {
+  const p = {
+    ...plan,
+    reminder_time: "08:00",
+    result: { ...plan.result, opening_time: null },
+  };
+  assert.equal(
+    new URL(googleCalendarUrl(p)).searchParams.get("dates"),
+    "20261213T023000Z/20261213T024500Z",
+  );
+  assert.match(
+    new URL(googleCalendarUrl(p)).searchParams.get("details"),
+    /time unknown/,
+  );
+  assert.throws(() => createICS({ ...p, reminder_time: "24:00" }));
+});
 test("Google event uses opening, UTC timestamps, timezone and all supported fields", () => {
   const url = new URL(googleCalendarUrl(plan));
   assert.equal(url.hostname, "calendar.google.com");

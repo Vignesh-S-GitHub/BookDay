@@ -322,5 +322,311 @@
     "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square clean photographic flat lay of dark navy Indian passport with gold embossed Indian emblem and text 'PASSPORT' centered, lying diagonally on pale airline boarding passes and a small blue airplane icon, soft studio light. Match passport thumbnail. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
     "generatedBy": "Built-in image_gen",
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "agra_taj",
+    "path": "/art/banners/agra_taj.webp",
+    "width": 1280,
+    "height": 799,
+    "prompt": "Create a brand new wide scenic background for the BookDay mobile booking app. Subject: Taj Mahal, Agra, Uttar Pradesh: perfectly recognizable white marble mausoleum, elegant minarets and reflecting pool, warm orange and pink sunset, luxuriant gardens. Match the reference image's premium vivid photographic illustration / polished realistic 3D art style, cinematic warm golden sunset, exceptionally sharp clean details, rich natural colors, believable architecture and inviting Indian travel scenery. Landscape 16:10, full bleed. Main recognizable scenery in center/right; keep lower-left darker with natural shadows for readable overlaid white/yellow headline. NO text, typography, logos, phones, UI, borders, collages or watermarks. Reference is style only; this is a new separate place image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "jaipur_palace",
+    "path": "/art/banners/jaipur_palace.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Create a brand new wide scenic background for the BookDay mobile booking app. Subject: Jaipur, Rajasthan: recognizable Hawa Mahal intricate pink sandstone facade with many tiny windows, warm sunset light, sumptuous architectural detail. Match the reference image's premium vivid photographic illustration / polished realistic 3D art style, cinematic warm golden sunset, exceptionally sharp clean details, rich natural colors, believable architecture and inviting Indian travel scenery. Landscape 16:10, full bleed. Main recognizable scenery in center/right; keep lower-left darker with natural shadows for readable overlaid white/yellow headline. NO text, typography, logos, phones, UI, borders, collages or watermarks. Reference is style only; this is a new separate place image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "goa_coast",
+    "path": "/art/banners/goa_coast.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Create a brand new wide scenic background for the BookDay mobile booking app. Subject: Goa, India: beautiful tropical Arabian Sea beach, sweeping soft golden sand, coconut palm trees, turquoise waves and rocky coastal headland at golden sunset. Match the reference image's premium vivid photographic illustration / polished realistic 3D art style, cinematic warm golden sunset, exceptionally sharp clean details, rich natural colors, believable architecture and inviting Indian travel scenery. Landscape 16:10, full bleed. Main recognizable scenery in center/right; keep lower-left darker with natural shadows for readable overlaid white/yellow headline. NO text, typography, logos, phones, UI, borders, collages or watermarks. Reference is style only; this is a new separate place image.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "andhra_coast",
+    "path": "/art/banners/andhra_coast.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Andhra Pradesh, India. Tirupati golden temple gopuram with verdant Eastern Ghats beyond. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "arunachal_mountains",
+    "path": "/art/banners/arunachal_mountains.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Arunachal Pradesh, India. Tawang Buddhist monastery amid forested Himalayan peaks. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "assam_river",
+    "path": "/art/banners/assam_river.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Assam, India. majestic Brahmaputra river and green tea gardens. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "bihar_bodhgaya",
+    "path": "/art/banners/bihar_bodhgaya.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Bihar, India. Mahabodhi temple at Bodh Gaya surrounded by lush gardens. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "chhattisgarh_falls",
+    "path": "/art/banners/chhattisgarh_falls.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Chhattisgarh, India. wide Chitrakote waterfall amid lush forest. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "gujarat_rann",
+    "path": "/art/banners/gujarat_rann.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Gujarat, India. Great Rann of Kutch white salt desert reflecting golden sunset. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "haryana_gardens",
+    "path": "/art/banners/haryana_gardens.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Haryana, India. Pinjore Gardens terraces fountains and elegant historic pavilions. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "himachal_valley",
+    "path": "/art/banners/himachal_valley.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Himachal Pradesh, India. green mountain valley with deodar trees and distant snowy Himalayan peaks. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "jharkhand_falls",
+    "path": "/art/banners/jharkhand_falls.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Jharkhand, India. Hundru waterfall plunging into a rocky forest gorge. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "karnataka_hampi",
+    "path": "/art/banners/karnataka_hampi.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Karnataka, India. Hampi stone chariot and ornate Vijayanagara temple amid rocky hills. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "madhya_sanchi",
+    "path": "/art/banners/madhya_sanchi.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Madhya Pradesh, India. Sanchi great stupa and intricately carved stone gateways. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "maharashtra_mumbai",
+    "path": "/art/banners/maharashtra_mumbai.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Maharashtra, India. Gateway of India monument beside Mumbai harbor. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "manipur_lake",
+    "path": "/art/banners/manipur_lake.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Manipur, India. Loktak lake with circular green floating islands and peaceful blue water. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "meghalaya_bridge",
+    "path": "/art/banners/meghalaya_bridge.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Meghalaya, India. living root bridge crossing a green forest stream. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "mizoram_hills",
+    "path": "/art/banners/mizoram_hills.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Mizoram, India. lush rolling highland hills with distant hillside Aizawl houses. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "nagaland_valley",
+    "path": "/art/banners/nagaland_valley.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Nagaland, India. Dzukou valley green rounded mountains with scattered flowers. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "odisha_konark",
+    "path": "/art/banners/odisha_konark.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Odisha, India. Konark sun temple ornate carved stone chariot wheels. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "punjab_amritsar",
+    "path": "/art/banners/punjab_amritsar.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Punjab, India. Amritsar Golden Temple reflected in still sacred water. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "sikkim_mountains",
+    "path": "/art/banners/sikkim_mountains.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Sikkim, India. Himalayan Buddhist monastery with distant snowy Kanchenjunga peaks. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "telangana_hyderabad",
+    "path": "/art/banners/telangana_hyderabad.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Telangana, India. Hyderabad Charminar monument elegant symmetrical four minarets. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "tripura_palace",
+    "path": "/art/banners/tripura_palace.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Tripura, India. Ujjayanta Palace white domes and lovely lake gardens. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "uttarakhand_river",
+    "path": "/art/banners/uttarakhand_river.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Uttarakhand, India. Rishikesh Ganges river with suspension bridge and green Himalayan foothills. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "bengal_kolkata",
+    "path": "/art/banners/bengal_kolkata.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, West Bengal, India. Victoria Memorial white marble domed building and lush garden reflecting pool. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "andaman_beach",
+    "path": "/art/banners/andaman_beach.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Andaman and Nicobar Islands, India. pristine Radhanagar beach white sand turquoise water and tropical forest. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "chandigarh_lake",
+    "path": "/art/banners/chandigarh_lake.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Chandigarh, India. Sukhna Lake peaceful water with distant Shivalik hills. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "daman_diu",
+    "path": "/art/banners/daman_diu.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Dadra and Nagar Haveli and Daman and Diu, India. Diu Portuguese coastal stone fort facing turquoise Arabian Sea. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "delhi_gate",
+    "path": "/art/banners/delhi_gate.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Delhi, India. India Gate sandstone memorial and broad tree lined ceremonial avenue. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "kashmir_lake",
+    "path": "/art/banners/kashmir_lake.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Jammu and Kashmir, India. Dal Lake wooden houseboat and shikara with snow capped mountain backdrop. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "ladakh_monastery",
+    "path": "/art/banners/ladakh_monastery.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Ladakh, India. Thiksey monastery white hillside buildings above arid Himalayan valley. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "lakshadweep_lagoon",
+    "path": "/art/banners/lakshadweep_lagoon.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Lakshadweep, India. coral atoll turquoise lagoon palm covered island and pristine sand. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "puducherry_coast",
+    "path": "/art/banners/puducherry_coast.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Brand new wide premium BookDay travel background, Puducherry, India. French Quarter mustard yellow colonial house bougainvillea and palm lined seafront. Match reference's vivid polished photographic / realistic 3D illustration style, warm cinematic golden sunset, sharp clean detailed architecture and nature, inviting travel scenery, believable proportions. Full bleed landscape 16:10; main scenery centered/right, natural dark lower-left for overlaid headline. No text, logos, typography, borders, UI, phones, collage or watermarks. Reference is ONLY visual style; generate this distinct new place.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   }
 ]

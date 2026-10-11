@@ -257,6 +257,255 @@ main {
   color: white;
   margin: 4px 0 0;
 }
+.hero-carousel {
+  touch-action: pan-y;
+}
+.hero-carousel .bd-hero-content {
+  padding-bottom: 34px;
+}
+.carousel-image {
+  opacity: 0;
+  transition: opacity 700ms ease;
+}
+.carousel-image.is-active {
+  opacity: 1;
+}
+.carousel-dots {
+  position: absolute;
+  z-index: 2;
+  bottom: 0;
+  left: 12px;
+  display: flex;
+}
+.carousel-dots button {
+  width: 28px;
+  height: 30px;
+  border: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  background: transparent;
+}
+.carousel-dots span {
+  width: 8px;
+  height: 8px;
+  border-radius: 8px;
+  background: #ffffff80;
+}
+.carousel-dots [aria-pressed="true"] span {
+  width: 16px;
+  background: white;
+}
+.carousel-pause {
+  position: absolute;
+  z-index: 2;
+  top: 10px;
+  right: 10px;
+  color: white;
+  font-size: 11px;
+  padding: 6px 10px;
+  border-radius: 20px;
+  border: 1px solid #ffffff60;
+  background: #07123170;
+}
+.hero-carousel button:focus-visible {
+  outline: 3px solid #ffd76a;
+  outline-offset: -3px;
+}
+.bd-hero h1 .destination-name {
+  color: white;
+}
+.theme-select {
+  display: block;
+  position: relative;
+  min-width: 0;
+}
+.native-select {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  clip-path: inset(50%);
+  overflow: hidden;
+  padding: 0 !important;
+  border: 0 !important;
+}
+.select-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 6px;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+  font-family: inherit;
+}
+.select-value {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+.select-trigger .icon {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  transform: rotate(90deg);
+}
+.state-pill .theme-select {
+  max-width: 110px;
+}
+.state-pill .select-trigger {
+  padding: 0;
+  min-height: 26px;
+  border: 0;
+  background: transparent;
+  font-size: 12px;
+  margin: 0;
+  border-radius: 12px;
+}
+.control-dialog {
+  max-width: 420px;
+  padding: 18px;
+  width: calc(100% - 32px);
+  max-height: min(650px, 85dvh);
+  border-radius: 24px;
+  color: var(--bd-text);
+  background: var(--bd-surface);
+}
+.control-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.control-heading h2 {
+  font-size: 19px;
+  margin: 0;
+}
+.control-heading button {
+  font-size: 28px;
+}
+.control-options {
+  display: grid;
+  gap: 5px;
+  margin-top: 12px;
+  max-height: 55dvh;
+  overflow-y: auto;
+}
+.control-options button {
+  border: 1px solid transparent;
+  background: var(--bd-canvas);
+  color: var(--bd-text);
+  border-radius: 13px;
+  padding: 12px 14px;
+  text-align: left;
+  font: inherit;
+  min-height: 44px;
+}
+.control-options [aria-selected="true"] {
+  background: var(--bd-pale-blue);
+  color: #0057ff;
+  border-color: #b2d0ff;
+  font-weight: 700;
+}
+.control-options button:focus-visible {
+  outline: 2px solid var(--bd-primary);
+  outline-offset: -2px;
+}
+.control-options [hidden] {
+  display: none;
+}
+.number-control {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  width: 100%;
+}
+.number-control .bd-input {
+  min-width: 0;
+  text-align: center;
+  flex: 1;
+  width: 0;
+  appearance: textfield;
+}
+.number-control input::-webkit-inner-spin-button,
+.number-control input::-webkit-outer-spin-button {
+  appearance: none;
+  margin: 0;
+}
+.number-step {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  border: 0;
+  border-radius: 10px;
+  color: var(--bd-primary);
+  background: var(--bd-pale-blue);
+  font:
+    700 19px Roboto,
+    sans-serif;
+}
+.field-help {
+  font-size: 10px;
+  color: var(--bd-muted);
+  margin: 0 8px 2px 53px;
+}
+.reminder-summary {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  color: var(--bd-muted);
+}
+.reminder-summary .icon {
+  width: 17px;
+  height: 17px;
+  color: var(--bd-primary);
+}
+input[type="time"],
+input[type="date"] {
+  font-family: inherit;
+  color: var(--bd-text);
+  color-scheme: light;
+}
+.dark input[type="time"],
+.dark input[type="date"] {
+  color-scheme: dark;
+}
+.bd-input:focus-visible,
+.number-step:focus-visible {
+  outline: 2px solid var(--bd-primary);
+  outline-offset: 2px;
+}
+.insights-filters {
+  grid-template-columns: 1.2fr 1.15fr 1fr;
+}
+.insights-filters .number-control {
+  gap: 1px;
+}
+.insights-filters .number-step {
+  width: 22px;
+  height: 28px;
+  font-size: 16px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .carousel-image {
+    transition: none;
+  }
+}
+@media (max-width: 374px) {
+  .state-pill .theme-select {
+    max-width: 88px;
+  }
+  .state-pill .select-trigger {
+    font-size: 10px;
+  }
+  .insights-filters .number-step {
+    width: 18px;
+  }
+}
 .hero-pagination {
   position: relative;
   margin: -29px 0 22px 17px;
@@ -2524,4 +2773,164 @@ main:focus {
 .day:has(.dots .icon) .dots {
   height: 13px;
   line-height: 13px;
+}
+
+/* Shared destination banner and mobile stay controls. */
+body[data-route="insights"] .bd-hero,
+body[data-route="insights"] .bd-hero-content {
+  min-height: 211px;
+}
+body[data-route="insights"] .bd-hero h1 {
+  font-size: clamp(26px, 8vw, 48px);
+}
+body[data-route="insights"] .bd-hero h1 small {
+  display: block;
+  font-size: 12px;
+  color: white;
+  line-height: 1;
+}
+body[data-route="insights"] .bd-hero h1 br {
+  display: none;
+}
+body[data-route="insights"] .destination-name {
+  overflow-wrap: anywhere;
+}
+body[data-route="insights"] .insights-filters {
+  grid-template-columns: 1.15fr 1.25fr 1fr;
+}
+body[data-route="insights"] .insights-filters .number-control input {
+  min-width: 24px;
+  padding: 0;
+  width: 24px;
+  font-size: 12px;
+}
+body[data-route="insights"]
+  .insights-filters
+  label:last-of-type
+  > .category-symbol {
+  display: none;
+}
+body[data-route="insights"]
+  .insights-filters
+  label:last-of-type
+  > span:last-child {
+  width: 100%;
+}
+.month-controls .theme-select .select-trigger {
+  border: 0;
+  padding: 0;
+  font-size: inherit;
+  background: transparent;
+  margin: 0;
+}
+.month-controls .theme-select {
+  flex: 1;
+}
+@media (max-width: 374px) {
+  body[data-route="insights"] .insights-filters {
+    grid-template-columns: 1fr 1.2fr 0.9fr;
+  }
+}
+
+.picker-field {
+  position: relative;
+}
+.picker-field input[type="date"],
+.picker-field input[type="time"] {
+  padding-right: 25px;
+}
+.picker-field input::-webkit-calendar-picker-indicator {
+  opacity: 0;
+  pointer-events: none;
+  width: 0;
+  margin: 0;
+  padding: 0;
+}
+.picker-trigger {
+  position: absolute;
+  right: 2px;
+  bottom: 3px;
+  width: 24px;
+  min-height: 27px;
+  padding: 3px;
+  border: 0;
+  background: transparent;
+  color: var(--bd-primary);
+  display: grid;
+  place-items: center;
+  z-index: 2;
+}
+.picker-trigger .icon {
+  width: 18px;
+  height: 18px;
+}
+.picker-month-controls {
+  display: grid;
+  grid-template-columns: 24px 1fr 1.2fr 24px;
+  align-items: center;
+  gap: 6px;
+  margin: 12px 0;
+}
+.picker-month-controls label {
+  min-width: 0;
+  font-size: 11px;
+  color: var(--bd-muted);
+}
+.picker-month-controls .bd-input {
+  font-size: 12px;
+  padding: 7px 4px;
+  min-height: 38px;
+}
+.picker-month-controls .number-step {
+  width: 24px;
+}
+.picker-date-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+  text-align: center;
+}
+.picker-date-grid > span {
+  color: var(--bd-muted);
+  padding: 8px 0;
+}
+.picker-date-grid button {
+  min-width: 0;
+  min-height: 38px;
+  border: 0;
+  border-radius: 12px;
+  background: var(--bd-canvas);
+}
+.picker-date-grid [aria-pressed="true"] {
+  color: white;
+  background: var(--bd-primary);
+}
+.picker-date-grid .outside-month {
+  color: var(--bd-muted);
+  opacity: 0.65;
+}
+.time-controls {
+  display: grid;
+  grid-template-columns: 1fr 1fr 0.8fr;
+  gap: 12px;
+  margin: 18px 0;
+}
+.time-controls label {
+  min-width: 0;
+  color: var(--bd-muted);
+}
+.time-controls .number-control {
+  flex-wrap: wrap;
+}
+.time-controls .number-control input {
+  order: -1;
+  width: 100%;
+  flex-basis: 100%;
+  font-size: 24px;
+}
+.time-controls .number-step {
+  flex: 1;
+}
+.date-time-dialog .select-trigger {
+  border-radius: 12px;
 }

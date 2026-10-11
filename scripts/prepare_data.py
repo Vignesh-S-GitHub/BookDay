@@ -177,6 +177,72 @@ holidays.append(
         note="Commercial and cooperative banks; not a general public holiday.",
     )
 )
+tn_source = (
+    "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf"
+)
+# Gazette No. 721, G.O. Ms. 708, 11 November 2025; annexure transcribed
+# from the official downloaded PDF. Annual schedule only, not later local orders.
+for day, name, festival in [
+    ("01-01", "New Year's Day", True),
+    ("01-15", "Pongal", True),
+    ("01-16", "Thiruvalluvar Day", False),
+    ("01-17", "Uzhavar Thirunal", True),
+    ("02-01", "Thai Poosam", True),
+    ("03-19", "Telugu New Year's Day", True),
+    ("03-21", "Ramzan (Idu'l Fitr)", True),
+    ("03-31", "Mahaveer Jayanthi", True),
+    ("04-03", "Good Friday", True),
+    ("04-14", "Tamil New Year's Day / Dr. B. R. Ambedkar's Birthday", True),
+    ("05-01", "May Day", False),
+    ("05-28", "Bakrid (Idul Azha)", True),
+    ("06-26", "Muharram", True),
+    ("08-26", "Milad-un-Nabi", True),
+    ("09-04", "Krishna Jayanthi", True),
+    ("09-14", "Vinayakar Chathurthi", True),
+    ("10-19", "Ayutha Pooja", True),
+    ("10-20", "Vijaya Dasami", True),
+    ("11-08", "Deepavali", True),
+    ("12-25", "Christmas", True),
+]:
+    holidays.append(
+        record(
+            "2026-" + day,
+            name,
+            ["Tamil Nadu"],
+            "state_public",
+            tn_source,
+            festival,
+            "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+        )
+    )
+holidays.append(
+    record(
+        "2026-04-01",
+        "Bank annual closing",
+        ["Tamil Nadu"],
+        "bank_holiday",
+        tn_source,
+        note="Commercial and cooperative banks only; not a general state-office holiday.",
+    )
+)
+# National entries already represent Republic Day, Independence Day and Gandhi Jayanti.
+holidays.append(
+    record(
+        "2026-04-23",
+        "Tamil Nadu Assembly polling day",
+        ["Tamil Nadu"],
+        "state_public",
+        "https://www.stationeryprinting.tn.gov.in/extraordinary/2026/208_Ex_II_1_2026.pdf",
+        note="Statewide polling-day public holiday under G.O. Ms. 239, 26 March 2026. Limited constituency bye-election closures are not treated as statewide holidays.",
+    )
+)
+# Keep separate jurisdiction-specific IDs for holidays with the same name/date.
+for item in holidays:
+    item["id"] = (
+        str(item["id"])
+        + "-"
+        + "-".join(item["jurisdictions"]).lower().replace(" ", "-")
+    )
 data_dir = ROOT / "public" / "data"
 data_dir.mkdir(parents=True, exist_ok=True)
 for filename, value in [
@@ -185,11 +251,13 @@ for filename, value in [
         "holidays.json",
         {
             "version": 1,
-            "coverage": "Curated examples: annual national holidays for 2026–2027 and selected Kerala 2026 records. State/UT, school, district and festival coverage is incomplete. Absence of a record does not mean a working day.",
+            "coverage": "Tamil Nadu 2026 annual public-holiday schedule (Gazette 721 / G.O. 708) plus the statewide 23 April polling holiday (Gazette 208 / G.O. 239), annual national holidays for 2026–2027, and selected Kerala 2026 records. Other state/UT schedules, later local orders, constituency-only election closures, school and district holidays are not complete. No 2027 state schedule is assumed. Absence of a record does not mean a working day.",
             "records": sorted(holidays, key=lambda item: item["date"]),
         },
     ),
 ]:
     (data_dir / filename).write_text(
-        json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+        newline="\n",
     )

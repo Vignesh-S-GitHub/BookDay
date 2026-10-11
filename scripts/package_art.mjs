@@ -5,7 +5,12 @@ import { resolve } from "node:path";
 // Packaging only: preserve generated content; resize and encode for delivery.
 const manifest = JSON.parse(await readFile(process.argv[2], "utf8"));
 const publicDir = resolve("public");
-const report = [];
+const previous = JSON.parse(
+  await readFile(resolve("docs/artwork.json"), "utf8"),
+);
+const report = previous.filter(
+  (item) => !manifest.some((asset) => asset.name === item.name),
+);
 for (const item of manifest) {
   const folder =
     item.type === "category"

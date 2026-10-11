@@ -31,6 +31,28 @@ async function regression(page) {
     await goto("home");
     await assets();
     check(
+      (await p.locator("[data-slide-to]").count()) === 5,
+      "Five carousel scenes",
+    );
+    await p.getByRole("button", { name: "Show Goa scenery" }).click();
+    check(
+      (await p.locator(".hero-carousel").getAttribute("data-slide")) === "4",
+      "Manual carousel navigation",
+    );
+    check(
+      (
+        await p.locator(".carousel-image.is-active").getAttribute("src")
+      ).includes("goa_coast"),
+      "Carousel image changes",
+    );
+    await p.getByRole("button", { name: "Play scenery carousel" }).click();
+    await p.getByRole("button", { name: "Pause scenery carousel" }).click();
+    await p
+      .getByRole("button", { name: "Home state or Union Territory" })
+      .click();
+    await p.getByRole("searchbox", { name: "Search choices" }).fill("Kerala");
+    await p.getByRole("option", { name: "Kerala", exact: true }).click();
+    check(
       (await p.locator(".quick .category").count()) === 8,
       "Home categories",
     );
@@ -68,6 +90,21 @@ async function regression(page) {
       .evaluateAll((es) => es.map((e) => e.hash.split("/").at(-1)));
     for (const cat of cats) {
       await goto("book/" + cat);
+      check(
+        await p.locator("[name=reminder_time]").isVisible(),
+        "Visible reminder time: " + cat,
+      );
+      check(
+        await p
+          .locator("[name=reminder_time]")
+          .evaluate((input) => input.required),
+        "Required reminder time: " + cat,
+      );
+      check(
+        (await p.locator("[name=origin]").count()) ===
+          (["trains", "flights", "buses"].includes(cat) ? 1 : 0),
+        "Purpose-specific route: " + cat,
+      );
       await p.locator("[name=event_date]").fill("2026-12-15");
       await p.locator(".find-date").click();
       await p.waitForURL("**/#/result");
@@ -119,8 +156,8 @@ async function regression(page) {
     await p.locator("[data-action=calendar]").click();
     let url = new URL(await p.locator("#google-calendar").getAttribute("href"));
     check(
-      url.searchParams.get("dates") === "20261016/20261017",
-      "All-day Google opening",
+      url.searchParams.get("dates") === "20261016T023000Z/20261016T024500Z",
+      "Chosen reminder time Google export",
     );
     await p.locator("#close-dialog").click();
     await p.locator("[data-action=edit]").click();
@@ -148,8 +185,8 @@ async function regression(page) {
     await p.locator("[data-action=calendar]").click();
     url = new URL(await p.locator("#google-calendar").getAttribute("href"));
     check(
-      url.searchParams.get("dates") === "20261213T053000Z/20261213T054500Z",
-      "IST to UTC opening",
+      url.searchParams.get("dates") === "20261213T023000Z/20261213T024500Z",
+      "Saved reminder time preserved separately from Tatkal opening",
     );
     await p
       .getByRole("checkbox", { name: "1 day before", exact: true })
@@ -268,8 +305,47 @@ async function regression(page) {
       "Reminder defaults",
     );
     await goto("insights");
+    await p.locator("[name=state]").selectOption("Tamil Nadu");
+    await p.locator("[name=date]").fill("2026-01-15");
+    check(
+      (await p.locator("#insights-result").innerText()).includes("Pongal"),
+      "Tamil Nadu holiday insight",
+    );
+    await p.locator("[name=state]").selectOption("Goa");
+    check(
+      (await p.locator(".bd-hero img").getAttribute("src")).includes(
+        "goa_coast",
+      ),
+      "Dynamic destination scenery",
+    );
+    await p.locator("[name=date]").fill("2026-12-20");
+    await p
+      .getByRole("button", { name: "Increase Stay duration in days" })
+      .click();
+    check(
+      (await p.locator("[name=duration]").inputValue()) === "4",
+      "Themed stay stepper",
+    );
+    await p.getByRole("button", { name: "Track This Trip" }).click();
+    await p.waitForURL("**/#/book/hotels");
+    check(
+      (await p.locator("[name=destination]").inputValue()) === "Goa",
+      "Trip place handoff",
+    );
+    check(
+      (await p.locator("[name=event_date]").inputValue()) === "2026-12-20",
+      "Trip date handoff",
+    );
+    check(
+      (await p.locator("[name=duration]").inputValue()) === "4",
+      "Trip nights handoff",
+    );
+    await goto("insights");
+    await p.locator("[name=state]").selectOption("Kerala");
     await p.locator("[name=date]").fill("2026-12-25");
-    await p.locator("#insights-form button").click();
+    await p
+      .getByRole("button", { name: "Update insights", exact: true })
+      .click();
     check(
       (await p.locator("#insights-result").innerText()).includes("Christmas"),
       "Christmas insight",
@@ -321,8 +397,9 @@ async function regression(page) {
       }
     }
     await goto("saved");
-    await p.evaluate(() => navigator.serviceWorker.ready);
-    await p.waitForFunction(() => navigator.serviceWorker.controller);
+    await p.waitForFunction(() => navigator.serviceWorker.controller, null, {
+      timeout: 45000,
+    });
     await context.setOffline(true);
     await p.reload();
     await p.waitForFunction(() => !document.querySelector(".loading"));

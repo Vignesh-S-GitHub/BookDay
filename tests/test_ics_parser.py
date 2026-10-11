@@ -11,7 +11,12 @@ OUTPUT = Path(__file__).resolve().parents[1] / "output"
 @pytest.fixture(scope="module", autouse=True)
 def generate_calendar_files() -> None:
     subprocess.run(
-        ["node", "--test", "tests/calendar-export.test.js"],
+        [
+            "node",
+            "--test",
+            "tests/calendar-export.test.js",
+            "tests/booking-fields.test.js",
+        ],
         cwd=OUTPUT.parent,
         check=True,
         capture_output=True,

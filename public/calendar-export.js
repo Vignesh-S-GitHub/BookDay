@@ -2,7 +2,7 @@
 export function eventFields(plan) {
   if (!plan.result.opening_date)
     throw new Error("An opening date is needed for calendar export.");
-  const title = `BookDay: ${plan.categoryLabel} booking opens${plan.title && plan.title !== plan.categoryLabel + " booking opens" ? " — " + plan.title : ""}`;
+  const title = `BookDay: ${plan.categoryLabel} ${plan.reminder_time ? "booking reminder" : "booking opens"}${plan.title && plan.title !== plan.categoryLabel + " booking opens" ? " — " + plan.title : ""}`;
   const location = [plan.origin, plan.destination].filter(Boolean).join(" → ");
   const description = [
     "Booking opens: " +
@@ -11,6 +11,13 @@ export function eventFields(plan) {
         ? " " + plan.result.opening_time + " Asia/Kolkata"
         : " (time unknown; all-day reminder)"),
     "Journey/event date: " + plan.event_date,
+    plan.reminder_time
+      ? "Your chosen reminder time: " +
+        plan.reminder_time +
+        " IST (not a provider opening-time claim)"
+      : "",
+    plan.duration ? "Stay: " + plan.duration + " nights" : "",
+    plan.quantity ? "People / tickets: " + plan.quantity : "",
     "Applied rule: " + plan.result.rule,
     "Verification: " + (plan.result.verification_status || "Rule Unverified"),
     "Service: " + (plan.service || plan.categoryLabel),
@@ -20,14 +27,13 @@ export function eventFields(plan) {
   ]
     .filter(Boolean)
     .join("\n");
-  const allDay = !plan.result.opening_time;
+  const time = plan.reminder_time || plan.result.opening_time;
+  if (time && !/^([01]\d|2[0-3]):[0-5]\d$/.test(time))
+    throw new Error("Reminder time must be a valid HH:mm time.");
+  const allDay = !time;
   const start = allDay
     ? plan.result.opening_date.replaceAll("-", "")
-    : stamp(
-        new Date(
-          `${plan.result.opening_date}T${plan.result.opening_time}:00+05:30`,
-        ),
-      );
+    : stamp(new Date(`${plan.result.opening_date}T${time}:00+05:30`));
   const end = allDay
     ? stamp(
         new Date(
@@ -36,9 +42,7 @@ export function eventFields(plan) {
       ).slice(0, 8)
     : stamp(
         new Date(
-          Date.parse(
-            `${plan.result.opening_date}T${plan.result.opening_time}:00+05:30`,
-          ) + 900000,
+          Date.parse(`${plan.result.opening_date}T${time}:00+05:30`) + 900000,
         ),
       );
   return { title, location, description, allDay, start, end };

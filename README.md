@@ -26,12 +26,12 @@ Deployment uses `workers.asgi.entrypoint(app)` and Workers Static Assets, routin
 
 ## Features and data
 
-- All 14 categories share one functional calculator. Provider windows are unknown by default outside the standard railway workflow.
+- All 14 categories use service-specific date, location and service fields over the shared date engine. Only transport forms show From/To. Hotels use Place, Check-in Date, Nights and Guests; every form has a required reminder time (IST). Provider windows are unknown by default outside the standard railway workflow.
 - Day subtraction, clipped calendar months, fixed dates, recurring weekdays/month days, and Tatkal using origin-station departure and AC/non-AC times. Recurring rules find the latest matching date on or before the event. User rules are labelled unverified.
 - Calendar state selection covers all 28 states and 8 UTs, with a destination overlay, keyboard day navigation, independent layers, derived long weekends and explained calendar demand signals.
-- Curated records include annual national holidays for 2026–2027 and selected Kerala 2026 records. This is an incomplete example dataset, with official URLs, jurisdiction, type, status and review date in each record. State and festival coverage is not complete. Bank holidays never create general long weekends; religious festivals alone never imply public holidays.
+- Reviewed records include the Tamil Nadu 2026 annual public-holiday schedule, annual national holidays for 2026–2027 and selected Kerala 2026 records. Other state/UT, district, school and future-year coverage remains incomplete, with official URLs, jurisdiction, type, status and review date in each record. State and festival coverage is not complete. Bank holidays never create general long weekends; religious festivals alone never imply public holidays.
 - Versioned, validated localStorage keeps plans and settings on the device. Saved plans can be edited, completed, deleted, shared and exported. This is not cross-device sync.
-- Google Calendar opens its populated editor using the booking **opening** date/time. The user saves there; Google manages its own notification defaults. BookDay cannot know whether that Save occurred.
+- Google Calendar opens its populated editor on the booking **opening** date at the chosen reminder time. Provider opening time remains separately identified. Legacy plans without a chosen time preserve their timed/all-day behavior. The user saves there; Google manages its own notification defaults. BookDay cannot know whether that Save occurred.
 - ICS exports use RFC 5545 escaping, UTF-8 octet folding, CRLF, stable UUID UIDs, UTC timed events or exclusive all-day dates, and selectable VALARM offsets. System file sharing is used where supported; download is always available. Client import/notification behavior varies.
 - Dark mode, visible Home categories, reminder defaults, PWA app shell and explicit update action. New calculations require connectivity; cached saved plans and exports remain usable offline after an initial successful visit.
 
@@ -65,7 +65,7 @@ A conventional ASGI host can use the same entrypoint and date logic. For a produ
 
 Plans, routes, titles, reminder offsets and settings are device-local. Calculation requests send only dates, rule values and category. Calendar export/share sends the selected fields to the user's chosen destination. Cloudflare handles request metadata and operational logs; the application does not log form bodies. Roboto is bundled locally under its SIL Open Font License, including offline use.
 
-No live prices, seats, slot availability, automatic purchases, sign-in, push/email/Telegram delivery or background reminder scheduler is implemented. Calendar apps deliver reminders after save/import according to their settings. All artwork was newly generated from the eight screenshot references; the supplied design-kit assets are no longer served. The mobile layouts preserve the references' colors, card arrangement and visual hierarchy, with dynamic dates and truthful service behavior. The device bezel and operating-system status bar belong to the reference mockups and are not drawn into the web app. HTMX's license is included in `public/vendor/HTMX-LICENSE.txt`.
+No live prices, seats, slot availability, automatic purchases, sign-in, push/email/Telegram delivery or background reminder scheduler is implemented. Calendar apps deliver reminders after save/import according to their settings. All artwork was newly generated from the eight screenshot references; the five-scene Home carousel supports automatic/manual navigation, pause/play and swipe, and all 36 state/UT travel selections update original scenery and destination copy. Travel selection hands destination/date/nights to the hotel planner. Shared searchable dropdowns, date/time pickers and number steppers match the theme; the supplied design-kit assets are no longer served. The mobile layouts preserve the references' colors, card arrangement and visual hierarchy, with dynamic dates and truthful service behavior. The device bezel and operating-system status bar belong to the reference mockups and are not drawn into the web app. HTMX's license is included in `public/vendor/HTMX-LICENSE.txt`.
 
 ## Artwork and browser regression
 
@@ -79,3 +79,11 @@ npx --yes --package @playwright/cli playwright-cli run-code --filename tests/ui-
 ```
 
 Use an isolated test browser. The suite creates a temporary browser context and does not alter the normal user's plans. Local visual captures are saved under ignored `output/playwright/`. Physical calendar-client checks and Cloudflare CPU limitations are described in the QA and deployment notes.
+
+### Themed control regression
+
+After opening the running app with Playwright CLI: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/controls-regression.js`. This exercises searchable destinations, steppers, trip handoff, required reminder time and the shared date/time pickers.
+
+All-state banner and verified-calendar regression: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/destination-regression.js`.
+
+Carousel autoplay, pause, swipe and reduced-motion regression: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/carousel-regression.js`.
