@@ -242,6 +242,19 @@ def parse_row(raw: dict, year: int, state: str, aliases: dict[str, str]) -> dict
     if not name or len(name) > 300 or "<" in name or ">" in name:
         raise ValueError("Invalid holiday title")
     identity = festival_id(name, aliases)
+    secondary = bool(
+        re.search(
+            r"\b(?:eve|saptami|first onam|second onam|third onam|fourth onam|maundy|uzhavar|thiruvalluvar|mattu|kaanum)\b",
+            name,
+            re.I,
+        )
+    )
+    secondary = secondary or (
+        identity == "dussehra"
+        and bool(re.search(r"\b(?:ashtami|ashtmi|mahanavami|mahanavmi)\b", name, re.I))
+    )
+    if state == "IN" and secondary:
+        return None  # The illustrated guide shows main festivals, not preceding days.
     national = slug(name) in NATIONAL
     if national:
         if kind != "gazetted":
@@ -281,6 +294,7 @@ def parse_row(raw: dict, year: int, state: str, aliases: dict[str, str]) -> dict
         "source": source,
         "festival": bool(identity),
         "festival_id": identity,
+        "festival_primary": bool(identity) and not secondary,
         "district": "Region-specific; see official notice"
         if state == "Puducherry"
         else None,
@@ -373,9 +387,19 @@ def merge_records(approved: dict, automatic: dict) -> tuple[list[dict], list[dic
                 and (
                     slug(old["name"]) == slug(row["name"])
                     or (
-                        old["date"] == row["date"]
-                        and old.get("festival_id")
+                        old.get("festival_id")
                         and old.get("festival_id") == row.get("festival_id")
+                        and (
+                            old["date"] == row["date"]
+                            or (
+                                row.get("festival_primary")
+                                and not re.search(
+                                    r"\b(?:eve|saptami|first onam|second onam|third onam|fourth onam|maundy|uzhavar|thiruvalluvar|mattu|kaanum)\b",
+                                    old["name"],
+                                    re.I,
+                                )
+                            )
+                        )
                     )
                     or (
                         old["date"] == row["date"]

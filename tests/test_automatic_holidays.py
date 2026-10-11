@@ -158,6 +158,15 @@ def test_region_specific_days_and_multiple_dates_are_preserved() -> None:
     assert public == [first, second]
 
 
+@pytest.mark.parametrize(
+    "title", ["Christmas Eve", "Dussehra (Saptami)", "Dussehra (Mahanavmi)"]
+)
+def test_secondary_observances_do_not_replace_main_festival_dates(title) -> None:
+    row = raw()
+    row["attributes"]["title"] = title
+    assert automatic.parse_row(row, 2026, "IN", {}) is None
+
+
 def test_national_dates_are_not_duplicated_in_each_state() -> None:
     central = {
         "id": "national",
@@ -260,6 +269,15 @@ def test_changed_dates_replace_same_named_day_without_duplicates() -> None:
     records, guide = automatic.merge_records(baseline, {"records": [latest]})
     assert records == [latest] and guide == []
     assert baseline["records"] == [old]
+    renamed = {
+        **latest,
+        "name": "Deepavali",
+        "festival_id": "diwali",
+        "festival_primary": True,
+    }
+    baseline["records"][0]["festival_id"] = "diwali"
+    public, _ = automatic.merge_records(baseline, {"records": [renamed]})
+    assert public == [renamed]
 
 
 def test_workflow_publishes_daily_without_an_approval_or_cloudflare_secret() -> None:

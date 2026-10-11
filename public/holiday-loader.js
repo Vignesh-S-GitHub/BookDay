@@ -70,6 +70,8 @@ export class HolidayLoader {
     this.checkedAt = 0;
   }
   async liveResponse(url) {
+    if (globalThis.navigator?.onLine === false)
+      return await cachedResponse(url);
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), 2500);
     try {
@@ -110,7 +112,9 @@ export class HolidayLoader {
   async dataset(entry) {
     const url = this.base + entry.url;
     if (this.cache.has(url)) return this.cache.get(url);
-    const request = this.base ? this.liveResponse(url) : this.fetcher(url);
+    const request = this.base
+      ? cachedResponse(url).then((cached) => cached || this.liveResponse(url))
+      : this.fetcher(url);
     const promise = request.then(async (response) => {
       if (!response) throw Error("Annual dataset unavailable");
       if (!response.ok) throw Error("Annual dataset unavailable");
@@ -145,6 +149,7 @@ export class HolidayLoader {
       festival_calendar: [],
       festival_art: this.manifest.festival_art,
       festival_regions: this.manifest.festival_regions,
+      festival_regions_by_year: this.manifest.festival_regions_by_year,
       coverage: this.manifest.scope,
       festival_coverage:
         "Only validated, published year-specific dates are shown. Official calendars are checked automatically; unavailable years and regions retain their existing data.",

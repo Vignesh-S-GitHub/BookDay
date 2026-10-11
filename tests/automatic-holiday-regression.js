@@ -98,6 +98,14 @@ async function automaticHolidayRegression(page) {
     }
     for (const width of [320, 390, 1280]) {
       await p.setViewportSize({ width, height: 844 });
+      await p.evaluate(() => {
+        for (const image of document.images) image.loading = "eager";
+      });
+      await p.waitForFunction(() =>
+        [...document.images].every(
+          (image) => image.complete && image.naturalWidth > 0,
+        ),
+      );
       check(
         await p.evaluate(
           () => document.documentElement.scrollWidth <= innerWidth,

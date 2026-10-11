@@ -73,23 +73,47 @@ def publish(data=DATA, output=None) -> dict:
     approved["records"], approved["festival_calendar"] = merge_records(
         approved, automatic
     )
+    approved["festival_calendar"] = [
+        {
+            **row,
+            "source_title": row["name"],
+            "name": approved["festival_art"][row["festival_id"]]["name"],
+        }
+        if row.get("provenance", {}).get("review_decision") == "automatically_validated"
+        else row
+        for row in approved["festival_calendar"]
+    ]
     catalog = read(ROOT / "public/data/catalog.json")
     rows = approved["records"] + approved["festival_calendar"]
     public_ids = {row["id"] for row in approved["records"]}
     validate(rows, catalog["states"])
     report = coverage(rows, approved.get("schedules", []), catalog["states"])
-    festival_regions = {
-        state: sorted(
-            {
-                row["festival_id"]
-                for row in approved["records"]
-                if row.get("festival_id")
-                and row.get("festival")
-                and row["status"] == "official"
-                and state in row["jurisdictions"]
-            }
-        )
+    festival_regions_by_year = {
+        state: {
+            str(year): sorted(
+                {
+                    row["festival_id"]
+                    for row in approved["records"]
+                    if row.get("festival_id")
+                    and row.get("festival")
+                    and row["status"] == "official"
+                    and state in row["jurisdictions"]
+                    and row["date"].startswith(str(year))
+                }
+            )
+            for year in sorted(
+                {
+                    int(row["date"][:4])
+                    for row in approved["records"]
+                    if state in row["jurisdictions"]
+                }
+            )
+        }
         for state in catalog["states"]
+    }
+    festival_regions = {
+        state: years[max(years)] if years else []
+        for state, years in festival_regions_by_year.items()
     }
     version = digest({"approved": approved, "publication_schema": 2})[:20]
     # Content-addressed datasets prevent a cached manifest mixing old/new releases.
@@ -126,6 +150,7 @@ def publish(data=DATA, output=None) -> dict:
         "coverage": report,
         "festival_art": approved["festival_art"],
         "festival_regions": festival_regions,
+        "festival_regions_by_year": festival_regions_by_year,
         "changes": approved.get("changes", []),
         "automatic_updates": {
             "enabled": True,
@@ -143,6 +168,7 @@ def publish(data=DATA, output=None) -> dict:
             "version": 2,
             "publication_version": version,
             "festival_regions": festival_regions,
+            "festival_regions_by_year": festival_regions_by_year,
         },
     )
     write(data / "coverage.json", {"version": version, "rows": report})

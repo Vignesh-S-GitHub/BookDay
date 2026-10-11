@@ -1,5 +1,5 @@
 {
-  "version": "af5f90adfa4e786bc7d2",
+  "version": "b08b70082029f0abffff",
   "rows": [
     {
       "year": 2024,
@@ -24,7 +24,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 32,
+      "count": 30,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1691,7 +1691,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 33,
+      "count": 30,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3358,7 +3358,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 39,
+      "count": 36,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5026,7 +5026,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 36,
+      "count": 33,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },

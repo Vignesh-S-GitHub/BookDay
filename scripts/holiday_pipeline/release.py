@@ -11,10 +11,10 @@ BRANCH = "holiday-data"
 
 
 def git(
-    *args: str, cwd: Path = ROOT, check: bool = True
+    *args: str, cwd: Path | None = None, check: bool = True
 ) -> subprocess.CompletedProcess:
     return subprocess.run(
-        ["git", *args], cwd=cwd, check=check, capture_output=True, text=True
+        ["git", *args], cwd=cwd or ROOT, check=check, capture_output=True, text=True
     )
 
 

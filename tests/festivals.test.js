@@ -134,3 +134,22 @@ test("every published festival date has artwork, provenance and valid civil date
     assert.ok(row.note.length > 0);
   }
 });
+
+test("regional festival associations follow the selected year and last available local year", () => {
+  const annual = {
+    ...data,
+    festival_regions_by_year: {
+      "Tamil Nadu": { 2025: ["holi"], 2026: ["diwali"] },
+    },
+  };
+  assert.equal(rows("Tamil Nadu", 2026, "holi").length, 0);
+  const selected = calendarRecords(annual, "Tamil Nadu");
+  assert.equal(
+    selected.some((row) => row.festival_id === "holi"),
+    false,
+  );
+  assert.equal(
+    selected.filter((row) => row.festival_id === "diwali").length,
+    2,
+  );
+});
