@@ -1,0 +1,1396 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:47.358793+00:00",
+  "sha256": "58f465d5ecb8334301341d8fb0ed2d82e67143289b11ed4083109ee82dc0a86c",
+  "rows": [
+    {
+      "id": 3323,
+      "attributes": {
+        "title": "Magh Bihu & Tusu Puja",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.853Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3325,
+      "attributes": {
+        "title": "Netaji’s Birthday",
+        "date": "2025-01-23",
+        "updatedAt": "2025-01-28T17:52:53.843Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3326,
+      "attributes": {
+        "title": "Republic day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.846Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3327,
+      "attributes": {
+        "title": "Gwthar Bathou San",
+        "date": "2025-01-28",
+        "updatedAt": "2025-01-28T17:52:53.850Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3328,
+      "attributes": {
+        "title": "Me-Dam -Me-Phi",
+        "date": "2025-01-31",
+        "updatedAt": "2025-01-28T17:52:53.844Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3329,
+      "attributes": {
+        "title": "Bir Chilaray Divas",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.844Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3330,
+      "attributes": {
+        "title": "Dol Jatra",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.845Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3331,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.845Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3332,
+      "attributes": {
+        "title": "Bohag Bihu",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.846Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3333,
+      "attributes": {
+        "title": "Bohag Bihu",
+        "date": "2025-04-15",
+        "updatedAt": "2025-01-28T17:52:53.847Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3334,
+      "attributes": {
+        "title": "Bohag Bihu",
+        "date": "2025-04-16",
+        "updatedAt": "2025-01-28T17:52:53.847Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3335,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.859Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3336,
+      "attributes": {
+        "title": "Sati Sadhini Divas",
+        "date": "2025-04-21",
+        "updatedAt": "2025-01-28T17:52:53.848Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3337,
+      "attributes": {
+        "title": "Tithi of Damodar Deva",
+        "date": "2025-04-28",
+        "updatedAt": "2025-01-28T17:52:53.848Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3338,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.849Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3339,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.849Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3341,
+      "attributes": {
+        "title": "Janmotsav of Sri Sri Madhabdeva",
+        "date": "2025-06-12",
+        "updatedAt": "2025-01-28T17:52:53.861Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3342,
+      "attributes": {
+        "title": "Independence day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.852Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3343,
+      "attributes": {
+        "title": "Tirubhav Tithi of Srimanta Sankardeva",
+        "date": "2025-08-25",
+        "updatedAt": "2025-01-28T17:52:53.864Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3344,
+      "attributes": {
+        "title": "Karam Puja",
+        "date": "2025-09-03",
+        "updatedAt": "2025-01-28T17:52:53.852Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3345,
+      "attributes": {
+        "title": "Tirubhav Tithi of Sri Sri Madhabdeva",
+        "date": "2025-09-12",
+        "updatedAt": "2025-01-28T17:52:53.863Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3346,
+      "attributes": {
+        "title": "Janmastomi",
+        "date": "2025-09-14",
+        "updatedAt": "2025-01-28T17:52:53.863Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3347,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2025-09-29",
+        "updatedAt": "2025-01-28T17:52:53.864Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3348,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.876Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3349,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.876Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3350,
+      "attributes": {
+        "title": "Vijaya Dashomi Janmotsav of Sri Sri Sankardeva / Birthday of Mahatma Gandhi",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.865Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3351,
+      "attributes": {
+        "title": "Kati Bihu",
+        "date": "2025-10-18",
+        "updatedAt": "2025-01-28T17:52:53.850Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3352,
+      "attributes": {
+        "title": "Kali Puja & Diwali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.850Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3353,
+      "attributes": {
+        "title": "Magh Bihu & Tusu Puja",
+        "date": "2025-01-15",
+        "updatedAt": "2025-01-28T17:52:53.851Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3354,
+      "attributes": {
+        "title": "Chhat Puja",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.855Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3355,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.855Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3356,
+      "attributes": {
+        "title": "Lachit Divas",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:53.855Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3357,
+      "attributes": {
+        "title": "Asom Divas( Su-Ka-Pha Divas)",
+        "date": "2025-12-02",
+        "updatedAt": "2025-01-28T17:52:53.854Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3358,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.859Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3359,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.861Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3360,
+      "attributes": {
+        "title": "Rongker Karkli",
+        "date": "2025-01-05",
+        "updatedAt": "2025-01-28T17:52:53.860Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3361,
+      "attributes": {
+        "title": "Uruka of Magh Bihu",
+        "date": "2025-01-13",
+        "updatedAt": "2025-01-28T17:52:53.871Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3362,
+      "attributes": {
+        "title": "Silpi Divas",
+        "date": "2025-01-17",
+        "updatedAt": "2025-01-28T17:52:53.861Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3363,
+      "attributes": {
+        "title": "Busu Dima Festival",
+        "date": "2025-01-27",
+        "updatedAt": "2025-01-28T17:52:53.856Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3364,
+      "attributes": {
+        "title": "Shab-E-Barat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.856Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3365,
+      "attributes": {
+        "title": "Karbi-Dehal-Kachir Dom",
+        "date": "2025-02-18",
+        "updatedAt": "2025-01-28T17:52:53.857Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3366,
+      "attributes": {
+        "title": "Ali-Aye-Ligang",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.857Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3367,
+      "attributes": {
+        "title": "Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.857Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3368,
+      "attributes": {
+        "title": "Khring Khring Baithow Puja",
+        "date": "2025-03-10",
+        "updatedAt": "2025-01-28T17:52:53.858Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3369,
+      "attributes": {
+        "title": "Id-ul –Zuha",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.858Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3370,
+      "attributes": {
+        "title": "Mahabir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.859Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3371,
+      "attributes": {
+        "title": "Deuri Bihu",
+        "date": "2025-04-16",
+        "updatedAt": "2025-01-28T17:52:53.865Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3372,
+      "attributes": {
+        "title": "Birthday of Gurudev Kalicharan Brahma",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.862Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3382,
+      "attributes": {
+        "title": "Bhatri Dwitiya",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.867Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3398,
+      "attributes": {
+        "title": "Lailatur Qadar",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.874Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3410,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2025-04-19",
+        "updatedAt": "2025-01-28T17:52:53.875Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3412,
+      "attributes": {
+        "title": "Sati Radhika Utsav",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.879Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3413,
+      "attributes": {
+        "title": "Motak Raja Swargodeo Sarvananda Singh Divas ",
+        "date": "2025-05-24",
+        "updatedAt": "2025-01-28T17:52:53.880Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3414,
+      "attributes": {
+        "title": "Tithi of Hari Dev",
+        "date": "2025-05-26",
+        "updatedAt": "2025-01-28T17:52:53.880Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3415,
+      "attributes": {
+        "title": "Birthday of Sri Sri Krishnaguru",
+        "date": "2025-06-03",
+        "updatedAt": "2025-01-28T17:52:53.880Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3416,
+      "attributes": {
+        "title": "Baikhowa Festival",
+        "date": "2025-06-11",
+        "updatedAt": "2025-01-28T17:52:53.881Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3417,
+      "attributes": {
+        "title": "Death Anniversary of Bishnu Prasad Rabha.",
+        "date": "2025-06-20",
+        "updatedAt": "2025-01-28T17:52:53.881Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3418,
+      "attributes": {
+        "title": "Hul Divas",
+        "date": "2025-06-30",
+        "updatedAt": "2025-01-28T17:52:53.882Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3419,
+      "attributes": {
+        "title": "Birthday of Nepali Poet Bhanu Bhakta Acharya",
+        "date": "2025-07-13",
+        "updatedAt": "2025-01-28T17:52:53.882Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3420,
+      "attributes": {
+        "title": "Death Anniversary of Bir Tikendrajit.",
+        "date": "2025-08-13",
+        "updatedAt": "2025-01-28T17:52:53.882Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3421,
+      "attributes": {
+        "title": "Nau Khai Festival.",
+        "date": "2025-08-28",
+        "updatedAt": "2025-01-28T17:52:53.887Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3422,
+      "attributes": {
+        "title": "Fateha-e-Dwaz – Daham",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.884Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3423,
+      "attributes": {
+        "title": "Birthday of Sri Sri Thakur Anukul Chandra",
+        "date": "2025-09-16",
+        "updatedAt": "2025-01-28T17:52:53.884Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3424,
+      "attributes": {
+        "title": "Abhibhav Tithi of Sri Sri Bhubaneswar Sadhu Thakur",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.903Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3425,
+      "attributes": {
+        "title": "Kuki Chavang kut",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:53.884Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3426,
+      "attributes": {
+        "title": "Wangala Festival",
+        "date": "2025-11-07",
+        "updatedAt": "2025-01-28T17:52:53.885Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3428,
+      "attributes": {
+        "title": "Death Anniversary of Guru Tegh\nBahadur Ji",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:53.908Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3429,
+      "attributes": {
+        "title": "Gaan Ngai",
+        "date": "2025-12-03",
+        "updatedAt": "2025-01-28T17:52:53.903Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3430,
+      "attributes": {
+        "title": "Sikpui Ruoi (Harvest Festival of Hmar community)",
+        "date": "2025-12-05",
+        "updatedAt": "2025-01-28T17:52:53.916Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3431,
+      "attributes": {
+        "title": "Martyr’s Day",
+        "date": "2025-12-10",
+        "updatedAt": "2025-01-28T17:52:53.886Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3432,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.886Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3439,
+      "attributes": {
+        "title": "Tithi of Gopal Dev",
+        "date": "2025-05-02",
+        "updatedAt": "2025-01-28T17:52:53.887Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3456,
+      "attributes": {
+        "title": "Bir Raghav Moran Divas",
+        "date": "2025-11-19",
+        "updatedAt": "2025-01-28T17:52:53.918Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "assam"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

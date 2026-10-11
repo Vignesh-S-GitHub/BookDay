@@ -1,0 +1,978 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:44.326333+00:00",
+  "sha256": "70782be0608afc777bf3ad524ab24ac041a2096c3673803994682c4399d56138",
+  "rows": [
+    {
+      "id": 819,
+      "attributes": {
+        "title": "Lohri (Jammu Province only)",
+        "date": "2024-01-13",
+        "updatedAt": "2025-01-28T17:52:52.733Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 820,
+      "attributes": {
+        "title": "Sri Guru Gobind Singh's Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.733Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 821,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.734Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 822,
+      "attributes": {
+        "title": "*Shab-i-Miraj",
+        "date": "2024-02-07",
+        "updatedAt": "2025-01-28T17:52:52.734Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 823,
+      "attributes": {
+        "title": "*Friday following Shab-i-Miraj (Kashmir Province only)",
+        "date": "2024-02-09",
+        "updatedAt": "2025-01-28T17:52:52.735Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 824,
+      "attributes": {
+        "title": "Guru Ravi Das Ji Birthday (Jammu Province only)",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.737Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 825,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.745Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 826,
+      "attributes": {
+        "title": "*Nauroz",
+        "date": "2024-03-21",
+        "updatedAt": "2025-01-28T17:52:52.735Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 827,
+      "attributes": {
+        "title": "Holi (Jammu Province only)",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.735Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 828,
+      "attributes": {
+        "title": "Good Friday (Jammu District only)",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.736Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 829,
+      "attributes": {
+        "title": "*Jamat-ul-Vida",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:52.736Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 831,
+      "attributes": {
+        "title": "1st Navratra",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.737Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 832,
+      "attributes": {
+        "title": "*Eid-ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.738Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 833,
+      "attributes": {
+        "title": "Baisakhi",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:52.738Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 834,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.738Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 835,
+      "attributes": {
+        "title": "Mela Bahu Fort (Jammu District only)",
+        "date": "2024-04-16",
+        "updatedAt": "2025-01-28T17:52:52.748Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 836,
+      "attributes": {
+        "title": "Parshuram Jayanti (Restricted Holiday) (Jammu Province only)",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:52.748Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 837,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.748Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 838,
+      "attributes": {
+        "title": "Mahavir Jayanti (Jammu District only)",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:52.749Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 839,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.749Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 841,
+      "attributes": {
+        "title": "Mela Khir Bhawani (Kashmir Province only)",
+        "date": "2024-06-14",
+        "updatedAt": "2025-01-28T17:52:52.741Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 842,
+      "attributes": {
+        "title": "Martyr's Day of Guru Arjun Dev Ji (Restricted Holiday)",
+        "date": "2024-06-16",
+        "updatedAt": "2025-01-28T17:52:52.742Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 843,
+      "attributes": {
+        "title": "*Eid-ul-Azha",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.742Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 844,
+      "attributes": {
+        "title": "*Eid-ul-Azha",
+        "date": "2024-06-18",
+        "updatedAt": "2025-01-28T17:52:52.743Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 845,
+      "attributes": {
+        "title": "*Urs Shah Farid-ud-Din Sahib (RA) (Kishtwar Distt. only)",
+        "date": "2024-06-21",
+        "updatedAt": "2025-01-28T17:52:52.743Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 846,
+      "attributes": {
+        "title": "Kabir Jayanti (Restricted Holiday) (Jammu Province only)",
+        "date": "2024-06-22",
+        "updatedAt": "2025-01-28T17:52:52.743Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 847,
+      "attributes": {
+        "title": "Guru Hargobind Ji's Birthday",
+        "date": "2024-07-05",
+        "updatedAt": "2025-01-28T17:52:52.754Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 848,
+      "attributes": {
+        "title": "*Ashoora",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.754Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 849,
+      "attributes": {
+        "title": "Sarthal Devi Ji Yatra (Kishtwar Distt. only)",
+        "date": "2024-07-14",
+        "updatedAt": "2025-01-28T17:52:52.744Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 850,
+      "attributes": {
+        "title": "Sarthal Devi Ji Yatra (Kishtwar Distt. only)",
+        "date": "2024-07-15",
+        "updatedAt": "2025-01-28T17:52:52.744Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 851,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.745Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 852,
+      "attributes": {
+        "title": "Raksha Bandhan (Restricted Holiday)",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.745Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 853,
+      "attributes": {
+        "title": "Janmashtami (Vaishnva)",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.751Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 854,
+      "attributes": {
+        "title": "Kailash Yatra (Bhaderwah & Bhalla Tehsils only)",
+        "date": "2024-08-30",
+        "updatedAt": "2025-01-28T17:52:52.757Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 855,
+      "attributes": {
+        "title": "Kailash Yatra (Bhaderwah & Bhalla Tehsils only)",
+        "date": "2024-08-31",
+        "updatedAt": "2025-01-28T17:52:52.746Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 856,
+      "attributes": {
+        "title": "Mela Pat (Bhaderwah & Bhalla Tehsils only)",
+        "date": "2024-09-09",
+        "updatedAt": "2025-01-28T17:52:52.751Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 857,
+      "attributes": {
+        "title": "Mela Pat (Bhaderwah & Bhalla Tehsils only)",
+        "date": "2024-09-10",
+        "updatedAt": "2025-01-28T17:52:52.747Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 858,
+      "attributes": {
+        "title": "*Urs Sheikh Noor-ud-Din Sahib (RA) (Kashmir Province only)",
+        "date": "2024-09-30",
+        "updatedAt": "2025-01-28T17:52:52.756Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 859,
+      "attributes": {
+        "title": "*Shab-i-Qadr",
+        "date": "2024-04-07",
+        "updatedAt": "2025-01-28T17:52:52.767Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 860,
+      "attributes": {
+        "title": "*Friday following Eid-i-Milad-un-Nabi (SAW)",
+        "date": "2024-09-20",
+        "updatedAt": "2025-01-28T17:52:52.757Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 861,
+      "attributes": {
+        "title": "Birthday of Maharaj Hari Singh Ji",
+        "date": "2024-09-23",
+        "updatedAt": "2025-01-28T17:52:52.758Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 862,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.767Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 863,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.758Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 864,
+      "attributes": {
+        "title": "Dussehra ",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.759Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 865,
+      "attributes": {
+        "title": "Accession Day",
+        "date": "2024-10-26",
+        "updatedAt": "2025-01-28T17:52:52.750Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 866,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.750Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 867,
+      "attributes": {
+        "title": "Sri Guru Nanak Dev Ji Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.758Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 868,
+      "attributes": {
+        "title": "*Urs Shah Asrar-ud-Din Sahib (RA) (Kishtwar, Doda & Ramban only)",
+        "date": "2024-11-10",
+        "updatedAt": "2025-01-28T17:52:52.751Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 869,
+      "attributes": {
+        "title": "*Urs Shah-i-Hamdan Sahib (RA) (Kashmir Province only)",
+        "date": "2024-06-13",
+        "updatedAt": "2025-01-28T17:52:52.752Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 888,
+      "attributes": {
+        "title": "*Eid-i-Milad-un-Nabi (SAW)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.759Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 898,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.763Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

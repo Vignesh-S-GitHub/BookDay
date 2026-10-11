@@ -1,0 +1,1016 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:13.261700+00:00",
+  "sha256": "c3cb471d2842e9a378ed89a60bd2ce4cda21db65cd0cbcd370cf60b41255d2fd",
+  "rows": [
+    {
+      "id": 4952,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.937Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4953,
+      "attributes": {
+        "title": "Birthday of Hazrath Ali",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:44.937Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4954,
+      "attributes": {
+        "title": "Bhogi",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.938Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4955,
+      "attributes": {
+        "title": "Sankranti / Pongal",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:44.938Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4956,
+      "attributes": {
+        "title": "Kanumu",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:44.939Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4957,
+      "attributes": {
+        "title": "Shab-e-Meraj",
+        "date": "2026-01-17",
+        "updatedAt": "2026-02-17T08:16:44.939Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4958,
+      "attributes": {
+        "title": "Sri Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.940Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4959,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.940Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4960,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2026-02-04",
+        "updatedAt": "2026-02-17T08:16:44.941Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4961,
+      "attributes": {
+        "title": "Mahashivarathri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.958Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4962,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.943Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4963,
+      "attributes": {
+        "title": "Shahadat HZT Ali (R.A.)",
+        "date": "2026-03-10",
+        "updatedAt": "2026-02-17T08:16:44.947Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4964,
+      "attributes": {
+        "title": "Jumatul-Vida",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:40.448Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4965,
+      "attributes": {
+        "title": "Shab-e-Qader",
+        "date": "2026-03-17",
+        "updatedAt": "2026-02-17T08:16:44.948Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4966,
+      "attributes": {
+        "title": "Ugadi",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:44.957Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4967,
+      "attributes": {
+        "title": "Ramzan (Eid-ul-Fitr)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:40.448Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4968,
+      "attributes": {
+        "title": "Following day of Ramzan (Eid-ul-Fitr)",
+        "date": "2026-03-22",
+        "updatedAt": "2026-02-17T08:16:40.456Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4969,
+      "attributes": {
+        "title": "Sri Rama Navami",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:44.959Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4970,
+      "attributes": {
+        "title": "Mahaveer Jayanthi",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.979Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4971,
+      "attributes": {
+        "title": "Babu Jagjivan Ram’s Birthday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:44.949Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4972,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.950Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4973,
+      "attributes": {
+        "title": "Tamil New Year’s Day (General holiday in the view of Dr. B. R. Ambedkar's Birthday)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.450Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4974,
+      "attributes": {
+        "title": "Basava Jayanthi",
+        "date": "2026-04-20",
+        "updatedAt": "2026-02-17T08:16:44.951Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4975,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.951Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4976,
+      "attributes": {
+        "title": "Eid-ul-Azha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.952Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4977,
+      "attributes": {
+        "title": "Eid-e-Ghadeer",
+        "date": "2026-06-04",
+        "updatedAt": "2026-02-17T08:16:44.952Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4978,
+      "attributes": {
+        "title": "9th Moharram",
+        "date": "2026-06-25",
+        "updatedAt": "2026-02-17T08:16:44.953Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4980,
+      "attributes": {
+        "title": "Ratha Yathra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:40.453Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4981,
+      "attributes": {
+        "title": "Arbayeen",
+        "date": "2026-08-04",
+        "updatedAt": "2026-02-17T08:16:44.954Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4982,
+      "attributes": {
+        "title": "Bonalu",
+        "date": "2026-08-10",
+        "updatedAt": "2026-02-17T08:16:44.955Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4983,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.955Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4984,
+      "attributes": {
+        "title": "Parsi New Year",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.956Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4985,
+      "attributes": {
+        "title": "Varalakshmi Vratham",
+        "date": "2026-08-21",
+        "updatedAt": "2026-02-17T08:16:44.956Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4986,
+      "attributes": {
+        "title": "Eid Milad-un-Nabi",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.468Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4987,
+      "attributes": {
+        "title": "Sravana Purnima / Rakhi Purnimi",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:40.464Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4988,
+      "attributes": {
+        "title": "Sri Krishnashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.964Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4989,
+      "attributes": {
+        "title": "Vinayaka Chavithi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.964Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4990,
+      "attributes": {
+        "title": "Yazdahum Shareef",
+        "date": "2026-09-23",
+        "updatedAt": "2026-02-17T08:16:40.481Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4991,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.990Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4992,
+      "attributes": {
+        "title": "Saddula Bathukamma",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:40.475Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4993,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.969Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4994,
+      "attributes": {
+        "title": "Vijaya Dasami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.965Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4995,
+      "attributes": {
+        "title": "Following day of Vijaya Dasami",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:44.965Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4996,
+      "attributes": {
+        "title": "Birthday of Hazrath Syed Mohd. Juvanpuri",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:40.466Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4997,
+      "attributes": {
+        "title": "Naraka Chathurdhi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:40.466Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4998,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.968Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4999,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.970Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5000,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.971Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5001,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.971Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5002,
+      "attributes": {
+        "title": "Boxing Day",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:44.972Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5003,
+      "attributes": {
+        "title": "Hazrath Ali Birthday",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:40.470Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5008,
+      "attributes": {
+        "title": "Moharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.975Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5029,
+      "attributes": {
+        "title": "Karthika Pournami",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:40.479Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

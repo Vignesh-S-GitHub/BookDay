@@ -1,0 +1,617 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:09.648617+00:00",
+  "sha256": "6b19f9b0c5ae397e26b4573f4f46a9c9949d23e8f38c89028cf266b16d49ecc0",
+  "rows": [
+    {
+      "id": 4609,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.732Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4610,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.732Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4611,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.733Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4612,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.733Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4613,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.734Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4614,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.734Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4615,
+      "attributes": {
+        "title": "Beh Deinkhlam",
+        "date": "2026-07-09",
+        "updatedAt": "2026-02-17T08:16:44.735Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4616,
+      "attributes": {
+        "title": "Death Anniversary of U Tirot Sing",
+        "date": "2026-07-17",
+        "updatedAt": "2026-02-17T08:16:44.735Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4617,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.748Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4618,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.748Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4619,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.736Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4620,
+      "attributes": {
+        "title": "Maha Navami / Dussehra",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:40.224Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4621,
+      "attributes": {
+        "title": "Maha Dashami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.224Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4622,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.738Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4623,
+      "attributes": {
+        "title": "Wangala Festival",
+        "date": "2026-11-13",
+        "updatedAt": "2026-02-17T08:16:44.740Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4624,
+      "attributes": {
+        "title": "Seng Kut Snem",
+        "date": "2026-11-23",
+        "updatedAt": "2026-02-17T08:16:44.740Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4625,
+      "attributes": {
+        "title": "Death Anniversary of Pa-Togan N. Sangma",
+        "date": "2026-12-12",
+        "updatedAt": "2026-02-17T08:16:40.228Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4626,
+      "attributes": {
+        "title": "Death Anniversary of U Soso Tham",
+        "date": "2026-12-15",
+        "updatedAt": "2026-02-17T08:16:44.754Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4627,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.742Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4628,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.742Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4629,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:44.744Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4630,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2026-12-27",
+        "updatedAt": "2026-02-17T08:16:44.755Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4631,
+      "attributes": {
+        "title": "Death Anniversary of U Kiang Nongbah",
+        "date": "2026-12-30",
+        "updatedAt": "2026-02-17T08:16:40.230Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4632,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar's Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.756Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4633,
+      "attributes": {
+        "title": "Assamese New Year's Day (Bihu)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.744Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4634,
+      "attributes": {
+        "title": "May Day / Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:40.233Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4635,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.745Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4636,
+      "attributes": {
+        "title": "Id-E-Milad (Prophet Mohammad's Birthday)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.746Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4637,
+      "attributes": {
+        "title": "Tithi of Sri Sri Sankar Dev",
+        "date": "2026-09-12",
+        "updatedAt": "2026-02-17T08:16:44.746Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4638,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.747Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4639,
+      "attributes": {
+        "title": "All Soul's Day",
+        "date": "2026-11-02",
+        "updatedAt": "2026-02-17T08:16:44.780Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4640,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.767Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

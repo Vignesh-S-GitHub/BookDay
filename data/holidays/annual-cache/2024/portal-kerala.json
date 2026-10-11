@@ -1,0 +1,560 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:32.843498+00:00",
+  "sha256": "349bd8ecc13928b49d77469186556dd853389dfd6dbee76738ceeaae7faa28cb",
+  "rows": [
+    {
+      "id": 1759,
+      "attributes": {
+        "title": "Mannam Jayanthi",
+        "date": "2024-01-02",
+        "updatedAt": "2025-01-28T17:52:53.151Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1761,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.140Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1762,
+      "attributes": {
+        "title": "Sivarathri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.139Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1763,
+      "attributes": {
+        "title": "Maundy Thursday",
+        "date": "2024-03-28",
+        "updatedAt": "2025-01-28T17:52:53.160Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1764,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.143Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1765,
+      "attributes": {
+        "title": "Easter",
+        "date": "2024-03-31",
+        "updatedAt": "2025-01-28T17:52:53.140Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1766,
+      "attributes": {
+        "title": "Id-ul-Fitr (Ramzan)*",
+        "date": "2024-04-10",
+        "updatedAt": "2025-01-28T17:52:53.144Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1767,
+      "attributes": {
+        "title": "Dr.Ambedkar Jayanthi/Vishu",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:53.134Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1770,
+      "attributes": {
+        "title": "Id-ul Ad’ha (Bakrid)*",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.135Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1771,
+      "attributes": {
+        "title": "Muharram*",
+        "date": "2024-07-16",
+        "updatedAt": "2025-01-28T17:52:53.153Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1772,
+      "attributes": {
+        "title": "Karkkadaka Vaavu",
+        "date": "2024-08-03",
+        "updatedAt": "2025-01-28T17:52:53.156Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1773,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.153Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1774,
+      "attributes": {
+        "title": "Sree Narayana Guru Jayanthi",
+        "date": "2024-08-20",
+        "updatedAt": "2025-01-28T17:52:53.154Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1775,
+      "attributes": {
+        "title": "Sreekrishna Jayanthi",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.154Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1776,
+      "attributes": {
+        "title": "Ayyankali Jayanthi",
+        "date": "2024-08-28",
+        "updatedAt": "2025-01-28T17:52:53.155Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1777,
+      "attributes": {
+        "title": "First Onam",
+        "date": "2024-09-14",
+        "updatedAt": "2025-01-28T17:52:53.154Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1778,
+      "attributes": {
+        "title": "Thiruvonam",
+        "date": "2024-09-15",
+        "updatedAt": "2025-01-28T17:52:53.155Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1779,
+      "attributes": {
+        "title": "Third Onam Milad-i-Sherif *(Birthday of Prophet Muhammed)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.156Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1780,
+      "attributes": {
+        "title": "Fourth Onam",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:53.161Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1781,
+      "attributes": {
+        "title": "Sree Narayana Guru Samadhi Day",
+        "date": "2024-09-21",
+        "updatedAt": "2025-01-28T17:52:53.150Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1782,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.141Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1783,
+      "attributes": {
+        "title": "Maha Navami",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.141Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1784,
+      "attributes": {
+        "title": "Vijayadhasami",
+        "date": "2024-10-13",
+        "updatedAt": "2025-01-28T17:52:53.141Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1786,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.142Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1787,
+      "attributes": {
+        "title": "Ayya Vaikunda Swami Jayanthi (Government-Quasi Government and Public Sector Undertaking Employees and Teachers belongings to Nadar Community are permitted to avail Restricted Holiday)",
+        "date": "2024-03-12",
+        "updatedAt": "2025-01-28T17:52:53.143Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1788,
+      "attributes": {
+        "title": "Avani Avittom (Government Employees belongings to Brahmin Community are permitted to avail Restricted Holiday)",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:53.143Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1789,
+      "attributes": {
+        "title": "Vishwakarma Day (Government-Quasi Government and Public Sector Undertaking Employees and Teachers belongings to Vishwakarma Community are permitted to avail Restricted Holiday)",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:53.151Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1798,
+      "attributes": {
+        "title": "May Day",
+        "date": "2024-05-01",
+        "updatedAt": "2025-01-28T17:52:53.165Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1814,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.160Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

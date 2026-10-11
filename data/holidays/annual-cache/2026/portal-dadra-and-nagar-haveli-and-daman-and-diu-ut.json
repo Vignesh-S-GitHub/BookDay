@@ -1,0 +1,807 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.088298+00:00",
+  "sha256": "41348a9b304f49b4ba66c966ce2dea8273706171c089b37cb215e65e327e5717",
+  "rows": [
+    {
+      "id": 5202,
+      "attributes": {
+        "title": "Makar Sankranti / Maghu Bihu / Pongal",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:40.597Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5203,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.108Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5204,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.095Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5205,
+      "attributes": {
+        "title": "Chaitra Sukladi / Gudi Padava / Ugadi / Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:45.096Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5207,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.096Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5208,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.097Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5209,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.097Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5210,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.101Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5211,
+      "attributes": {
+        "title": "Independence Day / Parsi New Year’s Day (Nauraj)",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.111Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5212,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.617Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5214,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.098Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5215,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayaka Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.115Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5216,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.099Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5217,
+      "attributes": {
+        "title": "Dussehra (Vijay Dashmi)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.100Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5218,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:45.100Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5219,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.117Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5220,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.101Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5221,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:45.104Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5222,
+      "attributes": {
+        "title": "Basant Panchami / Sri Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:45.104Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5223,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:45.105Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5224,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:45.105Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5225,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.121Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5226,
+      "attributes": {
+        "title": "Holika Dahan / Dolyatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:40.627Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5227,
+      "attributes": {
+        "title": "Jamat-ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.124Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5228,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:45.125Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5229,
+      "attributes": {
+        "title": "Vaishakhi / Vishu / Mesadi (Tamil New Year’s Day)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.598Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5230,
+      "attributes": {
+        "title": "Vaisakhadi (Bengali) / Bahag Bihu (Assam)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:45.109Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5231,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.109Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5232,
+      "attributes": {
+        "title": "Birthday of Gurudev Rabindranath Tagore",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:40.600Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5233,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.110Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5234,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.111Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5235,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:45.114Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5236,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:45.116Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5237,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:45.116Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5238,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:45.117Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5239,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karwa Chouth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:45.117Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5240,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:45.135Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5241,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.118Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5242,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-17T08:16:45.118Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5243,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.119Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5264,
+      "attributes": {
+        "title": "Onam or Thiru Onam Day",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.133Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5270,
+      "attributes": {
+        "title": "Guru Teg Bahadur’s Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.136Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "dadra-and-nagar-haveli-and-daman-and-diu-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

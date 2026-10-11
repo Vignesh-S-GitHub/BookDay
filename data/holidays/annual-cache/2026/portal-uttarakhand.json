@@ -1,0 +1,332 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.060313+00:00",
+  "sha256": "38a739a795dfc45f54ae7ed4ed2d19c99fe8942f06892a7759061b7fc6d5fa12",
+  "rows": [
+    {
+      "id": 5048,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.012Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5049,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.013Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5050,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.010Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5051,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.011Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5052,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.011Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5053,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.011Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5054,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.012Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5055,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.013Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5056,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.018Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5057,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.019Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5058,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.520Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5059,
+      "attributes": {
+        "title": "Janmashtami (Vaishnava)",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:40.510Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5060,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.014Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5061,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.015Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5062,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.015Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5063,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.016Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5064,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.016Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

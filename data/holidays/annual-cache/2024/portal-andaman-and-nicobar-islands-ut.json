@@ -1,0 +1,978 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:42.530103+00:00",
+  "sha256": "e976232e2c77a40e0c18375a63e2f0b9948208b3d57c580c27c28a889b2b6f1a",
+  "rows": [
+    {
+      "id": 721,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.686Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 722,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2024-01-13",
+        "updatedAt": "2025-01-28T17:52:52.687Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 723,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2024-01-14",
+        "updatedAt": "2025-01-28T17:52:52.708Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 724,
+      "attributes": {
+        "title": "Pongal / Magha Bihu",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.700Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 725,
+      "attributes": {
+        "title": "Hazrat Ali's Birthday",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:52.700Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 726,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.701Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 727,
+      "attributes": {
+        "title": "Basant Panchami ",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:52.701Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 728,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2024-02-19",
+        "updatedAt": "2025-01-28T17:52:52.692Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 729,
+      "attributes": {
+        "title": "Guru Ravi Das Ji Birthday",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.693Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 730,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Sawaswati",
+        "date": "2024-03-06",
+        "updatedAt": "2025-01-28T17:52:52.693Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 731,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.704Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 732,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2024-03-24",
+        "updatedAt": "2025-01-28T17:52:52.705Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 733,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.694Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 734,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2024-03-31",
+        "updatedAt": "2025-01-28T17:52:52.695Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 735,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.695Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 736,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.695Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 737,
+      "attributes": {
+        "title": "Jamat-ul-Vida",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:52.699Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 738,
+      "attributes": {
+        "title": "Chaitra Sukhladi/ Gudi Padava/ Ugadi/ Cheti Chand",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.696Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 739,
+      "attributes": {
+        "title": "Vaisakhi/Vishu",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:52.697Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 740,
+      "attributes": {
+        "title": "Meshadi (Tamil New Years Day) Vaisakhadi (Bengal) / Bahag Bihu (Assam)",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.698Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 741,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:52.703Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 742,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.698Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 744,
+      "attributes": {
+        "title": "BAKRID\n(Eid-UI-Zuha)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.699Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 745,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.699Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 746,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.724Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 747,
+      "attributes": {
+        "title": "Birthday of Guru Rabindranath Tagore",
+        "date": "2024-05-08",
+        "updatedAt": "2025-01-28T17:52:52.709Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 748,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2024-07-07",
+        "updatedAt": "2025-01-28T17:52:52.707Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 749,
+      "attributes": {
+        "title": "Parsi New Year's Day / Nauraj",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.709Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 750,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.708Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 751,
+      "attributes": {
+        "title": "Janmashtami (Vaishnva)",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.708Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 752,
+      "attributes": {
+        "title": "Ganesh Chaturthi/ Vinayaka Chaturthi",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:52.723Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 753,
+      "attributes": {
+        "title": "Sri Guru Gobind Singh's Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.707Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 754,
+      "attributes": {
+        "title": "Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.701Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 755,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.702Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 756,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2024-10-10",
+        "updatedAt": "2025-01-28T17:52:52.702Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 757,
+      "attributes": {
+        "title": "Dussehra (Mahashtami) / Dussehra (Mahanavmi)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.703Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 758,
+      "attributes": {
+        "title": "Dussehra (Vijay Dashmi)",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.706Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 759,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.703Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 760,
+      "attributes": {
+        "title": "Maharishi Valmiki's Birthday",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:52.704Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 761,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karwa Chouth)",
+        "date": "2024-10-20",
+        "updatedAt": "2025-01-28T17:52:52.715Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 762,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.715Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 763,
+      "attributes": {
+        "title": "Goverdhan Puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:52.705Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 764,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:52.705Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 765,
+      "attributes": {
+        "title": "Sri Guru Nanak Dev Ji Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.706Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 766,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chatt Puja)",
+        "date": "2024-11-07",
+        "updatedAt": "2025-01-28T17:52:52.706Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 767,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Ji Martyrdom Day",
+        "date": "2024-11-24",
+        "updatedAt": "2025-01-28T17:52:52.713Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 768,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:52.714Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 769,
+      "attributes": {
+        "title": "Christmas ",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.715Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 770,
+      "attributes": {
+        "title": "First Flag Hoisting of Independent India by Netaji Subhas Chandra Bose",
+        "date": "2024-12-30",
+        "updatedAt": "2025-01-28T17:52:52.714Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 772,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.733Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 782,
+      "attributes": {
+        "title": "Onam or Thiru Onam Day",
+        "date": "2024-09-15",
+        "updatedAt": "2025-01-28T17:52:52.711Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

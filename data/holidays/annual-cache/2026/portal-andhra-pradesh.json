@@ -1,0 +1,940 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:03.307619+00:00",
+  "sha256": "6002915530d359a2990e32c5688e702cc3c24317e8f4dd459a2ce5361d07333d",
+  "rows": [
+    {
+      "id": 3938,
+      "attributes": {
+        "title": "REPUBLIC DAY",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:41.124Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "MONDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3939,
+      "attributes": {
+        "title": "EID-UL-FITR (RAMZAN)",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:40.977Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3940,
+      "attributes": {
+        "title": "HOLI",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:40.978Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3941,
+      "attributes": {
+        "title": "VARA LAKSHMI VRATHAM",
+        "date": "2026-08-21",
+        "updatedAt": "2026-02-17T08:16:39.019Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3942,
+      "attributes": {
+        "title": "DR. B. R. AMBEDKAR BIRTHDAY",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:38.979Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3943,
+      "attributes": {
+        "title": "BHOGI",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:41.121Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "WEDNESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3944,
+      "attributes": {
+        "title": "EID-UL-ADHA (BAKRID)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:39.019Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "WEDNESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3945,
+      "attributes": {
+        "title": "INDEPENDENCE DAY",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:41.123Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SATURDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3946,
+      "attributes": {
+        "title": "MOHARRUM (SHAHADAT IMAM HUSSAIN RA)",
+        "date": "2026-06-25",
+        "updatedAt": "2026-02-17T08:16:38.976Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3947,
+      "attributes": {
+        "title": "MAKARA SANKRANTI",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:40.977Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3948,
+      "attributes": {
+        "title": "MILAD-UN-NABI (SAWS)",
+        "date": "2026-08-25",
+        "updatedAt": "2026-02-17T08:16:39.021Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3949,
+      "attributes": {
+        "title": "MAHA SIVARATRI",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:39.022Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3950,
+      "attributes": {
+        "title": "GOOD FRIDAY",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:41.076Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3951,
+      "attributes": {
+        "title": "UGADI",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:41.124Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3952,
+      "attributes": {
+        "title": "BABU JAGJIVAN RAM BIRTHDAY",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:39.004Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3953,
+      "attributes": {
+        "title": "SRI KRISHNA ASHTAMI",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:39.024Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3954,
+      "attributes": {
+        "title": "SRI RAMA NAVAMI",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:41.006Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3955,
+      "attributes": {
+        "title": "KANUMA",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:40.978Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3956,
+      "attributes": {
+        "title": "VINAYAKA CHAVITHI",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:41.000Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "MONDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3957,
+      "attributes": {
+        "title": "MAHATMA GANDHI JAYANTHI",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:40.975Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3958,
+      "attributes": {
+        "title": "DURGASHTAMI",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:41.007Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3959,
+      "attributes": {
+        "title": "VIJAYA DASAMI",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:41.117Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3960,
+      "attributes": {
+        "title": "DEEPAVALI",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.297Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3961,
+      "attributes": {
+        "title": "CHRISTMAS",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.298Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3962,
+      "attributes": {
+        "title": "MAHA SIVARATRI",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:39.860Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3963,
+      "attributes": {
+        "title": "BABU JAGJIVAN RAM BIRTHDAY",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:39.860Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3964,
+      "attributes": {
+        "title": "DURGASHTAMI",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:44.280Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3965,
+      "attributes": {
+        "title": "DEEPAVALI",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.281Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3966,
+      "attributes": {
+        "title": "NEW YEAR’S DAY",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.282Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3967,
+      "attributes": {
+        "title": "BIRTHDAY OF HAZRATH ALI (RA)",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:44.285Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SATURDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3968,
+      "attributes": {
+        "title": "SHAB-E-MERAJ (27th Rajab)",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:39.864Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3969,
+      "attributes": {
+        "title": "SHAB-E-BARATH",
+        "date": "2026-02-03",
+        "updatedAt": "2026-02-17T08:16:44.287Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3970,
+      "attributes": {
+        "title": "SHAHADAT OF HAZRATH ALI (RA)",
+        "date": "2026-03-11",
+        "updatedAt": "2026-02-17T08:16:39.865Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "WEDNESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3971,
+      "attributes": {
+        "title": "JAMATUL VEDA",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:44.288Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3972,
+      "attributes": {
+        "title": "SHAB-E-QADAR",
+        "date": "2026-03-15",
+        "updatedAt": "2026-02-17T08:16:44.292Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SUNDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3973,
+      "attributes": {
+        "title": "MAHAVEER JAYANTHI",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.293Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3974,
+      "attributes": {
+        "title": "BASAVA JAYANTHI",
+        "date": "2026-04-20",
+        "updatedAt": "2026-02-17T08:16:44.293Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "MONDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3975,
+      "attributes": {
+        "title": "BUDDHA PURNIMA",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.294Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "FRIDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3976,
+      "attributes": {
+        "title": "EID-E-GADEER",
+        "date": "2026-06-03",
+        "updatedAt": "2026-02-17T08:16:44.294Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "WEDNESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3977,
+      "attributes": {
+        "title": "MOHARRAM (1447 HIJRI)",
+        "date": "2026-06-16",
+        "updatedAt": "2026-02-17T08:16:39.869Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3978,
+      "attributes": {
+        "title": "RATHA YATRA",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.295Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3979,
+      "attributes": {
+        "title": "ARBAYEEN (CHAHALLUM 1447 HIJRI)",
+        "date": "2026-08-04",
+        "updatedAt": "2026-02-17T08:16:39.869Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3980,
+      "attributes": {
+        "title": "PARSI NEW YEAR’S DAY",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.297Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SATURDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3981,
+      "attributes": {
+        "title": "YAZ DAHUM SHAREEF",
+        "date": "2026-09-22",
+        "updatedAt": "2026-02-17T08:16:44.297Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3982,
+      "attributes": {
+        "title": "HAZRATH SYED MOHAMMED JUVANPURI MEHDI BIRTHDAY",
+        "date": "2026-10-27",
+        "updatedAt": "2026-02-17T08:16:39.891Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3983,
+      "attributes": {
+        "title": "GURU NANAK JAYANTHI",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:39.875Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "TUESDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3984,
+      "attributes": {
+        "title": "BOXING DAY",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:44.326Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "SATURDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3985,
+      "attributes": {
+        "title": "CHRISTMAS EVE",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.325Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "THURSDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4009,
+      "attributes": {
+        "title": "MAHALAYA AMAVASYA",
+        "date": "2026-10-10",
+        "updatedAt": "2026-02-17T08:16:44.324Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "SECOND SATURDAY",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

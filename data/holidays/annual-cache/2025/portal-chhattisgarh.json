@@ -1,0 +1,1510 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:48.314340+00:00",
+  "sha256": "1785e50c67ffe3ea3d9509306f8ec39daf6189470df4d54aabe05db37caab279",
+  "rows": [
+    {
+      "id": 2255,
+      "attributes": {
+        "title": "Maa Shakambhari Jayanti & Cherchera",
+        "date": "2025-01-13",
+        "updatedAt": "2025-01-28T17:52:53.347Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2256,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.347Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2257,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.356Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2258,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.348Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2259,
+      "attributes": {
+        "title": "Bhakt Mata Karma Jayanti",
+        "date": "2025-03-25",
+        "updatedAt": "2025-01-28T17:52:53.348Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2260,
+      "attributes": {
+        "title": "Eid-ul-Fitur",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.348Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2261,
+      "attributes": {
+        "title": "Ramnavmi",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.349Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2262,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.360Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2263,
+      "attributes": {
+        "title": "Dr. Ambedkar Jayanti",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.359Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2265,
+      "attributes": {
+        "title": "Bhudha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.361Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2266,
+      "attributes": {
+        "title": "Eid-ul-Jhuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.361Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2267,
+      "attributes": {
+        "title": "kabir Jayanti",
+        "date": "2025-06-11",
+        "updatedAt": "2025-01-28T17:52:53.362Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2268,
+      "attributes": {
+        "title": "Moharam",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.362Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2269,
+      "attributes": {
+        "title": "Hareli",
+        "date": "2025-07-24",
+        "updatedAt": "2025-01-28T17:52:53.352Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2270,
+      "attributes": {
+        "title": "Rakshabandhan / Vishw Adiwashi Diwas",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.352Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2271,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.352Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2272,
+      "attributes": {
+        "title": "Krishn Janmashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.353Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2273,
+      "attributes": {
+        "title": "Haritalika Teej",
+        "date": "2025-08-26",
+        "updatedAt": "2025-01-28T17:52:53.353Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2274,
+      "attributes": {
+        "title": "Eid-E-Milad (Milad-un-Nabi)",
+        "date": "2025-09-06",
+        "updatedAt": "2025-01-28T17:52:53.354Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2275,
+      "attributes": {
+        "title": "Dashahara(VijayDashmi) Mahatma Ghandhi Jayanti",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.354Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2276,
+      "attributes": {
+        "title": "Guru Ghhasidas Jayanti",
+        "date": "2025-10-18",
+        "updatedAt": "2025-01-28T17:52:53.366Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2277,
+      "attributes": {
+        "title": "Diwali (Deepawali)",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.355Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2279,
+      "attributes": {
+        "title": "Gurunanak Janm Diwas",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.355Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2280,
+      "attributes": {
+        "title": "Christmas Diwas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.356Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2281,
+      "attributes": {
+        "title": "New Year Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.357Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2282,
+      "attributes": {
+        "title": "Mata Savitri Bai Fule Jayanti",
+        "date": "2025-01-03",
+        "updatedAt": "2025-01-28T17:52:53.358Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2283,
+      "attributes": {
+        "title": "Lui Brail Birthday",
+        "date": "2025-01-04",
+        "updatedAt": "2025-01-28T17:52:53.358Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2284,
+      "attributes": {
+        "title": "Guru Govind Singh Birthday",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:53.358Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2285,
+      "attributes": {
+        "title": "Rajim Bhaktin Mata Jayanti",
+        "date": "2025-01-07",
+        "updatedAt": "2025-01-28T17:52:53.370Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2286,
+      "attributes": {
+        "title": "Vishwa Hindi Diwas",
+        "date": "2025-01-10",
+        "updatedAt": "2025-01-28T17:52:53.359Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2287,
+      "attributes": {
+        "title": "Hajrat Ali Janm Diwas",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.359Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2288,
+      "attributes": {
+        "title": "Makar Sankranti / Pongal",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.372Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2289,
+      "attributes": {
+        "title": "Shahid Gend Singh ka Shahadat Diwas",
+        "date": "2025-01-20",
+        "updatedAt": "2025-01-28T17:52:53.370Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2290,
+      "attributes": {
+        "title": "Neta Ji Subhash Chandra Bose Jayanti",
+        "date": "2025-01-23",
+        "updatedAt": "2025-01-28T17:52:53.380Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2291,
+      "attributes": {
+        "title": "Basant Panchmi/Maa Parmeshwari Jayanti",
+        "date": "2025-02-03",
+        "updatedAt": "2025-01-28T17:52:53.371Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2292,
+      "attributes": {
+        "title": "Rajim Mela Magh Purnima / Sant Ravidas Janm-diwas,",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.361Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2293,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.374Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2294,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Jayanti",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.375Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2295,
+      "attributes": {
+        "title": "Holi (Holika Dahan)",
+        "date": "2025-03-13",
+        "updatedAt": "2025-01-28T17:52:53.363Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2296,
+      "attributes": {
+        "title": "Rang Panchmi",
+        "date": "2025-03-19",
+        "updatedAt": "2025-01-28T17:52:53.363Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2297,
+      "attributes": {
+        "title": "Veerangana Avanti Bai ka Balidan Diwas",
+        "date": "2025-03-20",
+        "updatedAt": "2025-01-28T17:52:53.363Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2298,
+      "attributes": {
+        "title": "Jamat-Ul-Vida",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.364Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2299,
+      "attributes": {
+        "title": "Guha Nishadraj jayanti",
+        "date": "2025-04-02",
+        "updatedAt": "2025-01-28T17:52:53.364Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2300,
+      "attributes": {
+        "title": "Hatkwshwar Jayanti",
+        "date": "2025-04-11",
+        "updatedAt": "2025-01-28T17:52:53.365Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2301,
+      "attributes": {
+        "title": "Dharti Pooja (khaddi Parv)",
+        "date": "2025-04-12",
+        "updatedAt": "2025-01-28T17:52:53.365Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2302,
+      "attributes": {
+        "title": "Shrimad Vallabhacharya Jayanti",
+        "date": "2025-04-24",
+        "updatedAt": "2025-01-28T17:52:53.365Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2303,
+      "attributes": {
+        "title": "Sen Jayanti",
+        "date": "2025-04-25",
+        "updatedAt": "2025-01-28T17:52:53.379Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2304,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.366Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2305,
+      "attributes": {
+        "title": "Shankrachary Jayanti",
+        "date": "2025-05-02",
+        "updatedAt": "2025-01-28T17:52:53.367Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2306,
+      "attributes": {
+        "title": "Chatrsal Jayanti/Maharana Pratap Jayanti",
+        "date": "2025-05-29",
+        "updatedAt": "2025-01-28T17:52:53.367Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2307,
+      "attributes": {
+        "title": "Chhat Pooja",
+        "date": "2025-10-27",
+        "updatedAt": "2025-01-28T17:52:53.369Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2308,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.371Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2309,
+      "attributes": {
+        "title": "Dr. Khubchand Baghel ka Janm Diwas",
+        "date": "2025-07-19",
+        "updatedAt": "2025-01-28T17:52:53.372Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2310,
+      "attributes": {
+        "title": "Nag Panchmi",
+        "date": "2025-07-29",
+        "updatedAt": "2025-01-28T17:52:53.368Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2311,
+      "attributes": {
+        "title": "Harchath",
+        "date": "2025-08-14",
+        "updatedAt": "2025-01-28T17:52:53.369Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2312,
+      "attributes": {
+        "title": "Parsi Nav-Varsh",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.371Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2313,
+      "attributes": {
+        "title": "Pola",
+        "date": "2025-08-23",
+        "updatedAt": "2025-01-28T17:52:53.381Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2314,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.386Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2315,
+      "attributes": {
+        "title": "Nawa khai",
+        "date": "2025-08-30",
+        "updatedAt": "2025-01-28T17:52:53.392Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2316,
+      "attributes": {
+        "title": "Dhol Gyarash",
+        "date": "2025-09-03",
+        "updatedAt": "2025-01-28T17:52:53.381Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2317,
+      "attributes": {
+        "title": "Onam",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.382Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2318,
+      "attributes": {
+        "title": "Anat Chaturdashi",
+        "date": "2025-09-06",
+        "updatedAt": "2025-01-28T17:52:53.373Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2319,
+      "attributes": {
+        "title": "Vishwkarma Jayanti",
+        "date": "2025-09-17",
+        "updatedAt": "2025-01-28T17:52:53.373Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2320,
+      "attributes": {
+        "title": "Pranath Jaynti",
+        "date": "2025-09-20",
+        "updatedAt": "2025-01-28T17:52:53.373Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2321,
+      "attributes": {
+        "title": "Dhashhara(Maha Ashtmi)",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.386Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2322,
+      "attributes": {
+        "title": "Agrasen Jayanti",
+        "date": "2025-09-22",
+        "updatedAt": "2025-01-28T17:52:53.374Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2323,
+      "attributes": {
+        "title": "Shab-A-Barat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.385Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2324,
+      "attributes": {
+        "title": "Dhashhara(Maha Navmi)",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.375Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2325,
+      "attributes": {
+        "title": "Kuwar Pournima \"karma Parab\" (Festival) / Maharaja Ajmodh dev jayanti / Maharshi Valmiki Jayanti / Tekchand ji Maharaj ka samadhi Utsav",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.379Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2326,
+      "attributes": {
+        "title": "karwa Chauth",
+        "date": "2025-10-10",
+        "updatedAt": "2025-01-28T17:52:53.380Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2327,
+      "attributes": {
+        "title": "Deepawali ka dushra din Goverdhan Pooja",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.376Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2328,
+      "attributes": {
+        "title": "Bhai Duj (Deepawali)",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.376Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2329,
+      "attributes": {
+        "title": "Dr Saiyadana Sahab ka Janm Diwas",
+        "date": "2025-10-04",
+        "updatedAt": "2025-01-28T17:52:53.375Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2330,
+      "attributes": {
+        "title": "Bhagwan Shahastrabahu Jayanti",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.377Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2331,
+      "attributes": {
+        "title": "Namdev Jayanti",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:53.377Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2332,
+      "attributes": {
+        "title": "Guru Tegbahadur ka Shahidi Diwas",
+        "date": "2025-11-25",
+        "updatedAt": "2025-01-28T17:52:53.377Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2333,
+      "attributes": {
+        "title": "Dattatrey Jayanti",
+        "date": "2025-12-04",
+        "updatedAt": "2025-01-28T17:52:53.378Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2334,
+      "attributes": {
+        "title": "Shahid Virnarayan Singh Balidan Diwas",
+        "date": "2025-12-10",
+        "updatedAt": "2025-01-28T17:52:53.378Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2336,
+      "attributes": {
+        "title": "Mahesh Navmi (Jeshth shukl)",
+        "date": "2025-06-04",
+        "updatedAt": "2025-01-28T17:52:53.379Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

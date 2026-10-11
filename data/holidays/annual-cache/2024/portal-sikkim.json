@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T14:01:40.856802+00:00",
+  "sha256": "8bec5da1b09182ccd53f677d80e9922a687059fbac2f83dd3b6a1261d968c7ca",
+  "rows": [
+    {
+      "id": 1323,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.940Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1324,
+      "attributes": {
+        "title": "Maghe Sankranti",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.940Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1325,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.951Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1326,
+      "attributes": {
+        "title": "Losar",
+        "date": "2024-02-10",
+        "updatedAt": "2025-01-28T17:52:52.942Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1327,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.942Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1328,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.942Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1329,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.943Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1330,
+      "attributes": {
+        "title": "Ramanawami (Chaite Dasain)",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.955Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1331,
+      "attributes": {
+        "title": "State Day",
+        "date": "2024-05-16",
+        "updatedAt": "2025-01-28T17:52:52.955Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1332,
+      "attributes": {
+        "title": "Drukpa Tshe-zi",
+        "date": "2024-07-09",
+        "updatedAt": "2025-01-28T17:52:52.944Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1333,
+      "attributes": {
+        "title": "Tendong Lho Rum Faat",
+        "date": "2024-08-08",
+        "updatedAt": "2025-01-28T17:52:52.953Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1335,
+      "attributes": {
+        "title": "Indrajatra",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.956Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1336,
+      "attributes": {
+        "title": "Pang-Lhabsol",
+        "date": "2024-09-18",
+        "updatedAt": "2025-01-28T17:52:52.960Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1337,
+      "attributes": {
+        "title": "Janmasthami",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.953Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1338,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.953Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1339,
+      "attributes": {
+        "title": "Durga Puja (Dasain)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.963Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1340,
+      "attributes": {
+        "title": "Durga Puja (Dasain)",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.954Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1341,
+      "attributes": {
+        "title": "Durga Puja (Dasain)",
+        "date": "2024-10-13",
+        "updatedAt": "2025-01-28T17:52:52.967Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1342,
+      "attributes": {
+        "title": "Durga Puja (Dasain)",
+        "date": "2024-10-14",
+        "updatedAt": "2025-01-28T17:52:52.956Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1343,
+      "attributes": {
+        "title": "Christmas ",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.967Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1344,
+      "attributes": {
+        "title": "Losoong/Namsoong",
+        "date": "2024-12-31",
+        "updatedAt": "2025-01-28T17:52:52.947Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1345,
+      "attributes": {
+        "title": "Laxmi Puja (Deepawali)",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.947Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1346,
+      "attributes": {
+        "title": "Laxmi Puja (Deepawali)",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:52.948Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1347,
+      "attributes": {
+        "title": "Laxmi Puja (Deepawali)",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:52.948Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1362,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.987Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "sikkim"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

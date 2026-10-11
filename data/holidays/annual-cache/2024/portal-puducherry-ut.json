@@ -1,0 +1,1263 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:45.571817+00:00",
+  "sha256": "253554b82e4c7260c17cde45e26861eaa725d1e13cc75f1fcee813dd8fe54ac1",
+  "rows": [
+    {
+      "id": 1007,
+      "attributes": {
+        "title": "New Year's Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.814Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1008,
+      "attributes": {
+        "title": "Pongal (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.814Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "attributes": {
+        "title": "Thiruvalluvar Day/Mattu Pongal (for Puducherry, Karaikal regions).",
+        "date": "2024-01-16",
+        "updatedAt": "2025-01-28T17:52:52.820Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1010,
+      "attributes": {
+        "title": "Republic Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.820Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1011,
+      "attributes": {
+        "title": "Good Friday (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.831Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1012,
+      "attributes": {
+        "title": "Ramzan (Id-ul-Fitr)* (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-04-10",
+        "updatedAt": "2025-01-28T17:52:52.821Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1013,
+      "attributes": {
+        "title": "Vishu 1st Day (for Mahe regions)",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:52.821Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1014,
+      "attributes": {
+        "title": "May Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-05-01",
+        "updatedAt": "2025-01-28T17:52:52.815Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1016,
+      "attributes": {
+        "title": "Bakrid (Id-ul-Alha)* (for Mahe regions).",
+        "date": "2024-06-16",
+        "updatedAt": "2025-01-28T17:52:52.816Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1017,
+      "attributes": {
+        "title": "Bakrid (Id-ul-Alha)* (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.838Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1018,
+      "attributes": {
+        "title": "Independence Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.817Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1019,
+      "attributes": {
+        "title": "Onam 1st Day (for Mahe regions)",
+        "date": "2024-09-14",
+        "updatedAt": "2025-01-28T17:52:52.817Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1020,
+      "attributes": {
+        "title": "De jure Transfer Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-08-16",
+        "updatedAt": "2025-01-28T17:52:52.818Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1021,
+      "attributes": {
+        "title": "Milad-un-Nabi (Birthday of Prophet Mohammad)* (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.818Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1022,
+      "attributes": {
+        "title": "Milad-un-Nabi (Birthday of Prophet Mohammad)* (for Mahe regions).",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.819Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1023,
+      "attributes": {
+        "title": "Gandhi Jayanthi (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.826Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1024,
+      "attributes": {
+        "title": "Maha Navami (for Mahe regions)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.819Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1025,
+      "attributes": {
+        "title": "St. Theresa Festival (for Mahe regions)",
+        "date": "2024-10-15",
+        "updatedAt": "2025-01-28T17:52:52.819Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1026,
+      "attributes": {
+        "title": "Saraswathi Pooja/Ayudha Pooja (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.824Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1027,
+      "attributes": {
+        "title": "Deepavali (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.824Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1028,
+      "attributes": {
+        "title": "Puducherry Liberation Day (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.824Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1029,
+      "attributes": {
+        "title": "Christmas (for Puducherry, Karaikal, Mahe and Yanam regions).",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.825Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1030,
+      "attributes": {
+        "title": "Bhogi",
+        "date": "2024-01-14",
+        "updatedAt": "2025-01-28T17:52:52.825Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1031,
+      "attributes": {
+        "title": "Pongal (for Mahe region)",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.826Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1032,
+      "attributes": {
+        "title": "Thiruvalluvar Day (for Mahe region)/ Kanuma (for Yanam region)",
+        "date": "2024-01-16",
+        "updatedAt": "2025-01-28T17:52:52.828Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1034,
+      "attributes": {
+        "title": "*Shab-i-Miraj (for Mahe region)",
+        "date": "2024-02-07",
+        "updatedAt": "2025-01-28T17:52:52.826Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1035,
+      "attributes": {
+        "title": "*Shab-i-Miraj (for Puducherry, Karaikal and yanam regions)",
+        "date": "2024-02-08",
+        "updatedAt": "2025-01-28T17:52:52.838Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1036,
+      "attributes": {
+        "title": "Kandhoori Festival* (for Karaikal region)",
+        "date": "2024-02-20",
+        "updatedAt": "2025-01-28T17:52:52.827Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1037,
+      "attributes": {
+        "title": "Masi Magam",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.827Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1038,
+      "attributes": {
+        "title": "Shab-e-Barath* (for Mahe region)",
+        "date": "2024-02-25",
+        "updatedAt": "2025-01-28T17:52:52.837Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1039,
+      "attributes": {
+        "title": "Shab-e-Barath* (for Puducherry, Karaikal and Yanam regions)",
+        "date": "2024-02-26",
+        "updatedAt": "2025-01-28T17:52:52.822Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1040,
+      "attributes": {
+        "title": "Sandana Koodu* (for Karaikal region)",
+        "date": "2024-03-01",
+        "updatedAt": "2025-01-28T17:52:52.822Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1041,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.823Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1042,
+      "attributes": {
+        "title": "Feast of St. Joseph",
+        "date": "2024-03-19",
+        "updatedAt": "2025-01-28T17:52:52.823Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1043,
+      "attributes": {
+        "title": "Telugu New Year's Day (Ugadi Festival) (for Yanam regions).",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.823Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1044,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2024-04-01",
+        "updatedAt": "2025-01-28T17:52:52.833Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1045,
+      "attributes": {
+        "title": "Lailathul Qadr*",
+        "date": "2024-04-06",
+        "updatedAt": "2025-01-28T17:52:52.836Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1046,
+      "attributes": {
+        "title": "Telugu New Year’s Day (for Puducherry, Karaikal and Mahe regions).",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.833Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1047,
+      "attributes": {
+        "title": "Vishu 1st day (for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:52.834Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1048,
+      "attributes": {
+        "title": "Vishu 2nd day (for Mahe region)",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.834Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1049,
+      "attributes": {
+        "title": "Sri Rama Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.837Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1050,
+      "attributes": {
+        "title": "Ascension (Kristhuvin Vinnettram)",
+        "date": "2024-05-12",
+        "updatedAt": "2025-01-28T17:52:52.836Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1051,
+      "attributes": {
+        "title": "Sri Dharbaranyeswarar Car Festival, Thirunallar (for Karaikal region).",
+        "date": "2024-05-19",
+        "updatedAt": "2025-01-28T17:52:52.849Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1052,
+      "attributes": {
+        "title": "Villianur Car Festival (for Puducherry region)",
+        "date": "2024-05-21",
+        "updatedAt": "2025-01-28T17:52:52.835Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1053,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.835Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1054,
+      "attributes": {
+        "title": "Mangani Festival (for Karaikal region)",
+        "date": "2024-07-21",
+        "updatedAt": "2025-01-28T17:52:52.836Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1055,
+      "attributes": {
+        "title": "Muharram*",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.840Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1056,
+      "attributes": {
+        "title": "Karkidaka Amavasi",
+        "date": "2024-08-04",
+        "updatedAt": "2025-01-28T17:52:52.832Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1057,
+      "attributes": {
+        "title": "Veerampattinam Car Festival (for Puducherry region)",
+        "date": "2024-08-16",
+        "updatedAt": "2025-01-28T17:52:52.832Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1058,
+      "attributes": {
+        "title": "Janmashtami ",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.833Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1059,
+      "attributes": {
+        "title": "Onam 1st Day/(for Puducherry, Karaikal and Yanam regions).",
+        "date": "2024-09-14",
+        "updatedAt": "2025-01-28T17:52:52.828Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1060,
+      "attributes": {
+        "title": "Sree Narayana Guru Jayanthi (for Mahe region)",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.829Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1061,
+      "attributes": {
+        "title": "Uzhavar Thirunal",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.829Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1062,
+      "attributes": {
+        "title": "Vijayadasami",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.829Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1063,
+      "attributes": {
+        "title": "Deepavali Eve",
+        "date": "2024-10-30",
+        "updatedAt": "2025-01-28T17:52:52.830Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1064,
+      "attributes": {
+        "title": "Deepavali (for Mahe region)",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.830Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1065,
+      "attributes": {
+        "title": "All Souls Day",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:52.831Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1066,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.843Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1067,
+      "attributes": {
+        "title": "Immaculate Conception of Blessed Virgin Mary",
+        "date": "2024-12-09",
+        "updatedAt": "2025-01-28T17:52:52.831Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1068,
+      "attributes": {
+        "title": "Karthigai Deepam",
+        "date": "2024-12-13",
+        "updatedAt": "2025-01-28T17:52:52.835Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1069,
+      "attributes": {
+        "title": "Sri Subramanya Sasti (for Yanam region)",
+        "date": "2024-12-18",
+        "updatedAt": "2025-01-28T17:52:52.845Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1070,
+      "attributes": {
+        "title": "Sri Kailasanathar Temple Car Festival (for Karaikal region).",
+        "date": "2024-03-23",
+        "updatedAt": "2025-01-28T17:52:52.846Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1071,
+      "attributes": {
+        "title": "Holi (Yanam region)",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.846Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1089,
+      "attributes": {
+        "title": "Sree Narayana Guru Samadhi (for Mahe region)",
+        "date": "2024-09-21",
+        "updatedAt": "2025-01-28T17:52:52.855Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1090,
+      "attributes": {
+        "title": "Onam 2nd Day (for Mahe region)",
+        "date": "2024-09-15",
+        "updatedAt": "2025-01-28T17:52:52.844Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1101,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:52.848Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,940 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.093334+00:00",
+  "sha256": "3b0c9982c98cbfc912e1b20907d793a65f18217d925d0bece71e2afa65a9e69c",
+  "rows": [
+    {
+      "id": 5430,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T10:02:18.368Z",
+        "publishedAt": "2026-02-17T10:02:18.360Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5431,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T10:16:47.527Z",
+        "publishedAt": "2026-02-17T10:16:47.506Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5432,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T10:17:46.801Z",
+        "publishedAt": "2026-02-17T10:17:46.771Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5433,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T10:18:18.701Z",
+        "publishedAt": "2026-02-17T10:18:18.698Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5434,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T10:18:46.188Z",
+        "publishedAt": "2026-02-17T10:18:46.185Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5435,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T10:19:16.486Z",
+        "publishedAt": "2026-02-17T10:19:16.469Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5436,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T10:20:04.433Z",
+        "publishedAt": "2026-02-17T10:20:04.409Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5437,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T10:21:24.716Z",
+        "publishedAt": "2026-02-17T10:21:24.694Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5438,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-18T05:58:33.205Z",
+        "publishedAt": "2026-02-18T05:58:33.202Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5439,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-18T05:59:17.923Z",
+        "publishedAt": "2026-02-18T05:59:17.912Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5440,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-18T05:59:53.070Z",
+        "publishedAt": "2026-02-18T05:59:53.066Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5441,
+      "attributes": {
+        "title": "Janmashtami (Vaishnava)",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-18T06:00:22.834Z",
+        "publishedAt": "2026-02-18T06:00:22.831Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5442,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-18T06:00:56.169Z",
+        "publishedAt": "2026-02-18T06:00:56.166Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5443,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-18T06:01:27.680Z",
+        "publishedAt": "2026-02-18T06:01:27.677Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5444,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-18T06:01:56.292Z",
+        "publishedAt": "2026-02-18T06:01:56.288Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5445,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-18T06:02:31.141Z",
+        "publishedAt": "2026-02-18T06:02:31.138Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5446,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-18T06:03:02.320Z",
+        "publishedAt": "2026-02-18T06:03:02.317Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5447,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-18T06:03:40.030Z",
+        "publishedAt": "2026-02-18T06:03:40.024Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5448,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-18T06:05:31.414Z",
+        "publishedAt": "2026-02-18T06:05:31.399Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5449,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-18T06:06:41.154Z",
+        "publishedAt": "2026-02-18T06:06:41.151Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5450,
+      "attributes": {
+        "title": "Makar Sankranti / Maghu Bihu / Pongal",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-18T06:07:19.176Z",
+        "publishedAt": "2026-02-18T06:07:19.157Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5451,
+      "attributes": {
+        "title": "Sri Panchami / Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-18T06:08:35.712Z",
+        "publishedAt": "2026-02-18T06:08:35.685Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5452,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-18T06:09:11.947Z",
+        "publishedAt": "2026-02-18T06:09:11.902Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5453,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-18T06:09:52.349Z",
+        "publishedAt": "2026-02-18T06:09:52.345Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5454,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-18T06:10:40.190Z",
+        "publishedAt": "2026-02-18T06:10:40.187Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5455,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-18T06:11:18.007Z",
+        "publishedAt": "2026-02-18T06:11:18.003Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5456,
+      "attributes": {
+        "title": "Holika Dahan / Dolyatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-18T06:12:15.658Z",
+        "publishedAt": "2026-02-18T06:12:15.638Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5457,
+      "attributes": {
+        "title": "Chaitra Sukladi / Gudi Padava / Ugadi / Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-18T06:13:39.626Z",
+        "publishedAt": "2026-02-18T06:13:39.606Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5458,
+      "attributes": {
+        "title": "Jamat-ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-18T06:14:12.970Z",
+        "publishedAt": "2026-02-18T06:14:12.966Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5459,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-18T06:15:37.209Z",
+        "publishedAt": "2026-02-18T06:15:37.205Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5460,
+      "attributes": {
+        "title": "Vaisakhi / Vishu / Meshadi (Tamil New Year)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-18T06:16:05.863Z",
+        "publishedAt": "2026-02-18T06:16:05.860Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5461,
+      "attributes": {
+        "title": "Vaisakhadi (Bengal) / Bahag Bihu (Assam)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-18T06:16:39.704Z",
+        "publishedAt": "2026-02-18T06:16:39.684Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5462,
+      "attributes": {
+        "title": "Guru Rabindranath Tagore’s Birthday",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-18T06:17:15.665Z",
+        "publishedAt": "2026-02-18T06:17:15.662Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5463,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-18T06:18:18.711Z",
+        "publishedAt": "2026-02-18T06:18:18.708Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5464,
+      "attributes": {
+        "title": "Parsi New Year / Nauraj",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-18T06:19:34.452Z",
+        "publishedAt": "2026-02-18T06:19:34.449Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5465,
+      "attributes": {
+        "title": "Onam / Thiru Onam Day",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-18T06:20:31.931Z",
+        "publishedAt": "2026-02-18T06:20:31.928Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5466,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-18T06:21:32.031Z",
+        "publishedAt": "2026-02-18T06:21:32.028Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5467,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayaka Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-18T06:22:26.099Z",
+        "publishedAt": "2026-02-18T06:22:26.067Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5468,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-18T06:23:04.987Z",
+        "publishedAt": "2026-02-18T06:23:04.984Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5469,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-18T06:23:42.177Z",
+        "publishedAt": "2026-02-18T06:23:42.165Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5470,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-18T06:24:29.519Z",
+        "publishedAt": "2026-02-18T06:24:29.516Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5471,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karva Chauth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-18T06:25:08.209Z",
+        "publishedAt": "2026-02-18T06:25:08.199Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5472,
+      "attributes": {
+        "title": "Naraka Chaturdashi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-18T06:25:36.946Z",
+        "publishedAt": "2026-02-18T06:25:36.937Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5473,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-18T06:26:52.778Z",
+        "publishedAt": "2026-02-18T06:26:52.775Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5474,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-18T06:27:22.002Z",
+        "publishedAt": "2026-02-18T06:27:21.986Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5475,
+      "attributes": {
+        "title": "Pratihar Shashthi / Surya Shashthi (Chhath Puja)",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-18T06:27:56.082Z",
+        "publishedAt": "2026-02-18T06:27:56.079Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5476,
+      "attributes": {
+        "title": "Guru Teg Bahadur’s Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-18T06:29:19.563Z",
+        "publishedAt": "2026-02-18T06:29:19.557Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5477,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-18T06:29:52.265Z",
+        "publishedAt": "2026-02-18T06:29:52.244Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5478,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-18T06:30:22.941Z",
+        "publishedAt": "2026-02-18T06:30:22.937Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

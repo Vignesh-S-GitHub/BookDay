@@ -1,0 +1,2604 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.indiapost.gov.in/holidays-list",
+  "checked": "2026-10-11T16:36:42.711911+00:00",
+  "sha256": "526edaf63b46e2a89886858875606d0f6a6ebc813238760f7b5e482f19adda55",
+  "rows": {
+    "All India": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Andhra Pradesh Circle": [
+      {
+        "name": "Makar Sankaranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Idu'l Fitr (Ramzan)",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Idu'l Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Ganesh Chaturthi/Vinayaka Chaturthi",
+        "date": "27-August-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijaya Dasami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Assam Circle": [
+      {
+        "name": "Makar Sankranti/Mag Bihu",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Vaisakhadi/Bahag Bihu",
+        "date": "15-April-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independance Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra(Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra(Vijay Dashmi)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Bihar Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Pratihar Shashthi or Surya Shashthi(Chhath Puja)",
+        "date": "28-October-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Chhattisgarh Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakraid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahanavmi",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Delhi Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id.ul. Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id.ul.Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Janmashtami",
+        "date": "16-August-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali / Deepavali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Gujarat Circle": [
+      {
+        "name": "Makar Sankranti/Magha Bihu/Pongal/Hazarat Ali's Birthday",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha(Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Rath Yatra",
+        "date": "27-June-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali(Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Haryana Circle": [
+      {
+        "name": "Makar Sankranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Idu'l Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Himachal Pradesh Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Saptami)",
+        "date": "29-September-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Jammu and Kashmir Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Mahashivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Poornima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharam",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Janmashtami",
+        "date": "16-August-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijaya Dashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Jharkhand Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul- Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budh Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-uI-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "MiIad-un-Nabi or Id-e- MiIad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi'sBirthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "DiwaIi(DeepavaIi)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Pratihar Shashthi or Surya Shashthi (Chath Puja)",
+        "date": "28-October-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Chrismas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Karnataka Circle": [
+      {
+        "name": "Makara Sankranthi",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independance Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "date": "27-August-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra(Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra (Vijaya Dashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Kerala Circle": [
+      {
+        "name": "Makar Sankaranti,/ Pongal",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "*Idul Fitr (Ramzan)",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "*Idu'l Zuha (Bakrid)",
+        "date": "06-June-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "* Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavmi)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijay Dashmi)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Madhya Pradesh Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Mahashivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahaveer Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Poornima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Ganesh Chathurthi",
+        "date": "27-August-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Depavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Gurunanak Jayanthi",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Maharashtra Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "date": "27-August-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Arunachal Pradesh)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Bahag Bihu",
+        "date": "15-April-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Poornima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Karwa Chouth",
+        "date": "10-October-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Manipur)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Mahashivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Rath Yathra",
+        "date": "27-June-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Meghalaya)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Bohag Bihu",
+        "date": "15-April-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Mizoram)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Nagaland)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Onam",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "NE Circle (Tripura)": [
+      {
+        "name": "Makar Sankranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Poornima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Odisha Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivarathri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Idu'l Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Ratha Yatra",
+        "date": "27-June-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-Un-Nabi or Id-E-Milad (Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Maha Navami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijaya Dasami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "21-October-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Punjab Circle": [
+      {
+        "name": "Makar Sankranti/Magha Bihu/Pongal/Hazrat Ali's Birthday",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Budha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-Un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepawali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Rajasthan Circle": [
+      {
+        "name": "Makar Sankaranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Pratham Navarathra",
+        "date": "22-September-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Telangana Circle": [
+      {
+        "name": "Pongal/Makar Sankranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr (Ramzan)",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independance Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Ganesh Chaturthi",
+        "date": "27-August-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Uttar Pradesh Circle": [
+      {
+        "name": "Makar Sankaranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "Uttarakhand Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-Ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanthi",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Poornima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-Ul-Zuha",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-e-Milad(Birthday of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Mahatma Gandhiji's Birthday",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Dussehra (Vijayadashami)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "West Bengal Circle": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Rathayatra",
+        "date": "27-June-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-E-Milad (Birth Day of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Additional day of Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra (Vijay Dashmi)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birth Day",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "West Bengal Circle (Andaman and Nicobar)": [
+      {
+        "name": "Makar Sankranti",
+        "date": "14-January-2025",
+        "day": "Tuesday"
+      },
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-E-Milad (Birth Day of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Additional day of Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra (Vijay Dashmi)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birth Day",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ],
+    "West Bengal Circle (Sikkim)": [
+      {
+        "name": "Republic Day",
+        "date": "26-January-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Maha Shivaratri",
+        "date": "26-February-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Holi",
+        "date": "14-March-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Id-ul-Fitr",
+        "date": "31-March-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Mahavir Jayanti",
+        "date": "10-April-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Good Friday",
+        "date": "18-April-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Buddha Purnima",
+        "date": "12-May-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Id-ul-Zuha (Bakrid)",
+        "date": "07-June-2025",
+        "day": "Saturday"
+      },
+      {
+        "name": "Muharram",
+        "date": "06-July-2025",
+        "day": "Sunday"
+      },
+      {
+        "name": "Independence Day",
+        "date": "15-August-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Milad-un-Nabi or Id-E-Milad (Birth Day of Prophet Mohammad)",
+        "date": "05-September-2025",
+        "day": "Friday"
+      },
+      {
+        "name": "Additional day of Dussehra (Mahanavami)",
+        "date": "01-October-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Dussehra (Vijay Dashmi)",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Mahatma Gandhi's Birth Day",
+        "date": "02-October-2025",
+        "day": "Thursday"
+      },
+      {
+        "name": "Diwali (Deepavali)",
+        "date": "20-October-2025",
+        "day": "Monday"
+      },
+      {
+        "name": "Guru Nanak's Birthday",
+        "date": "05-November-2025",
+        "day": "Wednesday"
+      },
+      {
+        "name": "Christmas Day",
+        "date": "25-December-2025",
+        "day": "Thursday"
+      }
+    ]
+  }
+}

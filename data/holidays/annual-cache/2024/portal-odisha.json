@@ -1,0 +1,693 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T14:01:39.572050+00:00",
+  "sha256": "ad064cf30ed2caa18ddb2deef8a13e5c6f86c3a1a3ab81103c97898158de1bcc",
+  "rows": [
+    {
+      "id": 1401,
+      "attributes": {
+        "title": "Makar Sankaranti",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.980Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1402,
+      "attributes": {
+        "title": "Subhash Chandra Bose Jayanti/Vir Surendra Sai jayanti",
+        "date": "2024-01-23",
+        "updatedAt": "2025-01-28T17:52:52.981Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1403,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.981Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1404,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:52.983Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1405,
+      "attributes": {
+        "title": "Panchayatiraj Dibas",
+        "date": "2024-03-05",
+        "updatedAt": "2025-01-28T17:52:52.992Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1406,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.992Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1407,
+      "attributes": {
+        "title": "Dola Purnima",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.993Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1409,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.993Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1410,
+      "attributes": {
+        "title": "Utkal Diwas",
+        "date": "2024-04-01",
+        "updatedAt": "2025-01-28T17:52:52.994Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1411,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.985Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1412,
+      "attributes": {
+        "title": "Guru Govind Singh Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.985Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1413,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.986Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1414,
+      "attributes": {
+        "title": "Budha Purnima/ Birthday of Pandit Raghunath Murmu",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.986Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1415,
+      "attributes": {
+        "title": "Sabitri Amabasya",
+        "date": "2024-06-06",
+        "updatedAt": "2025-01-28T17:52:52.986Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1416,
+      "attributes": {
+        "title": "Pahili Raja",
+        "date": "2024-06-14",
+        "updatedAt": "2025-01-28T17:52:52.988Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1417,
+      "attributes": {
+        "title": "Raja Sankranti",
+        "date": "2024-06-15",
+        "updatedAt": "2025-01-28T17:52:53.007Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1418,
+      "attributes": {
+        "title": "Id-ul-Zuha",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.989Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1419,
+      "attributes": {
+        "title": "Foundation Day of Bramho Samaj",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:52.989Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1420,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.990Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1421,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.990Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1422,
+      "attributes": {
+        "title": "Jhulana Purnima",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.991Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1423,
+      "attributes": {
+        "title": "Ganesh Puja",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:52.991Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1424,
+      "attributes": {
+        "title": "Gandhi Jayanthi/ Mahalaya",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.991Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1425,
+      "attributes": {
+        "title": "Birthday of Prophet Mohammad",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.001Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1426,
+      "attributes": {
+        "title": "Maha Saptami",
+        "date": "2024-10-10",
+        "updatedAt": "2025-01-28T17:52:53.002Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1427,
+      "attributes": {
+        "title": "Maha Ashtami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.010Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1428,
+      "attributes": {
+        "title": "Kumar Purnima",
+        "date": "2024-10-16",
+        "updatedAt": "2025-01-28T17:52:52.999Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1429,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2024-03-30",
+        "updatedAt": "2025-01-28T17:52:53.000Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1430,
+      "attributes": {
+        "title": "Birthday of Raja Ram Mohan Roy",
+        "date": "2024-05-22",
+        "updatedAt": "2025-01-28T17:52:53.000Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1431,
+      "attributes": {
+        "title": "Diwali/ Kali Puja",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.001Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1432,
+      "attributes": {
+        "title": "Rasa Purnima",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.001Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1433,
+      "attributes": {
+        "title": "X-Mas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.000Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1434,
+      "attributes": {
+        "title": "Bahuda yatra",
+        "date": "2024-07-15",
+        "updatedAt": "2025-01-28T17:52:53.004Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1435,
+      "attributes": {
+        "title": "Christmas eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:52.994Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1437,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-26",
+        "updatedAt": "2025-01-28T17:52:52.995Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1450,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.017Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

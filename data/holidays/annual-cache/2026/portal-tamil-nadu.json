@@ -1,0 +1,465 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:12.792125+00:00",
+  "sha256": "2e5eae1486aa6504a6fa9099de782956eef6205271c9100c3edf5f3293adfad6",
+  "rows": [
+    {
+      "id": 4926,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.922Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4928,
+      "attributes": {
+        "title": "Pongal",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:44.922Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4929,
+      "attributes": {
+        "title": "Thiruvalluvar Day",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:44.923Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4930,
+      "attributes": {
+        "title": "Uzhavar Thirunal",
+        "date": "2026-01-17",
+        "updatedAt": "2026-02-17T08:16:44.923Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4931,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.924Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4932,
+      "attributes": {
+        "title": "Thai Poosam",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.924Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4933,
+      "attributes": {
+        "title": "Telugu New Year’s Day",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:44.944Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4934,
+      "attributes": {
+        "title": "Ramzan (Idul Fitr)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:40.445Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4935,
+      "attributes": {
+        "title": "Mahaveer Jayanthi",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.946Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4936,
+      "attributes": {
+        "title": "Annual Closing of Accounts (Commercial & Co-operative Banks)",
+        "date": "2026-04-01",
+        "updatedAt": "2026-02-17T08:16:40.447Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4937,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.945Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4938,
+      "attributes": {
+        "title": "Tamil New Year’s Day / Dr. B.R. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.431Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4939,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.928Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4940,
+      "attributes": {
+        "title": "Bakrid (Idul Azha)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:40.431Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4942,
+      "attributes": {
+        "title": "Muharram (Yaom-E-Shahadath)",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:40.434Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4943,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.933Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4944,
+      "attributes": {
+        "title": "Milad-un-Nabi (Prophet’s Birthday)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.435Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4945,
+      "attributes": {
+        "title": "Krishna Jayanthi",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.958Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4946,
+      "attributes": {
+        "title": "Vinayakar Chathurthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:40.433Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4947,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.934Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4948,
+      "attributes": {
+        "title": "Ayutha Pooja",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.934Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4949,
+      "attributes": {
+        "title": "Vijaya Dasami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.935Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4950,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.935Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4979,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.953Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tamil-nadu"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

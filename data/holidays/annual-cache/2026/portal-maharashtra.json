@@ -1,0 +1,427 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:08.791946+00:00",
+  "sha256": "7152ab6d33366098310b6730f7c3932dc9c5962c49c904d838caa31b0951d69c",
+  "rows": [
+    {
+      "id": 4522,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.700Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4523,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.686Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4524,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Maharaj Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:44.687Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4525,
+      "attributes": {
+        "title": "Holi (Second Day)",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.687Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4526,
+      "attributes": {
+        "title": "Gudi Padwa",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:40.175Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4527,
+      "attributes": {
+        "title": "Ramzan-Id (Id-Ul-Fitra / Shawal-1)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.704Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4528,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.703Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4529,
+      "attributes": {
+        "title": "Mahavir Janmakalyanak",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.690Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4531,
+      "attributes": {
+        "title": "Dr. Babasaheb Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.691Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4532,
+      "attributes": {
+        "title": "Maharashtra Din / Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:40.180Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4533,
+      "attributes": {
+        "title": "Bakri Id (Id-Uz-Zuha)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:44.692Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4534,
+      "attributes": {
+        "title": "Moharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.692Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4535,
+      "attributes": {
+        "title": "Independence Day / Parsi New Year (Shahenshahi)",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.693Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4536,
+      "attributes": {
+        "title": "Id-E-Milad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.693Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4537,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.694Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4538,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.694Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4539,
+      "attributes": {
+        "title": "Dasara",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.698Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4541,
+      "attributes": {
+        "title": "Diwali (Bali Pratipada)",
+        "date": "2026-11-10",
+        "updatedAt": "2026-02-17T08:16:44.708Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4542,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.695Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4543,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.699Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4559,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.722Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4569,
+      "attributes": {
+        "title": "Diwali Amavasya (Laxmi Pujan)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.724Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1320 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.115402+00:00",
+  "sha256": "1e45eee7c42aea08eba24c9b1ecf56192b78ae4b78aa8e81675eefef99d8a46a",
+  "rows": [
+    {
+      "id": 5361,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.185Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5362,
+      "attributes": {
+        "title": "Pongal",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:45.187Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5363,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.187Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5364,
+      "attributes": {
+        "title": "Ramzan (Id-ul-Fitr)*",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.188Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5365,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.189Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5366,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.189Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5367,
+      "attributes": {
+        "title": "Bakrid (Id-ul-Alha)*",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:45.190Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5368,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.190Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5369,
+      "attributes": {
+        "title": "Milad-Un-Nabi*",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.190Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5370,
+      "attributes": {
+        "title": "Vinayagar Chathurthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.205Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5371,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.204Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5372,
+      "attributes": {
+        "title": "Saraswathi Pooja / Ayudha Pooja",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:40.731Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5373,
+      "attributes": {
+        "title": "Puducherry Liberation Day",
+        "date": "2026-11-01",
+        "updatedAt": "2026-02-17T08:16:45.192Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5374,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.207Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5375,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.202Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5376,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.224Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5377,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.192Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5378,
+      "attributes": {
+        "title": "Ramzan (Id-ul-Fitr)*",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.193Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5379,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.193Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5380,
+      "attributes": {
+        "title": "Vishu 1st Day / Dr. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.734Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5381,
+      "attributes": {
+        "title": "Vishu 2nd Day",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:40.735Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5382,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.195Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5383,
+      "attributes": {
+        "title": "Bakrid (Id-ul-Alha)*",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.218Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5384,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.217Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5385,
+      "attributes": {
+        "title": "Onam 1st Day / Milad-Un-Nabi*",
+        "date": "2026-08-25",
+        "updatedAt": "2026-02-17T08:16:40.737Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5386,
+      "attributes": {
+        "title": "Onam 2nd Day",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.737Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5387,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.198Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5388,
+      "attributes": {
+        "title": "St. Theresa Festival",
+        "date": "2026-10-15",
+        "updatedAt": "2026-02-17T08:16:40.749Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5389,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:45.215Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5390,
+      "attributes": {
+        "title": "Thiruvalluvar Day / Mattu Pongal",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:40.750Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5391,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.216Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5392,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.198Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5393,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.198Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5394,
+      "attributes": {
+        "title": "Tamil New Year / Dr. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.739Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5395,
+      "attributes": {
+        "title": "Kanuma",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:45.200Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5396,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.200Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5397,
+      "attributes": {
+        "title": "Ugadi / Ramzan (Id-ul-Fitr)*",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:40.741Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5398,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.206Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5399,
+      "attributes": {
+        "title": "Dr. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.741Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5400,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.202Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5401,
+      "attributes": {
+        "title": "Bakrid (Id-ul-Alha)*",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:45.203Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5402,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.203Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5403,
+      "attributes": {
+        "title": "Milad-Un-Nabi*",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.203Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5404,
+      "attributes": {
+        "title": "Vinayagar Chathurthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.204Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5405,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.221Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5406,
+      "attributes": {
+        "title": "Mahanavami / Ayudha Pooja",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:40.746Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5407,
+      "attributes": {
+        "title": "Puducherry Liberation Day",
+        "date": "2026-11-01",
+        "updatedAt": "2026-02-17T08:16:45.206Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5408,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.231Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5409,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.254Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5410,
+      "attributes": {
+        "title": "Bhogi",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:45.255Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5411,
+      "attributes": {
+        "title": "Uzhavar Thirunal / Shab-e-Miraj*",
+        "date": "2026-01-17",
+        "updatedAt": "2026-02-17T08:16:41.004Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5412,
+      "attributes": {
+        "title": "Kandhoori Festival*",
+        "date": "2026-01-29",
+        "updatedAt": "2026-02-17T08:16:41.005Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5413,
+      "attributes": {
+        "title": "Shab-e-Barath*",
+        "date": "2026-02-04",
+        "updatedAt": "2026-02-17T08:16:45.237Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5414,
+      "attributes": {
+        "title": "Masi Magam / Holi",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:41.006Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5415,
+      "attributes": {
+        "title": "Mahasivarathri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.239Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5416,
+      "attributes": {
+        "title": "Lailathul Qadr*",
+        "date": "2026-03-16",
+        "updatedAt": "2026-02-17T08:16:45.249Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5417,
+      "attributes": {
+        "title": "Feast of St. Joseph",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:45.250Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5418,
+      "attributes": {
+        "title": "Telugu New Year Day",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:40.751Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5419,
+      "attributes": {
+        "title": "Puducherry Liberation Day",
+        "date": "2026-11-01",
+        "updatedAt": "2026-02-17T08:16:45.235Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5420,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2026-04-06",
+        "updatedAt": "2026-02-17T08:16:45.218Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5421,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.219Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5422,
+      "attributes": {
+        "title": "Muharram*",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.219Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5423,
+      "attributes": {
+        "title": "Pongal (Makara Sankranthi)",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:40.807Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5424,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.220Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5425,
+      "attributes": {
+        "title": "Vijayadasami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.221Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5426,
+      "attributes": {
+        "title": "Deepavali Eve",
+        "date": "2026-11-07",
+        "updatedAt": "2026-02-17T08:16:45.230Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5427,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.223Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5428,
+      "attributes": {
+        "title": "Sri Rama Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.223Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5429,
+      "attributes": {
+        "title": "Onam 1st Day",
+        "date": "2026-08-25",
+        "updatedAt": "2026-02-17T08:16:40.856Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "puducherry-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
