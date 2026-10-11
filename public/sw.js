@@ -1,4 +1,4 @@
-const CACHE = "bookday-v5-regional-festival-controls";
+const CACHE = "bookday-v6-final-icons-current-dates";
 const ANNUAL = "bookday-holiday-data";
 const SHELL = [
   "/",
@@ -11,6 +11,7 @@ const SHELL = [
   "/festivals.js",
   "/holiday-loader.js",
   "/image-cache.js",
+  "/icons.js",
   "/app.css",
   "/fonts/roboto-latin.woff2",
   "/vendor/htmx.min.js",

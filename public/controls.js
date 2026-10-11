@@ -105,7 +105,7 @@ export function enhanceControls(root = document) {
       "aria-label",
       `Choose ${input.name?.replaceAll("_", " ") || input.type}`,
     );
-    button.innerHTML = `<svg class="icon" aria-hidden="true"><use href="/art/icons.svg#${input.type === "date" ? "chevron" : "clock"}"></use></svg>`;
+    button.innerHTML = `<svg class="icon" aria-hidden="true"><use href="#${input.type === "date" ? "chevron" : "clock"}"></use></svg>`;
     if (input.type === "date") {
       button.classList.add("date-picker-trigger");
       const leadingIcon = input
@@ -150,7 +150,7 @@ export function enhanceControls(root = document) {
     button.setAttribute("aria-expanded", "false");
     button.setAttribute("aria-label", controlLabel(select));
     button.innerHTML =
-      '<span class="select-value"></span><svg class="icon" aria-hidden="true"><use href="/art/icons.svg#chevron"></use></svg>';
+      '<span class="select-value"></span><svg class="icon" aria-hidden="true"><use href="#chevron"></use></svg>';
     wrapper.append(button);
     sync(select);
     button.addEventListener("click", () => openChooser(select));
