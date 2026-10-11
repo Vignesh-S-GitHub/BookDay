@@ -1,0 +1,479 @@
+{
+  "version": "9bee2cd7ac07b912fecb",
+  "year": 2026,
+  "jurisdiction": "Kerala",
+  "records": [
+    {
+      "id": "2026-01-02-mannam-jayanthi-kerala",
+      "date": "2026-01-02",
+      "name": "Mannam Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-01-bank-annual-closing-kerala",
+      "date": "2026-04-01",
+      "name": "Bank annual closing",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "bank_holiday",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Commercial and cooperative banks; not a general public holiday.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "bank"
+    },
+    {
+      "id": "2026-04-02-maundy-thursday-kerala",
+      "date": "2026-04-02",
+      "name": "Maundy Thursday",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-03-good-friday-kerala",
+      "date": "2026-04-03",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-14-dr.-b.-r.-ambedkar-jayanthi-kerala",
+      "date": "2026-04-14",
+      "name": "Dr. B. R. Ambedkar Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-15-vishu-kerala",
+      "date": "2026-04-15",
+      "name": "Vishu",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "vishu",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-05-01-may-day-kerala",
+      "date": "2026-05-01",
+      "name": "May Day",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-12-karkadaka-vavu-kerala",
+      "date": "2026-08-12",
+      "name": "Karkadaka Vavu",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "karkadaka_vavu",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-26-thiruvonam-kerala",
+      "date": "2026-08-26",
+      "name": "Thiruvonam",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-27-third-onam-kerala",
+      "date": "2026-08-27",
+      "name": "Third Onam",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-28-fourth-onam-/-sree-narayana-guru-jayanthi-/-ayyankali-jayanthi-kerala",
+      "date": "2026-08-28",
+      "name": "Fourth Onam / Sree Narayana Guru Jayanthi / Ayyankali Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "onam",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-09-04-sreekrishna-jayanthi-kerala",
+      "date": "2026-09-04",
+      "name": "Sreekrishna Jayanthi",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "janmashtami",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-09-21-sree-narayana-guru-samadhi-day-kerala",
+      "date": "2026-09-21",
+      "name": "Sree Narayana Guru Samadhi Day",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-10-20-mahanavami-kerala",
+      "date": "2026-10-20",
+      "name": "Mahanavami",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "ayutha_pooja",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-10-21-vijayadasami-kerala",
+      "date": "2026-10-21",
+      "name": "Vijayadasami",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "dussehra",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-11-08-deepavali-kerala",
+      "date": "2026-11-08",
+      "name": "Deepavali",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Falls on Sunday; listed as an occasion, not an additional weekday public holiday.",
+      "festival_id": "diwali",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "observance"
+    },
+    {
+      "id": "2026-12-25-christmas-kerala",
+      "date": "2026-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "Kerala"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Public offices under the Government of Kerala; private employer holidays may differ.",
+      "festival_id": "christmas",
+      "source_id": "baseline-1",
+      "provenance": {
+        "authority": "Kerala General Administration",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    }
+  ],
+  "festival_calendar": []
+}

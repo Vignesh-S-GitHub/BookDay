@@ -1,4 +1,4 @@
-const CACHE = "bookday-v4-holiday-pipeline-white-icon";
+const CACHE = "bookday-v5-regional-festival-controls";
 const ANNUAL = "bookday-holiday-data";
 const SHELL = [
   "/",

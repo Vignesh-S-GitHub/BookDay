@@ -165,7 +165,7 @@ async function holidayUiRegression(page) {
     await p.waitForFunction(
       () =>
         document.querySelectorAll('.festival-guide-item time[datetime^="2026"]')
-          .length === 34,
+          .length === 17,
     );
     await p.locator('a.bd-navitem[href="#/explore"]').click();
     await p.locator('a[href="#/book/movies"]').click();

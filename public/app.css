@@ -1798,7 +1798,7 @@ input[type="checkbox"] {
   background: var(--bd-surface);
   border-radius: 22px;
   display: grid;
-  grid-template-columns: 1.08fr 1.22fr 0.75fr;
+  grid-template-columns: 1fr 1.5fr 0.75fr;
   gap: 7px;
   padding: 10px;
   position: relative;
@@ -2998,7 +2998,7 @@ body[data-route="insights"]
 }
 @media (max-width: 374px) {
   body[data-route="insights"] .insights-filters {
-    grid-template-columns: 1fr 1.2fr 0.9fr;
+    grid-template-columns: 1fr 1.6fr 0.9fr;
   }
 }
 
@@ -3033,6 +3033,31 @@ body[data-route="insights"]
 .picker-trigger .icon {
   width: 18px;
   height: 18px;
+}
+.date-picker-trigger .icon {
+  transform: rotate(90deg);
+}
+body[data-route="insights"] .picker-field input[type="date"] {
+  padding-right: 18px;
+}
+body[data-route="insights"] .date-picker-trigger {
+  width: 18px;
+  padding: 0;
+}
+body[data-route="insights"] input[type="date"]::-webkit-datetime-edit,
+body[data-route="insights"]
+  input[type="date"]::-webkit-datetime-edit-fields-wrapper,
+body[data-route="insights"] input[type="date"]::-webkit-datetime-edit-day-field,
+body[data-route="insights"]
+  input[type="date"]::-webkit-datetime-edit-month-field,
+body[data-route="insights"]
+  input[type="date"]::-webkit-datetime-edit-year-field {
+  padding: 0;
+}
+.leading-picker-trigger {
+  border: 0;
+  padding: 0;
+  cursor: pointer;
 }
 .picker-month-controls {
   display: grid;

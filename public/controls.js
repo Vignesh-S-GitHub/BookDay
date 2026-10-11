@@ -105,7 +105,26 @@ export function enhanceControls(root = document) {
       "aria-label",
       `Choose ${input.name?.replaceAll("_", " ") || input.type}`,
     );
-    button.innerHTML = `<svg class="icon" aria-hidden="true"><use href="/art/icons.svg#${input.type === "date" ? "calendar" : "clock"}"></use></svg>`;
+    button.innerHTML = `<svg class="icon" aria-hidden="true"><use href="/art/icons.svg#${input.type === "date" ? "chevron" : "clock"}"></use></svg>`;
+    if (input.type === "date") {
+      button.classList.add("date-picker-trigger");
+      const leadingIcon = input
+        .closest("label")
+        ?.querySelector(".category-symbol");
+      if (leadingIcon) {
+        const leadingButton = document.createElement("button");
+        leadingButton.type = "button";
+        leadingButton.className =
+          leadingIcon.className + " leading-picker-trigger";
+        leadingButton.innerHTML = leadingIcon.innerHTML;
+        leadingButton.setAttribute(
+          "aria-label",
+          `Open ${input.name?.replaceAll("_", " ") || "date"} calendar`,
+        );
+        leadingIcon.replaceWith(leadingButton);
+        leadingButton.addEventListener("click", () => openDateTime(input));
+      }
+    }
     input.after(button);
     button.addEventListener("click", () => openDateTime(input));
   }

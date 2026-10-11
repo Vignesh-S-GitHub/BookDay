@@ -30,6 +30,16 @@ Thai Poosam, Vishu and Karkadaka Vavu have reviewed 2026 dates only. Their 2027 
 
 ## Maintaining reviewed dates
 
+### Selected-state display and symbols
+
+The annual publisher derives `festival_regions` from approved official state records. The calendar, Home upcoming card and Travel Insights only use festival identities associated with the selected state (or an explicit state-scoped observance). National public holidays remain visible. This filters the central Durga Puja entry out of Tamil Nadu while retaining its reviewed Ayutha Pooja entry. Unknown regional coverage remains explicitly incomplete; association does not establish future-year public leave.
+
+Year-specific observance dates and all 34 reusable artworks remain stored. Tamil Nadu currently displays 17 associated themes in 2026 and 16 reviewed dates in 2027; Kerala displays nine themes in 2026 and seven in 2027. The manifest carries state associations even when only a future-year dataset is loaded.
+
+Small vector markers use a lamp for Hindu festivals, crescent/star for Muslim festivals, cross for Christian festivals, Khanda for Sikh festivals, Dharma wheel for Buddhist festivals and Ahimsa hand for Jain festivals. Civil/unknown identities use a neutral calendar. Multiple distinct faith symbols can share a date. The symbol references follow [IDC IIT Bombay's religious-symbol gallery](https://www.dsource.in/gallery/religious-symbols-india); the artwork is original SVG code.
+
+Date controls use a chevron to open the themed calendar. Travel Date retains one leading calendar icon, which also opens the picker and supports keyboard activation.
+
 1. Obtain the relevant year's official central/state/authority calendar and check regional differences.
 2. Update `scripts/festival_data.py` with the actual civil dates and source URLs. Leave missing dates unset.
 3. Update any new applicable state public-holiday records in `scripts/prepare_data.py`; avoid promoting festival observances to public holidays.

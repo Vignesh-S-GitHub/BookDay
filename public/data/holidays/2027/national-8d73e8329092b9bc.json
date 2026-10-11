@@ -1,0 +1,958 @@
+{
+  "version": "9bee2cd7ac07b912fecb",
+  "year": 2027,
+  "jurisdiction": "IN",
+  "records": [
+    {
+      "id": "2027-01-26-republic-day-in",
+      "date": "2027-01-26",
+      "name": "Republic Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2027-08-15-independence-day-in",
+      "date": "2027-08-15",
+      "name": "Independence Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2027-10-02-gandhi-jayanti-in",
+      "date": "2027-10-02",
+      "name": "Gandhi Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "national_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "reviewed": "2026-10-11",
+      "note": "Fixed annual national holiday; employer schedules may differ.",
+      "source_id": "baseline-4",
+      "provenance": {
+        "authority": "Government of India Ministry of Tourism",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    }
+  ],
+  "festival_calendar": [
+    {
+      "id": "festival-2027-new_year",
+      "festival_id": "new_year",
+      "date": "2027-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-sankranti",
+      "festival_id": "sankranti",
+      "date": "2027-01-14",
+      "name": "Makar Sankranti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-pongal",
+      "festival_id": "pongal",
+      "date": "2027-01-15",
+      "name": "Pongal",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-vasant_panchami",
+      "festival_id": "vasant_panchami",
+      "date": "2027-02-11",
+      "name": "Vasant Panchami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-shivratri",
+      "festival_id": "shivratri",
+      "date": "2027-03-06",
+      "name": "Maha Shivratri",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-eid_fitr",
+      "festival_id": "eid_fitr",
+      "date": "2027-03-10",
+      "name": "Eid al-Fitr",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-holi",
+      "festival_id": "holi",
+      "date": "2027-03-23",
+      "name": "Holi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-good_friday",
+      "festival_id": "good_friday",
+      "date": "2027-03-26",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-easter",
+      "festival_id": "easter",
+      "date": "2027-03-28",
+      "name": "Easter",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ugadi",
+      "festival_id": "ugadi",
+      "date": "2027-04-07",
+      "name": "Ugadi / Gudi Padwa",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-tamil_new_year",
+      "festival_id": "tamil_new_year",
+      "date": "2027-04-14",
+      "name": "Tamil New Year / Puthandu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-vaisakhi",
+      "festival_id": "vaisakhi",
+      "date": "2027-04-14",
+      "name": "Vaisakhi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ram_navami",
+      "festival_id": "ram_navami",
+      "date": "2027-04-15",
+      "name": "Ram Navami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-bihu",
+      "festival_id": "bihu",
+      "date": "2027-04-15",
+      "name": "Bohag Bihu",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-mahavir_jayanti",
+      "festival_id": "mahavir_jayanti",
+      "date": "2027-04-19",
+      "name": "Mahavir Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-eid_adha",
+      "festival_id": "eid_adha",
+      "date": "2027-05-17",
+      "name": "Eid al-Adha / Bakrid",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-buddha_purnima",
+      "festival_id": "buddha_purnima",
+      "date": "2027-05-20",
+      "name": "Buddha Purnima",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-muharram",
+      "festival_id": "muharram",
+      "date": "2027-06-16",
+      "name": "Muharram",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-rath_yatra",
+      "festival_id": "rath_yatra",
+      "date": "2027-07-05",
+      "name": "Rath Yatra",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-milad",
+      "festival_id": "milad",
+      "date": "2027-08-15",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ. Lunar dates are subject to local moon sighting and official revisions.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-raksha_bandhan",
+      "festival_id": "raksha_bandhan",
+      "date": "2027-08-17",
+      "name": "Raksha Bandhan",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-janmashtami",
+      "festival_id": "janmashtami",
+      "date": "2027-08-25",
+      "name": "Krishna Janmashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ganesh_chaturthi",
+      "festival_id": "ganesh_chaturthi",
+      "date": "2027-09-04",
+      "name": "Ganesh Chaturthi",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-onam",
+      "festival_id": "onam",
+      "date": "2027-09-12",
+      "name": "Onam / Thiruvonam",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-durga_puja",
+      "festival_id": "durga_puja",
+      "date": "2027-10-07",
+      "name": "Durga Puja / Maha Ashtami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-ayutha_pooja",
+      "festival_id": "ayutha_pooja",
+      "date": "2027-10-08",
+      "name": "Ayutha Pooja / Mahanavami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-dussehra",
+      "festival_id": "dussehra",
+      "date": "2027-10-09",
+      "name": "Dussehra / Vijayadashami",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-diwali",
+      "festival_id": "diwali",
+      "date": "2027-10-29",
+      "name": "Diwali / Deepavali",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-chhath",
+      "festival_id": "chhath",
+      "date": "2027-11-04",
+      "name": "Chhath Puja",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-gurpurab",
+      "festival_id": "gurpurab",
+      "date": "2027-11-14",
+      "name": "Guru Nanak Jayanti",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    },
+    {
+      "id": "festival-2027-christmas",
+      "festival_id": "christmas",
+      "date": "2027-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "IN"
+      ],
+      "districts": [],
+      "type": "religious_festival",
+      "festival": true,
+      "status": "official",
+      "source": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "scope": "Central government calendar; regional observance dates may differ",
+      "reviewed": "2026-10-11",
+      "note": "Central government calendar; regional observance dates may differ. Festival observance, not a general public holiday in every state. Local schedules may differ.",
+      "source_id": "baseline-3",
+      "provenance": {
+        "authority": "PFRDA",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      }
+    }
+  ]
+}

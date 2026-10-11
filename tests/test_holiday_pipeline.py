@@ -124,6 +124,11 @@ def test_publication_is_deterministic_and_checksum_addressed(tmp_path) -> None:
     first = publish(output=tmp_path)
     second = publish(output=tmp_path)
     assert first == second
+    assert first["schema"] == 2
+    assert "ayutha_pooja" in first["festival_regions"]["Tamil Nadu"]
+    assert "durga_puja" not in first["festival_regions"]["Tamil Nadu"]
+    assert "onam" in first["festival_regions"]["Kerala"]
+    assert first["festival_regions"]["Delhi"] == []
     assert "2025:Tamil Nadu" in first["datasets"]
     assert "2026:Goa" not in first["datasets"]
     for entry in first["datasets"].values():

@@ -1,42 +1,42 @@
 {
-  "version": "9e8798e5586db91f385c",
-  "schema": 1,
+  "version": "9bee2cd7ac07b912fecb",
+  "schema": 2,
   "datasets": {
     "2024:Tamil Nadu": {
-      "url": "/data/holidays/2024/tamil-nadu-765b22d96903664d.json",
-      "checksum": "765b22d96903664d9a9633636d2a3c07a507a39653226ec5a4724cdadd43fae6",
+      "url": "/data/holidays/2024/tamil-nadu-4f273fc5f270b3ec.json",
+      "checksum": "4f273fc5f270b3ecbcab43c932e9ca774ba7cda0118a36fad99c7943c0a72141",
       "count": 24,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     },
     "2025:Tamil Nadu": {
-      "url": "/data/holidays/2025/tamil-nadu-9bfbd4cf8168a917.json",
-      "checksum": "9bfbd4cf8168a917567e9057f288beb50b7f991e8b0ca53202597214e98434d8",
+      "url": "/data/holidays/2025/tamil-nadu-483d092b4eb68aac.json",
+      "checksum": "483d092b4eb68aacd189ae0edd1314e4038e2ee472282756b3a3e5f47d91509f",
       "count": 24,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     },
     "2026:IN": {
-      "url": "/data/holidays/2026/national-f789a7dc29025d49.json",
-      "checksum": "f789a7dc29025d49a0b5fba1e4350fac08ab8c7cbaa498fe1cc7705c0dfb421d",
+      "url": "/data/holidays/2026/national-8c8fefba80331469.json",
+      "checksum": "8c8fefba8033146980fe890f292837db5df9ee46621125968a4a6a3e4359d9dc",
       "count": 37,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     },
     "2026:Kerala": {
-      "url": "/data/holidays/2026/kerala-69bb6746d2b07cbe.json",
-      "checksum": "69bb6746d2b07cbee4925a947242bef1be724ebdb9bb1e0edd8d0b07f4597ac4",
+      "url": "/data/holidays/2026/kerala-32156be2a8ff5e0f.json",
+      "checksum": "32156be2a8ff5e0ff11075c55299305c0fe1f8ee21f71820bd1c429b96cdaa93",
       "count": 17,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     },
     "2026:Tamil Nadu": {
-      "url": "/data/holidays/2026/tamil-nadu-48d91df6d89ff122.json",
-      "checksum": "48d91df6d89ff1220e9f3dacb6c8ddc5a2bf231ca8b0608ec1ed50067e79f4a9",
+      "url": "/data/holidays/2026/tamil-nadu-1961c4bc38458b7a.json",
+      "checksum": "1961c4bc38458b7aeeaddf2dcdbfa900bf2b0863aa8803240b98f7d58c6882bd",
       "count": 22,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     },
     "2027:IN": {
-      "url": "/data/holidays/2027/national-68e0948f0e356691.json",
-      "checksum": "68e0948f0e356691dfa4d7608dd794fb8762b057f25383d6ab80d3c0d934aae8",
+      "url": "/data/holidays/2027/national-8d73e8329092b9bc.json",
+      "checksum": "8d73e8329092b9bc601416ef3f6391389037efc9c01e37c78aa4ad741bb1a744",
       "count": 34,
-      "version": "9e8798e5586db91f385c"
+      "version": "9bee2cd7ac07b912fecb"
     }
   },
   "coverage": [
@@ -6845,6 +6845,72 @@
       "name": "Christmas",
       "image": "/art/festivals/christmas.webp"
     }
+  },
+  "festival_regions": {
+    "Andhra Pradesh": [],
+    "Arunachal Pradesh": [],
+    "Assam": [],
+    "Bihar": [],
+    "Chhattisgarh": [],
+    "Goa": [],
+    "Gujarat": [],
+    "Haryana": [],
+    "Himachal Pradesh": [],
+    "Jharkhand": [],
+    "Karnataka": [],
+    "Kerala": [
+      "ayutha_pooja",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "good_friday",
+      "janmashtami",
+      "karkadaka_vavu",
+      "onam",
+      "vishu"
+    ],
+    "Madhya Pradesh": [],
+    "Maharashtra": [],
+    "Manipur": [],
+    "Meghalaya": [],
+    "Mizoram": [],
+    "Nagaland": [],
+    "Odisha": [],
+    "Punjab": [],
+    "Rajasthan": [],
+    "Sikkim": [],
+    "Tamil Nadu": [
+      "ayutha_pooja",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "new_year",
+      "pongal",
+      "tamil_new_year",
+      "thai_poosam",
+      "ugadi"
+    ],
+    "Telangana": [],
+    "Tripura": [],
+    "Uttar Pradesh": [],
+    "Uttarakhand": [],
+    "West Bengal": [],
+    "Andaman and Nicobar Islands": [],
+    "Chandigarh": [],
+    "Dadra and Nagar Haveli and Daman and Diu": [],
+    "Delhi": [],
+    "Jammu and Kashmir": [],
+    "Ladakh": [],
+    "Lakshadweep": [],
+    "Puducherry": []
   },
   "changes": [],
   "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays."
