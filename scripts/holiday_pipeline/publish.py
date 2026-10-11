@@ -1,5 +1,6 @@
 """Only approved, validated records are emitted as cacheable static datasets."""
 
+from .automatic import merge_records
 from .storage import DATA, ROOT, digest, read, slug, validate, write
 
 CATEGORIES = ["public", "bank", "festival", "education", "district"]
@@ -66,6 +67,12 @@ def coverage(rows: list[dict], schedules: list[dict], states: list[str]) -> list
 def publish(data=DATA, output=None) -> dict:
     output = output or ROOT / "public/data"
     approved = read(data / "approved.json")
+    automatic = (
+        read(data / "automatic.json") if (data / "automatic.json").exists() else {}
+    )
+    approved["records"], approved["festival_calendar"] = merge_records(
+        approved, automatic
+    )
     catalog = read(ROOT / "public/data/catalog.json")
     rows = approved["records"] + approved["festival_calendar"]
     public_ids = {row["id"] for row in approved["records"]}
@@ -120,6 +127,11 @@ def publish(data=DATA, output=None) -> dict:
         "festival_art": approved["festival_art"],
         "festival_regions": festival_regions,
         "changes": approved.get("changes", []),
+        "automatic_updates": {
+            "enabled": True,
+            "source": "https://www.india.gov.in/calendar",
+            "updated": automatic.get("updated"),
+        },
         "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays.",
     }
     write(output / "holidays/manifest.json", manifest)

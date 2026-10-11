@@ -1,42 +1,654 @@
 {
-  "version": "9bee2cd7ac07b912fecb",
+  "version": "af5f90adfa4e786bc7d2",
   "schema": 2,
   "datasets": {
-    "2024:Tamil Nadu": {
-      "url": "/data/holidays/2024/tamil-nadu-4f273fc5f270b3ec.json",
-      "checksum": "4f273fc5f270b3ecbcab43c932e9ca774ba7cda0118a36fad99c7943c0a72141",
+    "2024:IN": {
+      "url": "/data/holidays/2024/national-21c918dcca1938dd.json",
+      "checksum": "21c918dcca1938dd5b5e0777648eae39e7a179272455cff865243e13b670b7dc",
+      "count": 35,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Arunachal Pradesh": {
+      "url": "/data/holidays/2024/arunachal-pradesh-b5bdc20a37924a41.json",
+      "checksum": "b5bdc20a37924a41f5bd48def5ced92370645e9a7aa317a05b2e6771d9612071",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Assam": {
+      "url": "/data/holidays/2024/assam-aaca9d94ed46493e.json",
+      "checksum": "aaca9d94ed46493e88902c021d5cd1672e352d970c0d6617b8e9721157d7e7c5",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Bihar": {
+      "url": "/data/holidays/2024/bihar-c94d4a172c13dea2.json",
+      "checksum": "c94d4a172c13dea23b4c4f95b179d07e42f4bd8b4e60bd45d7c29857eae37ace",
+      "count": 32,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Chhattisgarh": {
+      "url": "/data/holidays/2024/chhattisgarh-bad1766d89b8175f.json",
+      "checksum": "bad1766d89b8175f87438bbe16b58b2776f15a5942674320f1091d7a333faecb",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Goa": {
+      "url": "/data/holidays/2024/goa-f092e929839533ee.json",
+      "checksum": "f092e929839533eee2caeffc41fb4bf1b261052a9e70832e286269a35ee43ece",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Gujarat": {
+      "url": "/data/holidays/2024/gujarat-d5e5756dceee2ffd.json",
+      "checksum": "d5e5756dceee2ffda3ebc5ccf54e7a1bdbc6c0b6eb42e1dc3ea0db6baa09493e",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Haryana": {
+      "url": "/data/holidays/2024/haryana-978327b623c8f726.json",
+      "checksum": "978327b623c8f726f55eae1cc46b4dc242f87b2686857c6a3c571ab2c3b1c3b9",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Himachal Pradesh": {
+      "url": "/data/holidays/2024/himachal-pradesh-31d3ed3b19b3f34d.json",
+      "checksum": "31d3ed3b19b3f34dae1dcc7a844e8bdc9de18f0dbee0eff75f0679210e7b75cf",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Jharkhand": {
+      "url": "/data/holidays/2024/jharkhand-64985f63809b404b.json",
+      "checksum": "64985f63809b404badb15b1b097bc208ca204cfad112a6a6a7a9ff8dece86e2c",
+      "count": 18,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Karnataka": {
+      "url": "/data/holidays/2024/karnataka-02509ffc6d5fc81f.json",
+      "checksum": "02509ffc6d5fc81f230328db18e069bb1af094585299599187bee4a69a4cc69e",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Kerala": {
+      "url": "/data/holidays/2024/kerala-a6e79bf6e4a00961.json",
+      "checksum": "a6e79bf6e4a0096170ca0405d805be4705914195ed22558de1099e173216630d",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Madhya Pradesh": {
+      "url": "/data/holidays/2024/madhya-pradesh-b6e97164ddb605a3.json",
+      "checksum": "b6e97164ddb605a310de6f7ed205e7ed3fcb4fd57b50366e7550ce4211479aef",
       "count": 24,
-      "version": "9bee2cd7ac07b912fecb"
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Maharashtra": {
+      "url": "/data/holidays/2024/maharashtra-bbbbb0172eca2b13.json",
+      "checksum": "bbbbb0172eca2b13ddec10b3cec769ed516830ab4efec595c89e162c122f7992",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Manipur": {
+      "url": "/data/holidays/2024/manipur-fa20a09540e8b157.json",
+      "checksum": "fa20a09540e8b15723173107e17e30c71ea538146d455417851d71d7d51302a8",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Meghalaya": {
+      "url": "/data/holidays/2024/meghalaya-45daacdfceeaae9a.json",
+      "checksum": "45daacdfceeaae9a703cabac4839d146fa894c5452eca15e83858af1a71ef6a9",
+      "count": 20,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Mizoram": {
+      "url": "/data/holidays/2024/mizoram-57028fbc3da4ce49.json",
+      "checksum": "57028fbc3da4ce497ef7ce58bb5ef404c052a63a8d22cfae6a048d214f5bd8ac",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Nagaland": {
+      "url": "/data/holidays/2024/nagaland-a7f46ff221e4463e.json",
+      "checksum": "a7f46ff221e4463e9f0e81d37c5a838a9c3a83e65bc92591195c00887cfa714a",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Odisha": {
+      "url": "/data/holidays/2024/odisha-1632838128501d1f.json",
+      "checksum": "1632838128501d1f0674eaea9d136b47b2eb3ea15928cbbfd0f9bebed70d7049",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Punjab": {
+      "url": "/data/holidays/2024/punjab-02785610ccc7d0af.json",
+      "checksum": "02785610ccc7d0af576be8f3ac28a665fa2a06f61668644e3cb89c8fb360a672",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Rajasthan": {
+      "url": "/data/holidays/2024/rajasthan-ddc957177ed4b2b8.json",
+      "checksum": "ddc957177ed4b2b8e578d986421a023a6869a5ab6e4e4419a49b3d4df91c4af0",
+      "count": 29,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Sikkim": {
+      "url": "/data/holidays/2024/sikkim-f76f69d126a65ca9.json",
+      "checksum": "f76f69d126a65ca9e01b4fbc59382884b81c753044cd5af7300325c8f84586f3",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Tamil Nadu": {
+      "url": "/data/holidays/2024/tamil-nadu-f3c08733d288092c.json",
+      "checksum": "f3c08733d288092c12b913c3501470cdde78343e6ef4dedd58e07c5d94fdff76",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Telangana": {
+      "url": "/data/holidays/2024/telangana-4d125655e8ec308b.json",
+      "checksum": "4d125655e8ec308b3bdef1e99042c817b1851439406cb905d87a0c9a6611b69b",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Tripura": {
+      "url": "/data/holidays/2024/tripura-55bb1c42f7b0e94d.json",
+      "checksum": "55bb1c42f7b0e94d866026a99021beee6e99657d0d1039ece66c66121d9274c8",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Uttar Pradesh": {
+      "url": "/data/holidays/2024/uttar-pradesh-a0b996be744d17e5.json",
+      "checksum": "a0b996be744d17e5dc4aef5e580324c239730e5369368325540dfac1b4d8dd03",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Uttarakhand": {
+      "url": "/data/holidays/2024/uttarakhand-bd0cc665fe1b415a.json",
+      "checksum": "bd0cc665fe1b415a36628e20fe2e4871e31051859237ac5f0c0b5e2499b9cd4d",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:West Bengal": {
+      "url": "/data/holidays/2024/west-bengal-71641ad6a4cfe8ef.json",
+      "checksum": "71641ad6a4cfe8ef14d518b5ad19adac397ffc5453c74e747c35cc5aaa6ca2bc",
+      "count": 19,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Andaman and Nicobar Islands": {
+      "url": "/data/holidays/2024/andaman-and-nicobar-islands-73172d49ebf43a9e.json",
+      "checksum": "73172d49ebf43a9e157b97ea2b7ffd8d90576418acb1b9677276453dc07299de",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Chandigarh": {
+      "url": "/data/holidays/2024/chandigarh-d031239aa86d5c03.json",
+      "checksum": "d031239aa86d5c036aa015daa91c3b14e4908dc9974977296a2abbbf7855dab2",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Dadra and Nagar Haveli and Daman and Diu": {
+      "url": "/data/holidays/2024/dadra-and-nagar-haveli-and-daman-and-diu-f734b54fdc6b7031.json",
+      "checksum": "f734b54fdc6b7031c4fd211952d1784e5e7e1a60e5a4371afe89a52fe0254d79",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Delhi": {
+      "url": "/data/holidays/2024/delhi-1298bf33ac319049.json",
+      "checksum": "1298bf33ac319049d8476f8ac8d3e9479f148556327f5569bafdb56aa29b08c5",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Jammu and Kashmir": {
+      "url": "/data/holidays/2024/jammu-and-kashmir-48133acf326a2897.json",
+      "checksum": "48133acf326a28975e759c65886efbb72f48bba2a2ca9b5009120227be267533",
+      "count": 27,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Ladakh": {
+      "url": "/data/holidays/2024/ladakh-da740d6bffcbdf56.json",
+      "checksum": "da740d6bffcbdf562562c9bdfcf89e8c8a790c4f0eeb6f5938e889b414267d0d",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Lakshadweep": {
+      "url": "/data/holidays/2024/lakshadweep-3ba9796641115ea4.json",
+      "checksum": "3ba9796641115ea4e0a9cf78b3f96d166ea386aff55c4e45478b7d4a89de8d03",
+      "count": 16,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2024:Puducherry": {
+      "url": "/data/holidays/2024/puducherry-4c5568e0cfa70106.json",
+      "checksum": "4c5568e0cfa701063b01d7fe81380a067bf794d83ee67ee7500bfc67fc2e7bc9",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:IN": {
+      "url": "/data/holidays/2025/national-0c254d1b0bd2229a.json",
+      "checksum": "0c254d1b0bd2229a0f5d27e5f6c41f224aaabb09cd8c8f5e3728ff813593a6f2",
+      "count": 36,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Andhra Pradesh": {
+      "url": "/data/holidays/2025/andhra-pradesh-f8811b10951a4f49.json",
+      "checksum": "f8811b10951a4f49857484c57514637df876a0e0040aeea7e1b31cb7ff509a34",
+      "count": 18,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Arunachal Pradesh": {
+      "url": "/data/holidays/2025/arunachal-pradesh-2f362995bf89a2e9.json",
+      "checksum": "2f362995bf89a2e9d2b376ae7d7414a9a95acf8ea06968afb39b4bd17c72086b",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Assam": {
+      "url": "/data/holidays/2025/assam-fb719496aa1c0e63.json",
+      "checksum": "fb719496aa1c0e63e57ff48c04966fa8b5afec2cfddb9fbebe8e6dfb2ecf5ea9",
+      "count": 34,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Bihar": {
+      "url": "/data/holidays/2025/bihar-831fc27ae80526da.json",
+      "checksum": "831fc27ae80526dad521805ab25e4ae801a8658b517167a2244065807fc9aaf1",
+      "count": 33,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Chhattisgarh": {
+      "url": "/data/holidays/2025/chhattisgarh-2a98a3a469debbd5.json",
+      "checksum": "2a98a3a469debbd52338066719d4a3b93e39c455fd90f0930df3d6d5b828ad67",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Goa": {
+      "url": "/data/holidays/2025/goa-11777e0e9a447f3b.json",
+      "checksum": "11777e0e9a447f3ba9298ba7103ab032c6b5ce2ca550d990ed37fcf5c9a26be9",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Gujarat": {
+      "url": "/data/holidays/2025/gujarat-8e7237487b3f0438.json",
+      "checksum": "8e7237487b3f04385b554361611d7a973fde74fd730bfcbb18b5c74e0b83c87e",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Haryana": {
+      "url": "/data/holidays/2025/haryana-56ec6039d5f4c7bd.json",
+      "checksum": "56ec6039d5f4c7bd23b16b58f63db73754cc7659be26041606cb2fd1a405c12e",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Himachal Pradesh": {
+      "url": "/data/holidays/2025/himachal-pradesh-4b7588a53f1679df.json",
+      "checksum": "4b7588a53f1679df2f435e9b31cb96a87ae05b9e1bba73a711c0c0f87c1e2f7b",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Jharkhand": {
+      "url": "/data/holidays/2025/jharkhand-0d236d84c7e4f715.json",
+      "checksum": "0d236d84c7e4f715224d03cac4ebb1edc1ca26e5c7870676225205a44c01e46c",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Karnataka": {
+      "url": "/data/holidays/2025/karnataka-ff69d2321a7113b2.json",
+      "checksum": "ff69d2321a7113b2300c8b6acd97786b7b13530ce91a977cbefdc77a943cc826",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Kerala": {
+      "url": "/data/holidays/2025/kerala-5a1452ff8a7efdb4.json",
+      "checksum": "5a1452ff8a7efdb4095c0d70b944cf8a7f3e9885afd2193e29cd5ac61bbbf0e4",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Madhya Pradesh": {
+      "url": "/data/holidays/2025/madhya-pradesh-d7fdc7be30d1d34a.json",
+      "checksum": "d7fdc7be30d1d34a6f19dd9a0845ab206012813b284d3c617d9a0c13277f97f7",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Maharashtra": {
+      "url": "/data/holidays/2025/maharashtra-d19d03eebcb05f79.json",
+      "checksum": "d19d03eebcb05f7997cc6873f8d0a62dc29bf76c4a4fa595b9858b31c1373456",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Manipur": {
+      "url": "/data/holidays/2025/manipur-a463397575ee1939.json",
+      "checksum": "a463397575ee19398ae8363e9484f214736c478f397729a76de2a5badbabad9a",
+      "count": 20,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Meghalaya": {
+      "url": "/data/holidays/2025/meghalaya-f6f3dc0c4d48772b.json",
+      "checksum": "f6f3dc0c4d48772b802d04eee386c7de812ae0239e5b399a12c3afea8655d473",
+      "count": 20,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Mizoram": {
+      "url": "/data/holidays/2025/mizoram-96880ee300444898.json",
+      "checksum": "96880ee30044489800450867ed40ff6d18ce6b3b243ee3d9ac7ec986eb700e39",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Odisha": {
+      "url": "/data/holidays/2025/odisha-2eb31b2cbf169399.json",
+      "checksum": "2eb31b2cbf169399eec94792f6c833934953f6f791529e9c68222a7e115c6e63",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Punjab": {
+      "url": "/data/holidays/2025/punjab-9aa8933e36c4d490.json",
+      "checksum": "9aa8933e36c4d49084dc3f229a086580ecdfaf0bba6f6a0f096e156963027cb5",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Rajasthan": {
+      "url": "/data/holidays/2025/rajasthan-b868220564dc4668.json",
+      "checksum": "b868220564dc4668ec63167eef294fb572de1c1d33cebfa82d2f00f2b120a407",
+      "count": 29,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Sikkim": {
+      "url": "/data/holidays/2025/sikkim-3671de9405a5a8c8.json",
+      "checksum": "3671de9405a5a8c854d68373f33415dbcce3c8feaf267b8cfcb955ad56babd91",
+      "count": 49,
+      "version": "af5f90adfa4e786bc7d2"
     },
     "2025:Tamil Nadu": {
-      "url": "/data/holidays/2025/tamil-nadu-483d092b4eb68aac.json",
-      "checksum": "483d092b4eb68aacd189ae0edd1314e4038e2ee472282756b3a3e5f47d91509f",
-      "count": 24,
-      "version": "9bee2cd7ac07b912fecb"
+      "url": "/data/holidays/2025/tamil-nadu-68bf4bf6027feb58.json",
+      "checksum": "68bf4bf6027feb5854d6ffefd7dc89fe51c8a5110261796a812bb4ad3c6598af",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Telangana": {
+      "url": "/data/holidays/2025/telangana-3b39f035229e7a1e.json",
+      "checksum": "3b39f035229e7a1e9407b96304b764c9d74a34140bab9d1f27bdbb1ddc98e710",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Tripura": {
+      "url": "/data/holidays/2025/tripura-72a3bd1f9a5c666a.json",
+      "checksum": "72a3bd1f9a5c666a9d9e96262b998da4c1dc9edd3ac136c84e333cda4217f950",
+      "count": 30,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Uttar Pradesh": {
+      "url": "/data/holidays/2025/uttar-pradesh-5b82f6d5851e3e42.json",
+      "checksum": "5b82f6d5851e3e426daf19d0ba8941b9d18222b5d5ce97b2317cb8a5b55ce48c",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Uttarakhand": {
+      "url": "/data/holidays/2025/uttarakhand-99f99b8222625f21.json",
+      "checksum": "99f99b8222625f21a11c94d8657c48b05eb8e200a65d7b6988300efdec51b972",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:West Bengal": {
+      "url": "/data/holidays/2025/west-bengal-018b30b422952a0c.json",
+      "checksum": "018b30b422952a0cb97a29ddaf8062539c5c73017484c0294a075fe97a1add09",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Andaman and Nicobar Islands": {
+      "url": "/data/holidays/2025/andaman-and-nicobar-islands-681971e9415a2712.json",
+      "checksum": "681971e9415a27128dd1fd79e29e30bdb9a36187368df34caadbcbe969c1948e",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Dadra and Nagar Haveli and Daman and Diu": {
+      "url": "/data/holidays/2025/dadra-and-nagar-haveli-and-daman-and-diu-24b1304818904343.json",
+      "checksum": "24b13048189043432494a32d7de64b29f44d660ba9c35650042adf29279e674d",
+      "count": 16,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Delhi": {
+      "url": "/data/holidays/2025/delhi-525ca37941844d19.json",
+      "checksum": "525ca37941844d19f5fcfcb0a7db2d99015558a91acb1bc18adffa3add041e42",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Jammu and Kashmir": {
+      "url": "/data/holidays/2025/jammu-and-kashmir-90b521f1f8e5a97e.json",
+      "checksum": "90b521f1f8e5a97e586359472b7adae3f487a2983e09651d016893426516f347",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Lakshadweep": {
+      "url": "/data/holidays/2025/lakshadweep-cbbc2ac2e34bfd45.json",
+      "checksum": "cbbc2ac2e34bfd457ab6799005504b2fe54c149e8f77fd9e1c13e95bdc955c07",
+      "count": 16,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2025:Puducherry": {
+      "url": "/data/holidays/2025/puducherry-28b9c252248cd5a6.json",
+      "checksum": "28b9c252248cd5a660e0bab7d60cb63ce4c93bfb021b328c378d388f2cc0fe45",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
     },
     "2026:IN": {
-      "url": "/data/holidays/2026/national-8c8fefba80331469.json",
-      "checksum": "8c8fefba8033146980fe890f292837db5df9ee46621125968a4a6a3e4359d9dc",
-      "count": 37,
-      "version": "9bee2cd7ac07b912fecb"
+      "url": "/data/holidays/2026/national-4e4379f9f4b871b9.json",
+      "checksum": "4e4379f9f4b871b96192dc6fd5d321b1bfbebea895ded88002f0b339e1bd51f4",
+      "count": 42,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Andhra Pradesh": {
+      "url": "/data/holidays/2026/andhra-pradesh-9fd56284c4b7ccd9.json",
+      "checksum": "9fd56284c4b7ccd9767efd1b6f04ad245a41a27196ff1fe2c1c7b804c35bf7ce",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Arunachal Pradesh": {
+      "url": "/data/holidays/2026/arunachal-pradesh-87d17e64b2e36658.json",
+      "checksum": "87d17e64b2e36658cc0efa8b6f6b9f6b0275137136eb25319c9228b8d06f2ef9",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Assam": {
+      "url": "/data/holidays/2026/assam-3bbdab656b49bbad.json",
+      "checksum": "3bbdab656b49bbad23c5d28396dcae1b74a34a49320510656a394dbe2d6edad6",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Bihar": {
+      "url": "/data/holidays/2026/bihar-15753e7a13fb8766.json",
+      "checksum": "15753e7a13fb8766d38246a456a5059cf4ba5a942f6da11bee574ad94203849a",
+      "count": 33,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Chhattisgarh": {
+      "url": "/data/holidays/2026/chhattisgarh-49da5b5bc2f0d4dc.json",
+      "checksum": "49da5b5bc2f0d4dc9cdbf4871975c458ee918f9da84693c92b80a1d2ef6a8eb2",
+      "count": 2,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Goa": {
+      "url": "/data/holidays/2026/goa-ce2b1b554da96e1f.json",
+      "checksum": "ce2b1b554da96e1f147fc33226677355c53af1bbea04ccd61696ffaf07ac6eae",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Gujarat": {
+      "url": "/data/holidays/2026/gujarat-aa24ca894aef0e3e.json",
+      "checksum": "aa24ca894aef0e3e969a18e4aca228f5a1ae6dfdc72e60df9f15074933821461",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Haryana": {
+      "url": "/data/holidays/2026/haryana-2f5ed909831399b6.json",
+      "checksum": "2f5ed909831399b66b0f9a779150e6e0728525274fb2bf1534a806ff3e33c1fa",
+      "count": 18,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Himachal Pradesh": {
+      "url": "/data/holidays/2026/himachal-pradesh-59154740f226d957.json",
+      "checksum": "59154740f226d957a3298d68009fc48aa57dcefc65f90e8f5ca964a4ef83a25b",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Jharkhand": {
+      "url": "/data/holidays/2026/jharkhand-6bc6684f7a96e371.json",
+      "checksum": "6bc6684f7a96e37116ebce495e9d7dcd4ae44efa705ed7c49d4211e8e77d58f1",
+      "count": 18,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Karnataka": {
+      "url": "/data/holidays/2026/karnataka-cd7279dfc2201222.json",
+      "checksum": "cd7279dfc22012223616c7f6892b6e4e61d2309911e23ee0edf4c471c202ff40",
+      "count": 17,
+      "version": "af5f90adfa4e786bc7d2"
     },
     "2026:Kerala": {
-      "url": "/data/holidays/2026/kerala-32156be2a8ff5e0f.json",
-      "checksum": "32156be2a8ff5e0ff11075c55299305c0fe1f8ee21f71820bd1c429b96cdaa93",
-      "count": 17,
-      "version": "9bee2cd7ac07b912fecb"
+      "url": "/data/holidays/2026/kerala-0e9195d6ee332703.json",
+      "checksum": "0e9195d6ee3327031a618c89ef98ddc630af382be8730006bd9db2c485ca0579",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Madhya Pradesh": {
+      "url": "/data/holidays/2026/madhya-pradesh-ebbde651d0fbb65c.json",
+      "checksum": "ebbde651d0fbb65ca97ea7b86ba24e2668f6537f2190fc5266c9b0a47b750224",
+      "count": 22,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Maharashtra": {
+      "url": "/data/holidays/2026/maharashtra-ff73482e6ffdd3a1.json",
+      "checksum": "ff73482e6ffdd3a1ee7875451241f040cc4b1eef4fce6628de6528db5693d63d",
+      "count": 20,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Manipur": {
+      "url": "/data/holidays/2026/manipur-969126503c75c4a4.json",
+      "checksum": "969126503c75c4a461776132293bc219c69237085b2f2bb56bc26d59b68db2b8",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Meghalaya": {
+      "url": "/data/holidays/2026/meghalaya-2485439e998752c7.json",
+      "checksum": "2485439e998752c7a0db14edbc19051569805a564877f48074e355de61a179cf",
+      "count": 20,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Mizoram": {
+      "url": "/data/holidays/2026/mizoram-71010eb09c466b37.json",
+      "checksum": "71010eb09c466b3718ffa42acced5e8c933690e4a3b6b0baeeab95cadf94cbfc",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Nagaland": {
+      "url": "/data/holidays/2026/nagaland-201f8faf479a2579.json",
+      "checksum": "201f8faf479a25793a500b69d6b36b27c09394a64b79f809d9dab37b1a954b7f",
+      "count": 25,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Odisha": {
+      "url": "/data/holidays/2026/odisha-053ff039bf1c58ac.json",
+      "checksum": "053ff039bf1c58ac9bcb322e6a1ba23140486f087e7608946ba9f5ec0e460580",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Punjab": {
+      "url": "/data/holidays/2026/punjab-f9c9e81fb66ff114.json",
+      "checksum": "f9c9e81fb66ff1140b8ee92320517051bdfe7050d257e94e3f1bd178cccb83e7",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Rajasthan": {
+      "url": "/data/holidays/2026/rajasthan-4af3b3ed94b2cd3d.json",
+      "checksum": "4af3b3ed94b2cd3d9a66142cbab38188204a9a86277ff1b628a68b6f442a93af",
+      "count": 28,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Sikkim": {
+      "url": "/data/holidays/2026/sikkim-c9a99e92d6303baf.json",
+      "checksum": "c9a99e92d6303baf5c77cb3574fa82530d76f46f83de56ddfd2dcceb35e4551c",
+      "count": 46,
+      "version": "af5f90adfa4e786bc7d2"
     },
     "2026:Tamil Nadu": {
-      "url": "/data/holidays/2026/tamil-nadu-1961c4bc38458b7a.json",
-      "checksum": "1961c4bc38458b7aeeaddf2dcdbfa900bf2b0863aa8803240b98f7d58c6882bd",
+      "url": "/data/holidays/2026/tamil-nadu-5f7ea3dedcb38e02.json",
+      "checksum": "5f7ea3dedcb38e02e64591bc74c83ca750c4baad9ffcca31f646acf6a8eec396",
       "count": 22,
-      "version": "9bee2cd7ac07b912fecb"
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Telangana": {
+      "url": "/data/holidays/2026/telangana-24833edc08a2526a.json",
+      "checksum": "24833edc08a2526a006b1b3b1e5283be105b660d0a2d15947b19c93cc53ee196",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Tripura": {
+      "url": "/data/holidays/2026/tripura-be75621d9f179113.json",
+      "checksum": "be75621d9f17911392bc7e51b4becb57421531dee3ba35be5066292e2c7c6218",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Uttar Pradesh": {
+      "url": "/data/holidays/2026/uttar-pradesh-41963af60e614393.json",
+      "checksum": "41963af60e6143938ac910669be2cb3459adf6bc779644be87f3aa2a3b913a99",
+      "count": 21,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Uttarakhand": {
+      "url": "/data/holidays/2026/uttarakhand-f96db9b6645ad7a0.json",
+      "checksum": "f96db9b6645ad7a0aa4adeb72d8e052fb78b90eaf66ada9c4535bd645ed06094",
+      "count": 14,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:West Bengal": {
+      "url": "/data/holidays/2026/west-bengal-f1ae31343ee32d23.json",
+      "checksum": "f1ae31343ee32d239b965df91387b5765a495da96b8ef7f6096bd3614701918c",
+      "count": 24,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Andaman and Nicobar Islands": {
+      "url": "/data/holidays/2026/andaman-and-nicobar-islands-e5cd042cbf6c1c7e.json",
+      "checksum": "e5cd042cbf6c1c7e51c970b8c5d2ed84b76218f4cca0345d553645ca9d6d6f67",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Chandigarh": {
+      "url": "/data/holidays/2026/chandigarh-7be508208557733e.json",
+      "checksum": "7be508208557733ef37d98945952f227594ef489b9a8e4c9dcf60daec4958eff",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Dadra and Nagar Haveli and Daman and Diu": {
+      "url": "/data/holidays/2026/dadra-and-nagar-haveli-and-daman-and-diu-be30ff408c2969f9.json",
+      "checksum": "be30ff408c2969f978b95209c62c322bd723f1046c737bfb3a4092910ad9c12a",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Delhi": {
+      "url": "/data/holidays/2026/delhi-aa17447cadc13041.json",
+      "checksum": "aa17447cadc13041dee58f19979d055ebe1c2b4153af974b5584d98aaa5497b7",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Jammu and Kashmir": {
+      "url": "/data/holidays/2026/jammu-and-kashmir-a736094bf0dd86ff.json",
+      "checksum": "a736094bf0dd86ff28f80c76f715da0f6f212ba078cd79b53e73619492fe4ef7",
+      "count": 23,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Ladakh": {
+      "url": "/data/holidays/2026/ladakh-4a98392e3430e227.json",
+      "checksum": "4a98392e3430e2274c213df22eb4cced3dacbd956be2ecd6637ddeaf9ad7fb0c",
+      "count": 13,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Lakshadweep": {
+      "url": "/data/holidays/2026/lakshadweep-a112e77f9acac84f.json",
+      "checksum": "a112e77f9acac84fd8bbe4d3679cdd98917aa94b8c5dd83d02275c0eb70cee0b",
+      "count": 15,
+      "version": "af5f90adfa4e786bc7d2"
+    },
+    "2026:Puducherry": {
+      "url": "/data/holidays/2026/puducherry-b69d90e461e7a134.json",
+      "checksum": "b69d90e461e7a1341062a79eeae8e3cab27122dbb5f144930f86b50eb4c34d3a",
+      "count": 26,
+      "version": "af5f90adfa4e786bc7d2"
     },
     "2027:IN": {
-      "url": "/data/holidays/2027/national-8d73e8329092b9bc.json",
-      "checksum": "8d73e8329092b9bc601416ef3f6391389037efc9c01e37c78aa4ad741bb1a744",
-      "count": 34,
-      "version": "9bee2cd7ac07b912fecb"
+      "url": "/data/holidays/2027/national-6a49150875b28cd2.json",
+      "checksum": "6a49150875b28cd2101459a61e0c71e1cbd8a6144bdabc68aa241d7c9b0b622e",
+      "count": 39,
+      "version": "af5f90adfa4e786bc7d2"
     }
   },
   "coverage": [
@@ -44,8 +656,8 @@
       "year": 2024,
       "jurisdiction": "IN",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 3,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -62,8 +674,8 @@
       "year": 2024,
       "jurisdiction": "IN",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 32,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -134,8 +746,8 @@
       "year": 2024,
       "jurisdiction": "Arunachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -152,8 +764,8 @@
       "year": 2024,
       "jurisdiction": "Arunachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -179,8 +791,8 @@
       "year": 2024,
       "jurisdiction": "Assam",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -197,8 +809,8 @@
       "year": 2024,
       "jurisdiction": "Assam",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -224,8 +836,8 @@
       "year": 2024,
       "jurisdiction": "Bihar",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 32,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -242,8 +854,8 @@
       "year": 2024,
       "jurisdiction": "Bihar",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -269,8 +881,8 @@
       "year": 2024,
       "jurisdiction": "Chhattisgarh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -287,8 +899,8 @@
       "year": 2024,
       "jurisdiction": "Chhattisgarh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 8,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -314,8 +926,8 @@
       "year": 2024,
       "jurisdiction": "Goa",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -332,8 +944,8 @@
       "year": 2024,
       "jurisdiction": "Goa",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -359,8 +971,8 @@
       "year": 2024,
       "jurisdiction": "Gujarat",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -377,8 +989,8 @@
       "year": 2024,
       "jurisdiction": "Gujarat",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -404,8 +1016,8 @@
       "year": 2024,
       "jurisdiction": "Haryana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -422,8 +1034,8 @@
       "year": 2024,
       "jurisdiction": "Haryana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -449,8 +1061,8 @@
       "year": 2024,
       "jurisdiction": "Himachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -467,8 +1079,8 @@
       "year": 2024,
       "jurisdiction": "Himachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -494,8 +1106,8 @@
       "year": 2024,
       "jurisdiction": "Jharkhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -512,8 +1124,8 @@
       "year": 2024,
       "jurisdiction": "Jharkhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -539,8 +1151,8 @@
       "year": 2024,
       "jurisdiction": "Karnataka",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -557,8 +1169,8 @@
       "year": 2024,
       "jurisdiction": "Karnataka",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -584,8 +1196,8 @@
       "year": 2024,
       "jurisdiction": "Kerala",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -602,8 +1214,8 @@
       "year": 2024,
       "jurisdiction": "Kerala",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -629,8 +1241,8 @@
       "year": 2024,
       "jurisdiction": "Madhya Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -647,8 +1259,8 @@
       "year": 2024,
       "jurisdiction": "Madhya Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -674,8 +1286,8 @@
       "year": 2024,
       "jurisdiction": "Maharashtra",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -692,8 +1304,8 @@
       "year": 2024,
       "jurisdiction": "Maharashtra",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -719,8 +1331,8 @@
       "year": 2024,
       "jurisdiction": "Manipur",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -737,8 +1349,8 @@
       "year": 2024,
       "jurisdiction": "Manipur",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -764,8 +1376,8 @@
       "year": 2024,
       "jurisdiction": "Meghalaya",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 20,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -782,8 +1394,8 @@
       "year": 2024,
       "jurisdiction": "Meghalaya",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -809,8 +1421,8 @@
       "year": 2024,
       "jurisdiction": "Mizoram",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -827,8 +1439,8 @@
       "year": 2024,
       "jurisdiction": "Mizoram",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -854,8 +1466,8 @@
       "year": 2024,
       "jurisdiction": "Nagaland",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -872,8 +1484,8 @@
       "year": 2024,
       "jurisdiction": "Nagaland",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -899,8 +1511,8 @@
       "year": 2024,
       "jurisdiction": "Odisha",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -917,8 +1529,8 @@
       "year": 2024,
       "jurisdiction": "Odisha",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -944,8 +1556,8 @@
       "year": 2024,
       "jurisdiction": "Punjab",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -962,8 +1574,8 @@
       "year": 2024,
       "jurisdiction": "Punjab",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -989,8 +1601,8 @@
       "year": 2024,
       "jurisdiction": "Rajasthan",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 29,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1007,8 +1619,8 @@
       "year": 2024,
       "jurisdiction": "Rajasthan",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1034,8 +1646,8 @@
       "year": 2024,
       "jurisdiction": "Sikkim",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1052,8 +1664,8 @@
       "year": 2024,
       "jurisdiction": "Sikkim",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 8,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1126,8 +1738,8 @@
       "year": 2024,
       "jurisdiction": "Telangana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1144,8 +1756,8 @@
       "year": 2024,
       "jurisdiction": "Telangana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1171,8 +1783,8 @@
       "year": 2024,
       "jurisdiction": "Tripura",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1189,8 +1801,8 @@
       "year": 2024,
       "jurisdiction": "Tripura",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1216,8 +1828,8 @@
       "year": 2024,
       "jurisdiction": "Uttar Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1234,8 +1846,8 @@
       "year": 2024,
       "jurisdiction": "Uttar Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1261,8 +1873,8 @@
       "year": 2024,
       "jurisdiction": "Uttarakhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1279,8 +1891,8 @@
       "year": 2024,
       "jurisdiction": "Uttarakhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1306,8 +1918,8 @@
       "year": 2024,
       "jurisdiction": "West Bengal",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 19,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1324,8 +1936,8 @@
       "year": 2024,
       "jurisdiction": "West Bengal",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 9,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1351,8 +1963,8 @@
       "year": 2024,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1369,8 +1981,8 @@
       "year": 2024,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1396,8 +2008,8 @@
       "year": 2024,
       "jurisdiction": "Chandigarh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1414,8 +2026,8 @@
       "year": 2024,
       "jurisdiction": "Chandigarh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1441,8 +2053,8 @@
       "year": 2024,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1459,8 +2071,8 @@
       "year": 2024,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1486,8 +2098,8 @@
       "year": 2024,
       "jurisdiction": "Delhi",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1504,8 +2116,8 @@
       "year": 2024,
       "jurisdiction": "Delhi",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1531,8 +2143,8 @@
       "year": 2024,
       "jurisdiction": "Jammu and Kashmir",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 27,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1549,8 +2161,8 @@
       "year": 2024,
       "jurisdiction": "Jammu and Kashmir",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1576,8 +2188,8 @@
       "year": 2024,
       "jurisdiction": "Ladakh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1594,8 +2206,8 @@
       "year": 2024,
       "jurisdiction": "Ladakh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 7,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1621,8 +2233,8 @@
       "year": 2024,
       "jurisdiction": "Lakshadweep",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1639,8 +2251,8 @@
       "year": 2024,
       "jurisdiction": "Lakshadweep",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1666,8 +2278,8 @@
       "year": 2024,
       "jurisdiction": "Puducherry",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1684,8 +2296,8 @@
       "year": 2024,
       "jurisdiction": "Puducherry",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1702,6 +2314,24 @@
       "year": 2024,
       "jurisdiction": "Puducherry",
       "category": "district",
+      "status": "partial",
+      "count": 23,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2025,
+      "jurisdiction": "IN",
+      "category": "public",
+      "status": "partial",
+      "count": 3,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2025,
+      "jurisdiction": "IN",
+      "category": "bank",
       "status": "not_verified",
       "count": 0,
       "scope": "Only published records; annual source sufficiency not established.",
@@ -1710,27 +2340,9 @@
     {
       "year": 2025,
       "jurisdiction": "IN",
-      "category": "public",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2025,
-      "jurisdiction": "IN",
-      "category": "bank",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2025,
-      "jurisdiction": "IN",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 33,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1756,8 +2368,8 @@
       "year": 2025,
       "jurisdiction": "Andhra Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1774,8 +2386,8 @@
       "year": 2025,
       "jurisdiction": "Andhra Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1801,8 +2413,8 @@
       "year": 2025,
       "jurisdiction": "Arunachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1819,8 +2431,8 @@
       "year": 2025,
       "jurisdiction": "Arunachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1846,8 +2458,8 @@
       "year": 2025,
       "jurisdiction": "Assam",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 34,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1864,8 +2476,8 @@
       "year": 2025,
       "jurisdiction": "Assam",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1891,8 +2503,8 @@
       "year": 2025,
       "jurisdiction": "Bihar",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 33,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1909,8 +2521,8 @@
       "year": 2025,
       "jurisdiction": "Bihar",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1936,8 +2548,8 @@
       "year": 2025,
       "jurisdiction": "Chhattisgarh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1954,8 +2566,8 @@
       "year": 2025,
       "jurisdiction": "Chhattisgarh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 8,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1981,8 +2593,8 @@
       "year": 2025,
       "jurisdiction": "Goa",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -1999,8 +2611,8 @@
       "year": 2025,
       "jurisdiction": "Goa",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2026,8 +2638,8 @@
       "year": 2025,
       "jurisdiction": "Gujarat",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2044,8 +2656,8 @@
       "year": 2025,
       "jurisdiction": "Gujarat",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2071,8 +2683,8 @@
       "year": 2025,
       "jurisdiction": "Haryana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2089,8 +2701,8 @@
       "year": 2025,
       "jurisdiction": "Haryana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2116,8 +2728,8 @@
       "year": 2025,
       "jurisdiction": "Himachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2134,8 +2746,8 @@
       "year": 2025,
       "jurisdiction": "Himachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2161,8 +2773,8 @@
       "year": 2025,
       "jurisdiction": "Jharkhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2179,8 +2791,8 @@
       "year": 2025,
       "jurisdiction": "Jharkhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 9,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2206,8 +2818,8 @@
       "year": 2025,
       "jurisdiction": "Karnataka",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2224,8 +2836,8 @@
       "year": 2025,
       "jurisdiction": "Karnataka",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 8,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2251,8 +2863,8 @@
       "year": 2025,
       "jurisdiction": "Kerala",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2269,8 +2881,8 @@
       "year": 2025,
       "jurisdiction": "Kerala",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2296,8 +2908,8 @@
       "year": 2025,
       "jurisdiction": "Madhya Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2314,8 +2926,8 @@
       "year": 2025,
       "jurisdiction": "Madhya Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2341,8 +2953,8 @@
       "year": 2025,
       "jurisdiction": "Maharashtra",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2359,8 +2971,8 @@
       "year": 2025,
       "jurisdiction": "Maharashtra",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2386,8 +2998,8 @@
       "year": 2025,
       "jurisdiction": "Manipur",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 19,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2395,8 +3007,8 @@
       "year": 2025,
       "jurisdiction": "Manipur",
       "category": "bank",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 1,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2404,8 +3016,8 @@
       "year": 2025,
       "jurisdiction": "Manipur",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 7,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2431,8 +3043,8 @@
       "year": 2025,
       "jurisdiction": "Meghalaya",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 20,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2449,8 +3061,8 @@
       "year": 2025,
       "jurisdiction": "Meghalaya",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2476,8 +3088,8 @@
       "year": 2025,
       "jurisdiction": "Mizoram",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2494,8 +3106,8 @@
       "year": 2025,
       "jurisdiction": "Mizoram",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2566,8 +3178,8 @@
       "year": 2025,
       "jurisdiction": "Odisha",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2584,8 +3196,8 @@
       "year": 2025,
       "jurisdiction": "Odisha",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2611,8 +3223,8 @@
       "year": 2025,
       "jurisdiction": "Punjab",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2629,8 +3241,8 @@
       "year": 2025,
       "jurisdiction": "Punjab",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2656,8 +3268,8 @@
       "year": 2025,
       "jurisdiction": "Rajasthan",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 29,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2674,8 +3286,8 @@
       "year": 2025,
       "jurisdiction": "Rajasthan",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2701,8 +3313,8 @@
       "year": 2025,
       "jurisdiction": "Sikkim",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 49,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2719,8 +3331,8 @@
       "year": 2025,
       "jurisdiction": "Sikkim",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2747,7 +3359,7 @@
       "jurisdiction": "Tamil Nadu",
       "category": "public",
       "status": "complete",
-      "count": 23,
+      "count": 27,
       "scope": "Complete published annual state-government schedule only; later/local amendments require separate review.",
       "source_ids": [
         "tn-2025-annual"
@@ -2767,7 +3379,7 @@
       "jurisdiction": "Tamil Nadu",
       "category": "festival",
       "status": "partial",
-      "count": 18,
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2793,8 +3405,8 @@
       "year": 2025,
       "jurisdiction": "Telangana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2811,8 +3423,8 @@
       "year": 2025,
       "jurisdiction": "Telangana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2838,8 +3450,8 @@
       "year": 2025,
       "jurisdiction": "Tripura",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 30,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2856,8 +3468,8 @@
       "year": 2025,
       "jurisdiction": "Tripura",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2883,8 +3495,8 @@
       "year": 2025,
       "jurisdiction": "Uttar Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2901,8 +3513,8 @@
       "year": 2025,
       "jurisdiction": "Uttar Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2928,8 +3540,8 @@
       "year": 2025,
       "jurisdiction": "Uttarakhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2946,8 +3558,8 @@
       "year": 2025,
       "jurisdiction": "Uttarakhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2973,8 +3585,8 @@
       "year": 2025,
       "jurisdiction": "West Bengal",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -2991,8 +3603,8 @@
       "year": 2025,
       "jurisdiction": "West Bengal",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3018,8 +3630,8 @@
       "year": 2025,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3036,8 +3648,8 @@
       "year": 2025,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3108,8 +3720,8 @@
       "year": 2025,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3126,8 +3738,8 @@
       "year": 2025,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3153,8 +3765,8 @@
       "year": 2025,
       "jurisdiction": "Delhi",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3171,8 +3783,8 @@
       "year": 2025,
       "jurisdiction": "Delhi",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3198,8 +3810,8 @@
       "year": 2025,
       "jurisdiction": "Jammu and Kashmir",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3207,8 +3819,8 @@
       "year": 2025,
       "jurisdiction": "Jammu and Kashmir",
       "category": "bank",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 1,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3216,8 +3828,8 @@
       "year": 2025,
       "jurisdiction": "Jammu and Kashmir",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 7,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3288,8 +3900,8 @@
       "year": 2025,
       "jurisdiction": "Lakshadweep",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3306,8 +3918,8 @@
       "year": 2025,
       "jurisdiction": "Lakshadweep",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3333,8 +3945,8 @@
       "year": 2025,
       "jurisdiction": "Puducherry",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3351,8 +3963,8 @@
       "year": 2025,
       "jurisdiction": "Puducherry",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3369,8 +3981,8 @@
       "year": 2025,
       "jurisdiction": "Puducherry",
       "category": "district",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3397,7 +4009,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 34,
+      "count": 39,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3423,8 +4035,8 @@
       "year": 2026,
       "jurisdiction": "Andhra Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3441,8 +4053,8 @@
       "year": 2026,
       "jurisdiction": "Andhra Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3468,8 +4080,8 @@
       "year": 2026,
       "jurisdiction": "Arunachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3486,8 +4098,8 @@
       "year": 2026,
       "jurisdiction": "Arunachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3513,8 +4125,8 @@
       "year": 2026,
       "jurisdiction": "Assam",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3531,8 +4143,8 @@
       "year": 2026,
       "jurisdiction": "Assam",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3558,8 +4170,8 @@
       "year": 2026,
       "jurisdiction": "Bihar",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 33,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3576,8 +4188,8 @@
       "year": 2026,
       "jurisdiction": "Bihar",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 20,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3603,8 +4215,8 @@
       "year": 2026,
       "jurisdiction": "Chhattisgarh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 2,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3621,8 +4233,8 @@
       "year": 2026,
       "jurisdiction": "Chhattisgarh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 1,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3648,8 +4260,8 @@
       "year": 2026,
       "jurisdiction": "Goa",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3666,8 +4278,8 @@
       "year": 2026,
       "jurisdiction": "Goa",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3693,8 +4305,8 @@
       "year": 2026,
       "jurisdiction": "Gujarat",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3711,8 +4323,8 @@
       "year": 2026,
       "jurisdiction": "Gujarat",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3738,8 +4350,8 @@
       "year": 2026,
       "jurisdiction": "Haryana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3756,8 +4368,8 @@
       "year": 2026,
       "jurisdiction": "Haryana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 10,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3783,8 +4395,8 @@
       "year": 2026,
       "jurisdiction": "Himachal Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3801,8 +4413,8 @@
       "year": 2026,
       "jurisdiction": "Himachal Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3828,8 +4440,8 @@
       "year": 2026,
       "jurisdiction": "Jharkhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 18,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3846,8 +4458,8 @@
       "year": 2026,
       "jurisdiction": "Jharkhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3873,8 +4485,8 @@
       "year": 2026,
       "jurisdiction": "Karnataka",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3891,8 +4503,8 @@
       "year": 2026,
       "jurisdiction": "Karnataka",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 9,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3919,7 +4531,7 @@
       "jurisdiction": "Kerala",
       "category": "public",
       "status": "partial",
-      "count": 15,
+      "count": 19,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -3937,192 +4549,192 @@
       "jurisdiction": "Kerala",
       "category": "festival",
       "status": "partial",
+      "count": 16,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Kerala",
+      "category": "education",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Kerala",
+      "category": "district",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Madhya Pradesh",
+      "category": "public",
+      "status": "partial",
+      "count": 22,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Madhya Pradesh",
+      "category": "bank",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Madhya Pradesh",
+      "category": "festival",
+      "status": "partial",
+      "count": 14,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Madhya Pradesh",
+      "category": "education",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Madhya Pradesh",
+      "category": "district",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Maharashtra",
+      "category": "public",
+      "status": "partial",
+      "count": 20,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Maharashtra",
+      "category": "bank",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Maharashtra",
+      "category": "festival",
+      "status": "partial",
+      "count": 13,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Maharashtra",
+      "category": "education",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Maharashtra",
+      "category": "district",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Manipur",
+      "category": "public",
+      "status": "partial",
+      "count": 25,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Manipur",
+      "category": "bank",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Manipur",
+      "category": "festival",
+      "status": "partial",
+      "count": 8,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Manipur",
+      "category": "education",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Manipur",
+      "category": "district",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Meghalaya",
+      "category": "public",
+      "status": "partial",
+      "count": 20,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Meghalaya",
+      "category": "bank",
+      "status": "not_verified",
+      "count": 0,
+      "scope": "Only published records; annual source sufficiency not established.",
+      "source_ids": []
+    },
+    {
+      "year": 2026,
+      "jurisdiction": "Meghalaya",
+      "category": "festival",
+      "status": "partial",
       "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
     {
       "year": 2026,
-      "jurisdiction": "Kerala",
-      "category": "education",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Kerala",
-      "category": "district",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Madhya Pradesh",
-      "category": "public",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Madhya Pradesh",
-      "category": "bank",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Madhya Pradesh",
-      "category": "festival",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Madhya Pradesh",
-      "category": "education",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Madhya Pradesh",
-      "category": "district",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Maharashtra",
-      "category": "public",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Maharashtra",
-      "category": "bank",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Maharashtra",
-      "category": "festival",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Maharashtra",
-      "category": "education",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Maharashtra",
-      "category": "district",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Manipur",
-      "category": "public",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Manipur",
-      "category": "bank",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Manipur",
-      "category": "festival",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Manipur",
-      "category": "education",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Manipur",
-      "category": "district",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Meghalaya",
-      "category": "public",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Meghalaya",
-      "category": "bank",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
-      "jurisdiction": "Meghalaya",
-      "category": "festival",
-      "status": "not_verified",
-      "count": 0,
-      "scope": "Only published records; annual source sufficiency not established.",
-      "source_ids": []
-    },
-    {
-      "year": 2026,
       "jurisdiction": "Meghalaya",
       "category": "education",
       "status": "not_verified",
@@ -4143,8 +4755,8 @@
       "year": 2026,
       "jurisdiction": "Mizoram",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4161,8 +4773,8 @@
       "year": 2026,
       "jurisdiction": "Mizoram",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4188,8 +4800,8 @@
       "year": 2026,
       "jurisdiction": "Nagaland",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4206,8 +4818,8 @@
       "year": 2026,
       "jurisdiction": "Nagaland",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4233,8 +4845,8 @@
       "year": 2026,
       "jurisdiction": "Odisha",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4251,8 +4863,8 @@
       "year": 2026,
       "jurisdiction": "Odisha",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4278,8 +4890,8 @@
       "year": 2026,
       "jurisdiction": "Punjab",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4296,8 +4908,8 @@
       "year": 2026,
       "jurisdiction": "Punjab",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4323,8 +4935,8 @@
       "year": 2026,
       "jurisdiction": "Rajasthan",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 28,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4341,8 +4953,8 @@
       "year": 2026,
       "jurisdiction": "Rajasthan",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4368,8 +4980,8 @@
       "year": 2026,
       "jurisdiction": "Sikkim",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 46,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4386,8 +4998,8 @@
       "year": 2026,
       "jurisdiction": "Sikkim",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4461,8 +5073,8 @@
       "year": 2026,
       "jurisdiction": "Telangana",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4479,8 +5091,8 @@
       "year": 2026,
       "jurisdiction": "Telangana",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4506,8 +5118,8 @@
       "year": 2026,
       "jurisdiction": "Tripura",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4524,8 +5136,8 @@
       "year": 2026,
       "jurisdiction": "Tripura",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4551,8 +5163,8 @@
       "year": 2026,
       "jurisdiction": "Uttar Pradesh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4569,8 +5181,8 @@
       "year": 2026,
       "jurisdiction": "Uttar Pradesh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 16,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4596,8 +5208,8 @@
       "year": 2026,
       "jurisdiction": "Uttarakhand",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4614,8 +5226,8 @@
       "year": 2026,
       "jurisdiction": "Uttarakhand",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4641,8 +5253,8 @@
       "year": 2026,
       "jurisdiction": "West Bengal",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 24,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4659,8 +5271,8 @@
       "year": 2026,
       "jurisdiction": "West Bengal",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4686,8 +5298,8 @@
       "year": 2026,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4704,8 +5316,8 @@
       "year": 2026,
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4731,8 +5343,8 @@
       "year": 2026,
       "jurisdiction": "Chandigarh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4749,8 +5361,8 @@
       "year": 2026,
       "jurisdiction": "Chandigarh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4776,8 +5388,8 @@
       "year": 2026,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4794,8 +5406,8 @@
       "year": 2026,
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4821,8 +5433,8 @@
       "year": 2026,
       "jurisdiction": "Delhi",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4839,8 +5451,8 @@
       "year": 2026,
       "jurisdiction": "Delhi",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4866,8 +5478,8 @@
       "year": 2026,
       "jurisdiction": "Jammu and Kashmir",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 23,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4884,8 +5496,8 @@
       "year": 2026,
       "jurisdiction": "Jammu and Kashmir",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 11,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4911,8 +5523,8 @@
       "year": 2026,
       "jurisdiction": "Ladakh",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 13,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4929,8 +5541,8 @@
       "year": 2026,
       "jurisdiction": "Ladakh",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 8,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4956,8 +5568,8 @@
       "year": 2026,
       "jurisdiction": "Lakshadweep",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 15,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4974,8 +5586,8 @@
       "year": 2026,
       "jurisdiction": "Lakshadweep",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5001,8 +5613,8 @@
       "year": 2026,
       "jurisdiction": "Puducherry",
       "category": "public",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5019,8 +5631,8 @@
       "year": 2026,
       "jurisdiction": "Puducherry",
       "category": "festival",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 20,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5037,8 +5649,8 @@
       "year": 2026,
       "jurisdiction": "Puducherry",
       "category": "district",
-      "status": "not_verified",
-      "count": 0,
+      "status": "partial",
+      "count": 26,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5065,7 +5677,7 @@
       "jurisdiction": "IN",
       "category": "festival",
       "status": "partial",
-      "count": 31,
+      "count": 36,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -6847,40 +7459,7 @@
     }
   },
   "festival_regions": {
-    "Andhra Pradesh": [],
-    "Arunachal Pradesh": [],
-    "Assam": [],
-    "Bihar": [],
-    "Chhattisgarh": [],
-    "Goa": [],
-    "Gujarat": [],
-    "Haryana": [],
-    "Himachal Pradesh": [],
-    "Jharkhand": [],
-    "Karnataka": [],
-    "Kerala": [
-      "ayutha_pooja",
-      "christmas",
-      "diwali",
-      "dussehra",
-      "good_friday",
-      "janmashtami",
-      "karkadaka_vavu",
-      "onam",
-      "vishu"
-    ],
-    "Madhya Pradesh": [],
-    "Maharashtra": [],
-    "Manipur": [],
-    "Meghalaya": [],
-    "Mizoram": [],
-    "Nagaland": [],
-    "Odisha": [],
-    "Punjab": [],
-    "Rajasthan": [],
-    "Sikkim": [],
-    "Tamil Nadu": [
-      "ayutha_pooja",
+    "Andhra Pradesh": [
       "christmas",
       "diwali",
       "dussehra",
@@ -6888,30 +7467,587 @@
       "eid_fitr",
       "ganesh_chaturthi",
       "good_friday",
+      "holi",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "sankranti",
+      "shivratri",
+      "ugadi"
+    ],
+    "Arunachal Pradesh": [
+      "bihu",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "new_year",
+      "sankranti"
+    ],
+    "Assam": [
+      "bihu",
+      "buddha_purnima",
+      "chhath",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "sankranti"
+    ],
+    "Bihar": [
+      "buddha_purnima",
+      "chhath",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "shivratri",
+      "vasant_panchami"
+    ],
+    "Chhattisgarh": [
+      "buddha_purnima",
+      "chhath",
+      "christmas",
+      "diwali",
+      "eid_adha",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "raksha_bandhan"
+    ],
+    "Goa": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "holi",
+      "milad",
+      "ram_navami",
+      "ugadi"
+    ],
+    "Gujarat": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "muharram",
+      "new_year",
+      "raksha_bandhan",
+      "ram_navami",
+      "sankranti",
+      "shivratri"
+    ],
+    "Haryana": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "raksha_bandhan",
+      "ram_navami",
+      "shivratri",
+      "vaisakhi",
+      "vasant_panchami"
+    ],
+    "Himachal Pradesh": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "muharram",
+      "raksha_bandhan",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Jharkhand": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "chhath",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Karnataka": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "sankranti",
+      "shivratri",
+      "ugadi"
+    ],
+    "Kerala": [
+      "ayutha_pooja",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "easter",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "janmashtami",
+      "karkadaka_vavu",
+      "muharram",
+      "onam",
+      "vishu"
+    ],
+    "Madhya Pradesh": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "raksha_bandhan",
+      "ram_navami",
+      "ugadi",
+      "vaisakhi"
+    ],
+    "Maharashtra": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "ugadi"
+    ],
+    "Manipur": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "new_year",
+      "rath_yatra"
+    ],
+    "Meghalaya": [
+      "ayutha_pooja",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "new_year"
+    ],
+    "Mizoram": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "new_year",
+      "ram_navami"
+    ],
+    "Nagaland": [
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "milad",
+      "new_year"
+    ],
+    "Odisha": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "rath_yatra",
+      "sankranti",
+      "shivratri",
+      "vasant_panchami"
+    ],
+    "Punjab": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "mahavir_jayanti",
+      "ram_navami",
+      "shivratri",
+      "vaisakhi"
+    ],
+    "Rajasthan": [
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "janmashtami",
+      "mahavir_jayanti",
+      "muharram",
+      "raksha_bandhan",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Sikkim": [
+      "christmas",
+      "durga_puja",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "new_year",
+      "ram_navami"
+    ],
+    "Tamil Nadu": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
       "janmashtami",
       "mahavir_jayanti",
       "milad",
       "muharram",
       "new_year",
       "pongal",
+      "sankranti",
       "tamil_new_year",
       "thai_poosam",
       "ugadi"
     ],
-    "Telangana": [],
-    "Tripura": [],
-    "Uttar Pradesh": [],
-    "Uttarakhand": [],
-    "West Bengal": [],
-    "Andaman and Nicobar Islands": [],
-    "Chandigarh": [],
-    "Dadra and Nagar Haveli and Daman and Diu": [],
-    "Delhi": [],
-    "Jammu and Kashmir": [],
-    "Ladakh": [],
-    "Lakshadweep": [],
-    "Puducherry": []
+    "Telangana": [
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "new_year",
+      "pongal",
+      "ram_navami",
+      "shivratri",
+      "ugadi"
+    ],
+    "Tripura": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "holi",
+      "muharram",
+      "new_year",
+      "shivratri"
+    ],
+    "Uttar Pradesh": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "raksha_bandhan",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Uttarakhand": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "raksha_bandhan",
+      "ram_navami",
+      "shivratri"
+    ],
+    "West Bengal": [
+      "buddha_purnima",
+      "chhath",
+      "christmas",
+      "durga_puja",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "janmashtami",
+      "mahavir_jayanti",
+      "muharram",
+      "new_year",
+      "ram_navami"
+    ],
+    "Andaman and Nicobar Islands": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "milad",
+      "muharram",
+      "pongal",
+      "ram_navami",
+      "sankranti"
+    ],
+    "Chandigarh": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Dadra and Nagar Haveli and Daman and Diu": [
+      "chhath",
+      "christmas",
+      "diwali",
+      "durga_puja",
+      "dussehra",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "new_year",
+      "raksha_bandhan",
+      "ram_navami",
+      "sankranti",
+      "shivratri",
+      "ugadi"
+    ],
+    "Delhi": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "ram_navami",
+      "shivratri"
+    ],
+    "Jammu and Kashmir": [
+      "ayutha_pooja",
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "ram_navami",
+      "shivratri",
+      "vaisakhi"
+    ],
+    "Ladakh": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "holi",
+      "milad",
+      "muharram"
+    ],
+    "Lakshadweep": [
+      "buddha_purnima",
+      "christmas",
+      "diwali",
+      "dussehra",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "gurpurab",
+      "holi",
+      "janmashtami",
+      "mahavir_jayanti",
+      "milad",
+      "muharram",
+      "new_year",
+      "raksha_bandhan",
+      "ram_navami",
+      "sankranti",
+      "shivratri"
+    ],
+    "Puducherry": [
+      "ayutha_pooja",
+      "christmas",
+      "diwali",
+      "eid_adha",
+      "eid_fitr",
+      "ganesh_chaturthi",
+      "good_friday",
+      "milad",
+      "new_year",
+      "onam",
+      "pongal",
+      "tamil_new_year",
+      "ugadi",
+      "vishu"
+    ]
   },
   "changes": [],
+  "automatic_updates": {
+    "enabled": true,
+    "source": "https://www.india.gov.in/calendar",
+    "updated": "2026-10-11T14:02:49.343391+00:00"
+  },
   "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays."
 }

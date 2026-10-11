@@ -1,4 +1,4 @@
-const CACHE = "bookday-v6-final-icons-current-dates";
+const CACHE = "bookday-v7-automatic-all-state-holidays";
 const ANNUAL = "bookday-holiday-data";
 const SHELL = [
   "/",

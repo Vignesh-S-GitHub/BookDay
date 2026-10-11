@@ -9,6 +9,7 @@ import pytest
 
 from scripts.holiday_pipeline import __main__ as cli
 from scripts.holiday_pipeline.adapters import parse, tamil_nadu
+from scripts.holiday_pipeline.automatic import merge_records
 from scripts.holiday_pipeline.fetch import fetch
 from scripts.holiday_pipeline.publish import coverage, publish
 from scripts.holiday_pipeline.report import conflicts
@@ -128,22 +129,23 @@ def test_publication_is_deterministic_and_checksum_addressed(tmp_path) -> None:
     assert "ayutha_pooja" in first["festival_regions"]["Tamil Nadu"]
     assert "durga_puja" not in first["festival_regions"]["Tamil Nadu"]
     assert "onam" in first["festival_regions"]["Kerala"]
-    assert first["festival_regions"]["Delhi"] == []
+    assert "holi" in first["festival_regions"]["Delhi"]
     assert "2025:Tamil Nadu" in first["datasets"]
-    assert "2026:Goa" not in first["datasets"]
+    assert "2026:Goa" in first["datasets"]
     for entry in first["datasets"].values():
         payload = read(tmp_path / entry["url"].removeprefix("/data/"))
         assert digest(payload) == entry["checksum"]
-    assert len(read(tmp_path / "holidays.json")["records"]) == 93
     approved = read(DATA / "approved.json")
-    public_ids = {row["id"] for row in approved["records"]}
+    records, _ = merge_records(approved, read(DATA / "automatic.json"))
+    assert len(read(tmp_path / "holidays.json")["records"]) == len(records)
+    public_ids = {row["id"] for row in records}
     for entry in first["datasets"].values():
         payload = read(tmp_path / entry["url"].removeprefix("/data/"))
         assert all(row["id"] in public_ids for row in payload["records"])
         assert all(row["id"] not in public_ids for row in payload["festival_calendar"])
         expected = {
             row["id"]
-            for row in approved["records"]
+            for row in records
             if row["date"].startswith(str(payload["year"]))
             and payload["jurisdiction"] in row["jurisdictions"]
         }

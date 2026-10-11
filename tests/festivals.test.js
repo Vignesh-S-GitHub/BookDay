@@ -10,8 +10,25 @@ import {
 
 const data = JSON.parse(
   readFileSync(
-    new URL("../public/data/holidays.json", import.meta.url),
+    new URL("../data/holidays/approved.json", import.meta.url),
     "utf8",
+  ),
+);
+// Stable fixtures exercise date-selection rules independently of daily live imports.
+data.festival_regions = Object.fromEntries(
+  [...new Set(data.records.flatMap((row) => row.jurisdictions))].map(
+    (state) => [
+      state,
+      [
+        ...new Set(
+          data.records
+            .filter(
+              (row) => row.jurisdictions.includes(state) && row.festival_id,
+            )
+            .map((row) => row.festival_id),
+        ),
+      ],
+    ],
   ),
 );
 const rows = (state, year, id) =>
