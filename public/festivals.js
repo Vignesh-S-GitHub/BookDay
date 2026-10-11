@@ -1,6 +1,61 @@
 // Local published dates take precedence over the India-wide observance guide.
 // Artwork is keyed by the festival identity, never by a recurring date.
+export function regionalFestivalIds(data, state) {
+  return new Set([
+    ...(data.festival_regions?.[state] || []),
+    ...data.records
+      .filter(
+        (row) =>
+          row.festival_id &&
+          row.festival &&
+          row.status === "official" &&
+          row.jurisdictions.includes(state),
+      )
+      .map((row) => row.festival_id),
+  ]);
+}
+
+export function festivalSymbol(row) {
+  const id = row.festival_id;
+  if (["eid_fitr", "eid_adha", "muharram", "milad"].includes(id))
+    return "festival-crescent";
+  if (["good_friday", "easter", "christmas"].includes(id))
+    return "festival-cross";
+  if (["vaisakhi", "gurpurab"].includes(id)) return "festival-khanda";
+  if (id === "buddha_purnima") return "festival-wheel";
+  if (id === "mahavir_jayanti") return "festival-ahimsa";
+  if (
+    [
+      "pongal",
+      "sankranti",
+      "vasant_panchami",
+      "thai_poosam",
+      "shivratri",
+      "holi",
+      "ugadi",
+      "ram_navami",
+      "tamil_new_year",
+      "vishu",
+      "bihu",
+      "rath_yatra",
+      "karkadaka_vavu",
+      "onam",
+      "raksha_bandhan",
+      "janmashtami",
+      "ganesh_chaturthi",
+      "durga_puja",
+      "ayutha_pooja",
+      "dussehra",
+      "diwali",
+      "chhath",
+    ].includes(id)
+  )
+    return "festival-lamp";
+  return "festival-calendar";
+}
+
 export function calendarRecords(data, state) {
+  const regional = regionalFestivalIds(data, state);
   const local = data.records.filter(
     (row) =>
       row.jurisdictions.includes("IN") || row.jurisdictions.includes(state),
@@ -14,8 +69,9 @@ export function calendarRecords(data, state) {
     ...local,
     ...(data.festival_calendar || []).filter(
       (row) =>
-        (row.jurisdictions.includes("IN") ||
-          row.jurisdictions.includes(state)) &&
+        (row.jurisdictions.includes(state) ||
+          (row.jurisdictions.includes("IN") &&
+            regional.has(row.festival_id))) &&
         !localFestivals.has(`${row.date.slice(0, 4)}:${row.festival_id}`),
     ),
   ].sort((a, b) => a.date.localeCompare(b.date));

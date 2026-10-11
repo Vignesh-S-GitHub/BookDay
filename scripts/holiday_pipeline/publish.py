@@ -71,7 +71,20 @@ def publish(data=DATA, output=None) -> dict:
     public_ids = {row["id"] for row in approved["records"]}
     validate(rows, catalog["states"])
     report = coverage(rows, approved.get("schedules", []), catalog["states"])
-    version = digest(approved)[:20]
+    festival_regions = {
+        state: sorted(
+            {
+                row["festival_id"]
+                for row in approved["records"]
+                if row.get("festival_id")
+                and row.get("festival")
+                and row["status"] == "official"
+                and state in row["jurisdictions"]
+            }
+        )
+        for state in catalog["states"]
+    }
+    version = digest({"approved": approved, "publication_schema": 2})[:20]
     # Content-addressed datasets prevent a cached manifest mixing old/new releases.
     entries = {}
     for year in sorted({int(r["date"][:4]) for r in rows}):
@@ -101,10 +114,11 @@ def publish(data=DATA, output=None) -> dict:
             }
     manifest = {
         "version": version,
-        "schema": 1,
+        "schema": 2,
         "datasets": entries,
         "coverage": report,
         "festival_art": approved["festival_art"],
+        "festival_regions": festival_regions,
         "changes": approved.get("changes", []),
         "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays.",
     }
@@ -112,7 +126,12 @@ def publish(data=DATA, output=None) -> dict:
     # Transitional compatibility export keeps existing consumers and artwork paths.
     write(
         output / "holidays.json",
-        {**approved, "version": 2, "publication_version": version},
+        {
+            **approved,
+            "version": 2,
+            "publication_version": version,
+            "festival_regions": festival_regions,
+        },
     )
     write(data / "coverage.json", {"version": version, "rows": report})
     return manifest

@@ -53,6 +53,7 @@ export class HolidayLoader {
       records: [],
       festival_calendar: [],
       festival_art: this.manifest.festival_art,
+      festival_regions: this.manifest.festival_regions,
       coverage: this.manifest.scope,
       festival_coverage:
         "Only reviewed year-specific festival dates are shown. Unpublished years and regions remain incomplete.",

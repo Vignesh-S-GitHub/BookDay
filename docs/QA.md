@@ -1,5 +1,12 @@
 # Verification — 11 October 2026
 
+## Regional festival and date-control corrections
+
+- 52 pytest and 19 Node tests pass, with symbol mapping and state-association publication assertions. Approved dates, sources, original records and all 34 artwork assets remain intact.
+- The new regional browser suite verifies Tamil Nadu Ayutha Pooja without the central Durga Puja entry, faith-specific calendar markers, one leading Travel Date calendar icon, working leading-icon/chevron pickers, state-filtered travel insights and 320/390/1280 layouts. Six existing browser suites also passed on the regional Cloudflare preview.
+- The publisher emits manifest schema 2 with festival associations derived from reviewed official state records. Known associations persist across year changes. Central guide entries without a verified association to the selected state are hidden; empty regional coverage remains explicitly incomplete.
+- Calendar, Home upcoming festivals and travel insights share the same filter. The SVG symbols use the existing theme and inherit selected-day colors.
+
 ## Executed checks
 
 - 52 pytest tests pass, including date arithmetic, leap years, calendar-month clipping, year boundaries, past dates, timezone boundaries, fixed/recurring rules, invalid input, standard rail and originating-station Tatkal behavior, five artwork/font/offline-shell regressions and three festival data/source regressions.

@@ -6,7 +6,13 @@ import {
 import { bookingFields } from "./booking-fields.js";
 import { enhanceControls } from "./controls.js";
 import { destinations } from "./destinations.js";
-import { calendarRecords, festivalImage, yearFestivals } from "./festivals.js";
+import {
+  calendarRecords,
+  festivalImage,
+  festivalSymbol,
+  regionalFestivalIds,
+  yearFestivals,
+} from "./festivals.js";
 import { HolidayLoader } from "./holiday-loader.js";
 import { preserveImages, restoreImages } from "./image-cache.js";
 
@@ -446,10 +452,12 @@ function holidayImage(row, state = settings.state) {
 function festivalGuide(state, year) {
   if (!settings.layers.festivals) return "";
   const rows = yearFestivals(holidays, state, year);
-  const missing = Object.keys(holidays.festival_art || {}).filter(
-    (id) => !rows.some((row) => row.festival_id === id),
+  const missing = [...regionalFestivalIds(holidays, state)].filter(
+    (id) =>
+      holidays.festival_art?.[id] &&
+      !rows.some((row) => row.festival_id === id),
   );
-  return `<section class="card festival-guide"><div class="festival-guide-heading"><div><h2>Festival guide · ${year}</h2><p>Main &amp; regional Indian festivals</p></div>${icon("festivals")}</div><p class="hint">Published observance dates. Local public holidays are labelled separately.</p>${rows.length ? `<div class="festival-guide-grid">${rows.map((row) => `<button class="festival-guide-item" data-festival-date="${row.date}" aria-label="${esc(row.name)} · ${formatDate(row.date)}"><img src="${holidayImage(row, state)}" alt="" loading="lazy" width="320" height="180"><span><strong>${esc(row.name)}</strong><time datetime="${row.date}">${shortDate(row.date)}</time></span></button>`).join("")}</div>` : `<p>No reviewed festival dates for ${year}. Dates will appear after the year's sources are reviewed.</p>`}${missing.length ? `<details class="coverage-details"><summary>Dates awaiting review (${missing.length})</summary><p class="hint">${missing.map((id) => esc(holidays.festival_art[id].name)).join(" · ")}. Artwork is ready; dates are not guessed.</p></details>` : ""}</section>`;
+  return `<section class="card festival-guide"><div class="festival-guide-heading"><div><h2>Festival guide · ${year}</h2><p>Festivals for ${esc(state)}</p></div>${icon("festivals")}</div><p class="hint">Published observance dates. Local public holidays are labelled separately.</p>${rows.length ? `<div class="festival-guide-grid">${rows.map((row) => `<button class="festival-guide-item" data-festival-date="${row.date}" aria-label="${esc(row.name)} · ${formatDate(row.date)}"><img src="${holidayImage(row, state)}" alt="" loading="lazy" width="320" height="180"><span><strong>${esc(row.name)}</strong><time datetime="${row.date}">${shortDate(row.date)}</time></span></button>`).join("")}</div>` : `<p>No reviewed festival dates for ${year}. Dates will appear after the year's sources are reviewed.</p>`}${missing.length ? `<details class="coverage-details"><summary>Dates awaiting review (${missing.length})</summary><p class="hint">${missing.map((id) => esc(holidays.festival_art[id].name)).join(" · ")}. Artwork is ready; dates are not guessed.</p></details>` : ""}</section>`;
 }
 function home() {
   const cats = catalog.categories.filter(
@@ -769,20 +777,27 @@ function calendar() {
       (layers.bookings && opening.length ? "●" : "") +
       (layers.demand && signal(day, state).score ? "·" : "");
     const long = layers.weekends && blocks.some((b) => b.includes(day));
-    const markedHoliday = h.find(
+    const markedHolidays = h.filter(
       (h) =>
         (layers.holidays &&
           ["national_public", "state_public"].includes(h.type)) ||
         (layers.festivals && h.festival),
     );
+    const markedHoliday = markedHolidays[0];
     const marker = markedHoliday
-      ? icon(
-          markedHoliday.festival
-            ? "festival-lamp"
-            : markedHoliday.type === "national_public"
-              ? "national-holiday"
-              : "state-holiday",
-        )
+      ? [
+          ...new Set(
+            markedHolidays.map((holiday) =>
+              holiday.festival
+                ? festivalSymbol(holiday)
+                : holiday.type === "national_public"
+                  ? "national-holiday"
+                  : "state-holiday",
+            ),
+          ),
+        ]
+          .map((symbol) => icon(symbol))
+          .join("")
       : layers.bookings && opening.length
         ? icon(opening[0].category)
         : marks;

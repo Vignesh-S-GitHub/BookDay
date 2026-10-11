@@ -104,3 +104,5 @@ npx --yes --package @playwright/cli playwright-cli run-code --filename tests/hol
 ```
 
 The daily source workflow uploads pending candidates/reports for human review. It has no permission to merge or publish unreviewed records.
+
+Selected-state festival filtering, faith-specific day markers and the single-icon Travel Date picker: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/regional-festivals-regression.js`.

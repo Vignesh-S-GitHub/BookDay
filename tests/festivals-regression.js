@@ -104,7 +104,7 @@ async function festivalRegression(page) {
       "Calendar detail date",
     );
     check(
-      (await p.locator(".festival-guide-item").count()) === 34,
+      (await p.locator(".festival-guide-item").count()) === 17,
       "2026 guide count",
     );
     await loadArt();
@@ -114,20 +114,20 @@ async function festivalRegression(page) {
     });
     await p.locator("#year-select").selectOption("2027");
     check(
-      (await p.locator(".festival-guide-item").count()) === 31,
+      (await p.locator(".festival-guide-item").count()) === 16,
       "2027 sourced guide count",
     );
-    await p.locator('[data-festival-date="2027-03-23"]').click();
+    await p.locator('[data-festival-date="2027-03-26"]').click();
     check(
       (await p.locator(".day.selected").getAttribute("data-day")) ===
-        "2027-03-23",
-      "Guide jumps to yearly Holi date",
+        "2027-03-26",
+      "Guide jumps to yearly Good Friday date",
     );
     check(
       (await p.locator(".holiday-thumbnail").getAttribute("src")).endsWith(
-        "/holi.webp",
+        "/good_friday.webp",
       ),
-      "Holi art",
+      "Good Friday art",
     );
     check(
       (await p.locator(".detail-list").innerText()).includes(
@@ -174,7 +174,7 @@ async function festivalRegression(page) {
     await p.waitForFunction(() => !!document.querySelector(".festival-guide"));
     await loadArt();
     check(
-      (await p.locator(".festival-guide-item").count()) === 34,
+      (await p.locator(".festival-guide-item").count()) === 17,
       "Festival guide works offline",
     );
     check(

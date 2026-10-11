@@ -4,6 +4,7 @@ import { readFileSync } from "node:fs";
 import {
   calendarRecords,
   festivalImage,
+  festivalSymbol,
   yearFestivals,
 } from "../public/festivals.js";
 
@@ -27,9 +28,11 @@ test("festival dates change by year while artwork identity stays stable", () => 
     festivalImage(data, diwali2026),
     festivalImage(data, diwali2027),
   );
-  assert.equal(rows("Tamil Nadu", 2026, "holi")[0].date, "2026-03-04");
-  assert.equal(rows("Tamil Nadu", 2027, "holi")[0].date, "2027-03-23");
-  assert.equal(rows("Tamil Nadu", 2027, "onam")[0].date, "2027-09-12");
+  assert.equal(rows("Tamil Nadu", 2026, "holi").length, 0);
+  assert.equal(rows("Tamil Nadu", 2027, "holi").length, 0);
+  assert.equal(rows("Tamil Nadu", 2027, "onam").length, 0);
+  assert.equal(rows("Tamil Nadu", 2026, "durga_puja").length, 0);
+  assert.equal(rows("Kerala", 2027, "onam")[0].date, "2027-09-12");
 });
 
 test("local dates override conflicting central observance dates without duplicates", () => {
@@ -37,7 +40,7 @@ test("local dates override conflicting central observance dates without duplicat
   const bakrid = rows("Tamil Nadu", 2026, "eid_adha");
   assert.equal(bakrid.length, 1);
   assert.equal(bakrid[0].date, "2026-05-28");
-  assert.equal(rows("Delhi", 2026, "eid_adha")[0].date, "2026-05-27");
+  assert.equal(rows("Delhi", 2026, "eid_adha").length, 0);
   assert.equal(rows("Kerala", 2026, "vishu")[0].date, "2026-04-15");
   assert.equal(rows("Kerala", 2026, "dussehra")[0].date, "2026-10-21");
   assert.equal(rows("Tamil Nadu", 2026, "dussehra")[0].date, "2026-10-20");
@@ -64,8 +67,8 @@ test("observance dates never invent statewide leave or unreviewed years", () => 
       (r) => r.type === "religious_festival" && r.source.startsWith("https://"),
     ),
   );
-  assert.equal(yearFestivals(data, "Tamil Nadu", 2026).length, 34);
-  assert.equal(yearFestivals(data, "Tamil Nadu", 2027).length, 31);
+  assert.equal(yearFestivals(data, "Tamil Nadu", 2026).length, 17);
+  assert.equal(yearFestivals(data, "Tamil Nadu", 2027).length, 16);
   assert.equal(yearFestivals(data, "Tamil Nadu", 2028).length, 0);
   assert.equal(rows("Tamil Nadu", 2027, "vishu").length, 0);
   assert.equal(rows("Tamil Nadu", 2027, "thai_poosam").length, 0);
@@ -82,6 +85,26 @@ test("observance dates never invent statewide leave or unreviewed years", () => 
     festivalImage(data, { festival_id: "unmapped" }, "/fallback.webp"),
     "/fallback.webp",
   );
+});
+
+test("festival identities choose faith symbols and neutral civil/unknown symbols", () => {
+  for (const [festival_id, symbol] of Object.entries({
+    diwali: "festival-lamp",
+    eid_fitr: "festival-crescent",
+    eid_adha: "festival-crescent",
+    muharram: "festival-crescent",
+    milad: "festival-crescent",
+    christmas: "festival-cross",
+    good_friday: "festival-cross",
+    easter: "festival-cross",
+    vaisakhi: "festival-khanda",
+    gurpurab: "festival-khanda",
+    buddha_purnima: "festival-wheel",
+    mahavir_jayanti: "festival-ahimsa",
+    new_year: "festival-calendar",
+    unmapped: "festival-calendar",
+  }))
+    assert.equal(festivalSymbol({ festival_id }), symbol);
 });
 
 test("every published festival date has artwork, provenance and valid civil date", () => {
