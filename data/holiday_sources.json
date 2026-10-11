@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "note": "Known links already used in reviewed BookDay fixtures. Registry entries are NOT guarantees of annual completeness or machine-readable APIs.",
+  "sources": [
+    {"jurisdiction": "IN", "publisher": "Government of India tourism portal", "url": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays", "format": "html", "status": "reviewed_reference"},
+    {"jurisdiction": "Tamil Nadu", "publisher": "Tamil Nadu Government Gazette", "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf", "year": 2026, "format": "pdf", "status": "reviewed_reference"},
+    {"jurisdiction": "Tamil Nadu", "publisher": "Tamil Nadu Government Gazette", "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2026/208_Ex_II_1_2026.pdf", "year": 2026, "format": "pdf", "status": "reviewed_reference"},
+    {"jurisdiction": "Kerala", "publisher": "Kerala General Administration Department", "url": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf", "year": 2026, "format": "pdf", "status": "reviewed_reference"}
+  ]
+}
