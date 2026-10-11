@@ -1,0 +1,636 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:32.021861+00:00",
+  "sha256": "4761e5ce4ff78f0afee9539c71f0f800d23a14d96bd632e20953f986017317e2",
+  "rows": [
+    {
+      "id": 1790,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:53.150Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1791,
+      "attributes": {
+        "title": "Netaji Subhas Chandra Bose jayanti",
+        "date": "2024-01-23",
+        "updatedAt": "2025-01-28T17:52:53.151Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1792,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.159Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1793,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:53.152Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1794,
+      "attributes": {
+        "title": "Sant Ravidas Jayanti",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:53.152Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1795,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.153Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1796,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:53.164Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1797,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.164Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1799,
+      "attributes": {
+        "title": "Labour Day",
+        "date": "2024-05-01",
+        "updatedAt": "2025-01-28T17:52:53.165Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1800,
+      "attributes": {
+        "title": "Ram Navmi",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:53.165Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1801,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:53.156Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1802,
+      "attributes": {
+        "title": "Id-UI-Zuha",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.157Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1803,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:53.157Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1804,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.157Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1805,
+      "attributes": {
+        "title": "World Tribal day",
+        "date": "2024-08-09",
+        "updatedAt": "2025-01-28T17:52:53.158Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1806,
+      "attributes": {
+        "title": "Raksha Bandhan ",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:53.158Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1807,
+      "attributes": {
+        "title": "Vishwa Karma Puja",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:53.159Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1808,
+      "attributes": {
+        "title": "Janmasthami ",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.159Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1809,
+      "attributes": {
+        "title": "Ganesh Chaturthi ",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.162Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1810,
+      "attributes": {
+        "title": "Karma Puja",
+        "date": "2024-09-14",
+        "updatedAt": "2025-01-28T17:52:53.162Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1811,
+      "attributes": {
+        "title": "Vijaya Dasami",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.163Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1812,
+      "attributes": {
+        "title": "Milad-un-Nabi or Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.162Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1813,
+      "attributes": {
+        "title": "Gandhi jayanti",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.168Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1815,
+      "attributes": {
+        "title": "Dashahara (Mahasaptmi)",
+        "date": "2024-10-10",
+        "updatedAt": "2025-01-28T17:52:53.182Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1816,
+      "attributes": {
+        "title": "Mahashtami/Mahanavami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.161Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1817,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.171Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1818,
+      "attributes": {
+        "title": "Govardhna Puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:53.163Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1819,
+      "attributes": {
+        "title": "Gurunanak Jayanti / God Birsa Munda jayanti/ State Establishment Day",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.164Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1820,
+      "attributes": {
+        "title": "Chhath (Evening arghya)",
+        "date": "2024-11-07",
+        "updatedAt": "2025-01-28T17:52:53.183Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1821,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.177Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1822,
+      "attributes": {
+        "title": "Chhath ( Morning Arghya)",
+        "date": "2024-11-08",
+        "updatedAt": "2025-01-28T17:52:53.172Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1827,
+      "attributes": {
+        "title": "Eid-ul-Fitra / sarhul",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:53.166Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1843,
+      "attributes": {
+        "title": "Durga Puja Kalash Sthapana",
+        "date": "2024-10-03",
+        "updatedAt": "2025-01-28T17:52:53.173Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jharkhand"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

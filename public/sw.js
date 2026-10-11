@@ -1,4 +1,4 @@
-const CACHE = "bookday-v7-automatic-all-state-holidays";
+const CACHE = "bookday-v8-annual-cache-reminder-banners";
 const ANNUAL = "bookday-holiday-data";
 const SHELL = [
   "/",
@@ -63,9 +63,7 @@ const SHELL = [
   ...[
     "home_india",
     "train_journey",
-    "india_festivals",
     "kerala_backwaters",
-    "temple_darshan",
     "agra_taj",
     "jaipur_palace",
     "goa_coast",
@@ -102,6 +100,21 @@ const SHELL = [
     "puducherry_coast",
   ].map((x) => `/art/banners/${x}.webp`),
   ...[
+    "flights",
+    "buses",
+    "hotels",
+    "movies",
+    "temples",
+    "events",
+    "sports",
+    "tourism",
+    "appointments",
+    "government",
+    "education",
+    "healthcare",
+    "custom",
+  ].map((id) => `/art/banners/reminder_${id}.webp`),
+  ...[
     "trains",
     "flights",
     "buses",
@@ -128,7 +141,7 @@ const SHELL = [
     "tourism",
   ].map((x) => `/art/categories/quick_${x}.webp`),
   ...["railway", "upcoming_train"].map((x) => `/art/categories/${x}.webp`),
-  ...["trains", "temples", "movies", "hotels", "government"].map(
+  ...["trains", "temples", "movies", "government"].map(
     (x) => `/art/categories/saved_${x}.webp`,
   ),
   "/art/categories/saved_hotels_v2.webp",

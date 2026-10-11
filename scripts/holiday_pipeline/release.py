@@ -31,12 +31,17 @@ def previous_snapshot() -> None:
             snapshot.stdout, encoding="utf-8", newline="\n"
         )
     listing = git(
-        "ls-tree", "-r", "--name-only", f"origin/{BRANCH}", "public/data/holidays"
+        "ls-tree",
+        "-r",
+        "--name-only",
+        f"origin/{BRANCH}",
+        "public/data/holidays",
+        "data/holidays/annual-cache",
     )
     for name in listing.stdout.splitlines():
         if name.endswith(".json") and name != "public/data/holidays/manifest.json":
             target = ROOT / name
-            if not target.exists():
+            if not target.exists() or name.startswith("data/holidays/annual-cache/"):
                 target.parent.mkdir(parents=True, exist_ok=True)
                 target.write_text(
                     git("show", f"origin/{BRANCH}:{name}").stdout,
@@ -73,6 +78,12 @@ def release() -> bool:
         folder / "public/data/holidays",
         dirs_exist_ok=True,
     )
+    if (ROOT / "data/holidays/annual-cache").exists():
+        shutil.copytree(
+            ROOT / "data/holidays/annual-cache",
+            folder / "data/holidays/annual-cache",
+            dirs_exist_ok=True,
+        )
     git("config", "user.name", "BookDay holiday automation", cwd=folder)
     git(
         "config",
@@ -85,6 +96,11 @@ def release() -> bool:
         "data/holidays/automatic.json",
         "public/data/holidays",
         "public/data/holidays.json",
+        *(
+            ["data/holidays/annual-cache"]
+            if (ROOT / "data/holidays/annual-cache").exists()
+            else []
+        ),
         cwd=folder,
     )
     if git("diff", "--cached", "--quiet", cwd=folder, check=False).returncode == 0:

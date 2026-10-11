@@ -1,0 +1,997 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:03.694703+00:00",
+  "sha256": "d80fd158cfbec1a127a0326fc98f7f38d2ff5ca8e1009581056dcef00f16f306",
+  "rows": [
+    {
+      "id": 3986,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.301Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3987,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.302Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3988,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.302Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3989,
+      "attributes": {
+        "title": "Statehood Day",
+        "date": "2026-02-20",
+        "updatedAt": "2026-02-17T08:16:44.303Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3990,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.306Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3991,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.306Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3992,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.307Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3993,
+      "attributes": {
+        "title": "Bahag Bihu",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:39.883Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3994,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.313Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3995,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.314Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3996,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.314Z",
+        "publishedAt": "2026-02-17T08:59:55.730Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3997,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.315Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3998,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.315Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3999,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.315Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4000,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.320Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4001,
+      "attributes": {
+        "title": "Indigenous Faith Day",
+        "date": "2026-12-01",
+        "updatedAt": "2026-02-17T08:16:44.320Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4002,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.321Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4003,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:44.321Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4004,
+      "attributes": {
+        "title": "Pongal / Magha Bihu",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.322Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4005,
+      "attributes": {
+        "title": "Basant Panchami / Sri Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.322Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4006,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.323Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4007,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:44.323Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4008,
+      "attributes": {
+        "title": "Ali-Aye-Ligang / Maha Shivaratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:39.890Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4010,
+      "attributes": {
+        "title": "Chaitra Sukladi / Gudi Padava / Ugadi / Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:44.342Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4011,
+      "attributes": {
+        "title": "Jamat-Ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.326Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4012,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.327Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4013,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:44.327Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4014,
+      "attributes": {
+        "title": "Vaisakhi / Vishu / Mesadi (Tamil New Year)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:39.893Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4015,
+      "attributes": {
+        "title": "Vaisakhadi (Bengal)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.342Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4016,
+      "attributes": {
+        "title": "Birthday of Guru Rabindranath Tagore",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:44.344Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4017,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.328Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4018,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.329Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4019,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.329Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4020,
+      "attributes": {
+        "title": "Parsi New Year Day / Nauraj",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:39.895Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4021,
+      "attributes": {
+        "title": "Onam or Thiru Onam Day / Milad-Un-Nabi or Id-E-Milad (Birthday of Prophet Mohammad)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.330Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4022,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.331Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4023,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.331Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4024,
+      "attributes": {
+        "title": "Janmashtami (Vaishnava)",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:39.897Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4025,
+      "attributes": {
+        "title": "Vinayaka Chaturthi / Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.332Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4026,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:44.332Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4027,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.337Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4028,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.372Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4029,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karva Chauth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:39.908Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4030,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.347Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4031,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.348Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4032,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.348Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4033,
+      "attributes": {
+        "title": "Guru Teg Bahadur’s Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.337Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4034,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.338Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4035,
+      "attributes": {
+        "title": "Lengri Niki Sii Donyi Polo Yullo",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:39.899Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4038,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:44.340Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4039,
+      "attributes": {
+        "title": "Holika Dahan / Dolyatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:39.901Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4045,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chhat Puja)",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:44.344Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "arunachal-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

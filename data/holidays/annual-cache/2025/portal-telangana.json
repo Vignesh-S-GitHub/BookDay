@@ -1,0 +1,921 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:57.146330+00:00",
+  "sha256": "4f99fec381414cae82476701e9a02d477a0f096e48b36337dc051987e21e7721",
+  "rows": [
+    {
+      "id": 2698,
+      "attributes": {
+        "title": "New Year Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.547Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2700,
+      "attributes": {
+        "title": "Sankranti / Pongal",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.556Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2701,
+      "attributes": {
+        "title": "Birthday of Hazrath Ali",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.557Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2702,
+      "attributes": {
+        "title": "Kanumu",
+        "date": "2025-01-15",
+        "updatedAt": "2025-01-28T17:52:53.557Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2703,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.559Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2704,
+      "attributes": {
+        "title": "Shab-e-Meraj",
+        "date": "2025-01-28",
+        "updatedAt": "2025-01-28T17:52:53.549Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2705,
+      "attributes": {
+        "title": "Sri Panchami",
+        "date": "2025-02-03",
+        "updatedAt": "2025-01-28T17:52:53.550Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2706,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.550Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2707,
+      "attributes": {
+        "title": "Mahashivarathri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.551Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2708,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.551Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2709,
+      "attributes": {
+        "title": "Shahadat HZT Ali (R.A.)",
+        "date": "2025-03-21",
+        "updatedAt": "2025-01-28T17:52:53.551Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2710,
+      "attributes": {
+        "title": "Jumatul-Vida,Shab-e-Qader",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.552Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2711,
+      "attributes": {
+        "title": "Ugadi",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.553Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2712,
+      "attributes": {
+        "title": "Ramzan(Eid--ul-Fitr)",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.553Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2714,
+      "attributes": {
+        "title": "Babu Jagjivan Ram's Birthday",
+        "date": "2025-04-05",
+        "updatedAt": "2025-01-28T17:52:53.554Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2715,
+      "attributes": {
+        "title": "Mahaveer Jayanthi",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.554Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2716,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar's Birthday",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.555Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2717,
+      "attributes": {
+        "title": "Tamil New Year's Day (General holiday in the view of Dr. B.R. Ambedkar's Birthday)",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.555Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2718,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.555Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2719,
+      "attributes": {
+        "title": "Basava Jayanthi",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.570Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2720,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.559Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2721,
+      "attributes": {
+        "title": "Eidul Azha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.558Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2722,
+      "attributes": {
+        "title": "Eid-e-Ghadeer / Ratha Yathra",
+        "date": "2025-06-15",
+        "updatedAt": "2025-01-28T17:52:53.563Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2723,
+      "attributes": {
+        "title": "9th Moharram (1445H)",
+        "date": "2025-06-05",
+        "updatedAt": "2025-01-28T17:52:53.567Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2724,
+      "attributes": {
+        "title": "Moharam",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.578Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2725,
+      "attributes": {
+        "title": "Bonalu",
+        "date": "2025-07-21",
+        "updatedAt": "2025-01-28T17:52:53.568Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2726,
+      "attributes": {
+        "title": "Varalakshmi Vratham",
+        "date": "2025-08-08",
+        "updatedAt": "2025-01-28T17:52:53.568Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2727,
+      "attributes": {
+        "title": "Sravana Purnima / Rakhi Purnima",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.569Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2728,
+      "attributes": {
+        "title": "Bhogi",
+        "date": "2025-01-13",
+        "updatedAt": "2025-01-28T17:52:53.569Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2729,
+      "attributes": {
+        "title": "Parsi New Year's Day (General Holiday in view of Independence Day)",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.560Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2730,
+      "attributes": {
+        "title": "Sri Krishnashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.560Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2731,
+      "attributes": {
+        "title": "Vinayaka Chavithi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.572Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2732,
+      "attributes": {
+        "title": "Eid Miladun Nabi",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.561Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2733,
+      "attributes": {
+        "title": "Bathukamma Starting Day",
+        "date": "2025-09-21",
+        "updatedAt": "2025-01-28T17:52:53.561Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2734,
+      "attributes": {
+        "title": "Durgashtami",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.562Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2735,
+      "attributes": {
+        "title": "Maharnavami",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.562Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2736,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanthi / Vijaya Dasami",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.562Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2737,
+      "attributes": {
+        "title": "Following day of Vijaya Dasami",
+        "date": "2025-10-03",
+        "updatedAt": "2025-01-28T17:52:53.566Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2738,
+      "attributes": {
+        "title": "Yaz Dahum Shareef",
+        "date": "2025-10-04",
+        "updatedAt": "2025-01-28T17:52:53.568Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2739,
+      "attributes": {
+        "title": "Naraka Chaturdhi",
+        "date": "2025-10-19",
+        "updatedAt": "2025-01-28T17:52:53.563Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2740,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.564Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2741,
+      "attributes": {
+        "title": "Karthika Purnima / Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.564Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2742,
+      "attributes": {
+        "title": "Following day of Ramzan",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.564Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2743,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.565Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2744,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.565Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2745,
+      "attributes": {
+        "title": "Following day of Christmas (Boxing Day)",
+        "date": "2025-12-26",
+        "updatedAt": "2025-01-28T17:52:53.566Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2757,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.570Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2771,
+      "attributes": {
+        "title": "Birthday of HZT. Syed Mohammed Juvanpuri Mahdi MA'UD (A.S.)",
+        "date": "2025-11-16",
+        "updatedAt": "2025-01-28T17:52:53.576Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "telangana"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

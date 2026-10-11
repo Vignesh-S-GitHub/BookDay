@@ -1,0 +1,522 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.068706+00:00",
+  "sha256": "5989c948efb4a3b1706897b6e48efdd27d7e001413a89eab262e842f49dd2cb4",
+  "rows": [
+    {
+      "id": 5119,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.053Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5120,
+      "attributes": {
+        "title": "Birthday of Swami Vivekananda",
+        "date": "2026-01-12",
+        "updatedAt": "2026-02-17T08:16:40.545Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5121,
+      "attributes": {
+        "title": "Netaji Subhas Chandra Bose Birthday",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:40.557Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5122,
+      "attributes": {
+        "title": "Saraswati Puja (Sree Panchami)",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:45.068Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5123,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.068Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5124,
+      "attributes": {
+        "title": "Doljatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:45.069Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5126,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.065Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5127,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.070Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5128,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.058Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5129,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:45.072Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5130,
+      "attributes": {
+        "title": "Bengali New Year (Nababarsha)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:40.549Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5131,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.059Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5132,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.060Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5133,
+      "attributes": {
+        "title": "Birthday of Rabindranath Tagore",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:45.060Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5134,
+      "attributes": {
+        "title": "Id-Ud-Zoha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.061Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5135,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.078Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5136,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.061Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5137,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.061Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5138,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.062Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5139,
+      "attributes": {
+        "title": "Mahalaya",
+        "date": "2026-10-10",
+        "updatedAt": "2026-02-17T08:16:45.062Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5140,
+      "attributes": {
+        "title": "Durga Puja – Maha Ashtami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:40.553Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5141,
+      "attributes": {
+        "title": "Durga Puja – Maha Navami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.554Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5142,
+      "attributes": {
+        "title": "Durga Puja – Vijayadashami",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:40.554Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5143,
+      "attributes": {
+        "title": "Bhratridwitiya",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:45.078Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5144,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.065Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5145,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.066Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5154,
+      "attributes": {
+        "title": "Eid-Ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.093Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

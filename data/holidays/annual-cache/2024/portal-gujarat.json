@@ -1,0 +1,1396 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:46:46.054627+00:00",
+  "sha256": "a42e6fc2eef2df6ac1ef5a3945e5f817e9a4a46182e6a679cd674f4290503d50",
+  "rows": [
+    {
+      "id": 1905,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2024-01-14",
+        "updatedAt": "2025-01-28T17:52:53.196Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1906,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.196Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1907,
+      "attributes": {
+        "title": "Maha Shivratri (Maha vad-13)",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.196Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1908,
+      "attributes": {
+        "title": "Holi 2nd Day-Dhuleti",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:53.201Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1909,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.198Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1910,
+      "attributes": {
+        "title": "Chetichand",
+        "date": "2024-04-10",
+        "updatedAt": "2025-01-28T17:52:53.199Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1911,
+      "attributes": {
+        "title": "Ramzan-Eid (Eid-Ul-Fitra) (1st Shawaal)",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:53.199Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1912,
+      "attributes": {
+        "title": "Dr Baba Saheb Ambedkar Birthday",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:53.200Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1913,
+      "attributes": {
+        "title": "Shree Ram Navmi",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:53.200Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1914,
+      "attributes": {
+        "title": "Mahavir Janma Kalyanak",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:53.200Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1916,
+      "attributes": {
+        "title": "(Eid-Ul-Adha)-Bakri-Eid",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.203Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1917,
+      "attributes": {
+        "title": "Muharram (Ashoora)",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:53.205Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1918,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:53.213Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1919,
+      "attributes": {
+        "title": "Janmashtami (Shravan Vad-8)",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.213Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1920,
+      "attributes": {
+        "title": "Samvatsari (Chaturthi Paksha)",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.203Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1921,
+      "attributes": {
+        "title": "Eid-e-Meeladunnabi-(Prophet Mohammed's Birthday) (Bara Vafat)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.212Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1922,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.209Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1923,
+      "attributes": {
+        "title": "Dusshera (Vijaya Dashmi) (Aaso sud-10)",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.210Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1924,
+      "attributes": {
+        "title": "Sardar Vallabhbhai Patel's Birthday & Diwali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.210Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1925,
+      "attributes": {
+        "title": "Vikram Samvant New Year Day",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:53.210Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1926,
+      "attributes": {
+        "title": "Bhai Bij",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:53.213Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1927,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.219Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1928,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.204Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1930,
+      "attributes": {
+        "title": "Vassi Uttarayan (Next Day to Makar Sankranti)",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:53.204Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1931,
+      "attributes": {
+        "title": "Guru Govindsingh's Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:53.205Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1932,
+      "attributes": {
+        "title": "Vishvakarma Jayanti (Maha Sud-13)",
+        "date": "2024-02-22",
+        "updatedAt": "2025-01-28T17:52:53.206Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1933,
+      "attributes": {
+        "title": "Saint Shiromani Ravidasji's Birthday",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:53.206Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1934,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2024-02-26",
+        "updatedAt": "2025-01-28T17:52:53.206Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1935,
+      "attributes": {
+        "title": "Birthday of Dhani Matang Dev",
+        "date": "2024-02-27",
+        "updatedAt": "2025-01-28T17:52:53.207Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1936,
+      "attributes": {
+        "title": "Jamshedi Navroz (Parsi Shahenshahi & Parsi Kadmi)",
+        "date": "2024-03-21",
+        "updatedAt": "2025-01-28T17:52:53.207Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1937,
+      "attributes": {
+        "title": "Shahadat-e-Hazarat Ali",
+        "date": "2024-04-01",
+        "updatedAt": "2025-01-28T17:52:53.207Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1938,
+      "attributes": {
+        "title": "Gudi Padvo (Chaitra Sud-1)",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:53.208Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1939,
+      "attributes": {
+        "title": "Independence Day / Parsi New Year Day- Pateti (Parsi Shahenshahi)",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.212Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1940,
+      "attributes": {
+        "title": "Ramjan-Id (Id-Ul-Fitra) (2nd Shawaal)",
+        "date": "2024-04-12",
+        "updatedAt": "2025-01-28T17:52:53.211Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1941,
+      "attributes": {
+        "title": "Hatkeshvar Jayanti & Zarthost-no-Disho (Parsi Kadami)",
+        "date": "2024-04-22",
+        "updatedAt": "2025-01-28T17:52:53.211Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1942,
+      "attributes": {
+        "title": "Hanuman Jayanti (Chaitra Sud-15) & Pesah (1st Day) (Yahudi)",
+        "date": "2024-04-23",
+        "updatedAt": "2025-01-28T17:52:53.214Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1943,
+      "attributes": {
+        "title": "Maha Prabhuji's Praktyotsava (Vallabhacharya Jayanti)",
+        "date": "2024-05-04",
+        "updatedAt": "2025-01-28T17:52:53.219Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1944,
+      "attributes": {
+        "title": "Bhagvan Shree Parshuram Jayanti (Vaishakh sud-3)",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:53.208Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1945,
+      "attributes": {
+        "title": "Budhha Purnima (Vaishakh Sud-15)",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:53.209Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1946,
+      "attributes": {
+        "title": "Guru Arjundev's Martyrdom day",
+        "date": "2024-06-10",
+        "updatedAt": "2025-01-28T17:52:53.209Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1947,
+      "attributes": {
+        "title": "Shavuoth (Yahudi)",
+        "date": "2024-06-12",
+        "updatedAt": "2025-01-28T17:52:53.221Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1948,
+      "attributes": {
+        "title": "Gatha Gahamber (Gatha-III) (Parsi Kadmi)",
+        "date": "2024-07-13",
+        "updatedAt": "2025-01-28T17:52:53.222Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1949,
+      "attributes": {
+        "title": "Parsi New Year Day Eve (Gatha-V) (Parsi Kadmi)",
+        "date": "2024-07-15",
+        "updatedAt": "2025-01-28T17:52:53.222Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1950,
+      "attributes": {
+        "title": "9th Muharram & Parsi New Year Day (Parsi Kadmi)",
+        "date": "2024-07-16",
+        "updatedAt": "2025-01-28T17:52:53.222Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1951,
+      "attributes": {
+        "title": "International Day of the World's Indigenous Peoples",
+        "date": "2024-08-09",
+        "updatedAt": "2025-01-28T17:52:53.241Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1952,
+      "attributes": {
+        "title": "Gatha Gahamber (Gatha-III) (Parsi Shahenshahi)",
+        "date": "2024-08-12",
+        "updatedAt": "2025-01-28T17:52:53.212Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1953,
+      "attributes": {
+        "title": "Tisha-be-aav (Yaudi)",
+        "date": "2024-08-13",
+        "updatedAt": "2025-01-28T17:52:53.224Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1954,
+      "attributes": {
+        "title": "Parsi New Year Day Eve (Gatha-V) (Parsi Shahenshahi)",
+        "date": "2024-08-14",
+        "updatedAt": "2025-01-28T17:52:53.224Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1955,
+      "attributes": {
+        "title": "Khordad Sal (Parsi Shahenshahi)",
+        "date": "2024-08-20",
+        "updatedAt": "2025-01-28T17:52:53.214Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1956,
+      "attributes": {
+        "title": "Nand Utsav (Shravan Vad-9)",
+        "date": "2024-08-27",
+        "updatedAt": "2025-01-28T17:52:53.215Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1957,
+      "attributes": {
+        "title": "Shravan Vad-12 (Paryusan 1st Day) (Chaturthi Paksha)",
+        "date": "2024-08-31",
+        "updatedAt": "2025-01-28T17:52:53.232Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1958,
+      "attributes": {
+        "title": "Shahadat-e-Imam Hasan",
+        "date": "2024-09-02",
+        "updatedAt": "2025-01-28T17:52:53.223Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1959,
+      "attributes": {
+        "title": "Christian New Year Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:53.215Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1960,
+      "attributes": {
+        "title": "Ganesh Chaturthi (Bhadarva Sud-4)",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.216Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1961,
+      "attributes": {
+        "title": "Id-e-Maulud",
+        "date": "2024-09-21",
+        "updatedAt": "2025-01-28T17:52:53.217Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1962,
+      "attributes": {
+        "title": "Rosh Hashanah (1st Day) (New Year) (Yahudi)",
+        "date": "2024-10-03",
+        "updatedAt": "2025-01-28T17:52:53.217Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1963,
+      "attributes": {
+        "title": "Eve of Kippur (Yahudi)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.217Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1964,
+      "attributes": {
+        "title": "Yom Kippur (Yahudi)",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.218Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1965,
+      "attributes": {
+        "title": "Succoth (Yahudi)",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:53.218Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1966,
+      "attributes": {
+        "title": "Dhan Terash ",
+        "date": "2024-10-29",
+        "updatedAt": "2025-01-28T17:52:53.218Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1967,
+      "attributes": {
+        "title": "Kali Chaudash",
+        "date": "2024-10-30",
+        "updatedAt": "2025-01-28T17:52:53.220Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1968,
+      "attributes": {
+        "title": "Dev-Diwali (Kartak Sud-15)",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.220Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1969,
+      "attributes": {
+        "title": "Shrimad Bhagwad Gita Jayanti",
+        "date": "2024-12-11",
+        "updatedAt": "2025-01-28T17:52:53.220Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1970,
+      "attributes": {
+        "title": "Boxing Day (Next Day to Christmas)",
+        "date": "2024-12-26",
+        "updatedAt": "2025-01-28T17:52:53.221Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1971,
+      "attributes": {
+        "title": "Holi ",
+        "date": "2024-03-24",
+        "updatedAt": "2025-01-28T17:52:53.239Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1972,
+      "attributes": {
+        "title": "Shree Adhya Jagadguru Shankaracharya Jayanti (Vaishakh Sud-5)",
+        "date": "2024-05-12",
+        "updatedAt": "2025-01-28T17:52:53.239Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1973,
+      "attributes": {
+        "title": "Zarthost-no-Disho (Parsi Shahenshahi)",
+        "date": "2024-05-22",
+        "updatedAt": "2025-01-28T17:52:53.235Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1974,
+      "attributes": {
+        "title": "Khordad Sal (Parsi Kadmi)",
+        "date": "2024-07-21",
+        "updatedAt": "2025-01-28T17:52:53.235Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1975,
+      "attributes": {
+        "title": "Shravan Vad-13 (Paryusan 1st Day) (Panchami Paksha)",
+        "date": "2024-09-01",
+        "updatedAt": "2025-01-28T17:52:53.236Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1976,
+      "attributes": {
+        "title": "Samvatsari (Panchami Paksha)",
+        "date": "2024-09-08",
+        "updatedAt": "2025-01-28T17:52:53.236Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1977,
+      "attributes": {
+        "title": "Onam",
+        "date": "2024-09-15",
+        "updatedAt": "2025-01-28T17:52:53.231Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1988,
+      "attributes": {
+        "title": "Mahavir Swami Janma Vachan (Chaturthi Paksha)",
+        "date": "2024-09-04",
+        "updatedAt": "2025-01-28T17:52:53.244Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2002,
+      "attributes": {
+        "title": "Rathayatra (Ashadhi bij) (Ashadh Sud-2)",
+        "date": "2024-07-07",
+        "updatedAt": "2025-01-28T17:52:53.237Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

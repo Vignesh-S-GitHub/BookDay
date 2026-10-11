@@ -1,0 +1,389 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:46.307810+00:00",
+  "sha256": "a6a078ed411f583d7e0d8064cc59576938f42a0d3f2643c50d16d357081c598d",
+  "rows": [
+    {
+      "id": 2180,
+      "attributes": {
+        "title": "Makara Sankaranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.312Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2181,
+      "attributes": {
+        "title": "Republic day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.312Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2182,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.329Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2183,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.329Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2184,
+      "attributes": {
+        "title": "Ugadi",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.318Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2185,
+      "attributes": {
+        "title": "Eid-Ul-Fitr (Ramzan)",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.318Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2186,
+      "attributes": {
+        "title": "Annual Closing Day",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.323Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2187,
+      "attributes": {
+        "title": "Srirama Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.320Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2188,
+      "attributes": {
+        "title": "Dr.B.R.Ambedkar's Birthday",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.322Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2189,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.323Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2190,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.326Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2192,
+      "attributes": {
+        "title": "Moharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.324Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2193,
+      "attributes": {
+        "title": "Independence day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.324Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2194,
+      "attributes": {
+        "title": "Sri Krishnastami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.325Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2195,
+      "attributes": {
+        "title": "Vinayaka Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.335Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2196,
+      "attributes": {
+        "title": "Milad-Un-Nabi (Saws) 1447 Hijhri",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.337Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2197,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanthi / Vijaya Dasami",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.326Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2198,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.326Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2199,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.327Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2220,
+      "attributes": {
+        "title": "Bakrid (Eid-UI-Zuha)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.333Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andhra-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

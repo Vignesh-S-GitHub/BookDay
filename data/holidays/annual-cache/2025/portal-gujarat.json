@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:49.149704+00:00",
+  "sha256": "bf0c97c6c42fbcac65715875339bd3f8cb2eef9a6001e80736d1b6770da28a17",
+  "rows": [
+    {
+      "id": 3258,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.815Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3259,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.815Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3260,
+      "attributes": {
+        "title": "Maha Shivratri (Maha vad-13)",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.823Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3261,
+      "attributes": {
+        "title": "Holi 2nd Day-Dhuleti",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.815Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3262,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.816Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3263,
+      "attributes": {
+        "title": "Chetichand",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.816Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3264,
+      "attributes": {
+        "title": "Ramzan-Eid (Eid-Ul-Fitra) (1st Shawaal)",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.817Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3265,
+      "attributes": {
+        "title": "Dr Baba Saheb Ambedkar Birthday",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.817Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3266,
+      "attributes": {
+        "title": "Shree Ram Navmi",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.829Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3267,
+      "attributes": {
+        "title": "Bhagvan Shree Parshuram Jayanti (Vaishakh sud-3)",
+        "date": "2025-04-29",
+        "updatedAt": "2025-01-28T17:52:53.830Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3268,
+      "attributes": {
+        "title": "(Eid-Ul-Adha)-Bakri-Eid",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.823Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3269,
+      "attributes": {
+        "title": "Muharram (Ashoora)",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.818Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3270,
+      "attributes": {
+        "title": "Independence Day / Parsi New Year Day- Pateti (Parsi Shahenshahi)",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.831Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3271,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.831Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3272,
+      "attributes": {
+        "title": "Janmashtami (Shravan Vad-8)",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.832Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3273,
+      "attributes": {
+        "title": "Samvatsari (Chaturthi Paksha)",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.833Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3274,
+      "attributes": {
+        "title": "Eid-e-Meeladunnabi-(Prophet Mohammed's Birthday) (Bara Vafat)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.820Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3275,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday / Dusshera (Vijaya Dashmi) (Aaso sud-10)",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.821Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3276,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.821Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3277,
+      "attributes": {
+        "title": "Vikram Samvant New Year Day",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.826Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3278,
+      "attributes": {
+        "title": "Bhai Bij",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.827Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3279,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.836Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3280,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.824Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3281,
+      "attributes": {
+        "title": "Sardar Vallabhbhai Patel's Birthday",
+        "date": "2025-10-31",
+        "updatedAt": "2025-01-28T17:52:53.824Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3295,
+      "attributes": {
+        "title": "Mahavir Janma Kalyanak",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.841Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

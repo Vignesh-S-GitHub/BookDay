@@ -1,0 +1,807 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:05.375073+00:00",
+  "sha256": "154684bd9e81f065ffaf2a2b9affe6b75820fd74a185bd4fa06ba25872f74173",
+  "rows": [
+    {
+      "id": 4195,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.444Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4196,
+      "attributes": {
+        "title": "Holi (Dhulivandan)",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:39.990Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4197,
+      "attributes": {
+        "title": "Gudi Padava",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:39.991Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4198,
+      "attributes": {
+        "title": "Id-Ul-Fitr (Ramzan Id)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:39.991Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4199,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.446Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4200,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.446Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4201,
+      "attributes": {
+        "title": "Birth Anniversary of Dr. B.R. Ambedkar",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:39.992Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4202,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.447Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4203,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakri Id)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:44.457Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4204,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.481Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4205,
+      "attributes": {
+        "title": "Hartalika / Ganesh Chaturthi (1st Day)",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:39.994Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4206,
+      "attributes": {
+        "title": "Ganesh Chaturthi (2nd Day)",
+        "date": "2026-09-15",
+        "updatedAt": "2026-02-17T08:16:44.458Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4207,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.458Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4208,
+      "attributes": {
+        "title": "Dussehra (Vijaya Dashami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:39.996Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4209,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.460Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4210,
+      "attributes": {
+        "title": "Feast of St. Francis Xavier",
+        "date": "2026-12-03",
+        "updatedAt": "2026-02-17T08:16:44.462Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4211,
+      "attributes": {
+        "title": "Goa Liberation Day",
+        "date": "2026-12-19",
+        "updatedAt": "2026-02-17T08:16:44.478Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4213,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.478Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4214,
+      "attributes": {
+        "title": "Milad-Un-Nabi- (Id-e-Milad)",
+        "date": "2026-08-25",
+        "updatedAt": "2026-02-17T08:16:44.463Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4215,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.464Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4216,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.486Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4217,
+      "attributes": {
+        "title": "Feast of St. Joseph Vaz",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:44.467Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4218,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:44.468Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4219,
+      "attributes": {
+        "title": "Guru Ravi Das Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.468Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4220,
+      "attributes": {
+        "title": "Maundy Thursday",
+        "date": "2026-04-02",
+        "updatedAt": "2026-02-17T08:16:44.469Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4222,
+      "attributes": {
+        "title": "Vaisakhi / Vishu",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.469Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4223,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.470Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4224,
+      "attributes": {
+        "title": "Feast of Sacred Heart of Jesus",
+        "date": "2026-06-12",
+        "updatedAt": "2026-02-17T08:16:44.471Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4225,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.470Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4226,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.471Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4227,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.472Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4228,
+      "attributes": {
+        "title": "Janmasthami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.472Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4229,
+      "attributes": {
+        "title": "Onam",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.479Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4230,
+      "attributes": {
+        "title": "All Souls day",
+        "date": "2026-11-02",
+        "updatedAt": "2026-02-17T08:16:44.480Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4231,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-10",
+        "updatedAt": "2026-02-17T08:16:44.479Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4232,
+      "attributes": {
+        "title": "Bhaubij",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.480Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4233,
+      "attributes": {
+        "title": "Guru Nanak's Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.482Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4234,
+      "attributes": {
+        "title": "Feast of Immaculate Conception of Mary",
+        "date": "2026-12-08",
+        "updatedAt": "2026-02-17T08:16:44.500Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4235,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Ji Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.502Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4236,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.492Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4237,
+      "attributes": {
+        "title": "New Year's Eve",
+        "date": "2026-12-31",
+        "updatedAt": "2026-02-17T08:16:44.492Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4241,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.483Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

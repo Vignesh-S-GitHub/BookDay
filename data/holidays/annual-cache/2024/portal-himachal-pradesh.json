@@ -1,0 +1,750 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:31.576784+00:00",
+  "sha256": "cbe55dbf4f60fc450cfe097e7f79ecfac0e6abadb046ab538feb87a70589b2bd",
+  "rows": [
+    {
+      "id": 1823,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:53.172Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1824,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2024-01-13",
+        "updatedAt": "2025-01-28T17:52:53.173Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1825,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2024-01-14",
+        "updatedAt": "2025-01-28T17:52:53.174Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1826,
+      "attributes": {
+        "title": "Statehood Day",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:53.166Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1828,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:53.167Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1829,
+      "attributes": {
+        "title": "Guru Ravidas' s Birthday",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:53.167Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1830,
+      "attributes": {
+        "title": "Swami Dayanand Saraswati Jayanti",
+        "date": "2024-03-06",
+        "updatedAt": "2025-01-28T17:52:53.167Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1831,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.168Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1832,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:53.169Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1833,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.169Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1834,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2024-03-31",
+        "updatedAt": "2025-01-28T17:52:53.169Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1835,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:53.170Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1836,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar's Birthday",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:53.170Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1837,
+      "attributes": {
+        "title": "Himachal Day",
+        "date": "2024-04-15",
+        "updatedAt": "2025-01-28T17:52:53.171Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1838,
+      "attributes": {
+        "title": "RamNavami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:53.171Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1839,
+      "attributes": {
+        "title": "Guru Rabindranath's Birthday",
+        "date": "2024-05-08",
+        "updatedAt": "2025-01-28T17:52:53.181Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1840,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:53.181Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1841,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:53.182Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1842,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2024-06-09",
+        "updatedAt": "2025-01-28T17:52:53.172Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1844,
+      "attributes": {
+        "title": "Sant Guru Kabir Jayanti (Prakat Diwas)",
+        "date": "2024-06-22",
+        "updatedAt": "2025-01-28T17:52:53.174Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1845,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:53.192Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1846,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.192Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1847,
+      "attributes": {
+        "title": "*Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:53.183Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1848,
+      "attributes": {
+        "title": "Janmashtami ",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.184Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1849,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.184Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1850,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.174Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1851,
+      "attributes": {
+        "title": "Maha Ashtami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.175Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1852,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.175Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1853,
+      "attributes": {
+        "title": "Maharishi Valmiki's Birthday",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:53.175Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1854,
+      "attributes": {
+        "title": "*Karva Chauth",
+        "date": "2024-10-20",
+        "updatedAt": "2025-01-28T17:52:53.176Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1855,
+      "attributes": {
+        "title": "Diwali ",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.176Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1856,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:53.177Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1857,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.177Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1858,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:53.180Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1859,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.178Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1860,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Martyrdom Day",
+        "date": "2024-11-24",
+        "updatedAt": "2025-01-28T17:52:53.178Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1861,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:53.178Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1862,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.179Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1871,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.204Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

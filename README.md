@@ -70,7 +70,7 @@ No live prices, seats, slot availability, automatic purchases, sign-in, push/ema
 
 ## Artwork and browser regression
 
-The 106 newly generated raster images, including 34 festival themes, live in `public/art/`; vector UI icons are in `public/art/icons.svg`. [Artwork prompts](docs/artwork.json) record each new asset, its saved path and its built-in image-generation prompt. `scripts/package_art.mjs` resizes and encodes generated PNG originals into sharp WebP assets. PNG originals are kept in the image-generation library; the deployable files are committed here. Original user inputs are preserved locally in the ignored `reference-inputs/` folder. The extracted design-kit folder and obsolete served assets were removed.
+The 116 generated raster images, including 34 festival themes and dedicated panoramic banners for all 14 reminder categories, live in `public/art/`; vector UI icons are in `public/art/icons.svg`. [Artwork prompts](docs/artwork.json) record each asset, its saved path and its built-in image-generation prompt. `scripts/package_art.mjs` resizes and encodes generated PNG originals into sharp WebP assets. PNG originals are kept in the image-generation library; deployable files are committed here. Original user inputs are preserved locally in the ignored `reference-inputs/` folder. The extracted design kit and obsolete served assets were removed.
 
 The committed browser suite covers all categories, planning, saved-plan menus, calendar exports, settings, source-backed insights, responsive layouts, first installation, malformed storage and offline exports:
 

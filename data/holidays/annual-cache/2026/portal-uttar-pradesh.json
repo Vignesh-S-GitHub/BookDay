@@ -1,0 +1,1054 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.050680+00:00",
+  "sha256": "e69aff54ac36b809d1a2eda7ed0b68b5dfebf2c53f71cc4523055deda4b4b9d9",
+  "rows": [
+    {
+      "id": 5065,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:45.016Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5066,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.017Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5067,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.017Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5069,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2026-03-02",
+        "updatedAt": "2026-02-17T08:16:45.023Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5070,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.024Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5071,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.024Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5072,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.025Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5073,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.025Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5074,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.057Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5075,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:45.044Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5076,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.044Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5077,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.030Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5078,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.031Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5079,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.031Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5080,
+      "attributes": {
+        "title": "Id-e-Milad / Barawafat",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.527Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5081,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.032Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5082,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.032Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5083,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.033Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5084,
+      "attributes": {
+        "title": "Dussehra / Vijayadashami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.529Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5085,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.034Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5086,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:45.034Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5087,
+      "attributes": {
+        "title": "Bhai Dooj / Chitragupta Jayanti",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:40.530Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5088,
+      "attributes": {
+        "title": "Guru Nanak Jayanti / Kartik Purnima",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:40.531Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5089,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.036Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5090,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.037Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5091,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:45.037Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5092,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:45.037Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5093,
+      "attributes": {
+        "title": "Jananayak Karpoori Thakur Jayanti",
+        "date": "2026-01-24",
+        "updatedAt": "2026-02-17T08:16:40.536Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5094,
+      "attributes": {
+        "title": "Sant Ravidas Jayanti",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:45.070Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5095,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2026-02-04",
+        "updatedAt": "2026-02-17T08:16:45.055Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5096,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-05",
+        "updatedAt": "2026-02-17T08:16:45.055Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5097,
+      "attributes": {
+        "title": "Jumat-ul-Vida / Ramadan's last friday",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:40.546Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5098,
+      "attributes": {
+        "title": "Id-ul-Fitr (Second Day)",
+        "date": "2026-03-22",
+        "updatedAt": "2026-02-17T08:16:40.547Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5099,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2026-04-04",
+        "updatedAt": "2026-02-17T08:16:45.038Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5100,
+      "attributes": {
+        "title": "Maharshi Kashyap / Nishad Raj Jayanti",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:40.533Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5101,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2026-04-06",
+        "updatedAt": "2026-02-17T08:16:45.058Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5102,
+      "attributes": {
+        "title": "Chandrashekhar Azad Jayanti",
+        "date": "2026-04-17",
+        "updatedAt": "2026-02-17T08:16:40.534Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5103,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2026-04-19",
+        "updatedAt": "2026-02-17T08:16:45.039Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5104,
+      "attributes": {
+        "title": "Lok Nayak Maharana Pratap Jayanti",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:45.040Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5105,
+      "attributes": {
+        "title": "Id-ul-Zuha (Second Day)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:40.535Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5106,
+      "attributes": {
+        "title": "Muharram (Second Day)",
+        "date": "2026-06-25",
+        "updatedAt": "2026-02-17T08:16:40.535Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5107,
+      "attributes": {
+        "title": "Chehlum",
+        "date": "2026-08-04",
+        "updatedAt": "2026-02-17T08:16:40.539Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5108,
+      "attributes": {
+        "title": "Vishwakarma Puja",
+        "date": "2026-09-17",
+        "updatedAt": "2026-02-17T08:16:45.042Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5109,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2026-09-25",
+        "updatedAt": "2026-02-17T08:16:45.043Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5110,
+      "attributes": {
+        "title": "Maharaja Agrasen Jayanti",
+        "date": "2026-10-11",
+        "updatedAt": "2026-02-17T08:16:45.043Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5111,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:45.043Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5112,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:45.050Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5113,
+      "attributes": {
+        "title": "Sardar Vallabhbhai Patel and Acharya Narendra Dev Jayanti",
+        "date": "2026-10-31",
+        "updatedAt": "2026-02-17T08:16:45.050Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5114,
+      "attributes": {
+        "title": "Narak Chaturdashi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:40.539Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5115,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:45.057Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5116,
+      "attributes": {
+        "title": "Veerangana Uda Devi Martyrdom Day",
+        "date": "2026-11-16",
+        "updatedAt": "2026-02-17T08:16:45.052Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5117,
+      "attributes": {
+        "title": "Khwaja Moinuddin Chishti Urs",
+        "date": "2026-12-16",
+        "updatedAt": "2026-02-17T08:16:40.540Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5118,
+      "attributes": {
+        "title": "Chaudhary Charan Singh Jayanti",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-17T08:16:40.540Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5125,
+      "attributes": {
+        "title": "Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:45.057Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5147,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.067Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

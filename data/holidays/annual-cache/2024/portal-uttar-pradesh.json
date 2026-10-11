@@ -1,0 +1,1054 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:41.265781+00:00",
+  "sha256": "8d15a34fbea2882177556a72090fa473e4e8c8be452613f57dd70150bb1b6535",
+  "rows": [
+    {
+      "id": 1117,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.854Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1118,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.866Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1120,
+      "attributes": {
+        "title": "*Urs of Hazrat Khwaja Moinuddin Chishti Ajmeri Garib Nawaz Rah",
+        "date": "2024-01-18",
+        "updatedAt": "2025-01-28T17:52:52.865Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1121,
+      "attributes": {
+        "title": "Jannayak Karpuri Thakur Birthday",
+        "date": "2024-01-24",
+        "updatedAt": "2025-01-28T17:52:52.877Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1122,
+      "attributes": {
+        "title": "Hazrat Ali's Birthday",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:52.876Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1123,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.858Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1124,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:52.861Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1125,
+      "attributes": {
+        "title": "Saint Ravidas Jayanti",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.861Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1126,
+      "attributes": {
+        "title": "*Shabe Barat",
+        "date": "2024-02-26",
+        "updatedAt": "2025-01-28T17:52:52.858Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1127,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.859Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1128,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2024-03-24",
+        "updatedAt": "2025-01-28T17:52:52.859Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1129,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-26",
+        "updatedAt": "2025-01-28T17:52:52.872Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1131,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2024-04-01",
+        "updatedAt": "2025-01-28T17:52:52.871Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1132,
+      "attributes": {
+        "title": "Holi ",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.859Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1133,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.866Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1134,
+      "attributes": {
+        "title": "*Jamaat-ul-Vida (Alvida)/Last Friday of Ramzan/Maharishi Kashyap and Maharaja Nishad Raj Guhay Jayanti",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:52.862Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1135,
+      "attributes": {
+        "title": "Cheti Chand",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.862Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1136,
+      "attributes": {
+        "title": "*Eid-ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.863Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1137,
+      "attributes": {
+        "title": "*EId-Ul-Fitr",
+        "date": "2024-04-12",
+        "updatedAt": "2025-01-28T17:52:52.863Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1138,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.863Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1139,
+      "attributes": {
+        "title": "Chandrashekhar Jayanti",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.864Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1140,
+      "attributes": {
+        "title": "Lok Nayak Maharana Pratap Jayanti",
+        "date": "2024-05-09",
+        "updatedAt": "2025-01-28T17:52:52.864Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1141,
+      "attributes": {
+        "title": "Parshuram Jayanti ",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:52.873Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1142,
+      "attributes": {
+        "title": "Rama Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.872Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1143,
+      "attributes": {
+        "title": "Mahavir Jayanti ",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:52.873Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1144,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.874Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1145,
+      "attributes": {
+        "title": "*BAKRID\n(Eid-UI-Zuha)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.874Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1146,
+      "attributes": {
+        "title": "*Id-ul-Zuha (Bakrid)",
+        "date": "2024-06-18",
+        "updatedAt": "2025-01-28T17:52:52.874Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1147,
+      "attributes": {
+        "title": "*Moharram",
+        "date": "2024-07-18",
+        "updatedAt": "2025-01-28T17:52:52.867Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1148,
+      "attributes": {
+        "title": "Sri Guru Gobind Singh's Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.867Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1149,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.868Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1150,
+      "attributes": {
+        "title": "Raksha Bandhan ",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.868Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1151,
+      "attributes": {
+        "title": "Janmashtami ",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.868Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1152,
+      "attributes": {
+        "title": "*Chehallum",
+        "date": "2024-08-25",
+        "updatedAt": "2025-01-28T17:52:52.869Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1153,
+      "attributes": {
+        "title": "Vishwakarma Puja / Anant Chaturdashi",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.870Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1154,
+      "attributes": {
+        "title": "* Id-e-Milad/Barawafat",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.869Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1155,
+      "attributes": {
+        "title": "Maharaja Agrasen Jayanti",
+        "date": "2024-10-03",
+        "updatedAt": "2025-01-28T17:52:52.870Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1156,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday ",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.871Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1157,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.871Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1158,
+      "attributes": {
+        "title": "Dussehra (MahaNavami/Vijaya Dasami)",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.875Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1159,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:52.875Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1160,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2024-03-30",
+        "updatedAt": "2025-01-28T17:52:52.878Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1161,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.899Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1162,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2024-10-30",
+        "updatedAt": "2025-01-28T17:52:52.882Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1163,
+      "attributes": {
+        "title": "Goverdhan Puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:52.882Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1164,
+      "attributes": {
+        "title": "Bhai Duj/ Chitragupt Jayanti",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:52.872Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1165,
+      "attributes": {
+        "title": "Sardar Vallabhbhai Patel and Acharya Narendra Dev Jayanti",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.888Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1166,
+      "attributes": {
+        "title": "Birthday of Guru Nanak / Kartik Purnima",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.888Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1167,
+      "attributes": {
+        "title": "Chatt Puja",
+        "date": "2024-11-07",
+        "updatedAt": "2025-01-28T17:52:52.889Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1168,
+      "attributes": {
+        "title": "Veerangana Uda Devi Martyrdom Day",
+        "date": "2024-11-16",
+        "updatedAt": "2025-01-28T17:52:52.890Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1169,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Ji Martyrdom Day",
+        "date": "2024-11-24",
+        "updatedAt": "2025-01-28T17:52:52.889Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1170,
+      "attributes": {
+        "title": "Chaudhary Charan Singh's Birthday",
+        "date": "2024-12-23",
+        "updatedAt": "2025-01-28T17:52:52.890Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1171,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:52.879Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1172,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.879Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1177,
+      "attributes": {
+        "title": "*Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.877Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttar-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

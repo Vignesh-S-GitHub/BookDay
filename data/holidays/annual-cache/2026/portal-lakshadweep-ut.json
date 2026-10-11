@@ -1,0 +1,959 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.107117+00:00",
+  "sha256": "d974fd0b58e17fd02fcb08e02d7b29c308da6cb0b4e54a68c4a2cc77935d0d01",
+  "rows": [
+    {
+      "id": 5311,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:45.160Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5312,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:45.170Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5313,
+      "attributes": {
+        "title": "Rajab 27",
+        "date": "2026-01-16",
+        "updatedAt": "2026-02-17T08:16:45.161Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5314,
+      "attributes": {
+        "title": "Basant Panchami / Sri Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:45.162Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5315,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:45.162Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5316,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:45.163Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5317,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.178Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5318,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:45.164Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5319,
+      "attributes": {
+        "title": "Holika Dahan / Dolyatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:40.688Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5320,
+      "attributes": {
+        "title": "Ramzan 27",
+        "date": "2026-03-17",
+        "updatedAt": "2026-02-17T08:16:45.165Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5321,
+      "attributes": {
+        "title": "Chaithra Sukladi / Gudi Padava / Ugadi / Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:40.694Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5322,
+      "attributes": {
+        "title": "Jamat-ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.167Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5323,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.168Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5324,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:45.168Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5325,
+      "attributes": {
+        "title": "Vaisakhi / Vishu / Meshadi (Tamil New Year)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.696Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5326,
+      "attributes": {
+        "title": "Vaisakhadi (Bengal) / Bahag Bihu (Assam)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:45.169Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5327,
+      "attributes": {
+        "title": "Guru Rabindranath Tagore’s Birthday",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:45.183Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5328,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:45.171Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5329,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:45.172Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5330,
+      "attributes": {
+        "title": "Parsi New Year’s Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.171Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5331,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.172Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5332,
+      "attributes": {
+        "title": "Maharshi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:40.724Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5333,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karva Chauth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:40.725Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5334,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.186Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5335,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.173Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5336,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:45.174Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5337,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:45.174Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5338,
+      "attributes": {
+        "title": "Pratihar Shashthi / Surya Shashthi (Chhath Puja)",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:40.703Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5339,
+      "attributes": {
+        "title": "Guru Teg Bahadur’s Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.179Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5340,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-17T08:16:45.192Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5341,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.180Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5342,
+      "attributes": {
+        "title": "Pongal / Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:45.188Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5343,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.175Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5344,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.176Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5345,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.176Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5346,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.177Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5347,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.177Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5348,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.177Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5349,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.178Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5350,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.179Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5351,
+      "attributes": {
+        "title": "Independence Day / Naoroz",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:40.715Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5352,
+      "attributes": {
+        "title": "Onam / Milad-un-Nabi / Id-e-Milad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.715Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5353,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.182Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5354,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.182Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5355,
+      "attributes": {
+        "title": "Dussehra (Vijay Dashmi)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.195Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5356,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.196Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5357,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:45.183Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5358,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.188Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5359,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayak Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.184Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5360,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.184Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "lakshadweep-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

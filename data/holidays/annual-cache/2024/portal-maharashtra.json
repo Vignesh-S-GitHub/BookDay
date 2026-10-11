@@ -1,0 +1,446 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:33.747732+00:00",
+  "sha256": "25d7720eb1a9a080a6f4754e8f8ee7a7048ea19a3c392ffa24c5956b50f177e4",
+  "rows": [
+    {
+      "id": 1655,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Maharaj Jayanti",
+        "date": "2024-02-19",
+        "updatedAt": "2025-01-28T17:52:53.099Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1656,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.104Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1657,
+      "attributes": {
+        "title": "Holi (Second Day)",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:53.105Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1658,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.105Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1659,
+      "attributes": {
+        "title": "Gudhi Padwa",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:53.104Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1660,
+      "attributes": {
+        "title": "Ramzan-Id (Id-Ul-Fitr)",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:53.103Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1661,
+      "attributes": {
+        "title": "Dr. Babasaheb Ambedkar Jayanti",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:53.107Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1662,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:53.107Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1663,
+      "attributes": {
+        "title": "Mahavir Janmakalyanak",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:53.096Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1664,
+      "attributes": {
+        "title": "Maharashtra Din",
+        "date": "2024-05-01",
+        "updatedAt": "2025-01-28T17:52:53.097Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1665,
+      "attributes": {
+        "title": "Buddha Pournima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:53.097Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1666,
+      "attributes": {
+        "title": "Bakri Id (Id-Uz-Zuha)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.097Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1667,
+      "attributes": {
+        "title": "Moharum",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:53.102Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1668,
+      "attributes": {
+        "title": "Independence Day / Parsi New Year (Shahenshahi)",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.106Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1670,
+      "attributes": {
+        "title": "Id-E-Milad",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.111Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1671,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.100Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1672,
+      "attributes": {
+        "title": "Dasherra",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:53.111Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1673,
+      "attributes": {
+        "title": "Diwali Amavasya (Laxmi Pujan)",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:53.111Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1674,
+      "attributes": {
+        "title": "Diwali (Bali Pratipada)",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:53.101Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1675,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.101Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1676,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.106Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1683,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.119Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1698,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.122Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

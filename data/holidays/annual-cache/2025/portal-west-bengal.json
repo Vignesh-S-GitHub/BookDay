@@ -1,0 +1,845 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:58.896722+00:00",
+  "sha256": "d05730096e387cdfe98162726d4efeaf68aea8b3b2b31ce7452a2266a4af4153",
+  "rows": [
+    {
+      "id": 2593,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.524Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2594,
+      "attributes": {
+        "title": "Netaji's Birthday",
+        "date": "2025-01-23",
+        "updatedAt": "2025-01-28T17:52:53.495Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2595,
+      "attributes": {
+        "title": "Doljatra",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.495Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2596,
+      "attributes": {
+        "title": "Eid-Ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.496Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2598,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.513Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2599,
+      "attributes": {
+        "title": "Bengali New Year's Day(Nababarsha)",
+        "date": "2025-04-15",
+        "updatedAt": "2025-01-28T17:52:53.497Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2600,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.497Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2601,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.498Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2602,
+      "attributes": {
+        "title": "Birthday of Rabindranath Tagore",
+        "date": "2025-05-09",
+        "updatedAt": "2025-01-28T17:52:53.498Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2603,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.499Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2604,
+      "attributes": {
+        "title": "Id-Ud-Zoha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.499Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2605,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.499Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2606,
+      "attributes": {
+        "title": "Janmastami",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.500Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2607,
+      "attributes": {
+        "title": "Durga Puja, Maha Saptami",
+        "date": "2025-09-29",
+        "updatedAt": "2025-01-28T17:52:53.500Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2608,
+      "attributes": {
+        "title": "Durga Puja, Maha Astami",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.511Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2609,
+      "attributes": {
+        "title": "Durga Puja, Maha Nabami",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.510Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2610,
+      "attributes": {
+        "title": "Durga Puja, Dasami / Birthday of Gandhiji",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.509Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2611,
+      "attributes": {
+        "title": "Lakshmi Puja",
+        "date": "2025-10-06",
+        "updatedAt": "2025-01-28T17:52:53.509Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2613,
+      "attributes": {
+        "title": "Bhratridwitiya",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.520Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2614,
+      "attributes": {
+        "title": "Chhat Puja",
+        "date": "2025-10-27",
+        "updatedAt": "2025-01-28T17:52:53.521Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2615,
+      "attributes": {
+        "title": "Birthday of Guru Nanak",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.525Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2616,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.521Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2617,
+      "attributes": {
+        "title": "Day after Saraswati Puja",
+        "date": "2025-02-03",
+        "updatedAt": "2025-01-28T17:52:53.522Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2618,
+      "attributes": {
+        "title": "Birthday of Thakur Panchanan Barma / Shab-e-Barat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.522Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2619,
+      "attributes": {
+        "title": "Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.514Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2620,
+      "attributes": {
+        "title": "Day after Doljatra",
+        "date": "2025-03-15",
+        "updatedAt": "2025-01-28T17:52:53.514Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2621,
+      "attributes": {
+        "title": "Birthday of Shri Shri Harichand Thakur (Madhu Krishna Troyodashi Tithi)",
+        "date": "2025-03-27",
+        "updatedAt": "2025-01-28T17:52:53.514Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2622,
+      "attributes": {
+        "title": "Day after Eid-Ul-Fitr",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.515Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2623,
+      "attributes": {
+        "title": "Day before Id-Ud-Zoha (Bakrid)",
+        "date": "2025-06-06",
+        "updatedAt": "2025-01-28T17:52:53.515Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2624,
+      "attributes": {
+        "title": "Rathayatra",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.516Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2625,
+      "attributes": {
+        "title": "Rakhi Bandhan",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.516Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2626,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.517Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2627,
+      "attributes": {
+        "title": "Durga Puja, Maha Chaturthi",
+        "date": "2025-09-26",
+        "updatedAt": "2025-01-28T17:52:53.535Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2628,
+      "attributes": {
+        "title": "Durga Puja, Maha Panchami",
+        "date": "2025-09-27",
+        "updatedAt": "2025-01-28T17:52:53.517Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2629,
+      "attributes": {
+        "title": "Additional Day for Durga Puja",
+        "date": "2025-10-03",
+        "updatedAt": "2025-01-28T17:52:53.518Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2630,
+      "attributes": {
+        "title": "Additional Day for Durga Puja",
+        "date": "2025-10-04",
+        "updatedAt": "2025-01-28T17:52:53.518Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2631,
+      "attributes": {
+        "title": "Additional Day for Lakshmi Puja",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.519Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2632,
+      "attributes": {
+        "title": "Additional Day for Kali Puja",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.519Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2633,
+      "attributes": {
+        "title": "Additional Day for Kali Puja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.520Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2634,
+      "attributes": {
+        "title": "Day after Bhratridwitiya",
+        "date": "2025-10-24",
+        "updatedAt": "2025-01-28T17:52:53.526Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2635,
+      "attributes": {
+        "title": "Additional Day for Chhat Puja",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.526Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2636,
+      "attributes": {
+        "title": "Birthday of Birsa Munda",
+        "date": "2025-11-15",
+        "updatedAt": "2025-01-28T17:52:53.527Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2641,
+      "attributes": {
+        "title": "Kali Puja",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.532Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2654,
+      "attributes": {
+        "title": "Fateha-Dwaz-Daham",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.535Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "west-bengal"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

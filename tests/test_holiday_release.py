@@ -41,6 +41,8 @@ def test_release_pushes_snapshot_manifest_and_files_atomically(
     }
     write(project / "public/data/holidays/manifest.json", manifest)
     write(project / "public/data/holidays/2026/national-abc.json", {"records": []})
+    annual = {"schema": 1, "year": 2026, "rows": [{"date": "2026-01-01"}]}
+    write(project / "data/holidays/annual-cache/2026/portal-central.json", annual)
     assert release.release()
     head = command(remote, "rev-parse", "refs/heads/holiday-data")
     assert (
@@ -58,11 +60,19 @@ def test_release_pushes_snapshot_manifest_and_files_atomically(
     )
     assert command(remote, "rev-parse", "main") == command(project, "rev-parse", "HEAD")
     write(project / "data/holidays/automatic.json", {"records": []})
+    write(project / "data/holidays/annual-cache/2026/portal-central.json", {})
     release.previous_snapshot()
     assert (
         json.loads((project / "data/holidays/automatic.json").read_text()) == snapshot
     )
+    assert read_cache(project) == annual
     command(project, "worktree", "remove", str(project / "output/holiday-release"))
     command(project, "branch", "-D", "holiday-data")
     assert not release.release()
     assert command(remote, "rev-parse", "refs/heads/holiday-data") == head
+
+
+def read_cache(project: Path) -> dict:
+    return json.loads(
+        (project / "data/holidays/annual-cache/2026/portal-central.json").read_text()
+    )

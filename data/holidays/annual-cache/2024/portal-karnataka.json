@@ -1,0 +1,997 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:32.463700+00:00",
+  "sha256": "8fff6ea88aae9ff26facfa8c786396e7dcb06c71e2a65503c66eadc2583e1cb7",
+  "rows": [
+    {
+      "id": 2070,
+      "attributes": {
+        "title": "New Year'Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:53.275Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2071,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2024-01-13",
+        "updatedAt": "2025-01-28T17:52:53.276Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Suturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2072,
+      "attributes": {
+        "title": "Makar Sankranti/ Magha Bihu",
+        "date": "2024-01-14",
+        "updatedAt": "2025-01-28T17:52:53.293Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2073,
+      "attributes": {
+        "title": "Magha Bihu/Pongal",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:53.276Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2074,
+      "attributes": {
+        "title": "Guru Govind Singh'Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:53.268Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2076,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:53.269Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2077,
+      "attributes": {
+        "title": "Bsant Panchami/ sri Panchami",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:53.280Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2078,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2024-02-19",
+        "updatedAt": "2025-01-28T17:52:53.271Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2079,
+      "attributes": {
+        "title": "Guru Ravidas's Birthday",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:53.271Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Satuurday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2080,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2024-03-06",
+        "updatedAt": "2025-01-28T17:52:53.272Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2081,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:53.272Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2082,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:53.273Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2083,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2024-03-24",
+        "updatedAt": "2025-01-28T17:52:53.273Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2084,
+      "attributes": {
+        "title": "Dolyatra/Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:53.273Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2085,
+      "attributes": {
+        "title": "Chaita Sukladi /Gudi Padava /Ugadi/Cheti Chand",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:53.274Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2086,
+      "attributes": {
+        "title": "Id-ul-Zuha(Bakrid)",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:53.274Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2087,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2024-03-31",
+        "updatedAt": "2025-01-28T17:52:53.281Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2088,
+      "attributes": {
+        "title": "Jamat-Ul-Vida",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:53.288Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2089,
+      "attributes": {
+        "title": "Mahavir Jayanthi",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:53.281Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2091,
+      "attributes": {
+        "title": "Vaisakhi/Vishu",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:53.282Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Suturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2092,
+      "attributes": {
+        "title": "Meshadi(Tamil New Year's Day)/Vaisakhadi",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:53.284Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2093,
+      "attributes": {
+        "title": "Ram Navmi",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:53.286Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2094,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:53.283Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2095,
+      "attributes": {
+        "title": "Id-ul-Zuha(Bakrid)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:53.284Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2096,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:53.283Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2097,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.287Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2098,
+      "attributes": {
+        "title": "Birthday of Guru Rabindranath Tagore",
+        "date": "2024-05-08",
+        "updatedAt": "2025-01-28T17:52:53.276Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2099,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2024-07-07",
+        "updatedAt": "2025-01-28T17:52:53.289Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2100,
+      "attributes": {
+        "title": "parsi New Year's day /Nauraj",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:53.277Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2101,
+      "attributes": {
+        "title": "Varamahalakshmi Vrata",
+        "date": "2024-08-16",
+        "updatedAt": "2025-01-28T17:52:53.290Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2102,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:53.278Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2103,
+      "attributes": {
+        "title": "Janamashtami (Vaishnavi)",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:53.278Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2104,
+      "attributes": {
+        "title": "Hazrat Ali's Birthday",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:53.279Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2105,
+      "attributes": {
+        "title": "Onam /Thiru Onam Day",
+        "date": "2024-09-15",
+        "updatedAt": "2025-01-28T17:52:53.279Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunady",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2106,
+      "attributes": {
+        "title": "Dussehra(saptami)",
+        "date": "2024-10-10",
+        "updatedAt": "2025-01-28T17:52:53.279Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2107,
+      "attributes": {
+        "title": "Milad Un Nabi or ID- E milad (Birthday Of Prophet Mohammad)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:53.280Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2108,
+      "attributes": {
+        "title": "Dussehra(Mahashtami)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.285Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2109,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:53.285Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2110,
+      "attributes": {
+        "title": "Dussehra(Mahanavami)",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:53.285Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2111,
+      "attributes": {
+        "title": "Maharishi Valmiki's Birthday",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:53.294Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2112,
+      "attributes": {
+        "title": "Karka Chaturthi (Karwa Chouth)",
+        "date": "2024-10-20",
+        "updatedAt": "2025-01-28T17:52:53.295Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2113,
+      "attributes": {
+        "title": "Dussehra(Vijay Dashmi) / Diwali(Deepavali)",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.295Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2114,
+      "attributes": {
+        "title": "Narka Chaturdasi",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:53.296Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2115,
+      "attributes": {
+        "title": "Krnataka Rajyotsava",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:53.296Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2116,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:53.296Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2117,
+      "attributes": {
+        "title": "Govardhan puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:53.286Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Suturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2118,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:53.288Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2119,
+      "attributes": {
+        "title": "Christmas day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:53.289Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2120,
+      "attributes": {
+        "title": "Guru Teg Bahadur 's Martyrdom day",
+        "date": "2024-11-24",
+        "updatedAt": "2025-01-28T17:52:53.287Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2121,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T17:52:53.288Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2133,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:53.294Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2148,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chhat Puja)",
+        "date": "2024-11-07",
+        "updatedAt": "2025-01-28T17:52:53.299Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

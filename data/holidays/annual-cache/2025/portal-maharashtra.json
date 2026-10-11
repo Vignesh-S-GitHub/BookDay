@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:52.505415+00:00",
+  "sha256": "70e5fc4946ad2831933e4d97c29b1b0bf3bd16e3b4cfeec407cf499c43cdf8fa",
+  "rows": [
+    {
+      "id": 3433,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.899Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3434,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Maharaj Jayanti",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.900Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3435,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.900Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3436,
+      "attributes": {
+        "title": "Holi (Second Day)",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.901Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3437,
+      "attributes": {
+        "title": "Gudhi Padwa",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.899Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3438,
+      "attributes": {
+        "title": "Ramzan-Id (Id-Ul-Fitra) (Shawal-1)",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.902Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3440,
+      "attributes": {
+        "title": "Mahavir Janmakalyanak",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.908Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3441,
+      "attributes": {
+        "title": "To enable to Banks to close their yearly accounts (Banks Only)",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.907Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3442,
+      "attributes": {
+        "title": "Dr.Babasaheb Ambedkar Jayanti",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.896Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3443,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.896Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3444,
+      "attributes": {
+        "title": "Maharashtra Din",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.897Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3445,
+      "attributes": {
+        "title": "Buddha Pournima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.897Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3446,
+      "attributes": {
+        "title": "Bakri ID (Id-Uz-Zuha)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.898Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3447,
+      "attributes": {
+        "title": "Moharum",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.907Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3448,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.898Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3449,
+      "attributes": {
+        "title": "Parsi New Year (Shahenshahi)",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.902Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3450,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.905Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3451,
+      "attributes": {
+        "title": "Id-E-Milad",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.901Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3452,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.910Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3453,
+      "attributes": {
+        "title": "Dasara",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.927Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3454,
+      "attributes": {
+        "title": "Diwali Amavasya (Laxmi Pujan)",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.918Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3455,
+      "attributes": {
+        "title": "Diwali (Bali Pratipada)",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.917Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3457,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.904Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3469,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.906Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3486,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.915Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "maharashtra"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.097283+00:00",
+  "sha256": "d30f6dc94f4f9202d9355b551d41ae4b629e96f62fec3d42e10fe5bf1dfd0e51",
+  "rows": [
+    {
+      "id": 5244,
+      "attributes": {
+        "title": "Guru Gobind Singh Ji’s Birthday",
+        "date": "2026-01-05",
+        "updatedAt": "2026-02-17T08:16:40.622Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5245,
+      "attributes": {
+        "title": "Shab-i-Miraj*",
+        "date": "2026-01-17",
+        "updatedAt": "2026-02-17T08:16:45.120Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5246,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.123Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5247,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.133Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5248,
+      "attributes": {
+        "title": "Shab-i-Qadr*",
+        "date": "2026-03-17",
+        "updatedAt": "2026-02-17T08:16:45.121Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5249,
+      "attributes": {
+        "title": "Navratra (1st)",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:40.624Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5250,
+      "attributes": {
+        "title": "Jumat-ul-Vida*",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.122Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5251,
+      "attributes": {
+        "title": "Eid-ul-Fitr*",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.123Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5252,
+      "attributes": {
+        "title": "Naurooz*",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:40.625Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5253,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.144Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5254,
+      "attributes": {
+        "title": "Baisakhi / Birthday of Dr. B.R. Ambedkar",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.657Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5255,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.146Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5256,
+      "attributes": {
+        "title": "Eid-ul-Azha (Bakrid)*",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.125Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5257,
+      "attributes": {
+        "title": "Ashoora*",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.126Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5258,
+      "attributes": {
+        "title": "Guru Hargobind Ji’s Birthday",
+        "date": "2026-07-05",
+        "updatedAt": "2026-02-17T08:16:45.126Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5259,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.126Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5260,
+      "attributes": {
+        "title": "Eid-i-Milad-un-Nabi*",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.132Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5261,
+      "attributes": {
+        "title": "Friday following Eid-i-Milad-un-Nabi*",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.132Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5262,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.133Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5263,
+      "attributes": {
+        "title": "Birthday of Maharaja Hari Singh Ji",
+        "date": "2026-09-23",
+        "updatedAt": "2026-02-17T08:16:45.145Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5265,
+      "attributes": {
+        "title": "Maha Navami / Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.660Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5266,
+      "attributes": {
+        "title": "Accession Day",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:45.134Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5267,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.134Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5268,
+      "attributes": {
+        "title": "Guru Nanak Dev Ji’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.135Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5269,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.152Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5271,
+      "attributes": {
+        "title": "Martyr’s Day of Guru Arjun Dev Ji",
+        "date": "2026-06-16",
+        "updatedAt": "2026-02-17T08:16:45.136Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5272,
+      "attributes": {
+        "title": "Kabir Jayanti (Jammu Province only)",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:40.637Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5273,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.137Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5294,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.166Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5301,
+      "attributes": {
+        "title": "Parshuram Jayanti (Jammu Province only)",
+        "date": "2026-04-19",
+        "updatedAt": "2026-02-17T08:16:40.669Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

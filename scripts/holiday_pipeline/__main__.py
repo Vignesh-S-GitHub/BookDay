@@ -11,6 +11,7 @@ from zoneinfo import ZoneInfo
 from .adapters import parse
 from .automatic import synchronize
 from .fetch import fetch
+from .india_post import synchronize as synchronize_post
 from .publish import publish
 from .report import conflicts
 from .storage import DATA, ROOT, changes, digest, read, source_changes, validate, write
@@ -287,6 +288,9 @@ def main() -> None:
         if through < args.from_year or through - args.from_year > 100:
             raise ValueError("Invalid backfill year range")
         report = synchronize(list(range(args.from_year, through + 1)), args.work)
+        postal_report = synchronize_post(
+            list(range(args.from_year, through + 1)), args.work
+        )
         manifest = publish()
         result = {
             "changed": report["changed"],
@@ -297,6 +301,7 @@ def main() -> None:
                 s["status"] == "retained" for s in report["sources"]
             ),
             "report": str(args.work / "automatic-report.json"),
+            "india_post_changed": postal_report["changed"],
         }
     elif args.command == "validate":
         data = read(DATA / "approved.json")

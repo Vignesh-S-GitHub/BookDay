@@ -1,0 +1,636 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:06.197306+00:00",
+  "sha256": "54b363caf17581080ccf57491ef169f2299db1cf7313baafd27ef90be80b3bd1",
+  "rows": [
+    {
+      "id": 4260,
+      "attributes": {
+        "title": "Sir Chhotu Ram Jayanti / Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:40.031Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4261,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.503Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4262,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.511Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4263,
+      "attributes": {
+        "title": "Shaheedi Diwas/ Martyrdom day of Bhagat Singh, Rajguru & Sukhdev",
+        "date": "2026-03-23",
+        "updatedAt": "2026-02-17T08:16:40.035Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4264,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.517Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4265,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.518Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4266,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar Jayanti / Vaisakhi",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.036Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4267,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.501Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4268,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2026-06-17",
+        "updatedAt": "2026-02-17T08:16:44.502Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4269,
+      "attributes": {
+        "title": "Sant Kabir Jayanti",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:44.521Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4271,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.522Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4272,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.505Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4273,
+      "attributes": {
+        "title": "Shaheed Divas / Haryana War Heroes’s Martyrdom Day",
+        "date": "2026-09-23",
+        "updatedAt": "2026-02-17T08:16:40.041Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4274,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.506Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4275,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.507Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4276,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.507Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4279,
+      "attributes": {
+        "title": "Guru Nanak Dev Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.509Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4280,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.509Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4281,
+      "attributes": {
+        "title": "Guru Brahmanand Jayanti / Maharishi Dayanand Saraswati Jayanti(with State Celebration)",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:40.044Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4282,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.510Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4283,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.510Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4284,
+      "attributes": {
+        "title": "Maharishi Kayshap Jayanti",
+        "date": "2026-05-25",
+        "updatedAt": "2026-02-17T08:16:44.519Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4285,
+      "attributes": {
+        "title": "Guru Arjan Dev's Martyrdom Day",
+        "date": "2026-06-18",
+        "updatedAt": "2026-02-17T08:16:44.519Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4286,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.518Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4287,
+      "attributes": {
+        "title": "Hariyali Teej",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.515Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4288,
+      "attributes": {
+        "title": "Milad-un-Nabi or Id-E-Milad (Birth of Prophet Mohammad)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.516Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4289,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:44.516Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4290,
+      "attributes": {
+        "title": "Goverdhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.516Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4291,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:44.517Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4292,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Martyrdom Day",
+        "date": "2026-12-14",
+        "updatedAt": "2026-02-17T08:16:44.529Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4293,
+      "attributes": {
+        "title": "Shaheed Udham Singh's Jayanti",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:44.520Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4299,
+      "attributes": {
+        "title": "Shaheed Udham Singh Martyrdom Day",
+        "date": "2026-07-31",
+        "updatedAt": "2026-02-17T08:16:44.522Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4307,
+      "attributes": {
+        "title": "Vishwakarma Day",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.525Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

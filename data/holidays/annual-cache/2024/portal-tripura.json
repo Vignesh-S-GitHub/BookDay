@@ -1,0 +1,655 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:40.815916+00:00",
+  "sha256": "a43086f3994e06a1102f53125bac64a372ea73d1f8646252ebd6a191db409907",
+  "rows": [
+    {
+      "id": 1214,
+      "attributes": {
+        "title": "Pous Parban",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.909Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1215,
+      "attributes": {
+        "title": "Birthday of Netaji Subhash Chandra Bose",
+        "date": "2024-01-23",
+        "updatedAt": "2025-01-28T17:52:52.907Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1216,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.916Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1217,
+      "attributes": {
+        "title": "Saraswati Puja",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:52.910Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1219,
+      "attributes": {
+        "title": "Holi ",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.900Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1220,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.900Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1221,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.901Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1222,
+      "attributes": {
+        "title": "Garia puja",
+        "date": "2024-04-20",
+        "updatedAt": "2025-01-28T17:52:52.901Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1223,
+      "attributes": {
+        "title": "Birthday of Rabindra Nath Tagore",
+        "date": "2024-05-08",
+        "updatedAt": "2025-01-28T17:52:52.901Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1224,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.902Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1225,
+      "attributes": {
+        "title": "Basanti Puja",
+        "date": "2024-04-15",
+        "updatedAt": "2025-01-28T17:52:52.903Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1226,
+      "attributes": {
+        "title": "May Day",
+        "date": "2024-05-01",
+        "updatedAt": "2025-01-28T17:58:36.767Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1227,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.904Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1228,
+      "attributes": {
+        "title": "Id-ul-Zuha(Bakrid)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.904Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1229,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.905Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1230,
+      "attributes": {
+        "title": "Jamai Sashti",
+        "date": "2024-06-12",
+        "updatedAt": "2025-01-28T17:58:53.806Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1231,
+      "attributes": {
+        "title": "Akheri-Chahar-Sumba",
+        "date": "2024-09-04",
+        "updatedAt": "2025-01-28T18:01:48.219Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1232,
+      "attributes": {
+        "title": "Biswakarma Puja",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T18:00:34.472Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1233,
+      "attributes": {
+        "title": "Ker Puja",
+        "date": "2024-08-03",
+        "updatedAt": "2025-01-28T17:52:52.907Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1234,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.908Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1236,
+      "attributes": {
+        "title": "Janmasthami",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.928Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1237,
+      "attributes": {
+        "title": "Birthday of Prophet Mohammed",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.917Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1238,
+      "attributes": {
+        "title": "Mahatma Gandhi Birthday ",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.917Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1239,
+      "attributes": {
+        "title": "Maha Saptami",
+        "date": "2024-10-10",
+        "updatedAt": "2025-01-28T17:52:52.918Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1240,
+      "attributes": {
+        "title": "Maha Ashtami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.909Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1241,
+      "attributes": {
+        "title": "Holiday",
+        "date": "2024-10-14",
+        "updatedAt": "2025-01-28T17:52:52.912Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1242,
+      "attributes": {
+        "title": "Holiday",
+        "date": "2024-10-15",
+        "updatedAt": "2025-01-28T17:52:52.912Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1243,
+      "attributes": {
+        "title": "Laxmi Puja",
+        "date": "2024-10-16",
+        "updatedAt": "2025-01-28T17:52:52.910Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1244,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.910Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1245,
+      "attributes": {
+        "title": "World Disable Day",
+        "date": "2024-12-03",
+        "updatedAt": "2025-01-28T17:58:01.952Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1246,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.922Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1247,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.911Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1264,
+      "attributes": {
+        "title": "Birthday of Maharaja Bir Bikram Kishore Manikya Bahadur",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.929Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1276,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2024-12-24",
+        "updatedAt": "2025-01-28T18:02:30.644Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

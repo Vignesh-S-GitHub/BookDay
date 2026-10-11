@@ -1,0 +1,1187 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:46:45.275217+00:00",
+  "sha256": "ab0a363f63c57726e3c5353bcf56e51e328a35dd264d3731019dd5976a143200",
+  "rows": [
+    {
+      "id": 562,
+      "attributes": {
+        "title": "Maa Shakambhari Jayanti & Chherchhera",
+        "date": "2024-01-25",
+        "updatedAt": "2025-01-28T17:52:52.614Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 563,
+      "attributes": {
+        "title": "Holi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.620Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 564,
+      "attributes": {
+        "title": "Eid-ul-Fitur",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.621Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 565,
+      "attributes": {
+        "title": "Mahabir Jayanti",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:52.633Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 566,
+      "attributes": {
+        "title": "Kabir Jayanti",
+        "date": "2024-06-22",
+        "updatedAt": "2025-01-28T17:52:52.622Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 567,
+      "attributes": {
+        "title": "Vishwa Aadivasi Diwas",
+        "date": "2024-08-09",
+        "updatedAt": "2025-01-28T17:52:52.624Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 568,
+      "attributes": {
+        "title": "Krishna Janmasthami",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.625Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 570,
+      "attributes": {
+        "title": "Rajya Shapna Diwas",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.628Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 571,
+      "attributes": {
+        "title": "Guru Ghasidas Jayanti",
+        "date": "2024-12-18",
+        "updatedAt": "2025-01-28T17:52:52.643Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 572,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.629Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 573,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.650Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 574,
+      "attributes": {
+        "title": "Dr B R Ambedkar Jayanti",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.630Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 575,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.641Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 576,
+      "attributes": {
+        "title": "Mohurrum",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.629Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 577,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.631Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 579,
+      "attributes": {
+        "title": "Vijayadashmi",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.632Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 580,
+      "attributes": {
+        "title": "Chhath Pooja",
+        "date": "2024-11-07",
+        "updatedAt": "2025-01-28T17:52:52.631Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 581,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.631Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 582,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.649Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 583,
+      "attributes": {
+        "title": "bhakt Mata Karma Jayanti",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:52.653Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 584,
+      "attributes": {
+        "title": "Ramnavami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.644Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 585,
+      "attributes": {
+        "title": "Eid-ul-Juha (Bakrid)",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.644Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 586,
+      "attributes": {
+        "title": "Hareli",
+        "date": "2024-08-04",
+        "updatedAt": "2025-01-28T17:52:52.645Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 587,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.645Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 588,
+      "attributes": {
+        "title": "Eid-a-Milad (Milad-un-Nabi)",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.646Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 589,
+      "attributes": {
+        "title": "Deepawali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.645Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 590,
+      "attributes": {
+        "title": "Gurunanak Janm Diwas",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.632Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 591,
+      "attributes": {
+        "title": "New Year Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.632Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 592,
+      "attributes": {
+        "title": "Vishwa Hindi Diwas",
+        "date": "2024-01-10",
+        "updatedAt": "2025-01-28T17:52:52.650Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 593,
+      "attributes": {
+        "title": "Shahid Gend Singh ka Shahadat Diwas",
+        "date": "2024-01-20",
+        "updatedAt": "2025-01-28T17:52:52.643Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 594,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Jayanti",
+        "date": "2024-02-19",
+        "updatedAt": "2025-01-28T17:52:52.639Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 595,
+      "attributes": {
+        "title": "Veerangana Avanti Bai ka Balidan Diwas",
+        "date": "2024-03-20",
+        "updatedAt": "2025-01-28T17:52:52.651Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 596,
+      "attributes": {
+        "title": "Gudi Padawa / Chaichand",
+        "date": "2024-04-09",
+        "updatedAt": "2025-01-28T17:52:52.639Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 597,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:52.640Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 598,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.640Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 599,
+      "attributes": {
+        "title": "Pran Nath Jayanti",
+        "date": "2024-10-01",
+        "updatedAt": "2025-01-28T17:52:52.641Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 600,
+      "attributes": {
+        "title": "Dr Saiyadana Sahab ka Janm Diwas",
+        "date": "2024-10-24",
+        "updatedAt": "2025-01-28T17:52:52.641Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 601,
+      "attributes": {
+        "title": "Bhagwan Shahastrabahu Jayanti",
+        "date": "2024-11-08",
+        "updatedAt": "2025-01-28T17:52:52.642Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 602,
+      "attributes": {
+        "title": "Mata Savitri Bai Fule Jayanti",
+        "date": "2024-01-03",
+        "updatedAt": "2025-01-28T17:52:52.642Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 603,
+      "attributes": {
+        "title": "Makar Sankranti / Pongal",
+        "date": "2024-01-15",
+        "updatedAt": "2025-01-28T17:52:52.643Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 604,
+      "attributes": {
+        "title": "Neta Ji Subhash Chandra Bose Jayanti",
+        "date": "2024-01-23",
+        "updatedAt": "2025-01-28T17:52:52.648Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 605,
+      "attributes": {
+        "title": "Rajim Mela Magh Purnima / Sant Ravidas Janm-diwas",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.649Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 606,
+      "attributes": {
+        "title": "Bhai-Duj",
+        "date": "2024-03-27",
+        "updatedAt": "2025-01-28T17:52:52.648Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 607,
+      "attributes": {
+        "title": "Haritalika Teej",
+        "date": "2024-09-06",
+        "updatedAt": "2025-01-28T17:52:52.649Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 608,
+      "attributes": {
+        "title": "Veerangana Durgavati ka Balidan Diwas",
+        "date": "2024-06-24",
+        "updatedAt": "2025-01-28T17:52:52.656Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 609,
+      "attributes": {
+        "title": "Nawakhai",
+        "date": "2024-09-10",
+        "updatedAt": "2025-01-28T17:52:52.655Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 610,
+      "attributes": {
+        "title": "Agrasen Jayanti",
+        "date": "2024-10-03",
+        "updatedAt": "2025-01-28T17:52:52.656Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 611,
+      "attributes": {
+        "title": "Deepawali (Dakshn Bharatiy)",
+        "date": "2024-10-30",
+        "updatedAt": "2025-01-28T17:52:52.656Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 612,
+      "attributes": {
+        "title": "Namdev Jayanti",
+        "date": "2024-11-12",
+        "updatedAt": "2025-01-28T17:52:52.646Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 613,
+      "attributes": {
+        "title": "Lui Brail Birthday",
+        "date": "2024-01-04",
+        "updatedAt": "2025-01-28T17:52:52.647Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 614,
+      "attributes": {
+        "title": "Guru Govind Singh Birthday",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.647Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 615,
+      "attributes": {
+        "title": "Basant Panchami / Maa Parmeshwari Jayanti",
+        "date": "2024-02-14",
+        "updatedAt": "2025-01-28T17:52:52.647Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 616,
+      "attributes": {
+        "title": "Maharshi Dayanand Saraswati Jayanti",
+        "date": "2024-03-05",
+        "updatedAt": "2025-01-28T17:52:52.653Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 617,
+      "attributes": {
+        "title": "Rang Panchami",
+        "date": "2024-03-30",
+        "updatedAt": "2025-01-28T17:52:52.651Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 618,
+      "attributes": {
+        "title": "Dharti Pooja (Khaddi Parv)",
+        "date": "2024-04-23",
+        "updatedAt": "2025-01-28T17:52:52.651Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 619,
+      "attributes": {
+        "title": "Dr. Khubchand Baghel ka Janm Diwas",
+        "date": "2024-07-19",
+        "updatedAt": "2025-01-28T17:52:52.662Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 620,
+      "attributes": {
+        "title": "Anant Chaturdashi/Vishwakarma Jayanti",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.652Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 621,
+      "attributes": {
+        "title": "Maharshi Valmiki Jayanti",
+        "date": "2024-10-17",
+        "updatedAt": "2025-01-28T17:52:52.652Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 622,
+      "attributes": {
+        "title": "Goverdhan Pooja",
+        "date": "2024-11-01",
+        "updatedAt": "2025-01-28T17:52:52.653Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 623,
+      "attributes": {
+        "title": "Shahid Veer Narayan Singh Balidan Diwas",
+        "date": "2024-12-10",
+        "updatedAt": "2025-01-28T17:52:52.664Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 627,
+      "attributes": {
+        "title": "Pola",
+        "date": "2024-09-02",
+        "updatedAt": "2025-01-28T17:52:52.655Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 636,
+      "attributes": {
+        "title": "Haatkeshwar Jayanti",
+        "date": "2024-04-22",
+        "updatedAt": "2025-01-28T17:52:52.665Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chhattisgarh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

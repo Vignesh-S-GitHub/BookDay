@@ -1,0 +1,940 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:11.955607+00:00",
+  "sha256": "e957dfc3cfa034366062f9027f37fcf1920d3051a19b328f7aa52e16a6e5ce22",
+  "rows": [
+    {
+      "id": 4823,
+      "attributes": {
+        "title": "Devnarayan Jayanti",
+        "date": "2026-01-25",
+        "updatedAt": "2026-02-17T08:16:44.870Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4824,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.877Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4825,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2026-03-02",
+        "updatedAt": "2026-02-17T08:16:44.865Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4826,
+      "attributes": {
+        "title": "Dhulandi",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.865Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4827,
+      "attributes": {
+        "title": "Cheti Chand",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.883Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4828,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.880Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4829,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.881Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4830,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.881Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4831,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.900Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4832,
+      "attributes": {
+        "title": "Mahatma Jyotiba Phule Jayanti",
+        "date": "2026-04-11",
+        "updatedAt": "2026-02-17T08:16:44.881Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4834,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.870Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4835,
+      "attributes": {
+        "title": "Parashuram Jayanti",
+        "date": "2026-04-19",
+        "updatedAt": "2026-02-17T08:16:44.871Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4836,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:44.871Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4837,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2026-06-17",
+        "updatedAt": "2026-02-17T08:16:44.872Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4838,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.872Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4839,
+      "attributes": {
+        "title": "World Tribal Day",
+        "date": "2026-08-09",
+        "updatedAt": "2026-02-17T08:16:44.873Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4840,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.873Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4841,
+      "attributes": {
+        "title": "Baravafat (from the moon)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.873Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4842,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.874Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4843,
+      "attributes": {
+        "title": "Sri Krishna Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.874Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4844,
+      "attributes": {
+        "title": "Ramdev Jayanti, Teja Dashami, Khejadli Martyr’s Day",
+        "date": "2026-09-21",
+        "updatedAt": "2026-02-17T08:16:44.875Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4845,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.875Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4846,
+      "attributes": {
+        "title": "Navratra Sthapana & Maharaja Agrasen Jayanti",
+        "date": "2026-10-11",
+        "updatedAt": "2026-02-17T08:16:40.378Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4847,
+      "attributes": {
+        "title": "Durga Puja (Ashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:40.378Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4848,
+      "attributes": {
+        "title": "Vijaya Dashami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.379Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4849,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.890Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4850,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.878Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4851,
+      "attributes": {
+        "title": "Bhai Dooj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.878Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4852,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.879Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4853,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.879Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4854,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.901Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4855,
+      "attributes": {
+        "title": "Christian New Year Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.880Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4856,
+      "attributes": {
+        "title": "Lohri Festival",
+        "date": "2026-01-13",
+        "updatedAt": "2026-02-17T08:16:40.385Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4857,
+      "attributes": {
+        "title": "Vishwakarma Jayanti",
+        "date": "2026-01-31",
+        "updatedAt": "2026-02-17T08:16:44.900Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4858,
+      "attributes": {
+        "title": "Swami Ramanand Jayanti",
+        "date": "2026-01-31",
+        "updatedAt": "2026-02-17T08:16:40.386Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4859,
+      "attributes": {
+        "title": "Guru Ravidas Jayanti",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.884Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4860,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2026-02-03",
+        "updatedAt": "2026-02-17T08:16:44.884Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4861,
+      "attributes": {
+        "title": "Maharshi Dayanand Saraswati Jayanti",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:44.885Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4862,
+      "attributes": {
+        "title": "Gadge Maharaj Jayanti",
+        "date": "2026-02-23",
+        "updatedAt": "2026-02-17T08:16:40.388Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4863,
+      "attributes": {
+        "title": "Jumatulvida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.886Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4864,
+      "attributes": {
+        "title": "Baisakhi / Sain Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.389Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4865,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.887Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4866,
+      "attributes": {
+        "title": "Guru Purnima",
+        "date": "2026-07-29",
+        "updatedAt": "2026-02-17T08:16:44.887Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4867,
+      "attributes": {
+        "title": "Thattadi",
+        "date": "2026-09-03",
+        "updatedAt": "2026-02-17T08:16:44.888Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4868,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.888Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4869,
+      "attributes": {
+        "title": "Samvatsari",
+        "date": "2026-09-16",
+        "updatedAt": "2026-02-17T08:16:44.888Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4870,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2026-09-25",
+        "updatedAt": "2026-02-17T08:16:44.889Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4871,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.889Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4872,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:44.890Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

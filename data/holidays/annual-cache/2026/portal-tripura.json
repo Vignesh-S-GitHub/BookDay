@@ -1,0 +1,826 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:13.707239+00:00",
+  "sha256": "afa549e6e7fe7c88a9324f7c5467cb5b5c736d7243e2635dce511ac7cd2807fa",
+  "rows": [
+    {
+      "id": 5004,
+      "attributes": {
+        "title": "Pous Parban",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.973Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5005,
+      "attributes": {
+        "title": "Birthday of Netaji Subhash Chandra Bose",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.973Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5006,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.974Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5007,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.974Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5009,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.975Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5010,
+      "attributes": {
+        "title": "Biju / Buisu Festival",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.473Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5011,
+      "attributes": {
+        "title": "Bengali New Year’s Day",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.976Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5012,
+      "attributes": {
+        "title": "Garia Puja",
+        "date": "2026-04-21",
+        "updatedAt": "2026-02-17T08:16:44.977Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5013,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.977Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5014,
+      "attributes": {
+        "title": "Birthday of Kazi Nazrul Islam",
+        "date": "2026-05-26",
+        "updatedAt": "2026-02-17T08:16:44.980Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5015,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.981Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5016,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.998Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5017,
+      "attributes": {
+        "title": "Kharchi Puja",
+        "date": "2026-07-22",
+        "updatedAt": "2026-02-17T08:16:45.019Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5018,
+      "attributes": {
+        "title": "Ker Puja",
+        "date": "2026-08-04",
+        "updatedAt": "2026-02-17T08:16:45.004Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5019,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.978Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5020,
+      "attributes": {
+        "title": "Birthday of Maharaja Bir Bikram Kishore Manikya Bahadur Deb Burman",
+        "date": "2026-08-19",
+        "updatedAt": "2026-02-17T08:16:40.515Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5021,
+      "attributes": {
+        "title": "Birthday of Prophet Mohammad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.980Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5022,
+      "attributes": {
+        "title": "Janmastami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.981Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5023,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.982Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5024,
+      "attributes": {
+        "title": "Maha Saptami",
+        "date": "2026-10-17",
+        "updatedAt": "2026-02-17T08:16:44.982Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5025,
+      "attributes": {
+        "title": "Maha Ashtami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.983Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5026,
+      "attributes": {
+        "title": "Maha Navami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.983Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5027,
+      "attributes": {
+        "title": "Vijaya Dashami",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:40.480Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5028,
+      "attributes": {
+        "title": "Holiday",
+        "date": "2026-10-22",
+        "updatedAt": "2026-02-17T08:16:45.010Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5030,
+      "attributes": {
+        "title": "Holiday",
+        "date": "2026-10-23",
+        "updatedAt": "2026-02-17T08:16:44.991Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5031,
+      "attributes": {
+        "title": "Laxmi Puja",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.992Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5032,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.992Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5033,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.993Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5034,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.993Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5035,
+      "attributes": {
+        "title": "Dol Yatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.994Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5036,
+      "attributes": {
+        "title": "Basanti Puja",
+        "date": "2026-03-25",
+        "updatedAt": "2026-02-17T08:16:44.994Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5037,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.995Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5038,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.995Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5039,
+      "attributes": {
+        "title": "Ratha Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.996Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5040,
+      "attributes": {
+        "title": "Akheri-Chahar-Sumba",
+        "date": "2026-08-12",
+        "updatedAt": "2026-02-17T08:16:44.996Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5041,
+      "attributes": {
+        "title": "Jhulan Jatra Samapan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.997Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5042,
+      "attributes": {
+        "title": "Songrongma Puja",
+        "date": "2026-09-11",
+        "updatedAt": "2026-02-17T08:16:40.486Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5043,
+      "attributes": {
+        "title": "Biswakarma Puja",
+        "date": "2026-09-18",
+        "updatedAt": "2026-02-17T08:16:45.020Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5044,
+      "attributes": {
+        "title": "Bhratri Dwitiya",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:45.021Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5045,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.023Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5046,
+      "attributes": {
+        "title": "World Disabled Day",
+        "date": "2026-12-03",
+        "updatedAt": "2026-02-17T08:16:40.505Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5047,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.009Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5068,
+      "attributes": {
+        "title": "Jamaisasthi",
+        "date": "2026-06-20",
+        "updatedAt": "2026-02-17T08:16:40.514Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "tripura"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

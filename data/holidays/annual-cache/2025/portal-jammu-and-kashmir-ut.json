@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:01.152399+00:00",
+  "sha256": "80124bc89770e4ea46f3c4424caad7acea5dab24baf0dc016592d2f4d5d63e4a",
+  "rows": [
+    {
+      "id": 2376,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.396Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2377,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.396Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2378,
+      "attributes": {
+        "title": "Holi (Jammu Province only)",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.396Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2379,
+      "attributes": {
+        "title": "Shab-I-Qadr*",
+        "date": "2025-03-27",
+        "updatedAt": "2025-01-28T17:52:53.397Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2380,
+      "attributes": {
+        "title": "Jumat-ul-Vida*",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.402Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2382,
+      "attributes": {
+        "title": "Eid-ul-Fitr*",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.398Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2383,
+      "attributes": {
+        "title": "Yearly Closing of Banks (Banks Only)",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.399Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2384,
+      "attributes": {
+        "title": "Baisakhi",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:53.399Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2385,
+      "attributes": {
+        "title": "Birthday of Dr. B.R. Ambedkar",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.400Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2386,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.400Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2387,
+      "attributes": {
+        "title": "Eid-ul-Azha*",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.400Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2388,
+      "attributes": {
+        "title": "Eid-ul-Azha*",
+        "date": "2025-06-08",
+        "updatedAt": "2025-01-28T17:52:53.401Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2389,
+      "attributes": {
+        "title": "Guru Hargobind Ji's Birthday",
+        "date": "2025-07-05",
+        "updatedAt": "2025-01-28T17:52:53.417Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2390,
+      "attributes": {
+        "title": "Ashoora*",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.417Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2391,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.418Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2392,
+      "attributes": {
+        "title": "Janamashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.418Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2393,
+      "attributes": {
+        "title": "Eid-i-Milad-ul-Nabi*",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.419Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2395,
+      "attributes": {
+        "title": "Birthday of Maharaja Hari Singh Ji",
+        "date": "2025-09-23",
+        "updatedAt": "2025-01-28T17:52:53.419Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2396,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday / Dussehra",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.404Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2397,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.411Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2398,
+      "attributes": {
+        "title": "Accession Day",
+        "date": "2025-10-26",
+        "updatedAt": "2025-01-28T17:52:53.428Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2399,
+      "attributes": {
+        "title": "Guru Nanak Dev Ji's Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.427Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2400,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.413Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2408,
+      "attributes": {
+        "title": "1st Navratra",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.422Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2423,
+      "attributes": {
+        "title": "Friday following Eid-i-Milad-ul-Nabi*",
+        "date": "2025-09-12",
+        "updatedAt": "2025-01-28T17:52:53.420Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "jammu-and-kashmir-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

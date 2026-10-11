@@ -1,0 +1,1681 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:08.352386+00:00",
+  "sha256": "e1542da7f45c561a95f67d367258a78e25595ea1d3d9dc457f6aa26f693281bb",
+  "rows": [
+    {
+      "id": 4434,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.631Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4435,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.629Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4436,
+      "attributes": {
+        "title": "Gudi Padwa",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:40.131Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4437,
+      "attributes": {
+        "title": "Cheti Chand",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.656Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4438,
+      "attributes": {
+        "title": "Eid-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.629Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4439,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:44.615Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4440,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.615Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4441,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.616Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4442,
+      "attributes": {
+        "title": "Dr. Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.616Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4443,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2026-04-20",
+        "updatedAt": "2026-02-17T08:16:44.617Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4445,
+      "attributes": {
+        "title": "Eid-uz-Zuha",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:40.124Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4446,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2026-06-17",
+        "updatedAt": "2026-02-17T08:16:44.618Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4447,
+      "attributes": {
+        "title": "Moharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.646Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4448,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.619Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4449,
+      "attributes": {
+        "title": "Milad-un-Nabi",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.619Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4450,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.619Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4451,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.620Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4453,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.621Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4454,
+      "attributes": {
+        "title": "Dussehra (Vijayadashami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.132Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4455,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.621Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4456,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.621Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4457,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.622Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4458,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.622Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4459,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.628Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4460,
+      "attributes": {
+        "title": "Birthday of Hazrat Ali",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:40.130Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4461,
+      "attributes": {
+        "title": "Birthday of Maharshi Guru Gokuldas Ji Maharaj",
+        "date": "2026-01-06",
+        "updatedAt": "2026-02-17T08:16:40.143Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4462,
+      "attributes": {
+        "title": "Makar Sankranti / Pongal",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.657Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4463,
+      "attributes": {
+        "title": "Martyrdom Day of Hemu Kalani",
+        "date": "2026-01-21",
+        "updatedAt": "2026-02-17T08:16:40.145Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4464,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.643Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4465,
+      "attributes": {
+        "title": "Dev Narayan Jayanti",
+        "date": "2026-01-24",
+        "updatedAt": "2026-02-17T08:16:44.666Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4466,
+      "attributes": {
+        "title": "Birthday of Swami Ramcharan Ji Maharaj",
+        "date": "2026-01-31",
+        "updatedAt": "2026-02-17T08:16:40.134Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4467,
+      "attributes": {
+        "title": "Shab-e-Barat",
+        "date": "2026-02-03",
+        "updatedAt": "2026-02-17T08:16:44.644Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4468,
+      "attributes": {
+        "title": "Birthday of Maharshi Dayanand Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:40.135Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4469,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:44.645Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4470,
+      "attributes": {
+        "title": "Holi (Holika Dahan)",
+        "date": "2026-03-02",
+        "updatedAt": "2026-02-17T08:16:44.645Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4471,
+      "attributes": {
+        "title": "Bhai Dooj",
+        "date": "2026-03-05",
+        "updatedAt": "2026-02-17T08:16:44.646Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4472,
+      "attributes": {
+        "title": "Budh Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:40.164Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4473,
+      "attributes": {
+        "title": "Jumat-ul-Vida / Martyrdom Day of Veerangana Avantibai",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:40.137Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4474,
+      "attributes": {
+        "title": "Bhagwan Meenesh Jayanti",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.647Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4475,
+      "attributes": {
+        "title": "Nishadraj Jayanti",
+        "date": "2026-03-23",
+        "updatedAt": "2026-02-17T08:16:40.138Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4476,
+      "attributes": {
+        "title": "Hatkeshwar Jayanti",
+        "date": "2026-04-01",
+        "updatedAt": "2026-02-17T08:16:44.648Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4477,
+      "attributes": {
+        "title": "Mahatma Jyotiba Phule Jayanti",
+        "date": "2026-04-11",
+        "updatedAt": "2026-02-17T08:16:44.649Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4478,
+      "attributes": {
+        "title": "Vallabhacharya Jayanti",
+        "date": "2026-04-13",
+        "updatedAt": "2026-02-17T08:16:40.139Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4479,
+      "attributes": {
+        "title": "Sen Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.650Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4480,
+      "attributes": {
+        "title": "Vishu",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.650Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4481,
+      "attributes": {
+        "title": "Akshaya Tritiya",
+        "date": "2026-04-20",
+        "updatedAt": "2026-02-17T08:16:40.141Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4482,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.651Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4483,
+      "attributes": {
+        "title": "Shankaracharya Jayanti (National Unity Day)",
+        "date": "2026-04-22",
+        "updatedAt": "2026-02-17T08:16:40.142Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4484,
+      "attributes": {
+        "title": "Appearance Day of Shri Chitragupta Ji",
+        "date": "2026-04-23",
+        "updatedAt": "2026-02-17T08:16:40.142Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4485,
+      "attributes": {
+        "title": "Kevat Jayanti",
+        "date": "2026-05-15",
+        "updatedAt": "2026-02-17T08:16:44.654Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4486,
+      "attributes": {
+        "title": "Day Before Eid-ul-Zuha",
+        "date": "2026-05-26",
+        "updatedAt": "2026-02-17T08:16:40.143Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4487,
+      "attributes": {
+        "title": "Ghadeer-e-Khum",
+        "date": "2026-06-05",
+        "updatedAt": "2026-02-17T08:16:40.171Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4488,
+      "attributes": {
+        "title": "Mahesh Jayanti",
+        "date": "2026-06-23",
+        "updatedAt": "2026-02-17T08:16:40.172Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4489,
+      "attributes": {
+        "title": "Martyrdom Day of Veerangana Durgavati / Youm-e-Ashura",
+        "date": "2026-06-24",
+        "updatedAt": "2026-02-17T08:16:40.171Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4490,
+      "attributes": {
+        "title": "Bada Mahadev Pujan",
+        "date": "2026-06-27",
+        "updatedAt": "2026-02-17T08:16:40.172Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4491,
+      "attributes": {
+        "title": "Kabir Jayanti",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:44.665Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4492,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.679Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4493,
+      "attributes": {
+        "title": "Guru Purnima",
+        "date": "2026-07-29",
+        "updatedAt": "2026-02-17T08:16:44.680Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4494,
+      "attributes": {
+        "title": "Durgadas Rathore Jayanti",
+        "date": "2026-08-13",
+        "updatedAt": "2026-02-17T08:16:40.147Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4495,
+      "attributes": {
+        "title": "Parsi New Year Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:40.163Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4496,
+      "attributes": {
+        "title": "Nag Panchami",
+        "date": "2026-08-17",
+        "updatedAt": "2026-02-17T08:16:44.668Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4497,
+      "attributes": {
+        "title": "Goswami Tulsidas Jayanti",
+        "date": "2026-08-19",
+        "updatedAt": "2026-02-17T08:16:44.688Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4498,
+      "attributes": {
+        "title": "Onam",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.689Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4499,
+      "attributes": {
+        "title": "Balaram Jayanti",
+        "date": "2026-09-02",
+        "updatedAt": "2026-02-17T08:16:40.164Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4500,
+      "attributes": {
+        "title": "Vishwakarma Jayanti",
+        "date": "2026-09-17",
+        "updatedAt": "2026-02-17T08:16:44.670Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4501,
+      "attributes": {
+        "title": "Todarmal Jayanti",
+        "date": "2026-03-18",
+        "updatedAt": "2026-02-17T08:16:44.670Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4502,
+      "attributes": {
+        "title": "Tejaji Maharaj Nirvan Day (Teja Dashmi)",
+        "date": "2026-09-21",
+        "updatedAt": "2026-02-17T08:16:40.165Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4503,
+      "attributes": {
+        "title": "Dhol Gyaras",
+        "date": "2026-09-22",
+        "updatedAt": "2026-02-17T08:16:40.166Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4504,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2026-09-25",
+        "updatedAt": "2026-02-17T08:16:44.676Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4505,
+      "attributes": {
+        "title": "Birthday of Dr. Syedna Saheb",
+        "date": "2026-10-01",
+        "updatedAt": "2026-02-17T08:16:40.167Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4506,
+      "attributes": {
+        "title": "Prannath Jayanti",
+        "date": "2026-10-09",
+        "updatedAt": "2026-02-17T08:16:40.167Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4507,
+      "attributes": {
+        "title": "Sarvapitru Moksha Amavasya",
+        "date": "2026-10-10",
+        "updatedAt": "2026-02-17T08:16:40.168Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4508,
+      "attributes": {
+        "title": "Maharaj Ajmodh Dev Jayanti / Tekchand Ji Maharaj ka Samadhi Utsav",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:40.168Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4509,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.678Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4510,
+      "attributes": {
+        "title": "Karva Chauth Festival",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:40.170Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4511,
+      "attributes": {
+        "title": "Diwali (South Indian)",
+        "date": "2026-11-07",
+        "updatedAt": "2026-02-17T08:16:44.682Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4512,
+      "attributes": {
+        "title": "Bhai Dooj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.682Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4513,
+      "attributes": {
+        "title": "Bhagwan Sahastrabahu Jayanti",
+        "date": "2026-11-16",
+        "updatedAt": "2026-02-17T08:16:40.184Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4514,
+      "attributes": {
+        "title": "Namdev Jayanti",
+        "date": "2026-11-20",
+        "updatedAt": "2026-02-17T08:16:44.696Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4515,
+      "attributes": {
+        "title": "World Disability Day",
+        "date": "2026-12-03",
+        "updatedAt": "2026-02-17T08:16:40.185Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4516,
+      "attributes": {
+        "title": "Martyrdom Day of Krantisurya Tantya Bhil",
+        "date": "2026-12-04",
+        "updatedAt": "2026-02-17T08:16:40.186Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4517,
+      "attributes": {
+        "title": "Martyrdom Day of Guru Teg Bahadur",
+        "date": "2026-12-14",
+        "updatedAt": "2026-02-17T08:16:40.173Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4518,
+      "attributes": {
+        "title": "Sant Shri Jinataran Taran Jayanti",
+        "date": "2026-12-16",
+        "updatedAt": "2026-02-17T08:16:40.173Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4519,
+      "attributes": {
+        "title": "Guru Ghasidas Jayanti",
+        "date": "2026-12-18",
+        "updatedAt": "2026-02-17T08:16:44.700Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4520,
+      "attributes": {
+        "title": "Dattatreya Jayanti",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-17T08:16:44.694Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4521,
+      "attributes": {
+        "title": "Balinath Ji Vairwa Jayanti",
+        "date": "2026-12-31",
+        "updatedAt": "2026-02-17T08:16:40.187Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4530,
+      "attributes": {
+        "title": "Nawakhai / Martyrdom Day of Raja Shankar Shah and Raghunath Shah",
+        "date": "2026-09-18",
+        "updatedAt": "2026-02-17T08:16:40.179Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4540,
+      "attributes": {
+        "title": "Second Day of Diwali",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.695Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
