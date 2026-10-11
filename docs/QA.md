@@ -13,7 +13,7 @@
 
 The committed `tests/ui-regression.js` was executed in Chromium at 390×844, with 320, 360, 390, 430 and 1280 pixel layout checks:
 
-The complete suite also passed against live Cloudflare version `5350e92a-428c-43d5-8ed9-6c0a94029967`, with zero browser console errors. The calendar calculation and export assertions ran against the deployed Python Worker, and offline checks used the released service-worker asset list.
+The complete suite also passed against final live Cloudflare version `7949d257-7a9e-4c2d-a328-bc8e3def3c2c`, with zero browser console errors. The calendar calculation and export assertions ran against the deployed Python Worker, and offline checks used the released service-worker asset list. The final symbol regression verifies that the Gandhi Jayanti flag disappears when Holidays is disabled, even while Demand Signals remains enabled.
 
 - Home, Explore, Calendar, Saved, Settings, Insights, and train calculator navigation; all 14 category workflows calculate. Unknown categories do not invent opening windows and disable calendar exports until dates are known.
 - A 15 December 2026 journey with a 60-day rule produces 16 October 2026. Editing that plan to Tatkal with 14 December origin departure and non-AC class produces 13 December at 11:00 IST.

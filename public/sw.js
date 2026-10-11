@@ -1,4 +1,4 @@
-const CACHE = "bookday-v2-visual";
+const CACHE = "bookday-v2-visual-final";
 const SHELL = [
   "/",
   "/index.html",

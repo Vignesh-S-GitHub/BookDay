@@ -37,6 +37,8 @@ def test_navigation_and_category_symbols_exist() -> None:
     catalog = json.loads((PUBLIC / "data/catalog.json").read_text(encoding="utf-8"))
     assert {item["id"] for item in catalog["categories"]} <= ids
     for symbol in [
+        "flag",
+        "megaphone",
         "home",
         "explore",
         "calendar",

@@ -2509,3 +2509,19 @@ main:focus {
     line-height: 35px;
   }
 }
+.day .dots .icon {
+  width: 13px;
+  height: 13px;
+  vertical-align: top;
+  color: #ff2542;
+}
+.day.has-booking .dots .icon {
+  color: #0069ff;
+}
+.day.selected .dots .icon {
+  color: #fff;
+}
+.day:has(.dots .icon) .dots {
+  height: 13px;
+  line-height: 13px;
+}

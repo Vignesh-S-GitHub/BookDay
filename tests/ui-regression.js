@@ -222,7 +222,17 @@ async function regression(page) {
         "2026-10-21",
       "Keyboard day navigation",
     );
+    await p.locator('[data-day="2026-10-02"]').click();
+    check(
+      (await p.locator('.day.selected use[href$="#flag"]').count()) === 1,
+      "National holiday flag marker",
+    );
+    await p.locator("[data-layer=demand]").click();
     await p.locator("[data-layer=holidays]").click();
+    check(
+      (await p.locator('.day.selected use[href$="#flag"]').count()) === 0,
+      "Disabled holidays stay hidden with demand enabled",
+    );
     await goto("more");
     check(
       !(await p.locator("[data-setting=holidays]").isChecked()),
