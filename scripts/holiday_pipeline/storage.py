@@ -5,6 +5,7 @@ import json
 import re
 from datetime import date
 from pathlib import Path
+from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "data/holidays"
@@ -54,8 +55,25 @@ def validate(rows: list[dict], states: list[str]) -> None:
             "local_event",
         }:
             raise ValueError("Invalid event classification")
-        if row.get("provenance", {}).get("review_decision") != "approved":
-            raise ValueError("Publication requires an approved review")
+        provenance = row.get("provenance", {})
+        decision = provenance.get("review_decision")
+        if decision == "automatically_validated":
+            source_url = urlsplit(row["source"])
+            if (
+                provenance.get("validation_version") != 1
+                or source_url.netloc != "www.india.gov.in"
+                or not re.fullmatch(r"/calendar(?:/[a-z0-9-]+)?", source_url.path)
+                or not row.get("source_id", "").startswith("india-portal-")
+                or any(
+                    not re.fullmatch(r"[0-9a-f]{64}", provenance.get(field, ""))
+                    for field in ["document_sha256", "parse_hash"]
+                )
+            ):
+                raise ValueError("Invalid automatic validation provenance")
+        elif decision != "approved":
+            raise ValueError(
+                "Publication requires an approved review or automatic validation"
+            )
 
 
 def changes(old: list[dict], new: list[dict]) -> dict:

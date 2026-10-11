@@ -1,0 +1,76 @@
+{
+  "version": "b08b70082029f0abffff",
+  "year": 2026,
+  "jurisdiction": "Chhattisgarh",
+  "records": [
+    {
+      "id": "india-portal-2026-chhattisgarh-4153",
+      "date": "2026-01-03",
+      "name": "Maa Shakambhri Jayanti & Cherchera",
+      "jurisdictions": [
+        "Chhattisgarh"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.india.gov.in/calendar/chhattisgarh",
+      "festival": false,
+      "festival_id": null,
+      "festival_primary": false,
+      "district": null,
+      "scope": "state_government",
+      "source_id": "india-portal-2026-chhattisgarh",
+      "event_key": "maa-shakambhri-jayanti-cherchera",
+      "note": "Official National Portal state calendar; government-office scope. Private-employer schedules may differ; lunar dates can be amended.",
+      "source_record_id": 4153,
+      "source_updated": "2026-02-17T08:16:39.970Z",
+      "reviewed": "2026-10-11",
+      "provenance": {
+        "source_id": "india-portal-2026-chhattisgarh",
+        "authority": "National Informatics Centre, National Portal of India",
+        "document_sha256": "dfb6ef56088de00885242f96e85d6c5037f3373b8570093f7c686909245ca0a5",
+        "parse_hash": "fc31465c6af010596429161afacdbcf7d67241bfb6d2bed8f0d16e4b5eacf54d",
+        "retrieved": "2026-10-11T16:07:25.160809+00:00",
+        "reviewed_at": "2026-10-11T16:07:25.160809+00:00",
+        "reviewer": "BookDay automatic validator",
+        "review_decision": "automatically_validated",
+        "validation_version": 1,
+        "reason": "Published official feed; complete pagination, state association, civil year/date, weekday and classification validated."
+      }
+    },
+    {
+      "id": "india-portal-2026-chhattisgarh-4184",
+      "date": "2026-03-04",
+      "name": "Holi",
+      "jurisdictions": [
+        "Chhattisgarh"
+      ],
+      "type": "state_public",
+      "status": "official",
+      "source": "https://www.india.gov.in/calendar/chhattisgarh",
+      "festival": true,
+      "festival_id": "holi",
+      "festival_primary": true,
+      "district": null,
+      "scope": "state_government",
+      "source_id": "india-portal-2026-chhattisgarh",
+      "event_key": "holi",
+      "note": "Official National Portal state calendar; government-office scope. Private-employer schedules may differ; lunar dates can be amended.",
+      "source_record_id": 4184,
+      "source_updated": "2026-02-17T08:16:44.439Z",
+      "reviewed": "2026-10-11",
+      "provenance": {
+        "source_id": "india-portal-2026-chhattisgarh",
+        "authority": "National Informatics Centre, National Portal of India",
+        "document_sha256": "dfb6ef56088de00885242f96e85d6c5037f3373b8570093f7c686909245ca0a5",
+        "parse_hash": "fc31465c6af010596429161afacdbcf7d67241bfb6d2bed8f0d16e4b5eacf54d",
+        "retrieved": "2026-10-11T16:07:25.160809+00:00",
+        "reviewed_at": "2026-10-11T16:07:25.160809+00:00",
+        "reviewer": "BookDay automatic validator",
+        "review_decision": "automatically_validated",
+        "validation_version": 1,
+        "reason": "Published official feed; complete pagination, state association, civil year/date, weekday and classification validated."
+      }
+    }
+  ],
+  "festival_calendar": []
+}

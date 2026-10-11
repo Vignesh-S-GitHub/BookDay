@@ -19,10 +19,17 @@ async function holidayUiRegression(page) {
     check(
       await p.evaluate(async () => {
         const cache = await caches.open("bookday-holiday-data");
-        const manifest = await cache.match("/data/holidays/manifest.json");
+        const manifestUrl = (await cache.keys())
+          .map((r) => r.url)
+          .find((url) => url.endsWith("/manifest.json"));
+        const manifest = manifestUrl && (await cache.match(manifestUrl));
         if (!manifest) return false;
         const data = await manifest.json();
-        return Boolean(await cache.match(data.datasets["2026:IN"].url));
+        const base = manifestUrl.slice(
+          0,
+          -"/data/holidays/manifest.json".length,
+        );
+        return Boolean(await cache.match(base + data.datasets["2026:IN"].url));
       }),
       "First-visit annual responses were not retained before worker control",
     );

@@ -1,6 +1,13 @@
 // Local published dates take precedence over the India-wide observance guide.
 // Artwork is keyed by the festival identity, never by a recurring date.
-export function regionalFestivalIds(data, state) {
+export function regionalFestivalIds(data, state, year) {
+  const annual = data.festival_regions_by_year?.[state];
+  const available =
+    annual &&
+    Object.keys(annual)
+      .filter((value) => Number(value) <= year)
+      .sort((a, b) => Number(b) - Number(a));
+  if (annual) return new Set(annual[available[0]] || []);
   return new Set([
     ...(data.festival_regions?.[state] || []),
     ...data.records
@@ -55,7 +62,6 @@ export function festivalSymbol(row) {
 }
 
 export function calendarRecords(data, state) {
-  const regional = regionalFestivalIds(data, state);
   const local = data.records.filter(
     (row) =>
       row.jurisdictions.includes("IN") || row.jurisdictions.includes(state),
@@ -71,7 +77,9 @@ export function calendarRecords(data, state) {
       (row) =>
         (row.jurisdictions.includes(state) ||
           (row.jurisdictions.includes("IN") &&
-            regional.has(row.festival_id))) &&
+            regionalFestivalIds(data, state, Number(row.date.slice(0, 4))).has(
+              row.festival_id,
+            ))) &&
         !localFestivals.has(`${row.date.slice(0, 4)}:${row.festival_id}`),
     ),
   ].sort((a, b) => a.date.localeCompare(b.date));

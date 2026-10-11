@@ -10,8 +10,25 @@ import {
 
 const data = JSON.parse(
   readFileSync(
-    new URL("../public/data/holidays.json", import.meta.url),
+    new URL("../data/holidays/approved.json", import.meta.url),
     "utf8",
+  ),
+);
+// Stable fixtures exercise date-selection rules independently of daily live imports.
+data.festival_regions = Object.fromEntries(
+  [...new Set(data.records.flatMap((row) => row.jurisdictions))].map(
+    (state) => [
+      state,
+      [
+        ...new Set(
+          data.records
+            .filter(
+              (row) => row.jurisdictions.includes(state) && row.festival_id,
+            )
+            .map((row) => row.festival_id),
+        ),
+      ],
+    ],
   ),
 );
 const rows = (state, year, id) =>
@@ -116,4 +133,25 @@ test("every published festival date has artwork, provenance and valid civil date
     assert.equal(row.reviewed, "2026-10-11");
     assert.ok(row.note.length > 0);
   }
+});
+
+test("regional festival associations follow the selected year and last available local year", () => {
+  const annual = {
+    ...data,
+    festival_regions_by_year: {
+      "Tamil Nadu": { 2025: ["holi"], 2026: ["diwali"] },
+    },
+  };
+  assert.equal(rows("Tamil Nadu", 2026, "holi").length, 0);
+  const selected = calendarRecords(annual, "Tamil Nadu");
+  assert.equal(
+    selected.some((row) => row.festival_id === "holi"),
+    false,
+  );
+  assert.equal(
+    selected.filter(
+      (row) => row.festival_id === "diwali" && row.date.startsWith("2027"),
+    ).length,
+    1,
+  );
 });

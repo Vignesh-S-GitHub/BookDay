@@ -3,10 +3,13 @@
 import argparse
 import hashlib
 import json
+import logging
 from datetime import UTC, datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from .adapters import parse
+from .automatic import synchronize
 from .fetch import fetch
 from .publish import publish
 from .report import conflicts
@@ -254,6 +257,12 @@ def main() -> None:
     sub.add_parser("inspect")
     sub.add_parser("publish")
     sub.add_parser("validate")
+    automatic_parser = sub.add_parser("sync")
+    automatic_parser.add_argument("--from-year", type=int, default=2024)
+    automatic_parser.add_argument("--through-year", type=int)
+    automatic_parser.add_argument(
+        "--work", type=Path, default=ROOT / "output/holiday-pipeline"
+    )
     for command in ["check", "backfill"]:
         p = sub.add_parser(command)
         p.add_argument("--state")
@@ -272,10 +281,32 @@ def main() -> None:
         result = inspect()
     elif args.command == "publish":
         result = publish()
+    elif args.command == "sync":
+        logging.basicConfig(level=logging.INFO, format="%(message)s")
+        through = args.through_year or datetime.now(ZoneInfo("Asia/Kolkata")).year + 1
+        if through < args.from_year or through - args.from_year > 100:
+            raise ValueError("Invalid backfill year range")
+        report = synchronize(list(range(args.from_year, through + 1)), args.work)
+        manifest = publish()
+        result = {
+            "changed": report["changed"],
+            "records": report["records"],
+            "version": manifest["version"],
+            "updated_regions": sum(s["status"] == "updated" for s in report["sources"]),
+            "retained_regions": sum(
+                s["status"] == "retained" for s in report["sources"]
+            ),
+            "report": str(args.work / "automatic-report.json"),
+        }
     elif args.command == "validate":
         data = read(DATA / "approved.json")
+        automatic = (
+            read(DATA / "automatic.json")
+            if (DATA / "automatic.json").exists()
+            else {"records": []}
+        )
         validate(
-            data["records"] + data["festival_calendar"],
+            data["records"] + data["festival_calendar"] + automatic["records"],
             read(ROOT / "public/data/catalog.json")["states"],
         )
         result = {"valid": True}

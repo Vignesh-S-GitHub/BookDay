@@ -14,7 +14,7 @@ import {
   yearFestivals,
 } from "./festivals.js";
 import { loadIcons } from "./icons.js";
-import { HolidayLoader } from "./holiday-loader.js";
+import { HolidayLoader, LIVE_HOLIDAY_BASE } from "./holiday-loader.js";
 import { preserveImages, restoreImages } from "./image-cache.js";
 
 const $ = (selector) => document.querySelector(selector);
@@ -419,7 +419,7 @@ function coverage() {
   const rows = (holidays.coverage_rows || []).filter(
     (row) => row.year === year && row.jurisdiction === state,
   );
-  return `<p class="hint holiday-load-status" role="status">${holidayLoading ? "Loading reviewed annual dates…" : holidays.unavailable?.length ? "Some annual data is unavailable. Previously cached dates are used when available." : ""}</p><p class="hint">${esc(holidays.coverage)}</p>${rows.map((row) => `<p class="hint">${esc(state)} ${year} · ${esc(row.category)}: ${esc(row.status.replaceAll("_", " "))} (${row.count} records). ${esc(row.scope)}</p>`).join("")}<p class="hint">${esc(holidays.festival_coverage)}</p>`;
+  return `<p class="hint holiday-load-status" role="status">${holidayLoading ? "Loading official annual dates…" : holidays.unavailable?.length ? "Some annual data is unavailable. Previously cached dates are used when available." : ""}</p><p class="hint">${esc(holidays.coverage)}</p>${rows.map((row) => `<p class="hint">${esc(state)} ${year} · ${esc(row.category)}: ${esc(row.status.replaceAll("_", " "))} (${row.count} records). ${esc(row.scope)}</p>`).join("")}<p class="hint">${esc(holidays.festival_coverage)}</p>`;
 }
 function amendmentNotices(state, year) {
   return (holidays.changes || [])
@@ -458,7 +458,7 @@ function festivalGuide(state, year) {
       holidays.festival_art?.[id] &&
       !rows.some((row) => row.festival_id === id),
   );
-  return `<section class="card festival-guide"><div class="festival-guide-heading"><div><h2>Festival guide · ${year}</h2><p>Festivals for ${esc(state)}</p></div>${icon("festivals")}</div><p class="hint">Published observance dates. Local public holidays are labelled separately.</p>${rows.length ? `<div class="festival-guide-grid">${rows.map((row) => `<button class="festival-guide-item" data-festival-date="${row.date}" aria-label="${esc(row.name)} · ${formatDate(row.date)}"><img src="${holidayImage(row, state)}" alt="" loading="lazy" width="320" height="180"><span><strong>${esc(row.name)}</strong><time datetime="${row.date}">${shortDate(row.date)}</time></span></button>`).join("")}</div>` : `<p>No reviewed festival dates for ${year}. Dates will appear after the year's sources are reviewed.</p>`}${missing.length ? `<details class="coverage-details"><summary>Dates awaiting review (${missing.length})</summary><p class="hint">${missing.map((id) => esc(holidays.festival_art[id].name)).join(" · ")}. Artwork is ready; dates are not guessed.</p></details>` : ""}</section>`;
+  return `<section class="card festival-guide"><div class="festival-guide-heading"><div><h2>Festival guide · ${year}</h2><p>Festivals for ${esc(state)}</p></div>${icon("festivals")}</div><p class="hint">Published observance dates. Local public holidays are labelled separately.</p>${rows.length ? `<div class="festival-guide-grid">${rows.map((row) => `<button class="festival-guide-item" data-festival-date="${row.date}" aria-label="${esc(row.name)} · ${formatDate(row.date)}"><img src="${holidayImage(row, state)}" alt="" loading="lazy" width="320" height="180"><span><strong>${esc(row.name)}</strong><time datetime="${row.date}">${shortDate(row.date)}</time></span></button>`).join("")}</div>` : `<p>No published festival dates for ${year}. Available official dates are added automatically.</p>`}${missing.length ? `<details class="coverage-details"><summary>Dates not yet available (${missing.length})</summary><p class="hint">${missing.map((id) => esc(holidays.festival_art[id].name)).join(" · ")}. Artwork is ready; dates are not guessed.</p></details>` : ""}</section>`;
 }
 function home() {
   const cats = catalog.categories.filter(
@@ -819,7 +819,7 @@ function calendar() {
     ? blocks.find((b) => b.includes(selected))
     : null;
   const demand = signal(selected, state);
-  return `${hero(destinations[state].image, "India Calendar", `${esc(state)} · Holidays · Festivals`)}<div class="chips"><button class="chip" data-layer="all" aria-pressed="${Object.values(layers).every(Boolean)}">All</button>${Object.entries(
+  return `${hero(destinations[state].image, "India Calendar", `${esc(state)} · Holidays · Festivals`)}<div class="chips"><button class="chip" data-layer="all" aria-pressed="${Object.values(layers).every(Boolean)}">All</button><button class="chip" id="calendar-today" aria-label="Go to today's date">Today</button>${Object.entries(
     layerLabels,
   )
     .filter(([key]) => key !== "bookings")
@@ -829,7 +829,7 @@ function calendar() {
     )
     .join(
       "",
-    )}</div>${amendmentNotices(state, year)}<div class="calendar-layout"><section class="card calendar-card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div></section><section class="card detail-list"><div><small>${formatDate(selected)} · ${esc(state)}</small></div>${selectedRows.map((h) => `<article><img class="holiday-thumbnail" src="${holidayImage(h, state)}" alt="" width="320" height="180"><div><time class="holiday-date" datetime="${h.date}">${shortDate(h.date)}</time><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type === "religious_festival" ? "Festival observance" : h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><details class="coverage-details"><summary>Official source &amp; review</summary><small>Reviewed ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></details></div></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div class="demand-summary">${icon("demand")}<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price prediction.</small></div></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div>${festivalGuide(state, year)}<details class="coverage-details"><summary>Calendar options &amp; coverage</summary><button class="bd-secondary full" id="calendar-today">Today</button><p class="hint">Calendar with check: national holiday · local calendar: state holiday · lamp: festival · pale amber: derived long weekend.</p><details class="coverage-details calendar-overlay"><summary>Destination overlay</summary><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label></details>${coverage()}</details>`;
+    )}</div>${amendmentNotices(state, year)}<div class="calendar-layout"><section class="card calendar-card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div></section><section class="card detail-list"><div><small>${formatDate(selected)} · ${esc(state)}</small></div>${selectedRows.map((h) => `<article><img class="holiday-thumbnail" src="${holidayImage(h, state)}" alt="" width="320" height="180"><div><time class="holiday-date" datetime="${h.date}">${shortDate(h.date)}</time><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type === "religious_festival" ? "Festival observance" : h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><details class="coverage-details"><summary>Official source</summary><small>Validated ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></details></div></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div class="demand-summary">${icon("demand")}<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price prediction.</small></div></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div>${festivalGuide(state, year)}<details class="coverage-details"><summary>Calendar options &amp; coverage</summary><p class="hint">Calendar with check: national holiday · local calendar: state holiday · lamp: festival · pale amber: derived long weekend.</p><details class="coverage-details calendar-overlay"><summary>Destination overlay</summary><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label></details>${coverage()}</details>`;
 }
 function insights() {
   const state = overlay || settings.state;
@@ -1374,7 +1374,9 @@ window.addEventListener("storage", (event) => {
     render();
   }
 });
-const holidayLoader = new HolidayLoader();
+const holidayLoader = new HolidayLoader(undefined, {
+  liveBase: LIVE_HOLIDAY_BASE,
+});
 let holidayRequestKey = "",
   holidayGeneration = 0,
   holidayLoading = false;
@@ -1421,7 +1423,7 @@ async function refreshHolidaySelection() {
   const generation = ++holidayGeneration;
   holidayLoading = true;
   if ($(".holiday-load-status"))
-    $(".holiday-load-status").textContent = "Loading reviewed annual dates…";
+    $(".holiday-load-status").textContent = "Loading official annual dates…";
   const data = await holidayLoader.load(selection.years, selection.states);
   if (
     generation !== holidayGeneration ||

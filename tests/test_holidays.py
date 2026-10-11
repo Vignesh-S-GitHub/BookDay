@@ -38,8 +38,8 @@ def test_tamil_nadu_official_annual_schedule() -> None:
     assert by_name["Ayutha Pooja"]["date"] == "2026-10-19"
     assert by_name["Deepavali"]["date"] == "2026-11-08"
     assert by_name["Tamil Nadu Assembly polling day"]["date"] == "2026-04-23"
-    assert by_name["Bank annual closing"]["type"] == "bank_holiday"
-    assert "721_Ex_II_1_2025.pdf" in by_name["Pongal"]["source"]
+    assert sum(row["type"] == "bank_holiday" for row in rows) == 1
+    assert by_name["Pongal"]["source"] == "https://www.india.gov.in/calendar/tamil-nadu"
     assert len({row["id"] for row in data["records"]}) == len(data["records"])
 
 

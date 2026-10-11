@@ -10,22 +10,28 @@ DATA = json.loads((ROOT / "public/data/holidays.json").read_text(encoding="utf-8
 
 def test_festival_occurrences_are_year_specific_and_source_backed() -> None:
     rows = DATA["festival_calendar"]
-    assert len(rows) == 65
+    assert rows
     assert len({row["id"] for row in rows}) == len(rows)
     for row in rows:
-        assert date.fromisoformat(row["date"]).year in {2026, 2027}
+        assert 1900 <= date.fromisoformat(row["date"]).year <= 2100
         assert row["festival_id"] in DATA["festival_art"]
         assert row["type"] == "religious_festival"
         assert row["status"] == "official"
-        assert row["scope"] and row["reviewed"] == "2026-10-11"
+        assert row["scope"] and date.fromisoformat(row["reviewed"])
         assert row["source"].startswith("https://")
-        if row["date"].startswith("2027"):
-            assert row["source"].endswith("list_holidays_2027.pdf")
-    by_id = {row["id"]: row for row in rows}
-    assert by_id["festival-2026-diwali"]["date"] == "2026-11-08"
-    assert by_id["festival-2027-diwali"]["date"] == "2027-10-29"
-    assert by_id["festival-2026-holi"]["date"] == "2026-03-04"
-    assert by_id["festival-2027-holi"]["date"] == "2027-03-23"
+        assert row["provenance"]["review_decision"] in {
+            "approved",
+            "automatically_validated",
+        }
+    for identity, _year, day in [
+        ("diwali", 2026, "2026-11-08"),
+        ("diwali", 2027, "2027-10-29"),
+        ("holi", 2026, "2026-03-04"),
+        ("holi", 2027, "2027-03-23"),
+    ]:
+        assert any(
+            row["festival_id"] == identity and row["date"] == day for row in rows
+        )
 
 
 def test_every_festival_record_has_reusable_artwork() -> None:
@@ -42,17 +48,21 @@ def test_every_festival_record_has_reusable_artwork() -> None:
 
 
 def test_unreviewed_future_dates_and_state_closures_are_not_invented() -> None:
-    assert not any(row["date"].startswith("2028") for row in DATA["festival_calendar"])
-    assert not any(
-        row["date"].startswith("2027")
-        and row["festival_id"] in {"thai_poosam", "vishu", "karkadaka_vavu"}
-        for row in DATA["festival_calendar"]
+    approved = json.loads(
+        (ROOT / "data/holidays/approved.json").read_text(encoding="utf-8")
     )
-    assert (
-        len([row for row in DATA["records"] if row["date"][:4] in {"2026", "2027"}])
-        == 45
+    automatic = json.loads(
+        (ROOT / "data/holidays/automatic.json").read_text(encoding="utf-8")
     )
-    assert not any(
-        row["type"] == "state_public" and row["date"].startswith("2027")
-        for row in DATA["records"]
+    supported = {
+        row["id"]
+        for row in [
+            *approved["records"],
+            *approved["festival_calendar"],
+            *automatic["records"],
+        ]
+    }
+    assert all(
+        row["id"] in supported for row in [*DATA["records"], *DATA["festival_calendar"]]
     )
+    assert all(row["type"] != "state_public" for row in DATA["festival_calendar"])

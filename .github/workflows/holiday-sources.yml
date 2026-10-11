@@ -1,27 +1,45 @@
-name: Holiday source review
+name: Automatic holiday updates
 on:
   schedule:
     - cron: '23 3 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/holiday-sources.yml'
+      - 'scripts/holiday_pipeline/**'
+      - 'data/holidays/**'
 permissions:
-  contents: read
+  contents: write
 concurrency:
-  group: holiday-source-review
+  group: holiday-data-publication
   cancel-in-progress: false
 jobs:
-  check:
+  update:
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
       - uses: astral-sh/setup-uv@1c37ad07a6a961277cf70c0d37d6f313000f5884 # v10.3.0
         with:
           version: '0.13.0'
       - run: uv sync --locked --group data
-      - run: uv run --group data -m scripts.holiday_pipeline check
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24'
+      - run: uv run -m scripts.holiday_pipeline.release restore
+      - run: uv run -m scripts.holiday_pipeline sync
+      - run: uv run -m scripts.holiday_pipeline validate
+      - run: uv run pytest
+      - run: npm test
+      - run: uv run scripts/check_assets.py
+      - if: github.ref == 'refs/heads/main'
+        run: uv run -m scripts.holiday_pipeline.release publish
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always()
         with:
-          name: holiday-source-candidates
+          name: automatic-holiday-source-report
           path: output/holiday-pipeline/
           retention-days: 14

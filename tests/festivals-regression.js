@@ -154,7 +154,7 @@ async function festivalRegression(page) {
     );
     check(
       (await p.locator(".festival-guide").innerText()).includes(
-        "No reviewed festival dates for 2028",
+        "No published festival dates for 2028",
       ),
       "Unreviewed-year message",
     );

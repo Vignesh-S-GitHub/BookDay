@@ -1,81 +1,53 @@
-# Holiday data maintenance
+# Automatic holiday maintenance
 
-BookDay's existing FastAPI/HTMX/vanilla JavaScript PWA is preserved. The Worker never fetches government notices or parses PDFs. Holiday maintenance runs locally or in GitHub Actions and emits static files.
+BookDay checks the official [National Portal of India calendar](https://www.india.gov.in/calendar) for all **28 states and 8 Union Territories**. The scheduled workflow validates and publishes available records automatically. No reviewer, approval, release button, Cloudflare secret or annual code edit is required.
 
-## Coverage and sources
+## Schedule and year coverage
 
-There are **93 reviewed calendar records**, plus **65 festival-guide observances**. The original 45 records retain their IDs, dates, classification, jurisdiction, source and reviewed fields. Provenance fields were added; no original annual date was substituted.
+`.github/workflows/holiday-sources.yml` runs daily at 03:23 UTC (08:53 IST; GitHub may delay scheduled jobs), on relevant main-branch changes and on demand. Each run checks **2024 through the current India year plus one**, so historical gaps are retried and next-year calendars are imported when the authority publishes them. The year range advances automatically.
 
-| Jurisdiction / year | Local calendar records | Coverage |
-| --- | ---: | --- |
-| Tamil Nadu 2024 | 24 | Complete annual government-office schedule: 23 public dates and one bank-only closing date; later/local amendments still need review |
-| Tamil Nadu 2025 | 24 | Complete annual government-office schedule: 23 public dates and one bank-only closing date; later/local amendments still need review |
-| Tamil Nadu 2026 | 22 + 3 national | Preserved reviewed annual schedule plus statewide polling notice; bank-only closing remains separate |
-| Kerala 2026 | 17 + 3 national | Partial selection; not a complete annual schedule |
-| India 2026 / 2027 | 3 each | Partial national fixed-date selection; not a central-office annual leave calendar |
-| Other states / UTs; other years | No fabricated local dates | `not_verified`; India-wide observed festivals do not prove local public leave |
+The initial import includes validated 2026 records for **all 36 configured jurisdictions**, with available 2024/2025 historical records and published central festival dates through 2027. State calendars for 2027 were not yet published at the time of this release. Missing, malformed, unpublished or unavailable sources leave previous records intact and are retried on subsequent runs. BookDay never copies a lunar festival's date into another year or assumes that a missing source means no holidays.
 
-The [coverage matrix](../data/holidays/coverage.json) contains every state/UT, 2024–2027 and five categories: public, bank, festival, education and district. `complete` describes the explicitly stated source scope, never all later orders or private-employer policies. Empty categories remain `not_verified`. Artwork availability does not imply date coverage.
+`data/holidays/coverage.json` and the live manifest describe each year, jurisdiction and category. A complete paginated feed is not a promise that every later local order or employer schedule has been included. Categories without an established annual source scope remain partial or unavailable.
 
-Verified historical sources:
+## Source and validation
 
-- [Tamil Nadu 2024 Gazette 385 / G.O. 692](https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf), issued 9 November 2023. The scanned [NIC archive](https://tn.nic.in/publication/list-of-holidays/) copy could not be text-parsed; the original Gazette English table was used instead.
-- [Tamil Nadu 2025 Gazette 375 / G.O. 792](https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf), issued 22 November 2024.
-- Existing 2026 Tamil Nadu/Kerala and 2026–2027 national/festival sources are preserved in [sources.json](../data/holidays/sources.json) and [FESTIVALS.md](FESTIVALS.md).
-- [RBI regional bank portal](https://www.rbi.org.in/Scripts/HolidayMatrixDisplay.aspx) is verified but its interactive month/region adapter is pending. Bank leave is never general public leave.
+The collector uses the same public structured calendar route as the official portal's frontend: HTTPS POST `/internal/cms`, with a `route` selecting `/api/state-holidays` filtered by the state's official alias, or `/api/calendar-holidays` for central observances. Explicit aliases cover the eight UTs. No authentication or paid API is needed.
 
-The registry lists all 36 jurisdictions. Annual notices for other states, DoPT central-office schedules, education and district notices are pending with `url: null`; no official URL is invented. Previously reviewed sources whose original download hashes are unavailable say so explicitly. The historical PDF archives have real SHA-256 checksums and review decisions.
+The collector requires published records, complete stable pagination, unique source IDs, known state association and holiday classification, valid civil dates in the requested year, matching weekdays and safe titles. Requests have timeouts, size/page limits and bounded retries; four concurrent readers keep load bounded. A malformed public row rejects that state/year replacement rather than publishing a partial extraction.
+
+- Only state **Gazetted** holidays enter the public calendar. State **Restricted** holidays are excluded from general leave.
+- Central festival dates remain **observances**, not a claim of public leave in every state. Regional display uses the state association and known local festival identities.
+- Republic Day, Independence Day and Gandhi Jayanti are classified separately and deduplicated when states repeat the national date.
+- Bank closing days remain bank-only. They cannot create general long weekends.
+- Puducherry entries carry a region-specific warning because Puducherry/Karaikal, Mahe and Yanam may have different calendars. These do not imply a territory-wide long weekend.
+- Different state dates and genuine multiple-day celebrations are preserved.
+
+Retrieved source JSON is archived with SHA-256 fingerprints in the workflow artifact. Published records include the official source URL, source ID, retrieval/validation timestamps, parser fingerprint and `automatically_validated` decision. The historical reviewed snapshot and PDFs remain archived in `approved.json` and `documents/`; routine automation overlays available official updates without changing those archives. Specific local notices absent from the portal, such as the Tamil Nadu polling-day notice, are retained.
+
+## Automatic publication and browser delivery
+
+After validation and regression checks, the workflow commits the generated snapshot, manifest and annual datasets to the public **`holiday-data` branch**, using GitHub's built-in workflow token with `contents: write`. One Git push publishes the manifest and its referenced files together. No production code merge or Cloudflare deployment is needed for subsequent data updates. The job has no approval environment.
+
+The Cloudflare-hosted app reads the live manifest from that branch through `raw.githubusercontent.com`. It loads only the selected years and jurisdictions and checks dataset versions and SHA-256 checksums. Immutable content-addressed filenames prevent old/new release mixing; previously published files are retained for cached manifests. The manifest is checked on a new visit and after 15 minutes when another relevant data selection is loaded.
+
+The last successful live manifest and annual files are cached for offline use. A source/network failure preserves that cache; first visits can use the bundled snapshot. Invalid manifests cannot overwrite valid cached data. Artwork and small icons continue using the existing cache and shared inline sprite, without a per-tab reload.
 
 ## Working commands
 
 ```powershell
-uv sync --locked
-uv run -m scripts.holiday_pipeline inspect
-uv run --group data -m scripts.holiday_pipeline backfill --state "Tamil Nadu" --year 2024
-uv run --group data -m scripts.holiday_pipeline backfill --state "Tamil Nadu" --year 2025
-uv run --group data -m scripts.holiday_pipeline check
+uv sync --locked --group data
+uv run -m scripts.holiday_pipeline sync
+uv run -m scripts.holiday_pipeline sync --from-year 2024 --through-year 2027
 uv run -m scripts.holiday_pipeline validate
 uv run -m scripts.holiday_pipeline publish
 ```
 
-`data` contains pypdf, included in development tooling; runtime dependencies are unchanged. Backfill/check commands create candidates and detailed reports under ignored `output/holiday-pipeline/`. They never approve or publish automatically. Sources are checked sequentially, with HTTPS, robots rules, timeouts, size/page limits, conditional headers, hashes and bounded retry/backoff. No CAPTCHA bypass or OCR occurs. A source failure or unsupported layout is reported independently and retains approved data.
+The workflow runs `holiday_pipeline.release restore` before collection and `holiday_pipeline.release publish` after checks. The latter pushes only the data branch. The old PDF `check`, `backfill` and `approve` tools are retained for archived fixtures and exceptional explicitly sourced notices; they are **not part of unattended updates** and cannot hold up the new structured-feed pipeline.
 
-The explicit `tn-gazette-v1` adapter verifies all 24 numbered English rows, the declared year and every weekday. Wrapped bank/Ambedkar cells have explicit handling. Other PDF sources can be monitored for document changes; new tables require a separately tested adapter or manual review before approval. To extend: register a verified annual document, implement an explicit adapter in `adapters.py`, add an offline fixture and tests, and inspect scope before claiming source sufficiency.
+General public holidays alone derive long weekends, assuming Saturday/Sunday off. School, bank, regional and tentative entries do not establish general leave. Calendar demand is an explained heuristic, not live prices or availability. Saved plans and already exported calendar events are never silently changed by a holiday update.
 
-## Review and publication
-
-1. Work on a feature branch. Run `check` or `backfill`; inspect the original PDF table, extraction, date/jurisdiction/classification changes and conflicts.
-2. Review every row and any removals. Different state dates are not conflicts to resolve globally. Genuine same-jurisdiction conflicts remain blocked until an explicit amendment decision is prepared.
-3. Approve the exact candidate hash, record reviewer/reason, and supply the exact downloaded evidence:
-
-```powershell
-$candidate = Get-Content output/holiday-pipeline/candidates/tn-2025-annual.json -Encoding utf8 | ConvertFrom-Json
-uv run --group data -m scripts.holiday_pipeline approve output/holiday-pipeline/candidates/tn-2025-annual.json --hash $candidate.candidate_hash --reviewer "Your name" --reason "Checked the original annual table and scope" --evidence output/holiday-pipeline/cache/tn-2025-annual.bin
-uv run -m scripts.holiday_pipeline validate
-uv run -m scripts.holiday_pipeline publish
-```
-
-Approval re-extracts evidence and rejects altered candidates, mismatched hashes or registry changes. Removal requires explicit `--allow-removals`. Re-approving the same document/extraction is idempotent. [history.json](../data/holidays/history.json) retains decisions and old/new records. Moon-sighting amendments need a new reviewed notice; old evidence and decisions stay archived.
-
-4. Review the git diff, run quality/browser checks, and open a PR. Merge reviewed changes before production deployment under the release process. The scheduled workflow has only `contents: read` and uploads reports/candidates as artifacts. It cannot approve, push to main, merge or deploy. Download an artifact for human review; pending rows never become production data automatically.
-
-## Publishing and browser behavior
-
-`data/holidays/approved.json` is authoritative. Legacy literals in `prepare_data.py` remain a recovery fixture during migration; approved publication overrides them. New annual changes use data review rather than Python date edits. Catalog generation is retained. `public/data/holidays.json` remains a compatible export.
-
-The manifest lists content-addressed year/jurisdiction datasets and checksums, coverage, artwork and reviewed amendments. Files are written before the manifest. Older hashed files are retained for cached manifests. Only the home state, optional destination and requested year are loaded; adjacent years are fetched for month borders, Home upcoming festivals and travel windows. No per-state files are created just to fill gaps.
-
-The browser rejects stale responses and wrong-version files and keeps the booking planner usable when holiday data fails. Validated manifest and annual responses are written to the annual cache immediately, including first visits before service-worker control. The service worker refreshes annual data online with a bounded timeout and retains last-successful annual caches through updates. It does not precache every state/year. Artwork and shell use cache-first delivery; decoded image nodes survive navigation. The carousel retains its position/pause setting. Cross-tab storage updates do not reload the document.
-
-Official general public holidays alone derive long weekends, assuming Saturday/Sunday off. Bank-only, school, district and tentative records do not count as general leave. Official festival observances can explain potential demand, with incomplete data returning “Insufficient data”; these are calendar signals, not prices. National/state/festival markers are distinct vector symbols.
-
-Reviewed amendments appear in Calendar. A relevant saved plan gets a review/re-export link. Plans and exported Google/ICS events are never silently modified. Google export uses a browser template URL with title, details, location, opening date and selected IST time; saving in a signed-in account and native-app handling remain manual device checks.
-
-## Cost, limits and quality
-
-No paid API, new database or always-on service was introduced. A daily Actions job uses bounded network reads; repository/account quotas apply. Datasets and artwork remain Cloudflare static assets. Worker runtime dependencies/routing are unchanged; strict Cloudflare Free CPU compliance remains unproven in [DEPLOYMENT.md](DEPLOYMENT.md).
-
-Offline tests never call government sites. Real archived PDFs are fixtures. Network checks are optional and reported separately. Source hashes prove file identity; human table review establishes scope. Full national/state historical coverage and future lunar dates remain incremental work, visible in the matrix.
+## Validation and operational limits
 
 ```powershell
 uv run ruff format --check .
@@ -86,4 +58,4 @@ npm test
 uv run scripts/check_assets.py
 ```
 
-Run the six Playwright suites documented in README, including `tests/holiday-ui-regression.js` for state labels at five widths, decoded-image reuse, historical loading, stale responses, offline access and prefilled reminder links.
+Offline fixtures exercise all 36 aliases, unavailable sources, pagination, date/classification validation, idempotence, regional scope and automatic publication. Browser regressions cover live feed loading, Today beside All, month/year jumps, state-specific dates and offline data. Source availability and correct upstream publication remain external dependencies; a feed format change is reported and retained data stays available rather than guessed. Daily collection and publishing need no human approval, but cannot manufacture an unpublished calendar.
