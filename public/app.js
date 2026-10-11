@@ -34,7 +34,29 @@ const formatDate = (value) =>
         timeZone: "UTC",
       }).format(dateObj(value))
     : "Not announced";
-const icon = (name) => `<img src="/assets/icons/${name}.svg" alt="">`;
+const icon = (name) =>
+  `<svg class="icon" aria-hidden="true"><use href="/art/icons.svg#${{ holidays: "calendar", long_weekend: "tourism" }[name] || name}"></use></svg>`;
+const art = (name) => `/art/categories/${name}.webp`;
+const displayLabel = (c) =>
+  ({
+    hotels: "Hotels",
+    events: "Events",
+    government: "Govt Services",
+    appointments: "Appointments",
+    custom: "Custom",
+    healthcare: "Healthcare",
+  })[c.id] || c.label;
+const shortDate = (value) =>
+  value
+    ? new Intl.DateTimeFormat("en-IN", {
+        day: "2-digit",
+        month: "short",
+        year: "numeric",
+        timeZone: "UTC",
+      }).format(dateObj(value))
+    : "Not announced";
+const categoryIcon = (id) =>
+  `<span class="category-symbol tone-${id}">${icon(id)}</span>`;
 let toastTimer;
 function toast(message) {
   $("#toast").textContent = message;
@@ -165,13 +187,13 @@ function categoryFor(id) {
   return catalog.categories.find((c) => c.id === id);
 }
 function hero(image, title, subtitle = "") {
-  return `<section class="bd-hero"><img src="/assets/banners/${image}.svg" alt="Illustrated Indian scenery"><div class="bd-hero-content"><h1>${title}</h1>${subtitle ? `<p>${subtitle}</p>` : ""}</div></section>`;
+  return `<section class="bd-hero hero-${image}"><img src="/art/banners/${image}.webp" alt="${image === "kerala_backwaters" ? "Kerala houseboat on golden backwaters" : image === "train_journey" ? "Indian train on a tropical sunset journey" : "South Indian temple at sunset"}" fetchpriority="high"><div class="bd-hero-content"><h1>${title}</h1>${subtitle ? `<p>${subtitle}</p>` : ""}</div></section>`;
 }
 function intro(title, sub) {
-  return `<div class="page-intro"><h1>${title}</h1><p>${sub}</p></div>`;
+  return `<div class="page-intro"><h1>${title}</h1>${sub ? `<p>${sub}</p>` : ""}</div>`;
 }
 function categoryCards(categories, quick = false) {
-  return `<div class="category-grid ${quick ? "quick" : ""}">${categories.map((c) => `<a class="category" href="#/book/${c.id}" aria-label="${esc(c.label)} booking planner"><img src="/assets/categories/${c.id}.svg" alt=""><span>${esc(c.label)}</span></a>`).join("")}</div>`;
+  return `<div class="category-grid ${quick ? "quick" : ""}">${categories.map((c) => `<a class="category tone-${c.id}" href="#/book/${c.id}" aria-label="${esc(c.label)} booking planner"><img src="${art(quick ? "quick_" + c.id : c.id)}" alt="" width="320" height="320"><span class="category-caption">${quick ? "" : categoryIcon(c.id)}<span>${esc(displayLabel(c))}</span>${quick ? "" : icon("chevron")}</span></a>`).join("")}</div>`;
 }
 function searchBox() {
   return `<form class="search" id="search-form">${icon("search")}<input type="search" id="search-input" aria-label="Search categories and services" placeholder="Search trains, flights, hotels…" value="${esc(query)}"><button class="bd-primary" aria-label="Search">${icon("search")}</button></form>`;
@@ -271,12 +293,29 @@ function home() {
     .sort((a, b) =>
       a.result.opening_date.localeCompare(b.result.opening_date),
     )[0];
-  return `${hero("home_india", "Plan Today,<br><span>Book Smarter</span>", "Know When to Book.")}${searchBox()}${categoryCards(["trains", "flights", "buses", "hotels", "movies", "temples", "events", "tourism"].map((id) => cats.find((c) => c.id === id)).filter(Boolean), true)}<div class="section-heading"><h2>Your next plans</h2><a href="#/explore">Explore all →</a></div><div class="two-up"><a href="#/calendar" class="card banner-card"><img src="/assets/banners/india_festivals.svg" alt=""><small>Next verified calendar event</small><h3>${next ? esc(next.name) : "Holiday coverage is growing"}</h3><p>${next ? formatDate(next.date) : "See available official records"}</p></a><div class="card"><span class="badge">Next saved opening</span><h3>${nearest ? esc(nearest.title) : "Make room for a plan"}</h3><p>${nearest ? formatDate(nearest.result.opening_date) : "Find an opening date and keep it on this device."}</p><a class="bd-primary full" href="${nearest ? "#/detail/" + nearest.id : "#/explore"}">${nearest ? "View plan" : "Start planning"}</a></div></div><a class="card banner-card" href="#/insights"><h2>Find your next getaway</h2><p>Explore verified holidays and calendar demand signals.</p><img src="/assets/banners/kerala_backwaters.svg" alt="Illustrated Kerala backwaters"><span>Travel insights →</span></a>${coverage()}`;
+  return `${hero("home_india", "Plan Today,<br><span>Book Smarter</span>")}<div class="hero-pagination" aria-hidden="true"><i></i><i></i><i></i></div>${searchBox()}${categoryCards(["trains", "flights", "buses", "hotels", "movies", "temples", "events", "tourism"].map((id) => cats.find((c) => c.id === id)).filter(Boolean), true)}<div class="home-highlights"><a href="#/calendar" class="festival-card"><img src="/art/banners/india_festivals.webp" alt="Temple fireworks and glowing festive lamps"><div><small>${icon("calendar")}Next ${next?.festival ? "Festival" : "Verified Holiday"}</small><h2>${next ? esc(next.name) : "India Calendar"}</h2><p>${next ? shortDate(next.date) : "Explore known dates"}</p><span class="round-arrow">${icon("chevron")}</span></div></a><section class="next-card"><small>${icon("bell")}Next Booking Opens</small><img src="${art("upcoming_train")}" alt=""><h3>${nearest ? esc(nearest.title) : "Train Booking"}</h3><p>${nearest ? shortDate(nearest.result.opening_date) : "Find your opening date"}</p><a class="bd-primary full" href="${nearest ? "#/detail/" + nearest.id : "#/book/trains"}">${icon("clock")}${nearest ? "Set Reminder" : "Plan a Journey"}${icon("chevron")}</a></section></div><a class="travel-link" href="#/insights">${icon("tourism")}Travel insights${icon("chevron")}</a><details class="coverage-details"><summary>Calendar coverage</summary>${coverage()}</details>`;
 }
 function explore() {
   const cats = catalog.categories.filter((c) =>
     (c.label + " " + c.description).toLowerCase().includes(query.toLowerCase()),
   );
+  const order = [
+    "trains",
+    "flights",
+    "buses",
+    "hotels",
+    "movies",
+    "temples",
+    "events",
+    "tourism",
+    "appointments",
+    "government",
+    "education",
+    "custom",
+    "sports",
+    "healthcare",
+  ];
+  cats.sort((a, b) => order.indexOf(a.id) - order.indexOf(b.id));
   return (
     intro("Explore", "All your bookings and more, in one place.") +
     searchBox() +
@@ -289,17 +328,80 @@ function explore() {
 function field(label, name, type, value = "", extra = "") {
   return `<label>${label}<input class="bd-input" name="${name}" type="${type}" value="${esc(value)}" ${extra}></label>`;
 }
+function miniCalendar(value) {
+  const first = value.slice(0, 7) + "-01",
+    d = dateObj(first),
+    start = shift(first, -d.getUTCDay());
+  const size =
+    Math.ceil(
+      (d.getUTCDay() +
+        new Date(
+          Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 0),
+        ).getUTCDate()) /
+        7,
+    ) * 7;
+  return `<section class="mini-calendar card"><div class="mini-heading"><button type="button" class="icon-button" data-mini-month="-1" aria-label="Previous journey month">${icon("back")}</button><strong>${new Intl.DateTimeFormat("en-IN", { month: "long", year: "numeric", timeZone: "UTC" }).format(d)}</strong><button type="button" class="icon-button" data-mini-month="1" aria-label="Next journey month">${icon("chevron")}</button></div><div class="mini-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<small>${w}</small>`).join("")}${Array.from(
+    { length: size },
+    (_, i) => {
+      const day = shift(start, i);
+      return `<button type="button" class="${day === value ? "selected" : ""}" data-mini-day="${day}" ${day.slice(0, 7) !== value.slice(0, 7) ? 'tabindex="-1" disabled' : ""}>${day.slice(0, 7) === value.slice(0, 7) ? dateObj(day).getUTCDate() : ""}</button>`;
+    },
+  ).join("")}</div></section>`;
+}
+function plannerField(label, name, type, value, ico, extra = "") {
+  const prettyDate =
+    type === "date" && validDate(value)
+      ? new Intl.DateTimeFormat("en-IN", {
+          day: "2-digit",
+          month: "long",
+          year: "numeric",
+          timeZone: "UTC",
+        }).format(dateObj(value))
+      : "";
+  const content = field(label, name, type, value, extra).replace(
+    "</label>",
+    `${type === "date" ? `<span class="pretty-date" aria-hidden="true">${prettyDate}</span>` : ""}</label>`,
+  );
+  return `<div class="planner-field ${type === "date" ? "date-field" : ""}"><span class="field-symbol field-${ico}">${icon(ico)}</span>${content}</div>`;
+}
+function updatePrettyDates() {
+  for (const label of document.querySelectorAll(".date-field label")) {
+    const input = label.querySelector("input"),
+      output = label.querySelector(".pretty-date");
+    output.textContent = validDate(input.value)
+      ? new Intl.DateTimeFormat("en-IN", {
+          day: "2-digit",
+          month: "long",
+          year: "numeric",
+          timeZone: "UTC",
+        }).format(dateObj(input.value))
+      : "";
+  }
+}
 function calculator(id) {
   const c = categoryFor(id);
   if (!c)
     return intro("Category unavailable", "Choose a category from Explore.");
   const p = editPlan?.category === id ? editPlan : null;
-  return `<a class="back-link" href="#/explore">${icon("back")}Explore</a>${hero(id === "trains" ? "train_journey" : id === "temples" ? "temple_darshan" : id === "hotels" ? "hotel_stay" : "home_india", `${esc(c.label)} <span>Booking</span>`, "Calculate an opening date and keep your plan.")}<div class="calculator-layout"><form id="booking-form" class="card" hx-post="/fragments/calculate" hx-target="#server-result" hx-params="event_date,mode,amount,opening_time,fixed_date,origin_date,train_class,category" hx-request='{"timeout":15000}'><input type="hidden" name="category" value="${id}"><div class="fields">${field("Journey / event date", "event_date", "date", p?.event_date || shift(today(), 60), 'required min="1900-01-01" max="2100-12-31"')}<label>Booking rule<select class="bd-input" name="mode" id="rule-mode">${[["days", "N days before"], ["months", "N calendar months before"], ["fixed", "Fixed announced date"], ["weekly", "Recurring weekly"], ["monthly", "Recurring monthly"], ["unknown", "Not announced yet"], ...(id === "trains" ? [["tatkal", "Tatkal — origin departure date"]] : [])].map(([value, label]) => `<option value="${value}" ${value === (p?.mode || c.default_mode) ? "selected" : ""}>${label}</option>`).join("")}</select></label><div data-field="amount">${field("Days / months / recurring day", "amount", "number", p?.amount ?? (id === "trains" ? catalog.rail.advance_days : 30), 'min="0" max="3650" step="1"')}<p id="amount-help" class="hint"></p></div><div data-field="fixed_date">${field("Announced opening date", "fixed_date", "date", p?.fixed_date || "", 'min="1900-01-01" max="2100-12-31"')}</div><div data-field="opening_time">${field("Opening time (optional, IST)", "opening_time", "time", p?.opening_time || "")}<p class="hint">Leave blank if unknown. Calendar exports will use an all-day reminder.</p></div><div data-field="origin_date">${field("Train departure date at originating station", "origin_date", "date", p?.origin_date || "", 'min="1900-01-01" max="2100-12-31"')}</div><div data-field="train_class"><label>Tatkal class<select class="bd-input" name="train_class"><option value="ac">AC · 10:00 IST</option><option value="non-ac" ${p?.train_class === "non-ac" ? "selected" : ""}>Non-AC · 11:00 IST</option></select></label></div>${field("Plan title (optional)", "title", "text", p?.title || "", 'maxlength="120" placeholder="Chennai → Madurai"')}${field("Service / operator note (optional)", "service", "text", p?.service || "", 'maxlength="180"')}${field("Origin / location (optional)", "origin", "text", p?.origin || "", 'maxlength="100"')}${field("Destination (optional)", "destination", "text", p?.destination || "", 'maxlength="100"')}</div><p class="hint">${id === "trains" ? esc(catalog.rail.warning) : "No standard release window is assumed for this category. Use an announced date or your own rule; confirm it with the provider."}</p><button class="bd-primary full" type="submit">Find Booking Date →</button><p class="hint">Your title and route stay on this device. Only calculation dates, rule and category are sent to BookDay.</p><div id="server-result" aria-live="polite"></div></form><aside class="card"><img class="result-art" src="/assets/categories/${id}.svg" alt=""><h2>${id === "trains" ? "Indian Railways advance booking" : "Your rule, your plan"}</h2><p>${id === "trains" ? `Standard advance window: <strong>${catalog.rail.advance_days} days</strong>, excluding the travel date.` : "Choose a known announcement date or calculate an opening using days, months, or a recurring provider rule."}</p><p>Recurring rules find the latest matching opening on or before the event. Month dates clip to the last valid day.</p>${id === "trains" ? `<a href="${catalog.rail.source}" target="_blank" rel="noopener">Advance policy source ↗</a><p><a href="${catalog.rail.tatkal_source}" target="_blank" rel="noopener">Tatkal policy source ↗</a></p>` : ""}<p class="hint">Dates indicate when a booking window opens. They do not indicate availability.</p></aside></div>`;
+  const date = p?.event_date || shift(today(), 60),
+    mode = p?.mode || c.default_mode;
+  return `${hero(id === "trains" ? "train_journey" : id === "temples" ? "temple_darshan" : "home_india", `${id === "trains" ? "Train" : esc(c.label)}<br><span>Booking</span>`, "Check booking dates<br>and plan your journey")}<form id="booking-form" hx-post="/fragments/calculate" hx-target="#server-result" hx-params="event_date,mode,amount,opening_time,fixed_date,origin_date,train_class,category" hx-request='{"timeout":15000}'><input type="hidden" name="category" value="${id}">${id === "trains" ? `<div class="booking-tabs"><button type="button" data-rule="days" class="${mode !== "tatkal" ? "active" : ""}">${icon("trains")}General</button><button type="button" data-rule="tatkal" class="${mode === "tatkal" ? "active" : ""}">${icon("bolt")}Tatkal</button></div>` : ""}<section class="card planner-fields">${plannerField("Journey Date", "event_date", "date", date, "calendar", 'required min="1900-01-01" max="2100-12-31"')}${plannerField("From", "origin", "text", p?.origin || "", "location", 'maxlength="100" placeholder="Chennai (MAS)"')}${plannerField("To", "destination", "text", p?.destination || "", "location", 'maxlength="100" placeholder="Bengaluru (SBC)"')}<div class="planner-field"><span class="field-symbol field-clock">${icon("calendar")}</span><div class="rule-display"><span>Advance Booking</span><strong id="rule-summary">${mode === "tatkal" ? "1 Day · Tatkal" : mode === "days" ? (p?.amount ?? catalog.rail.advance_days) + " Days" : "Your booking rule"}</strong><a href="#rule-options" id="show-rule-options" aria-label="Adjust booking rule">${icon("chevron")}</a></div></div><div data-field="origin_date">${plannerField("Departure at originating station", "origin_date", "date", p?.origin_date || "", "calendar", 'min="1900-01-01" max="2100-12-31"')}</div><div data-field="train_class"><label>Tatkal class<select class="bd-input" name="train_class"><option value="ac">AC · 10:00 IST</option><option value="non-ac" ${p?.train_class === "non-ac" ? "selected" : ""}>Non-AC · 11:00 IST</option></select></label></div></section><div class="planner-bottom"><div id="journey-calendar">${miniCalendar(date)}</div><aside class="rail-policy card"><img src="${art(id === "trains" ? "railway" : id)}" alt=""><h3>${id === "trains" ? "Indian Railways Standard Advance Booking" : "Your rule, your plan"}</h3><strong class="policy-days">${id === "trains" ? "60 Days" : "Plan Ahead"}</strong><p>${id === "trains" ? "You can book train tickets up to 60 days in advance from the journey date." : "Use a provider announcement or choose your own release rule."}</p></aside></div><button class="bd-primary full find-date" type="submit">Find Booking Date${icon("arrow")}</button><details id="rule-options" class="planner-options" ${mode !== "days" && mode !== "tatkal" ? "open" : ""}><summary>Booking rule &amp; plan details${icon("chevron")}</summary><div class="fields"><label>Booking rule<select class="bd-input" name="mode" id="rule-mode">${[["days", "N days before"], ["months", "N calendar months before"], ["fixed", "Fixed announced date"], ["weekly", "Recurring weekly"], ["monthly", "Recurring monthly"], ["unknown", "Not announced yet"], ...(id === "trains" ? [["tatkal", "Tatkal — origin departure date"]] : [])].map(([value, label]) => `<option value="${value}" ${value === mode ? "selected" : ""}>${label}</option>`).join("")}</select></label><div data-field="amount">${field("Days / months / recurring day", "amount", "number", p?.amount ?? (id === "trains" ? catalog.rail.advance_days : 30), 'min="0" max="3650" step="1"')}<p id="amount-help" class="hint"></p></div><div data-field="fixed_date">${field("Announced opening date", "fixed_date", "date", p?.fixed_date || "", 'min="1900-01-01" max="2100-12-31"')}</div><div data-field="opening_time">${field("Opening time (optional, IST)", "opening_time", "time", p?.opening_time || "")}<p class="hint">Leave blank if unknown. Exports use an all-day reminder.</p></div>${field("Plan title (optional)", "title", "text", p?.title || "", 'maxlength="120" placeholder="Chennai → Madurai"')}${field("Service / operator note (optional)", "service", "text", p?.service || "", 'maxlength="180"')}</div></details><div id="server-result" aria-live="polite"></div><details class="coverage-details"><summary>Booking policy &amp; privacy</summary><p class="hint">${id === "trains" ? esc(catalog.rail.warning) : "Confirm your rule with the provider; no standard release window is assumed."}</p>${id === "trains" ? `<a href="${catalog.rail.source}" target="_blank" rel="noopener">Advance policy source ↗</a><p><a href="${catalog.rail.tatkal_source}" target="_blank" rel="noopener">Tatkal policy source ↗</a></p>` : ""}<p class="hint">Titles and routes stay on this device. Only dates, rule and category are sent for calculation. Dates do not indicate ticket availability.</p></details></form>`;
 }
 function updateRuleFields() {
   const form = $("#booking-form");
   if (!form) return;
   const mode = form.elements.mode.value;
+  for (const button of form.querySelectorAll("[data-rule]"))
+    button.classList.toggle(
+      "active",
+      button.dataset.rule === "tatkal" ? mode === "tatkal" : mode !== "tatkal",
+    );
+  $("#rule-summary").textContent =
+    mode === "tatkal"
+      ? "1 Day · Tatkal"
+      : mode === "days"
+        ? form.elements.amount.value + " Days"
+        : "Your booking rule";
   for (const box of form.querySelectorAll("[data-field]")) {
     const key = box.dataset.field;
     const active =
@@ -351,24 +453,36 @@ function planActions(p, withSave = true) {
   return `<div class="actions">${withSave ? `<button class="bd-primary" data-action="save" data-id="${p.id}">Save plan</button>` : ""}<button class="bd-primary" data-action="calendar" data-id="${p.id}" ${known ? "" : "disabled"}>Add to Calendar</button></div><div class="actions"><button class="bd-secondary" data-action="download" data-id="${p.id}" ${known ? "" : "disabled"}>Download .ics</button><button class="bd-secondary" data-action="share" data-id="${p.id}">Share Booking</button></div>`;
 }
 function resultPage(p) {
-  const r = p.result;
-  return `<a class="back-link" data-action="edit" data-id="${p.id}" href="#/book/${p.category}">${icon("back")}Adjust booking rule</a><section class="card result"><img class="result-art" src="/assets/brand/bookday_icon_only.png" alt=""><h1>Your booking plan</h1><p>${esc(p.title)}</p><span class="badge">${status(p)}</span><span class="badge orange">${esc(r.verification_status || "Rule Unverified")}</span><h2>Booking opens on</h2><div class="opening-date">${formatDate(r.opening_date)}</div><div class="result-facts"><div class="fact"><small>Journey / event date</small><strong>${formatDate(p.event_date)}</strong></div><div class="fact"><small>Opening time · Asia/Kolkata</small><strong>${r.opening_time ? esc(r.opening_time) + " IST" : "Unknown · all-day reminder"}</strong></div></div><p>${esc(r.rule)}</p><p class="countdown" data-countdown="${p.id}">${countdown(p)}</p><p class="hint">${r.opening_date ? "The opening date is separate from ticket or slot availability. Confirm service exceptions with the provider." : "Add the release date when it is announced. Calendar exports are available after an opening date is known."}</p>${p.source ? `<p><a href="${esc(p.source)}" target="_blank" rel="noopener">Verified policy source ↗</a></p>` : ""}${planActions(p)}<div class="actions"><button class="bd-secondary" data-action="edit" data-id="${p.id}">Edit plan</button>${categoryFor(p.category).provider_url ? `<a class="bd-secondary" target="_blank" rel="noopener" href="${categoryFor(p.category).provider_url}">Official booking site ↗</a>` : ""}</div><p class="hint">Exported calendars are managed by their calendar app. BookDay does not send background notifications.</p></section>`;
+  const r = p.result,
+    known = !!r.opening_date;
+  return `<section class="result-celebration"><img src="/art/celebration.webp" alt="Blue calendar and orange clock with celebratory confetti"><h1>${known ? "Great News!" : "Stay Tuned!"}</h1><p>Here’s your booking information</p></section><section class="card result"><h2 class="opening-heading">${icon("bell")}Booking Opens On</h2><div class="opening-date">${shortDate(r.opening_date)}</div><div class="result-facts"><div class="fact">${icon("calendar")}<small>Journey Date</small><strong>${shortDate(p.event_date)}</strong><small>${new Intl.DateTimeFormat("en-IN", { weekday: "short", timeZone: "UTC" }).format(dateObj(p.event_date))}</small></div><div class="fact">${icon("clock")}<small>Booking Time</small><strong>${r.opening_time ? esc(r.opening_time) : "Unknown"}</strong><small>${r.opening_time ? "(IST)" : "All-day reminder"}</small></div><div class="fact">${icon("events")}<small>Booking Rule</small><strong>${p.mode === "days" ? esc(p.amount) + " days" : p.mode === "tatkal" ? "Tatkal" : "Custom"}</strong><small>${p.mode === "days" ? "before journey" : p.mode === "tatkal" ? "before origin departure" : "See details below"}</small></div></div><div class="pro-tip">${icon("bulb")}<div><strong>Pro Tip</strong><p>${known ? "Set a reminder so you don’t miss the booking date. Tatkal and festival season tickets fill fast!" : "Save this plan and add the release date when your provider announces it."}</p></div></div><button class="bd-primary full reminder-action" data-action="calendar" data-id="${p.id}" ${known ? "" : "disabled"}>${icon("bell")}Set Reminder${icon("chevron")}</button><button class="bd-secondary full reminder-action" data-action="share" data-id="${p.id}">${icon("share")}Share Result${icon("chevron")}</button><div class="result-utilities"><button class="text-button" data-action="save" data-id="${p.id}">${icon("saved")}Save plan</button><button class="text-button" data-action="edit" data-id="${p.id}">Edit plan</button><button class="text-button" data-action="download" data-id="${p.id}" ${known ? "" : "disabled"}>Download .ics</button></div><details class="result-details"><summary>Plan details &amp; verified policy</summary><h3>${esc(p.title)}</h3><span class="badge">${status(p)}</span><span class="badge orange">${esc(r.verification_status || "Rule Unverified")}</span><p>${esc(r.rule)}</p><p class="countdown" data-countdown="${p.id}">${countdown(p)}</p>${p.source ? `<p><a href="${esc(p.source)}" target="_blank" rel="noopener">Verified policy source ↗</a></p>` : ""}${categoryFor(p.category).provider_url ? `<a target="_blank" rel="noopener" href="${categoryFor(p.category).provider_url}">Official booking site ↗</a>` : ""}<p class="hint">An opening date does not guarantee availability. Exported calendars deliver their own reminders after import. BookDay does not send background notifications.</p></details></section>`;
 }
 function saved() {
-  const list = plans
-    .filter((p) =>
-      savedTab === "completed"
-        ? p.completed || p.event_date < today()
-        : !p.completed && p.event_date >= today(),
-    )
-    .sort((a, b) =>
+  const upcoming = plans.filter((p) => !p.completed && p.event_date >= today());
+  const completed = plans.filter((p) => p.completed || p.event_date < today());
+  const list = (savedTab === "completed" ? completed : upcoming).toSorted(
+    (a, b) =>
       (a.result.opening_date || "9999").localeCompare(
         b.result.opening_date || "9999",
       ),
-    );
+  );
   return (
-    intro("Saved", "Your bookings and plans, kept on this device.") +
-    `<div class="tabs"><button data-tab="upcoming" class="${savedTab === "upcoming" ? "active" : ""}">Upcoming</button><button data-tab="completed" class="${savedTab === "completed" ? "active" : ""}">Completed</button></div><p class="hint">Plans move to Completed after the event date or when you mark them complete. Opening dates may already have passed.</p><div class="saved-grid">${list.map((p) => `<article class="card saved-card"><img src="/assets/categories/${p.category}.svg" alt=""><div><a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3></a><small>${esc(p.categoryLabel)}</small><p>Opens ${formatDate(p.result.opening_date)}</p><span class="badge">${status(p)}</span><div class="countdown" data-countdown="${p.id}">${countdown(p)}</div></div>${planActions(p, false)}<div class="actions"><button class="bd-secondary" data-action="edit" data-id="${p.id}">Edit</button><button class="bd-secondary" data-action="complete" data-id="${p.id}">${p.completed ? "Reopen" : "Complete"}</button><button class="bd-secondary" data-action="delete" data-id="${p.id}">Delete</button></div></article>`).join("")}</div>${list.length ? "" : '<div class="card empty"><img src="/assets/categories/appointments.svg" alt=""><h2>No plans here yet</h2><p>Find an opening date, then save it to keep it here.</p></div>'}<a class="bd-primary full" href="#/explore">Create a booking plan +</a><p class="hint">Device storage can be cleared by your browser. Google Calendar and ICS exports let you keep a separate reminder.</p>`
+    intro("Saved", "Your saved bookings and plans") +
+    `<div class="tabs"><button data-tab="upcoming" class="${savedTab === "upcoming" ? "active" : ""}">Upcoming (${upcoming.length})</button><button data-tab="completed" class="${savedTab === "completed" ? "active" : ""}">Completed (${completed.length})</button></div><div class="saved-grid">${list
+      .map((p) => {
+        const days = p.result.opening_date
+          ? Math.max(
+              0,
+              Math.round(
+                (dateObj(p.result.opening_date) - dateObj(today())) / 86400000,
+              ),
+            )
+          : null;
+        return `<article class="saved-card tone-${p.category}"><a href="#/detail/${p.id}" class="saved-thumbnail" aria-label="View ${esc(p.title)}"><img src="${art(["trains", "temples", "movies", "hotels", "government"].includes(p.category) ? "saved_" + p.category : p.category)}" alt=""></a><div class="saved-info"><div class="saved-title">${categoryIcon(p.category)}<div><a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3></a><small>${esc(p.categoryLabel)} Booking</small></div></div><p class="saved-opening">${icon("calendar")}<span>Opens on ${shortDate(p.result.opening_date)}</span></p></div><div class="saved-side"><details class="plan-menu"><summary aria-label="Actions for ${esc(p.title)}">${icon("more")}</summary><div>${planActions(p, false)}<button class="text-button" data-action="edit" data-id="${p.id}">Edit</button><button class="text-button" data-action="complete" data-id="${p.id}">${p.completed ? "Reopen" : "Complete"}</button><button class="text-button" data-action="delete" data-id="${p.id}">Delete</button></div></details><span class="days-left"><strong>${days === null ? "—" : days}</strong><small>${days === null ? "Unannounced" : status(p) === "Already Opened" ? "opened" : days === 0 ? "opens today" : "days left"}</small></span></div></article>`;
+      })
+      .join(
+        "",
+      )}</div>${list.length ? "" : `<div class="card empty"><img src="${art("appointments")}" alt=""><h2>No plans here yet</h2><p>Find an opening date, then save it to keep it here.</p><a class="bd-primary" href="#/explore">Create a booking plan</a></div>`}<a class="floating-add" href="#/explore" aria-label="Create a booking plan">${icon("plus")}</a><details class="coverage-details"><summary>About saved plans</summary><p class="hint">Plans move to Completed after the event date or when marked complete. Device data is not synced and can be cleared by your browser; calendar exports keep a separate reminder.</p></details>`
   );
 }
 function calendar() {
@@ -380,6 +494,10 @@ function calendar() {
     blocks = weekendBlocks(state);
   const layers = settings.layers;
   const rows = recordsFor(state);
+  const visibleDays =
+    Math.ceil(
+      (d.getUTCDay() + new Date(Date.UTC(year, m + 1, 0)).getUTCDate()) / 7,
+    ) * 7;
   let cells = "";
   for (let i = 0; i < 42; i++) {
     const day = shift(start, i),
@@ -394,7 +512,7 @@ function calendar() {
       (layers.bookings && opening.length ? "●" : "") +
       (layers.demand && signal(day, state).score ? "·" : "");
     const long = layers.weekends && blocks.some((b) => b.includes(day));
-    cells += `<button class="day ${day === selected ? "selected" : ""} ${day === today() ? "today" : ""} ${day.slice(0, 7) !== month ? "off" : ""} ${long ? "weekend" : ""}" data-day="${day}" aria-label="${formatDate(day)}${marks ? ", calendar signals" : ""}" aria-pressed="${day === selected}" ${day === today() ? 'aria-current="date"' : ""}>${dateObj(day).getUTCDate()}<span class="dots">${marks}</span></button>`;
+    cells += `<button class="day ${day === selected ? "selected" : ""} ${day === today() ? "today" : ""} ${day.slice(0, 7) !== month ? "off" : ""} ${long ? "weekend" : ""} ${marks && h.length ? "has-holiday" : ""} ${layers.bookings && opening.length ? "has-booking" : ""}" ${i >= visibleDays ? "hidden" : ""} data-day="${day}" aria-label="${formatDate(day)}${marks ? ", calendar signals" : ""}" aria-pressed="${day === selected}" ${day === today() ? 'aria-current="date"' : ""}>${dateObj(day).getUTCDate()}<span class="dots">${marks}</span></button>`;
   }
   const selectedRows = rows.filter(
     (h) =>
@@ -411,25 +529,27 @@ function calendar() {
     ? blocks.find((b) => b.includes(selected))
     : null;
   const demand = signal(selected, state);
-  return `${hero("temple_darshan", "India Calendar", "Holidays · festivals · booking openings")}<div class="chips"><button class="chip" data-layer="all" aria-pressed="${Object.values(layers).every(Boolean)}">All</button>${Object.entries(
+  return `${hero("temple_darshan", "India Calendar", "Holidays · Festivals · Long Weekends")}<div class="chips"><button class="chip" data-layer="all" aria-pressed="${Object.values(layers).every(Boolean)}">All</button>${Object.entries(
     layerLabels,
   )
+    .filter(([key]) => key !== "bookings")
     .map(
       ([key, label]) =>
-        `<button class="chip" data-layer="${key}" aria-pressed="${layers[key]}">${label}</button>`,
+        `<button class="chip" data-layer="${key}" aria-pressed="${layers[key]}">${{ holidays: "Holidays", festivals: "Festivals", weekends: "Long Weekend", demand: "High Demand" }[key]}</button>`,
     )
     .join(
       "",
-    )}</div><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label><div class="calendar-layout"><section class="card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div><button class="bd-secondary full" id="calendar-today">Today</button><p class="hint">● Public holiday / saved opening · ◆ Festival · pale amber: derived long weekend.</p></section><section class="card detail-list"><div><small>${formatDate(selected)}</small><h2>${esc(state)}</h2></div>${selectedRows.map((h) => `<article><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><small>Reviewed ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price or availability prediction.</small></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div>${coverage()}`;
+    )}</div><div class="calendar-layout"><section class="card calendar-card"><div class="month-controls"><button class="icon-button" data-month="-1" aria-label="Previous month">‹</button><select id="month-select" aria-label="Month">${Array.from({ length: 12 }, (_, i) => `<option value="${i + 1}" ${i === m ? "selected" : ""}>${new Intl.DateTimeFormat("en-IN", { month: "long", timeZone: "UTC" }).format(new Date(Date.UTC(year, i, 1)))}</option>`).join("")}</select><select id="year-select" aria-label="Year">${Array.from({ length: 201 }, (_, i) => `<option ${1900 + i === year ? "selected" : ""}>${1900 + i}</option>`).join("")}</select><button class="icon-button" data-month="1" aria-label="Next month">›</button></div><div class="date-grid">${["S", "M", "T", "W", "T", "F", "S"].map((w) => `<span class="weekday">${w}</span>`).join("")}${cells}</div></section><section class="card detail-list"><div><small>${formatDate(selected)} · ${esc(state)}</small></div>${selectedRows.map((h) => `<article><img class="holiday-thumbnail" src="/art/banners/temple_darshan.webp" alt=""><div><h3>${esc(h.name)}</h3><span class="badge">${esc(h.type.replaceAll("_", " "))}</span><span class="badge green">${esc(h.status)}</span><p>${esc(h.note)}</p><details class="coverage-details"><summary>Official source &amp; review</summary><small>Reviewed ${h.reviewed} · ${esc(h.jurisdictions.join(", "))}</small><p><a href="${esc(h.source)}" target="_blank" rel="noopener">Official source ↗</a></p></details></div></article>`).join("")}${bookings.map((p) => `<a href="#/detail/${p.id}"><h3>${esc(p.title)}</h3><p>Booking opens ${p.result.opening_time || "time unknown"} →</p></a>`).join("")}${block ? `<div><span class="badge orange">${block.length} day long weekend</span><p>${formatDate(block[0])} – ${formatDate(block.at(-1))}. Assumes Saturday and Sunday off; check your employer schedule.</p></div>` : ""}${layers.demand ? `<div class="demand-summary">${icon("demand")}<div><h3>${demand.label} expected demand</h3><p>${esc(demand.reasons.join(", ") || "No verified local data for this date.")}.</p><small>Calendar heuristic; no price prediction.</small></div></div>` : ""}${selectedRows.length || bookings.length ? "" : "<p>No matching verified records or saved openings for this date. This does not mean the date is a working day.</p>"}</section></div><details class="coverage-details"><summary>Calendar options &amp; coverage</summary><button class="bd-secondary full" id="calendar-today">Today</button><p class="hint">● Public holiday / saved opening · ◆ Festival · pale amber: derived long weekend.</p><details class="coverage-details calendar-overlay"><summary>Destination overlay</summary><label>Destination overlay (optional)<select id="overlay" class="bd-input"><option value="">Home: ${esc(settings.state)}</option>${stateOptions(overlay)}</select></label></details>${coverage()}</details>`;
 }
 function insights() {
+  const state = overlay || "Kerala";
   return (
     hero(
       "kerala_backwaters",
-      "Travel <span>Insights</span>",
-      "Plan around known dates, with the reasons in view.",
+      `<small>TRAVEL INSIGHTS</small><br>${esc(state)}`,
+      "Backwaters · Beaches · Hill Stations",
     ) +
-    `<form id="insights-form" class="card"><div class="fields"><label>Destination state / UT<select class="bd-input" name="state">${stateOptions(overlay || settings.state)}</select></label>${field("Travel date", "date", "date", selected, 'required min="1900-01-01" max="2100-12-31"')}${field("Stay duration (days)", "duration", "number", "3", 'min="1" max="30" required')}</div><button class="bd-primary full">Explore calendar signals</button></form><div id="insights-result" aria-live="polite"></div>${coverage()}`
+    `<form id="insights-form" class="insights-filters"><label>${categoryIcon("location")}<span>Destination<select class="bd-input" name="state">${stateOptions(state)}</select></span></label><label>${categoryIcon("calendar")}<span>Travel Date<input class="bd-input" name="date" type="date" value="${selected}" min="1900-01-01" max="2100-12-31" required></span></label><label>${categoryIcon("hotels")}<span>Stay<input class="bd-input" name="duration" type="number" value="3" min="1" max="30" required aria-label="Stay duration in days"></span></label><button class="text-button" type="submit">Update insights</button></form><div class="insights-title">${icon("bulb")}<div><h2>Travel Insights</h2><p>Plan smarter with calendar travel insights</p></div></div><div id="insights-result" aria-live="polite"></div><details class="coverage-details"><summary>Sources &amp; coverage</summary>${coverage()}</details>`
   );
 }
 function renderInsights(form) {
@@ -460,39 +580,22 @@ function renderInsights(form) {
     );
     if (rank < score) alternatives.push(day);
   }
+
   $("#insights-result").innerHTML =
-    `<h2>Your travel insights</h2><div class="two-up"><div class="card"><span class="badge ${score === 2 ? "orange" : ""}">${score === 2 ? "High" : score === 1 ? "Moderate" : "Insufficient data"} expected demand</span><p>${esc(reasons.join(", ") || "No verified destination events in this curated dataset.")}.</p></div><div class="card"><h3>Nearby verified dates</h3>${nearby.map((h) => `<p>${esc(h.name)}<br><small>${formatDate(h.date)}</small></p>`).join("") || "<p>No verified nearby records.</p>"}</div><div class="card"><h3>Long weekends</h3>${blocks.map((b) => `<p>${formatDate(b[0])} – ${formatDate(b.at(-1))}</p>`).join("") || "<p>No derived long weekend during this stay.</p>"}</div><div class="card"><h3>Fewer known signals</h3>${
+    `<div class="insight-grid"><article class="insight-card demand-card"><div>${icon("demand")}<span><h3>${score === 2 ? "High Demand" : score === 1 ? "Moderate Demand" : "Limited Data"}</h3><span class="badge">${score ? "Calendar signal" : "Coverage incomplete"}</span></span></div><p>${esc(reasons.join(", ") || "No verified destination events in this curated dataset.")}.</p></article><article class="insight-card holiday-card"><div>${icon("calendar")}<span><h3>Nearby Holiday</h3><span class="badge">${nearby.length ? esc(nearby[0].name) : "No known records"}</span></span></div><p>${nearby.map((h) => `${esc(h.name)} (${shortDate(h.date)})`).join(" · ") || "No verified nearby dates in the available records."}</p></article><article class="insight-card weekend-card"><div>${icon("calendar")}<span><h3>Long Weekend</h3><span class="badge">${blocks.length ? "Great for Travel" : "Check your dates"}</span></span></div><p>${blocks.map((b) => `${b.length}-day weekend: ${shortDate(b[0])} – ${shortDate(b.at(-1))}`).join(" · ") || "No derived long weekend during this stay."}</p></article><article class="insight-card alternate-card"><div>${icon("check")}<span><h3>Alternate Dates</h3><span class="badge">Fewer known signals</span></span></div><p>${
       alternatives
         .slice(0, 3)
-        .map((d) => `<p>${formatDate(d)}</p>`)
-        .join("") || "<p>No lower-signal dates found in the adjacent week.</p>"
-    }</div></div><p class="hint">These estimates use weekends and verified calendar records. Missing coverage prevents a reliable Low label. Alternative dates have fewer known signals; they are not verified cheaper dates. Long weekends assume Saturday and Sunday off.</p><a class="bd-primary full" href="#/book/hotels">Plan a stay →</a>`;
+        .map((d) => shortDate(d))
+        .join(" · ") || "No lower-signal dates found in the adjacent week."
+    }</p></article></div><a class="bd-primary full reminder-action" href="#/book/hotels">${icon("bell")}Track This Trip${icon("chevron")}</a><p class="insight-caption">Save a stay plan and export a calendar reminder.</p><details class="coverage-details"><summary>How these insights work</summary><p class="hint">These estimates use weekends and verified calendar records. Missing coverage prevents a reliable Low label. Alternative dates have fewer known signals; prices and availability are not predicted. Long weekends assume Saturday and Sunday off.</p></details>`;
 }
+
 function more() {
   const toggle = (key, label, sub, ico) =>
-    `<label class="settings-row"><div>${icon(ico)}<span><strong>${label}</strong><small>${sub}</small></span></div><input type="checkbox" data-setting="${key}" ${key === "dark" ? (settings.dark ? "checked" : "") : settings.layers[key] ? "checked" : ""}></label>`;
+    `<label class="settings-row setting-${key}"><div>${icon(ico)}<span><strong>${label}</strong><small>${sub}</small></span></div><input type="checkbox" data-setting="${key}" ${key === "dark" ? (settings.dark ? "checked" : "") : settings.layers[key] ? "checked" : ""}></label>`;
   return (
-    intro("Settings", "Make BookDay work for your plans.") +
-    `<div class="settings-list"><label class="settings-row"><span><strong>Home state / UT</strong><small>Choose from all 36 jurisdictions</small></span><select id="settings-state" class="bd-input">${stateOptions(settings.state)}</select></label><label class="settings-row"><span><strong>District (optional)</strong><small>Stored locally; district records not available yet</small></span><input id="district" class="bd-input" maxlength="80" value="${esc(settings.district)}"></label><div class="settings-row"><span><strong>Language</strong><small>Complete V1 interface</small></span><strong>English</strong></div>${Object.entries(
-      layerLabels,
-    )
-      .map(([key, label]) =>
-        toggle(
-          key,
-          "Show " + label.toLowerCase(),
-          "Affects calendar layers",
-          key === "bookings"
-            ? "clock"
-            : key === "demand"
-              ? "demand"
-              : key === "weekends"
-                ? "long_weekend"
-                : key,
-        ),
-      )
-      .join(
-        "",
-      )}${toggle("dark", "Dark mode", "Use a darker canvas", "moon")}<details><summary>Reminder defaults</summary><p class="hint">For ICS exports only. Google Calendar uses its own notification settings.</p>${offsetChecks(settings.offsets, "default-offset")}<label>Custom offset (minutes before)<input class="bd-input" id="default-custom" type="number" min="0" max="525600" value="${settings.offsets.find((n) => ![0, 60, 1440, 10080].includes(n)) ?? ""}"></label><button class="bd-primary full" id="save-offsets">Save reminder defaults</button></details><details><summary>Manage Home categories</summary>${catalog.categories.map((c) => `<label class="check-row"><input type="checkbox" data-category="${c.id}" ${settings.hidden.includes(c.id) ? "" : "checked"}>${esc(c.label)}</label>`).join("")}<p class="hint">All 14 categories remain available in Explore.</p></details><a class="settings-row" href="#/reminders"><strong>Calendar reminders help</strong>→</a><button class="bd-secondary full" id="install-app">Install BookDay</button><button class="bd-secondary full" id="update-app" ${registration?.waiting ? "" : "hidden"}>Apply available update</button><details><summary>About BookDay · 1.0</summary><img class="logo" src="/assets/brand/bookday_logo_horizontal.png" alt="BookDay"><p>Know When to Book. A date planning tool for booking openings, with official-source examples and calendar exports.</p>${coverage()}</details><details><summary>Privacy and device storage</summary><p>No account is required. Titles, routes, saved plans and settings stay in your browser. Calculation dates, rule parameters and category are sent to the BookDay API. Saving a plan does not send it to a server. Calendar and share actions send the selected plan to the destination you choose.</p><p>BookDay does not operate push, email or Telegram reminders. Google Fonts is loaded from Google; system fonts are used offline. Cloudflare processes web requests and operational logs, including request metadata. Form bodies are not logged by the app.</p><p>Use ICS or your calendar to retain reminders before clearing browser storage. Device data is not synced.</p></details><details><summary>Data and booking information</summary><p>Holiday coverage is incomplete. Festival, public holiday, bank, school and local-event records have different meanings. The app has no live availability or pricing integrations. Verify provider exceptions and your employer's holiday schedule.</p></details></div>`
+    intro("Settings", "") +
+    `<div class="settings-list"><label class="settings-row"><div>${categoryIcon("location")}<span><strong>State</strong><small>Select your state for accurate holidays</small></span></div><select id="settings-state" class="bd-input">${stateOptions(settings.state)}</select></label><div class="settings-row"><div>${categoryIcon("language")}<span><strong>Language</strong><small>Interface language</small></span></div><strong class="setting-value">English</strong></div>${toggle("holidays", "Show Holidays", "Display public holidays in calendar", "calendar")}${toggle("festivals", "Show Festivals", "Display festivals in your calendar", "festivals")}${toggle("weekends", "Show Long Weekends", "Highlight long weekend opportunities", "tourism")}<a class="settings-row" href="#/reminders"><div>${icon("bell")}<span><strong>Calendar Reminders</strong><small>Get reminders from your calendar app</small></span></div>${icon("chevron")}</a>${toggle("dark", "Dark Mode", "Switch to a dark theme", "moon")}<details><summary>${categoryIcon("clock")}Reminder Time</summary><p class="hint">ICS reminders before the booking opening. Google Calendar uses its own notification settings.</p>${offsetChecks(settings.offsets, "default-offset")}<label>Custom offset (minutes before)<input class="bd-input" id="default-custom" type="number" min="0" max="525600" value="${settings.offsets.find((n) => ![0, 60, 1440, 10080].includes(n)) ?? ""}"></label><button class="bd-primary full" id="save-offsets">Save reminder defaults</button></details><details><summary>${categoryIcon("custom")}Manage Categories</summary>${catalog.categories.map((c) => `<label class="check-row"><input type="checkbox" data-category="${c.id}" ${settings.hidden.includes(c.id) ? "" : "checked"}>${esc(c.label)}</label>`).join("")}<p class="hint">All 14 categories remain available in Explore.</p></details><details class="about-card"><summary><img class="logo" src="/art/logo.webp" alt="BookDay"><small>Version 1.1.0<br>Plan Today, Book Smarter</small></summary><p>Know When to Book. Plan booking openings and export calendar reminders.</p>${coverage()}</details><details><summary>Additional preferences</summary><label class="settings-row"><span><strong>District (optional)</strong><small>Stored locally; district records not available yet</small></span><input id="district" class="bd-input" maxlength="80" value="${esc(settings.district)}"></label>${toggle("bookings", "Show Booking Openings", "Saved openings in your calendar", "clock")}${toggle("demand", "Show Demand Signals", "Calendar estimates", "demand")}<button class="bd-secondary full" id="install-app">Install BookDay</button><button class="bd-secondary full" id="update-app" ${registration?.waiting ? "" : "hidden"}>Apply available update</button></details><details><summary>Privacy and device storage</summary><p>No account is required. Titles, routes, saved plans and settings stay in your browser. Calculation dates, rule parameters and category are sent to the BookDay API. Saving a plan does not send it to a server. Calendar and share actions send the selected plan to the destination you choose.</p><p>BookDay does not operate push, email or Telegram reminders. The interface font is bundled for online and offline use. Cloudflare processes web requests and operational logs, including request metadata. Form bodies are not logged by the app.</p><p>Use ICS or your calendar to retain reminders before clearing browser storage. Device data is not synced.</p></details><details><summary>Data and booking information</summary><p>Holiday coverage is incomplete. Festival, public holiday, bank, school and local-event records have different meanings. The app has no live availability or pricing integrations. Verify provider exceptions and your employer's holiday schedule.</p></details></div>`
   );
 }
 function offsetChecks(offsets, cls) {
@@ -538,6 +641,7 @@ function render() {
   else if (route === "insights") html = insights();
   else if (route === "reminders") html = reminders();
   else html = more();
+  document.body.dataset.route = route;
   $("#main").innerHTML = html;
   document.title = `${{ home: "Home", explore: "Explore", calendar: "India Calendar", saved: "Saved", book: "Booking Planner", result: "Booking Result", detail: "Booking Details", insights: "Travel Insights", reminders: "Calendar Reminders" }[route] || "Settings"} · BookDay`;
   for (const link of document.querySelectorAll(".bd-navitem")) {
@@ -553,6 +657,7 @@ function render() {
   }
   window.htmx.process($("#main"));
   updateRuleFields();
+  if (route === "insights") renderInsights($("#insights-form"));
 }
 function findPlan(id) {
   return currentPlan?.id === id ? currentPlan : plans.find((p) => p.id === id);
@@ -699,6 +804,28 @@ document.addEventListener("click", async (event) => {
   const el = event.target.closest("button,a");
   if (!el) return;
   try {
+    if (el.dataset.rule) {
+      $("#rule-mode").value = el.dataset.rule;
+      updateRuleFields();
+    }
+    if (el.id === "show-rule-options") {
+      event.preventDefault();
+      $("#rule-options").open = true;
+      $("#rule-options").scrollIntoView({ block: "center" });
+    }
+    if (el.dataset.miniDay || el.dataset.miniMonth) {
+      const field = $("#booking-form").elements.event_date;
+      if (el.dataset.miniDay) field.value = el.dataset.miniDay;
+      else {
+        const d = dateObj(field.value);
+        d.setUTCDate(1);
+        d.setUTCMonth(d.getUTCMonth() + Number(el.dataset.miniMonth));
+        if (d.getUTCFullYear() < 1900 || d.getUTCFullYear() > 2100) return;
+        field.value = iso(d);
+      }
+      $("#journey-calendar").innerHTML = miniCalendar(field.value);
+      updatePrettyDates();
+    }
     if (el.dataset.action) {
       const p = findPlan(el.dataset.id);
       if (!p) return;
@@ -821,7 +948,12 @@ document.addEventListener("change", (event) => {
     settings.district = el.value;
     saveSettings();
   }
-  if (el.id === "rule-mode") updateRuleFields();
+  if (el.id === "rule-mode" || el.name === "amount") updateRuleFields();
+  if (el.name === "event_date" && validDate(el.value))
+    $("#journey-calendar").innerHTML = miniCalendar(el.value);
+  if (el.closest(".date-field")) updatePrettyDates();
+  if (el.closest("#insights-form") && $("#insights-form").checkValidity())
+    renderInsights($("#insights-form"));
   if (el.dataset.setting) {
     const key = el.dataset.setting;
     if (key === "dark") settings.dark = el.checked;
@@ -887,10 +1019,11 @@ try {
     }
   }, 1000);
   if ("serviceWorker" in navigator) {
+    const alreadyControlled = Boolean(navigator.serviceWorker.controller);
     registration = await navigator.serviceWorker.register("/sw.js");
-    navigator.serviceWorker.addEventListener("controllerchange", () =>
-      location.reload(),
-    );
+    navigator.serviceWorker.addEventListener("controllerchange", () => {
+      if (alreadyControlled) location.reload();
+    });
     registration.addEventListener("updatefound", () => {
       const worker = registration.installing;
       worker?.addEventListener("statechange", () => {

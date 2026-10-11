@@ -16,13 +16,9 @@
       name="htmx-config"
       content='{"includeIndicatorStyles":false,"allowEval":false}'
     />
-    <link rel="icon" href="/assets/brand/favicon.ico" />
-    <link
-      rel="apple-touch-icon"
-      href="/assets/brand/apple_touch_icon_180.png"
-    />
+    <link rel="icon" href="/art/app-icon.svg" />
+    <link rel="apple-touch-icon" href="/art/app_icon_192.png" />
     <link rel="manifest" href="/manifest.webmanifest" />
-    <link rel="stylesheet" href="/assets/theme.css" />
     <link rel="stylesheet" href="/app.css" />
     <script src="/vendor/htmx.min.js" defer></script>
     <script src="/app.js" type="module"></script>
@@ -31,13 +27,19 @@
     <a class="skip-link" href="#main">Skip to content</a>
     <div class="app-shell">
       <header class="app-header">
+        <a
+          class="planner-back icon-button"
+          href="#/explore"
+          aria-label="Back to Explore"
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#back"></use></svg
+        ></a>
         <a href="#/home" aria-label="BookDay Home"
-          ><img
-            class="logo"
-            src="/assets/brand/bookday_logo_horizontal.png"
-            alt="BookDay" /></a
+          ><img class="logo" src="/art/logo.webp" alt="BookDay" /></a
         ><label class="state-pill"
-          ><img src="/assets/icons/location.svg" alt="" /><select
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#location"></use></svg
+          ><select
             id="home-state"
             aria-label="Home state or Union Territory"
           ></select></label
@@ -45,23 +47,34 @@
           class="icon-button"
           href="#/reminders"
           aria-label="Calendar reminders help"
-          ><img src="/assets/icons/bell.svg" alt=""
-        /></a>
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#bell"></use></svg
+        ></a>
       </header>
       <main id="main" tabindex="-1">
         <p class="loading">Loading your planner…</p>
       </main>
       <nav class="bd-bottomnav" aria-label="Primary navigation">
         <a class="bd-navitem" href="#/home"
-          ><img src="/assets/icons/home.svg" alt="" />Home</a
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#home"></use></svg
+          >Home</a
         ><a class="bd-navitem" href="#/explore"
-          ><img src="/assets/icons/explore.svg" alt="" />Explore</a
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#explore"></use></svg
+          >Explore</a
         ><a class="bd-navitem" href="#/calendar"
-          ><img src="/assets/icons/calendar.svg" alt="" />Calendar</a
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#calendar"></use></svg
+          >Calendar</a
         ><a class="bd-navitem" href="#/saved"
-          ><img src="/assets/icons/saved.svg" alt="" />Saved</a
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#saved"></use></svg
+          >Saved</a
         ><a class="bd-navitem" href="#/more"
-          ><img src="/assets/icons/more.svg" alt="" />More</a
+          ><svg class="icon" aria-hidden="true">
+            <use href="/art/icons.svg#more"></use></svg
+          >More</a
         >
       </nav>
     </div>

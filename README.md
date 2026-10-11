@@ -63,6 +63,19 @@ A conventional ASGI host can use the same entrypoint and date logic. For a produ
 
 ## Privacy and limitations
 
-Plans, routes, titles, reminder offsets and settings are device-local. Calculation requests send only dates, rule values and category. Calendar export/share sends the selected fields to the user's chosen destination. Cloudflare handles request metadata and operational logs; the application does not log form bodies. Poppins uses Google Fonts and falls back to system fonts offline.
+Plans, routes, titles, reminder offsets and settings are device-local. Calculation requests send only dates, rule values and category. Calendar export/share sends the selected fields to the user's chosen destination. Cloudflare handles request metadata and operational logs; the application does not log form bodies. Roboto is bundled locally under its SIL Open Font License, including offline use.
 
-No live prices, seats, slot availability, automatic purchases, sign-in, push/email/Telegram delivery or background reminder scheduler is implemented. Calendar apps deliver reminders after save/import according to their settings. Source art comes from the supplied BookDay Style 2 kit; the supplied original logo and individual SVG illustrations are reused, and photographic mockup backgrounds are not available in that kit. HTMX's license is included in `public/vendor/HTMX-LICENSE.txt`.
+No live prices, seats, slot availability, automatic purchases, sign-in, push/email/Telegram delivery or background reminder scheduler is implemented. Calendar apps deliver reminders after save/import according to their settings. All artwork was newly generated from the eight screenshot references; the supplied design-kit assets are no longer served. The mobile layouts preserve the references' colors, card arrangement and visual hierarchy, with dynamic dates and truthful service behavior. The device bezel and operating-system status bar belong to the reference mockups and are not drawn into the web app. HTMX's license is included in `public/vendor/HTMX-LICENSE.txt`.
+
+## Artwork and browser regression
+
+The 36 new raster images live in `public/art/`; vector UI icons are in `public/art/icons.svg`. [Artwork prompts](docs/artwork.json) record each new asset, its saved path and its built-in image-generation prompt. `scripts/package_art.mjs` resizes and encodes generated PNG originals into sharp WebP assets. PNG originals are kept in the image-generation library; the deployable files are committed here. Original user inputs are preserved locally in the ignored `reference-inputs/` folder. The extracted design-kit folder and obsolete served assets were removed.
+
+The committed browser suite covers all categories, planning, saved-plan menus, calendar exports, settings, source-backed insights, responsive layouts, first installation, malformed storage and offline exports:
+
+```powershell
+npx --yes --package @playwright/cli playwright-cli open http://localhost:8787
+npx --yes --package @playwright/cli playwright-cli run-code --filename tests/ui-regression.js
+```
+
+Use an isolated test browser. The suite creates a temporary browser context and does not alter the normal user's plans. Local visual captures are saved under ignored `output/playwright/`. Physical calendar-client checks and Cloudflare CPU limitations are described in the QA and deployment notes.

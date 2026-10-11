@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs><style>symbol{stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}</style></defs>
+  <symbol id="home" viewBox="0 0 24 24"><path d="m3 10 9-8 9 8v11h-6v-8H9v8H3z"/></symbol>
+  <symbol id="explore" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m16.8 7.2-3 6.6-6.6 3 3-6.6z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="calendar" viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="17" rx="2"/><path d="M7 2v6m10-6v6M3 10h18"/><path d="M7 14h.01M12 14h.01M17 14h.01M7 18h.01M12 18h.01M17 18h.01" stroke-width="3"/></symbol>
+  <symbol id="saved" viewBox="0 0 24 24"><path d="M12 21C-5 10 5-2 12 6c7-8 17 4 0 15Z"/></symbol>
+  <symbol id="more" viewBox="0 0 24 24"><circle cx="4" cy="12" r="1.7" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.7" fill="currentColor" stroke="none"/><circle cx="20" cy="12" r="1.7" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="bell" viewBox="0 0 24 24"><path d="M5 9a7 7 0 0 1 14 0c0 7 2 8 2 8H3s2-1 2-8m4 11a3 3 0 0 0 6 0M12 1v2"/></symbol>
+  <symbol id="search" viewBox="0 0 24 24"><circle cx="10" cy="10" r="7"/><path d="m15 15 6 6"/></symbol>
+  <symbol id="back" viewBox="0 0 24 24"><path d="m15 4-8 8 8 8"/></symbol>
+  <symbol id="chevron" viewBox="0 0 24 24"><path d="m9 4 8 8-8 8"/></symbol>
+  <symbol id="arrow" viewBox="0 0 24 24"><path d="M2 12h19m-8-8 8 8-8 8"/></symbol>
+  <symbol id="location" viewBox="0 0 24 24"><path d="M12 23S3 14 3 9a9 9 0 0 1 18 0c0 5-9 14-9 14Z" fill="currentColor" stroke="none"/><circle cx="12" cy="9" r="3" fill="white" stroke="none"/></symbol>
+  <symbol id="clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 5v7l5 3"/></symbol>
+  <symbol id="check" viewBox="0 0 24 24"><path d="m4 12 5 5L21 5" stroke-width="3"/></symbol>
+  <symbol id="share" viewBox="0 0 24 24"><circle cx="5" cy="12" r="3"/><circle cx="19" cy="4" r="3"/><circle cx="19" cy="20" r="3"/><path d="m8 10 8-5M8 14l8 5"/></symbol>
+  <symbol id="plus" viewBox="0 0 24 24"><path d="M12 3v18M3 12h18" stroke-width="2.5"/></symbol>
+  <symbol id="trains" viewBox="0 0 24 24"><rect x="5" y="1" width="14" height="18" rx="4" fill="currentColor" stroke="none"/><rect x="7" y="4" width="10" height="6" rx="1" fill="white" stroke="none"/><circle cx="8" cy="15" r="1.5" fill="white" stroke="none"/><circle cx="16" cy="15" r="1.5" fill="white" stroke="none"/><path d="m8 18-3 5m11-5 3 5M5 22h14"/></symbol>
+  <symbol id="flights" viewBox="0 0 24 24"><path d="m22 2-3 9 2 6-2 2-5-4-5 4v3l-2 1-2-5-5-2 1-2h3l4-5-4-5 2-2 6 2Z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="buses" viewBox="0 0 24 24"><rect x="4" y="2" width="16" height="19" rx="5" fill="currentColor" stroke="none"/><path d="M7 6h10v7H7z" fill="white" stroke="none"/><circle cx="8" cy="17" r="1.5" fill="white" stroke="none"/><circle cx="16" cy="17" r="1.5" fill="white" stroke="none"/><path d="M6 21v2m12-2v2"/></symbol>
+  <symbol id="hotels" viewBox="0 0 24 24"><path d="M2 21V5m20 16V10a3 3 0 0 0-3-3h-7v8M2 15h20M4 7h5v6H4Z" stroke-width="3"/></symbol>
+  <symbol id="movies" viewBox="0 0 24 24"><circle cx="10" cy="10" r="9" fill="currentColor" stroke="none"/><circle cx="7" cy="6" r="2" fill="white" stroke="none"/><circle cx="14" cy="6" r="2" fill="white" stroke="none"/><circle cx="6" cy="13" r="2" fill="white" stroke="none"/><circle cx="13" cy="13" r="2" fill="white" stroke="none"/><path d="m14 18 8 4-2-7" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="temples" viewBox="0 0 24 24"><path d="M12 1 8 4v3H6v4H4v5H2v7h8v-5h4v5h8v-7h-2v-5h-2V7h-2V4Z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="events" viewBox="0 0 24 24"><path d="M2 5h20v5a2 2 0 0 0 0 4v5H2v-5a2 2 0 0 0 0-4Z" fill="currentColor" stroke="none"/><path d="m12 7 1.5 3 3.5.5-2.5 2.5.5 3.5-3-1.5-3 1.5.5-3.5L7 10.5l3.5-.5Z" fill="white" stroke="none"/></symbol>
+  <symbol id="tourism" viewBox="0 0 24 24"><path d="M12 8c-3-8-9-6-11-2 4-1 6 0 8 3-5-3-9 0-8 5 3-3 5-4 9-3L8 23h7L13 9c4-3 7-2 10 1 1-7-6-10-11-2Z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="appointments" viewBox="0 0 24 24"><use href="#calendar"/></symbol>
+  <symbol id="government" viewBox="0 0 24 24"><path d="m12 1 11 7H1Zm-9 20h18M1 23h22M5 10v9m7-9v9m7-9v9" stroke-width="3"/></symbol>
+  <symbol id="education" viewBox="0 0 24 24"><path d="m1 7 11-6 11 6-11 6Zm4 4v7c5 4 9 4 14 0v-7M22 8v11" fill="currentColor"/></symbol>
+  <symbol id="custom" viewBox="0 0 24 24"><rect x="1" y="1" width="9" height="9" rx="2" fill="currentColor" stroke="none"/><rect x="14" y="1" width="9" height="9" rx="2" fill="currentColor" stroke="none"/><rect x="1" y="14" width="9" height="9" rx="2" fill="currentColor" stroke="none"/><rect x="14" y="14" width="9" height="9" rx="2" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="sports" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m12 6 5 4-2 6H9l-2-6Zm0-4v4M2 8l5 2m15-2-5 2M6 20l3-4m9 4-3-4"/></symbol>
+  <symbol id="healthcare" viewBox="0 0 24 24"><path d="M9 1h6v8h8v6h-8v8H9v-8H1V9h8Z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="demand" viewBox="0 0 24 24"><path d="M3 22v-5m7 5V12m7 10V7M2 12l7-5 6 1 7-7m-5 0h5v5" stroke-width="3"/></symbol>
+  <symbol id="moon" viewBox="0 0 24 24"><path d="M21 15A10 10 0 0 1 9 2a10 10 0 1 0 12 13Z" fill="currentColor" stroke="none"/></symbol>
+  <symbol id="language" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4" ry="10"/><path d="M2 12h20M4 6h16M4 18h16"/></symbol>
+  <symbol id="festivals" viewBox="0 0 24 24"><path d="M12 1v5m0 12v5M1 12h5m12 0h5M4 4l4 4m8 8 4 4M4 20l4-4m8-8 4-4" stroke-width="2.5"/></symbol>
+  <symbol id="bulb" viewBox="0 0 24 24"><path d="M8 19c0-5-4-5-4-10a8 8 0 1 1 16 0c0 5-4 5-4 10ZM9 22h6" fill="currentColor"/><path d="M12 0v-2M1 1l-2-2M23 1l2-2"/></symbol>
+  <symbol id="bolt" viewBox="0 0 24 24"><path d="m14 1-9 13h6l-1 9 10-14h-7Z" fill="currentColor" stroke="none"/></symbol>
+</svg>

@@ -12,8 +12,10 @@ The proof of concept used FastAPI via `workers.asgi.entrypoint`, a compiled Jinj
 | --- | --- | ---: | ---: |
 | Initial proof of concept | `b6055117-49a9-4704-9102-841263dd2a24` | 2498 ms | 2473.12 KiB |
 | Complete V1 first deployment | `66665067-f1bd-4d7a-a444-3377e795baed` | 2561 ms | 2474.02 KiB |
+| Formatted V1 deployment | `f593c2ab-0a98-4690-a6fd-cb5bc09d2e0f` | 2137 ms | 2474.02 KiB |
+| Screenshot-guided visual rebuild | `5350e92a-428c-43d5-8ed9-6c0a94029967` | 2248 ms | 2474.02 KiB |
 
-The source was subsequently formatted and calendar titles clarified. Static assets route directly through Cloudflare's asset store; only `/api/*` and `/fragments/*` invoke Python. No database or paid API is provisioned. No billing plan upgrade was requested or enabled.
+The visual rebuild replaces the entire served design kit with 36 newly generated images, a new vector icon sprite and a bundled licensed font. It adds the compact reference layouts while preserving date calculations and device-local storage. Static assets route directly through Cloudflare's asset store; only `/api/*` and `/fragments/*` invoke Python. No database or paid API is provisioned. No billing plan upgrade was requested or enabled. The Python runtime and calculation code are unchanged; the CPU evidence below remains a limitation, and no new strict Free-tier capacity claim is made.
 
 ## CPU evidence
 

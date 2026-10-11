@@ -1,0 +1,326 @@
+[
+  {
+    "name": "home_india",
+    "path": "/art/banners/home_india.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay mobile home hero background, wide landscape 16:10. Generate brand NEW artwork guided by the reference image, NOT a screenshot reproduction. Subject: Mahabalipuram Shore Temple at golden orange sunset, detailed carved granite elephant rocks on LEFT foreground, two historic temple towers center, Indian Ocean waves on right, palms and beautiful glowing sunset blue-to-orange sky. Match the home banner inside the attached reference, vivid high-end photographic realism, warm gold light, crisp fine textures. Full bleed rectangular scenery, NO phone, NO UI, NO text, NO logos, NO rounded corners. Keep lower left relatively dark for HTML headline. Reference image role: visual composition and lighting only.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "train_journey",
+    "path": "/art/banners/train_journey.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app train_journey. Primary request: Wide 16:9 full-bleed cinematic photograph of a modern Indian white-and-blue Vande Bharat train approaching on tracks, large front at center-right, train receding to far right. Kerala palms and dark green hills on left, warm orange sunset and glowing golden platform on right. Match reference train banner, high detail. Dark empty foliage at left for heading. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "temple_darshan",
+    "path": "/art/banners/temple_darshan.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app temple_darshan. Primary request: Wide 16:9 full-bleed photograph of majestic golden Tamil Nadu gopuram temple beside a reflective pond at warm sunset. Huge tower at right, palms at left, blue-and-gold-orange sky. Match calendar reference banner. Leave dark space bottom left for headline. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "kerala_backwaters",
+    "path": "/art/banners/kerala_backwaters.webp",
+    "width": 1280,
+    "height": 801,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app kerala_backwaters. Primary request: Wide 16:10 full-bleed photorealistic golden sunset over Kerala backwaters. Traditional ornate wooden houseboat center-right reflected in lake, abundant coconut palms left, hazy green mountain horizon, orange sun at right. Match travel insights reference exactly in mood and composition. Dark lower-left for HTML title. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "india_festivals",
+    "path": "/art/banners/india_festivals.webp",
+    "width": 1280,
+    "height": 720,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app india_festivals. Primary request: Landscape full-bleed scene: Diwali festival beside glowing golden Tamil Nadu temple at night, rich navy night sky with red and gold fireworks, bright lit oil lamps in foreground reflected on water. Match the small Diwali card in home reference. No lettering, realistic richly detailed warm photograph. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "celebration",
+    "path": "/art/celebration.webp",
+    "width": 1280,
+    "height": 853,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay web app celebration. Primary request: Wide 3:2 illustration: a large glossy royal blue and white calendar with two white binder rings and a big white checkmark on blue central square, shiny orange-rimmed alarm clock in front at bottom-right. Cheerful yellow orange blue green confetti, a few pale cream and pale blue cloud shapes. Isolated transparent background. Match celebratory illustration above Great News in reference. Beautiful premium smooth 3D, crisp beveled edges, soft studio light. No text, no UI, no phone. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "logo",
+    "path": "/art/logo.webp",
+    "width": 1000,
+    "height": 228,
+    "prompt": "Use case: logo-brand. Asset type: BookDay web app logo. Primary request: Generate a brand new horizontal BookDay logo closely matching reference. Transparent background. At LEFT a small premium glossy 3D blue-and-white calendar with white blue binder rings, blue central checkmark; orange-rimmed small clock overlaps its bottom-right. To its right exact text 'BookDay' in bold rounded sans typography: 'Book' glossy vivid royal blue gradient, 'Day' glossy orange to red gradient. Logo tightly fills wide 4:1 composition without excess margin, perfectly readable sharp edges. NO other text, NO phone or background. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. Text (verbatim): BookDay.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "trains",
+    "path": "/art/categories/trains.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay trains category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A premium modern green-and-white streamlined passenger train, large front facing lower right with carriages extending left, lush green hills and palm trees, rails at bottom, pastel mint-green backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "flights",
+    "path": "/art/categories/flights.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay flights category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A white passenger jet with bright royal blue tail and engines, pointing up-right in flight, soft white fluffy clouds, vibrant pale sky blue background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "buses",
+    "path": "/art/categories/buses.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay buses category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A shiny red and orange modern intercity coach bus, three quarter front pointing right, coconut palms behind, tropical road, pastel blush pink sunset backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "hotels",
+    "path": "/art/categories/hotels.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay hotels category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A beautiful golden orange five-story modern HOTEL building with lit windows, tropical palms and landscaping, three-quarter front elevation, pastel cream amber backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "movies",
+    "path": "/art/categories/movies.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay movies category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A red-and-white striped overflowing popcorn bucket and shiny black-and-white movie clapperboard resting diagonally at right, pastel blush pink backdrop. No readable lettering. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "temples",
+    "path": "/art/categories/temples.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay temples category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A richly carved golden South Indian temple gopuram in frontal view, small green landscaping on both sides, pastel pale yellow backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "events",
+    "path": "/art/categories/events.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay events category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: Two glossy purple admission tickets tilted diagonally up-right, big yellow five-pointed star on front ticket, small colorful confetti, pastel lavender background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "tourism",
+    "path": "/art/categories/tourism.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay tourism category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A vivid tropical island with coconut palms on left, dramatic green rocky mountains behind, white sand and crystal turquoise ocean at front, pastel mint turquoise background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "appointments",
+    "path": "/art/categories/appointments.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay appointments category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A glossy blue-and-white binder calendar with two white rings, white checkmark on blue central square; small glossy orange rimmed clock overlapping lower right, pastel blush pink background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "government",
+    "path": "/art/categories/government.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay government category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A stately white Indian government building with central domed roof and green orange white Indian flag on top, palms and lush gardens, pastel blue sky background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "education",
+    "path": "/art/categories/education.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay education category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: Glossy black graduation cap with gold tassel on a stack of shiny red and blue bound books, pastel lavender background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "custom",
+    "path": "/art/categories/custom.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay custom category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: Four separate glossy rounded square 3D buttons arranged 2x2, upper left blue, upper right orange, lower left green, lower right purple with a white plus on the purple square, pastel warm cream backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "sports",
+    "path": "/art/categories/sports.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay sports category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A crisp 3D football beside a cricket bat and red cricket ball, small trophy behind, pastel mint green backdrop. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "healthcare",
+    "path": "/art/categories/healthcare.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: square BookDay healthcare category illustration. Generate a BRAND NEW individual asset matching the corresponding category picture in reference screenshot. Subject: A white medical first aid bag with red cross, blue stethoscope resting alongside it, premium glossy 3D, pastel sky blue background. Style: polished high-end 3D rendering, richly detailed, saturated realistic materials, soft studio light, clean sharp edges. Composition: single coherent square asset full-bleed, subject fills 85% of width, centered, tiny soft shadow; keep lower 12% background clear for separate HTML label. Reference role: visual style/colors/subject only. NO UI, no card borders, NO phone, NO text except HOTEL where relevant, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_trains",
+    "path": "/art/categories/quick_trains.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_trains. Generate NEW artwork based on matching illustration in reference. Subject: green-and-white streamlined modern passenger train, three quarter view pointing right with a short section of rail underneath. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_flights",
+    "path": "/art/categories/quick_flights.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_flights. Generate NEW artwork based on matching illustration in reference. Subject: white passenger airplane with glossy royal blue tail and engines, flying diagonally up-right. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_buses",
+    "path": "/art/categories/quick_buses.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_buses. Generate NEW artwork based on matching illustration in reference. Subject: red and orange luxury modern intercity coach bus, three quarter view pointing right. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_hotels",
+    "path": "/art/categories/quick_hotels.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_hotels. Generate NEW artwork based on matching illustration in reference. Subject: golden-orange five-storey HOTEL building with lit windows, two small palms at each side. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_movies",
+    "path": "/art/categories/quick_movies.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_movies. Generate NEW artwork based on matching illustration in reference. Subject: red-and-white striped popcorn bucket filled with golden popcorn, glossy black and white clapperboard resting at right. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_temples",
+    "path": "/art/categories/quick_temples.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_temples. Generate NEW artwork based on matching illustration in reference. Subject: intricately carved golden Tamil Nadu temple gopuram front view with two tiny green shrubs at base. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_events",
+    "path": "/art/categories/quick_events.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_events. Generate NEW artwork based on matching illustration in reference. Subject: two shiny purple admission tickets with a large yellow five-pointed star, tilted diagonally upward to right. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "quick_tourism",
+    "path": "/art/categories/quick_tourism.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration quick_tourism. Generate NEW artwork based on matching illustration in reference. Subject: tiny tropical island with two palms on left, dramatic green rocky mountain behind, white sand and turquoise water at base. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "railway",
+    "path": "/art/categories/railway.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration railway. Generate NEW artwork based on matching illustration in reference. Subject: a red-and-yellow traditional Indian Railways electric locomotive, three quarter front facing right, subtle pale golden circle behind it. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "upcoming_train",
+    "path": "/art/categories/upcoming_train.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: stylized-concept. Asset type: individual BookDay mobile illustration upcoming_train. Generate NEW artwork based on matching illustration in reference. Subject: modern white-and-blue Vande Bharat passenger train, three quarter front facing right, two carriages extending behind left. Premium richly detailed photorealistic 3D render, rounded polished forms, crisp sharp edges, vibrant saturated materials and soft studio light. Isolated on genuine TRANSPARENT background with a soft subtle contact shadow. Fill 90% of square composition. Reference role: style and composition only. NO UI, no phone, no surrounding scenery, NO text other than HOTEL if applicable, no watermark, no frame.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_trains",
+    "path": "/art/categories/saved_trains.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square vivid photo of a green-and-white streamlined train approaching on railway tracks, lush green mountains, blue sky and white clouds. Match thumbnail in first saved card. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_temples",
+    "path": "/art/categories/saved_temples.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square richly detailed golden South Indian temple tower at warm sunset, temple pool and dark blue orange evening sky behind. Match thumbnail in second saved card. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_movies",
+    "path": "/art/categories/saved_movies.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square cinematic dramatic orange-red movie poster illustration of a rugged Tamil male film protagonist in right profile, dark swept-back hair and trimmed beard, warm red light, a large antique circular gold medallion on left with exact word 'LEO' in embossed serif letters. Original newly generated art matching movie thumbnail mood/composition. No extra lettering. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_hotels",
+    "path": "/art/categories/saved_hotels.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square vivid travel photograph of a golden five-storey tropical resort hotel on right, coconut palms on left, turquoise outdoor swimming pool at bottom, ocean horizon behind, blue sunny sky. Match Goa hotel thumbnail. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "saved_government",
+    "path": "/art/categories/saved_government.webp",
+    "width": 512,
+    "height": 512,
+    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square clean photographic flat lay of dark navy Indian passport with gold embossed Indian emblem and text 'PASSPORT' centered, lying diagonally on pale airline boarding passes and a small blue airplane icon, soft studio light. Match passport thumbnail. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  }
+]

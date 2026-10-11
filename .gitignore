@@ -24,6 +24,7 @@ output-tail.jsonl
 design-assets/
 BookDay_Style2_Complete_Assets.zip
 ChatGPT Image*.png
+reference-inputs/
 .coverage
 .pytest_cache/
 .ruff_cache/

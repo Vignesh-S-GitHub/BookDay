@@ -11,7 +11,7 @@ holidays = json.loads((public / "data/holidays.json").read_text(encoding="utf-8"
 assert len(catalog["categories"]) == 14
 assert len(set(catalog["states"])) == 36
 for category in catalog["categories"]:
-    assert (public / "assets/categories" / f"{category['id']}.svg").is_file()
+    assert (public / "art/categories" / f"{category['id']}.webp").is_file()
 for record in holidays["records"]:
     date.fromisoformat(record["date"])
     assert record["source"].startswith("https://")
@@ -20,16 +20,22 @@ for record in holidays["records"]:
         state == "IN" or state in catalog["states"] for state in record["jurisdictions"]
     )
 for asset in [
-    "brand/bookday_logo_horizontal.png",
-    "brand/app_icon_192.png",
-    "brand/app_icon_512.png",
-    "banners/home_india.svg",
-    "banners/train_journey.svg",
-    "banners/temple_darshan.svg",
-    "banners/hotel_stay.svg",
-    "banners/kerala_backwaters.svg",
+    "logo.webp",
+    "celebration.webp",
+    "app_icon_192.png",
+    "app_icon_512.png",
+    "icons.svg",
+    "banners/home_india.webp",
+    "banners/train_journey.webp",
+    "banners/temple_darshan.webp",
+    "banners/kerala_backwaters.webp",
+    "banners/india_festivals.webp",
 ]:
-    assert (public / "assets" / asset).is_file(), asset
+    assert (public / "art" / asset).is_file(), asset
+assert (public / "fonts/roboto-latin.woff2").is_file()
+assert (public / "fonts/OFL.txt").is_file()
+for file in ["app.js", "app.css", "index.html", "sw.js", "manifest.webmanifest"]:
+    assert "/assets/" not in (public / file).read_text(encoding="utf-8"), file
 print(
     f"Verified assets for 14 categories, 36 jurisdictions and {len(holidays['records'])} sourced calendar records."
 )
