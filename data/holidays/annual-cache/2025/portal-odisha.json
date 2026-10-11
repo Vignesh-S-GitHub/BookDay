@@ -1,0 +1,655 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:54.893593+00:00",
+  "sha256": "1412527ab14eb22ba45feb3b64130074786c1e6a4632d1c0151993624531d433",
+  "rows": [
+    {
+      "id": 2904,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.662Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2905,
+      "attributes": {
+        "title": "Subash Chandra Bose Jayanti/ Vir Surendrasai Jayanti",
+        "date": "2025-01-23",
+        "updatedAt": "2025-01-28T17:52:53.653Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2906,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.653Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2907,
+      "attributes": {
+        "title": "Panchayati Raj Divas",
+        "date": "2025-03-05",
+        "updatedAt": "2025-01-28T17:52:53.640Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2908,
+      "attributes": {
+        "title": "Dola Purnima",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.641Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2909,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-15",
+        "updatedAt": "2025-01-28T17:52:53.641Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2910,
+      "attributes": {
+        "title": "Id-ul-Fitre",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.642Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2911,
+      "attributes": {
+        "title": "Utkal Divas",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.643Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2912,
+      "attributes": {
+        "title": "Maha Vishuva Sankranti/ Dr. B.R. Ambedkar Jayanti",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.644Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2913,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.644Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2914,
+      "attributes": {
+        "title": "Buddha Purnima/ Birthday of Pt.Raghunath Murmu",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.647Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2915,
+      "attributes": {
+        "title": "Sabitri Amabasya",
+        "date": "2025-05-27",
+        "updatedAt": "2025-01-28T17:52:53.652Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2916,
+      "attributes": {
+        "title": "Id-ul-Zuha",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.656Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2918,
+      "attributes": {
+        "title": "Ratha Yatra",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.645Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2919,
+      "attributes": {
+        "title": "Independence Day/ Janmastami",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.646Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2920,
+      "attributes": {
+        "title": "Ganesh Puja",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.646Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2921,
+      "attributes": {
+        "title": "Nuakhai",
+        "date": "2025-08-28",
+        "updatedAt": "2025-01-28T17:52:53.651Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2922,
+      "attributes": {
+        "title": "Birthday of Prophet Muhammad",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.647Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2923,
+      "attributes": {
+        "title": "Mahasaptami",
+        "date": "2025-09-29",
+        "updatedAt": "2025-01-28T17:52:53.659Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2924,
+      "attributes": {
+        "title": "Mahastami",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.660Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2925,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.663Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2926,
+      "attributes": {
+        "title": "Vijaya Dasami/ Gandhi Jayanti",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.660Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2927,
+      "attributes": {
+        "title": "Kumar Purnima",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.661Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2928,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.661Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2929,
+      "attributes": {
+        "title": "Rahas Purnima",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.651Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2930,
+      "attributes": {
+        "title": "X-Mas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.652Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2931,
+      "attributes": {
+        "title": "Guru Gobind Singh's Birthday",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:53.665Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2932,
+      "attributes": {
+        "title": "Sab-e-Quadar",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.654Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2934,
+      "attributes": {
+        "title": "Birthday of Raja Ram Mohan Roy",
+        "date": "2025-05-22",
+        "updatedAt": "2025-01-28T17:52:53.654Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2935,
+      "attributes": {
+        "title": "Bahuda Yatra",
+        "date": "2025-07-05",
+        "updatedAt": "2025-01-28T17:52:53.655Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2936,
+      "attributes": {
+        "title": "Anla Navami",
+        "date": "2025-10-31",
+        "updatedAt": "2025-01-28T17:52:53.655Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2937,
+      "attributes": {
+        "title": "Prathamastami",
+        "date": "2025-11-12",
+        "updatedAt": "2025-01-28T17:52:53.656Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2938,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.656Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2961,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2025-04-19",
+        "updatedAt": "2025-01-28T17:52:53.664Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

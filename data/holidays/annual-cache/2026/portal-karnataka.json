@@ -1,0 +1,788 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:07.438839+00:00",
+  "sha256": "13c43f11292e38fed8282391d5dcc5f8c0bb21e7441a96935e441e6ec9bc0f3c",
+  "rows": [
+    {
+      "id": 4369,
+      "attributes": {
+        "title": "Uttarayana Punyakala, Makara Sankranti Festival",
+        "date": "2026-01-15",
+        "updatedAt": "2026-02-17T08:16:40.088Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4370,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.581Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4371,
+      "attributes": {
+        "title": "Ugadi Festival",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:40.085Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4372,
+      "attributes": {
+        "title": "Khutub-E-Ramzan",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.561Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4373,
+      "attributes": {
+        "title": "Mahaveera Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:40.085Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4374,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.584Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4375,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.564Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4376,
+      "attributes": {
+        "title": "Basava Jayanti, Akshaya Tritiya",
+        "date": "2026-04-20",
+        "updatedAt": "2026-02-17T08:16:40.087Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4377,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.565Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4378,
+      "attributes": {
+        "title": "Bakrid (Eid-Ul-Zuha)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:40.089Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4379,
+      "attributes": {
+        "title": "Last Day of Moharam",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:40.106Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4380,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.588Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4381,
+      "attributes": {
+        "title": "Eid-Milad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.589Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4382,
+      "attributes": {
+        "title": "Varasiddhi Vinayaka Vrata",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.570Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4383,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.570Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4384,
+      "attributes": {
+        "title": "Mahanavami, Ayudhapooja",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.092Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4385,
+      "attributes": {
+        "title": "Vijayadasami",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:44.571Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4387,
+      "attributes": {
+        "title": "Kannadasa Jayanti",
+        "date": "2026-11-27",
+        "updatedAt": "2026-02-17T08:16:40.110Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4388,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.592Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4389,
+      "attributes": {
+        "title": "New Year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.572Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4390,
+      "attributes": {
+        "title": "Sri Madvanavami",
+        "date": "2026-01-27",
+        "updatedAt": "2026-02-17T08:16:40.098Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4391,
+      "attributes": {
+        "title": "Shab-E-Barath",
+        "date": "2026-02-04",
+        "updatedAt": "2026-02-17T08:16:44.573Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4392,
+      "attributes": {
+        "title": "Holi Festival",
+        "date": "2026-03-02",
+        "updatedAt": "2026-02-17T08:16:40.099Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4393,
+      "attributes": {
+        "title": "Shab-E-Qadar",
+        "date": "2026-03-17",
+        "updatedAt": "2026-02-17T08:16:44.574Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4394,
+      "attributes": {
+        "title": "Jumat-Ul-Wida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:40.100Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4395,
+      "attributes": {
+        "title": "Sri Ramanavami",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:40.100Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4396,
+      "attributes": {
+        "title": "Holy Saturday",
+        "date": "2026-04-04",
+        "updatedAt": "2026-02-17T08:16:40.100Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4397,
+      "attributes": {
+        "title": "Sri Shankaracharya Jayanti",
+        "date": "2026-04-21",
+        "updatedAt": "2026-02-17T08:16:40.101Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4398,
+      "attributes": {
+        "title": "Sri Ramanujacharya Jayanti",
+        "date": "2026-04-22",
+        "updatedAt": "2026-02-17T08:16:40.102Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4399,
+      "attributes": {
+        "title": "Varamahalakshmi Vrata",
+        "date": "2026-08-21",
+        "updatedAt": "2026-02-17T08:16:44.583Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4400,
+      "attributes": {
+        "title": "Yajur Upakarma",
+        "date": "2026-08-27",
+        "updatedAt": "2026-02-17T08:16:40.103Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4401,
+      "attributes": {
+        "title": "Brahma Shri Narayana Guru Jayanti, Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:40.103Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4402,
+      "attributes": {
+        "title": "Sri Krishna Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.585Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4403,
+      "attributes": {
+        "title": "Kanya Mariamma Jayanti",
+        "date": "2026-09-08",
+        "updatedAt": "2026-02-17T08:16:40.104Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4404,
+      "attributes": {
+        "title": "Vishwakarma Jayanti",
+        "date": "2026-09-17",
+        "updatedAt": "2026-02-17T08:16:44.587Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4405,
+      "attributes": {
+        "title": "Ananta Padmanabha Vrata",
+        "date": "2026-09-25",
+        "updatedAt": "2026-02-17T08:16:40.105Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4406,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.609Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4407,
+      "attributes": {
+        "title": "Huttari Festival",
+        "date": "2026-11-26",
+        "updatedAt": "2026-02-17T08:16:40.104Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4408,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.609Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4415,
+      "attributes": {
+        "title": "Balipadyami, Deepavali",
+        "date": "2026-11-10",
+        "updatedAt": "2026-02-17T08:16:40.110Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4423,
+      "attributes": {
+        "title": "Devara Dasemaiha Jayanti",
+        "date": "2026-03-23",
+        "updatedAt": "2026-02-17T08:16:40.121Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

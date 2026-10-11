@@ -27,6 +27,16 @@ Retrieved source JSON is archived with SHA-256 fingerprints in the workflow arti
 
 ## Automatic publication and browser delivery
 
+### Primary official sources and annual cache
+
+The primary sources are the [National Portal calendar](https://www.india.gov.in/calendar) and [India Post holiday lists](https://www.indiapost.gov.in/holidays-list). The portal supplies state/UT government calendars. India Post's public page embeds annual central and circle lists in its own page bundle; BookDay extracts only the JSON literals and never executes downloaded JavaScript. Civil year, date, weekday, circle and known festival identity are validated. Unpublished years or a changed page format retain previous data.
+
+India Post festival entries remain **postal observances**, with their source scope explained. They never become state public leave or general long weekends. Portal/state-government dates take precedence over matching postal festival guides. Postal circles explicitly naming a state are associated with that state; absent UTs are not inferred from neighboring circles.
+
+Validated source snapshots are persisted under `data/holidays/annual-cache/<year>/`, with source URL, checked timestamp and SHA-256 fingerprint. They are restored and published on the `holiday-data` delivery branch so fresh daily runners reuse them. Historical snapshots refresh after 365 days, current-year snapshots after seven days, and future announcements after one day. Missing sources are checked daily. A cached year is used only for that same year: lunar festival dates are never copied into another year. The initial cache also imports previously captured, validated portal evidence rather than downloading the same historical data again.
+
+The unattended job still runs daily. There is no human approval or release gate. Automatic validation, regression checks and an atomic data push protect publication; unavailable sources preserve existing records.
+
 After validation and regression checks, the workflow commits the generated snapshot, manifest and annual datasets to the public **`holiday-data` branch**, using GitHub's built-in workflow token with `contents: write`. One Git push publishes the manifest and its referenced files together. No production code merge or Cloudflare deployment is needed for subsequent data updates. The job has no approval environment.
 
 The Cloudflare-hosted app reads the live manifest from that branch through `raw.githubusercontent.com`. It loads only the selected years and jurisdictions and checks dataset versions and SHA-256 checksums. Immutable content-addressed filenames prevent old/new release mixing; previously published files are retained for cached manifests. The manifest is checked on a new visit and after 15 minutes when another relevant data selection is loaded.

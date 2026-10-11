@@ -1,0 +1,807 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:48.724789+00:00",
+  "sha256": "c2d01b873a8f5212d9a6ee0e4df79273e62e45468b7265c65d1a2edc484170c2",
+  "rows": [
+    {
+      "id": 3282,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.825Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3283,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.825Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3284,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.826Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3285,
+      "attributes": {
+        "title": "Gudi Padva",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.826Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3286,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.827Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3287,
+      "attributes": {
+        "title": "Birth Anniversary of Dr. Babasaheb Ambedkar",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.828Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3288,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.828Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3289,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.828Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3290,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakri Id)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.829Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3291,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.841Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3292,
+      "attributes": {
+        "title": "Ganesh Chaturthi (1st Day)",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.830Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3293,
+      "attributes": {
+        "title": "Ganesh Chaturthi (2nd Day)",
+        "date": "2025-08-28",
+        "updatedAt": "2025-01-28T17:52:53.832Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3294,
+      "attributes": {
+        "title": "Milad-Un-Nabi- (Id-e-Milad)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.831Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3296,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.841Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3297,
+      "attributes": {
+        "title": "Feast Of St. Francis Xavier",
+        "date": "2025-12-03",
+        "updatedAt": "2025-01-28T17:52:53.853Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3298,
+      "attributes": {
+        "title": "Goa Liberation Day",
+        "date": "2025-12-19",
+        "updatedAt": "2025-01-28T17:52:53.842Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3299,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.842Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3300,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.833Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3301,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.834Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3302,
+      "attributes": {
+        "title": "Feast of St. Joseph Vaz",
+        "date": "2025-01-16",
+        "updatedAt": "2025-01-28T17:52:53.834Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3303,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.838Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3304,
+      "attributes": {
+        "title": "Guru Ravi Das Birthday",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.838Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3305,
+      "attributes": {
+        "title": "Maundy Thursday",
+        "date": "2025-04-17",
+        "updatedAt": "2025-01-28T17:52:53.843Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3306,
+      "attributes": {
+        "title": "Vaisakhi / Vishu",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:53.844Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3307,
+      "attributes": {
+        "title": "Mahavir Jayanti ",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.835Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3308,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.835Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3309,
+      "attributes": {
+        "title": "Feast of Sacred Heart of Jesus",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.835Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3310,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.848Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3311,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.836Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3312,
+      "attributes": {
+        "title": "Janmasthami ",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.837Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3313,
+      "attributes": {
+        "title": "Hartalika",
+        "date": "2025-08-26",
+        "updatedAt": "2025-01-28T17:52:53.837Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3314,
+      "attributes": {
+        "title": "Onam ",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.837Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3315,
+      "attributes": {
+        "title": "Govardhan Puja ",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.846Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3316,
+      "attributes": {
+        "title": "All Souls day",
+        "date": "2025-11-02",
+        "updatedAt": "2025-01-28T17:52:53.839Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3317,
+      "attributes": {
+        "title": "Bhaubij",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.839Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3318,
+      "attributes": {
+        "title": "Guru Nanak's Jayanti ",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.839Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3319,
+      "attributes": {
+        "title": "Feast of Immaculate Conception of Mary",
+        "date": "2025-12-08",
+        "updatedAt": "2025-01-28T17:52:53.840Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3320,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Ji Martyrdom Day",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:53.840Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3321,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.865Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3322,
+      "attributes": {
+        "title": "New Year's Eve",
+        "date": "2025-12-31",
+        "updatedAt": "2025-01-28T17:52:53.851Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3324,
+      "attributes": {
+        "title": "Gandhi Jayanti / Dussehra (Vijaya Dashmi)",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.852Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3340,
+      "attributes": {
+        "title": "Raksha Bandhan ",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.854Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "goa"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

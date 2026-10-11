@@ -18,29 +18,11 @@
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   },
   {
-    "name": "temple_darshan",
-    "path": "/art/banners/temple_darshan.webp",
-    "width": 1280,
-    "height": 720,
-    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app temple_darshan. Primary request: Wide 16:9 full-bleed photograph of majestic golden Tamil Nadu gopuram temple beside a reflective pond at warm sunset. Huge tower at right, palms at left, blue-and-gold-orange sky. Match calendar reference banner. Leave dark space bottom left for headline. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
-    "generatedBy": "Built-in image_gen",
-    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
-  },
-  {
     "name": "kerala_backwaters",
     "path": "/art/banners/kerala_backwaters.webp",
     "width": 1280,
     "height": 801,
     "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app kerala_backwaters. Primary request: Wide 16:10 full-bleed photorealistic golden sunset over Kerala backwaters. Traditional ornate wooden houseboat center-right reflected in lake, abundant coconut palms left, hazy green mountain horizon, orange sun at right. Match travel insights reference exactly in mood and composition. Dark lower-left for HTML title. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
-    "generatedBy": "Built-in image_gen",
-    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
-  },
-  {
-    "name": "india_festivals",
-    "path": "/art/banners/india_festivals.webp",
-    "width": 1280,
-    "height": 720,
-    "prompt": "Use case: photorealistic-natural. Asset type: BookDay web app india_festivals. Primary request: Landscape full-bleed scene: Diwali festival beside glowing golden Tamil Nadu temple at night, rich navy night sky with red and gold fireworks, bright lit oil lamps in foreground reflected on water. Match the small Diwali card in home reference. No lettering, realistic richly detailed warm photograph. Reference image role: composition, style and colors only. Create a NEW separate asset. Avoid: all UI elements, watermark, screenshot or mockup, frames, rounded corners. No text.",
     "generatedBy": "Built-in image_gen",
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   },
@@ -293,15 +275,6 @@
     "width": 512,
     "height": 512,
     "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square richly detailed golden South Indian temple tower at warm sunset, temple pool and dark blue orange evening sky behind. Match thumbnail in second saved card. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
-    "generatedBy": "Built-in image_gen",
-    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
-  },
-  {
-    "name": "saved_hotels",
-    "path": "/art/categories/saved_hotels.webp",
-    "width": 512,
-    "height": 512,
-    "prompt": "Use case: photorealistic-natural. Asset type: BookDay Saved plan square thumbnail. Create a NEW original asset guided by reference style, composition and subject only. Square vivid travel photograph of a golden five-storey tropical resort hotel on right, coconut palms on left, turquoise outdoor swimming pool at bottom, ocean horizon behind, blue sunny sky. Match Goa hotel thumbnail. Full bleed, crisp richly detailed, accurate proportions, vibrant colors. NO phone, NO UI, NO card borders, NO rounded corners, NO watermark.",
     "generatedBy": "Built-in image_gen",
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   },
@@ -950,6 +923,123 @@
     "width": 512,
     "height": 512,
     "prompt": "Use case: stylized-concept. Asset type: square BookDay saved-plan thumbnail. Primary request: a beautiful Indian tropical sightseeing coast, a scenic walking trail, lush palms, turquoise water and distant hills, inviting travel destination. Match the reference's vibrant polished cinematic photorealistic 3D illustration, sharp clean details, blue sky, warm sunlight, saturated natural colors. Square composition, central subject remains recognizable in tiny square thumbnail. No text, logos, people, frames, UI, watermark.",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_flights",
+    "path": "/art/banners/reminder_flights.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D travel illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden sunset, beautiful rich colors, navy shadows. Main subject occupies center-right; left 40 percent stays calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a complete white and royal blue passenger jet on an Indian airport runway, lush palms and distant mountains",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_buses",
+    "path": "/art/banners/reminder_buses.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D travel illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden sunset, beautiful rich colors, navy shadows. Main subject occupies center-right; left 40 percent stays calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a red and orange luxury intercity coach on a winding road through lush Indian hills",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_hotels",
+    "path": "/art/banners/reminder_hotels.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D travel illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden sunset, beautiful rich colors, navy shadows. Main subject occupies center-right; left 40 percent stays calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a beautiful Indian tropical resort hotel with a turquoise pool, golden architecture and palms",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_movies",
+    "path": "/art/banners/reminder_movies.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: an elegant cinema auditorium with plush red velvet seats, a softly glowing blank cinema screen, warm aisle lights; no posters",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_temples",
+    "path": "/art/banners/reminder_temples.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a magnificent detailed golden Dravidian temple gopuram in southern India beside a tranquil lotus lake and palms",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_events",
+    "path": "/art/banners/reminder_events.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a beautiful Indian outdoor concert venue with glowing stage lights and festive string lights at sunset, a few distant silhouettes",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_tourism",
+    "path": "/art/banners/reminder_tourism.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a magnificent Kerala wooden houseboat on quiet tropical backwaters, palms and golden hills, beautiful travel scenery",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_appointments",
+    "path": "/art/banners/reminder_appointments.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a premium blue calendar with blank date squares and a golden analog clock on a polished modern desk beside a sunlit window; tasteful appointment planning still life",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_government",
+    "path": "/art/banners/reminder_government.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: an elegant Indian civic government services building with a white dome, landscaped gardens, warm sunlit columns, calm dignified setting",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_education",
+    "path": "/art/banners/reminder_education.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a welcoming Indian university campus with a sunlit library, beautiful sandstone buildings and books with a graduation cap in the foreground",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_healthcare",
+    "path": "/art/banners/reminder_healthcare.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a clean welcoming modern Indian medical clinic reception, blue medical appointment folder and stethoscope in foreground, soft warm light through windows, no patients",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_sports",
+    "path": "/art/banners/reminder_sports.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a beautiful Indian cricket stadium at sunset, green playing field, cricket bat ball and helmet in the right foreground, warm stadium lights",
+    "generatedBy": "Built-in image_gen",
+    "source": "New artwork based on user screenshot references; no original design-kit asset reused"
+  },
+  {
+    "name": "reminder_custom",
+    "path": "/art/banners/reminder_custom.webp",
+    "width": 1280,
+    "height": 474,
+    "prompt": "Use case: stylized-concept. Asset type: BookDay reminder panoramic banner. Premium cinematic slightly stylized realistic 3D illustration matching a richly detailed Indian train sunset banner. Wide panorama 2.7:1, crisp high resolution, warm golden light, beautiful rich colors and navy shadows. Main subject occupies center-right; left 40 percent calm, dark and uncluttered for later HTML title overlay. No text, logos, watermarks, typography, UI or frames. Subject: a refined personal planning desk with open blank notebook, blue calendar with blank squares and golden analog clock, colorful booking tickets, warm sunlight through a window",
     "generatedBy": "Built-in image_gen",
     "source": "New artwork based on user screenshot references; no original design-kit asset reused"
   }

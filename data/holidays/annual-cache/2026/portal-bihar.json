@@ -1,0 +1,1092 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:04.571239+00:00",
+  "sha256": "f18ce589082851ea059f4628651f1b26bdf1ac60a11e174284ebac70f694d4bd",
+  "rows": [
+    {
+      "id": 4092,
+      "attributes": {
+        "title": "Republic day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.367Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4093,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.366Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4094,
+      "attributes": {
+        "title": "Sant Ravidas Jayanthi",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.367Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4095,
+      "attributes": {
+        "title": "Shab-e-barat",
+        "date": "2026-02-04",
+        "updatedAt": "2026-02-17T08:16:44.368Z",
+        "publishedAt": "2026-02-17T09:00:31.458Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4097,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.387Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4098,
+      "attributes": {
+        "title": "Bihar Day",
+        "date": "2026-03-22",
+        "updatedAt": "2026-02-17T08:16:44.370Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4100,
+      "attributes": {
+        "title": "Mahashivrathri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.369Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4104,
+      "attributes": {
+        "title": "Bhimrao Ambedkar Jayanti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.372Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4105,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.393Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4106,
+      "attributes": {
+        "title": "Veer Kunwar Singh Jayanthi",
+        "date": "2026-04-23",
+        "updatedAt": "2026-02-17T08:16:44.373Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4107,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.374Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4108,
+      "attributes": {
+        "title": "Janaki Navami",
+        "date": "2026-04-25",
+        "updatedAt": "2026-02-17T08:16:44.374Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4109,
+      "attributes": {
+        "title": "Id-ul-Joha (Bakrid)",
+        "date": "2026-05-28",
+        "updatedAt": "2026-02-17T08:16:39.960Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4110,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.394Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4111,
+      "attributes": {
+        "title": "Kabir Jayanthi",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:44.394Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4112,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.394Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4113,
+      "attributes": {
+        "title": "Independence day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.395Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4114,
+      "attributes": {
+        "title": "Chehallum",
+        "date": "2026-08-04",
+        "updatedAt": "2026-02-17T08:16:44.375Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4115,
+      "attributes": {
+        "title": "Shri Krishna Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.375Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4116,
+      "attributes": {
+        "title": "Hazrat Muhammad Sahib Birthday",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.375Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4117,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2026-10-17",
+        "updatedAt": "2026-02-17T08:16:44.376Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4118,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:44.376Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4119,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.399Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4120,
+      "attributes": {
+        "title": "Durga Puja",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.381Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4121,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti / Durga Puja",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.382Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4122,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.382Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4123,
+      "attributes": {
+        "title": "Chitragupta Pooja / Bhai Dooj",
+        "date": "2026-11-10",
+        "updatedAt": "2026-02-17T08:16:44.389Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4124,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:44.386Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4125,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2026-11-16",
+        "updatedAt": "2026-02-17T08:16:44.386Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4126,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.387Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4127,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.389Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4128,
+      "attributes": {
+        "title": "Karpuri Thakur Jayanti",
+        "date": "2026-01-24",
+        "updatedAt": "2026-02-17T08:16:44.388Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4129,
+      "attributes": {
+        "title": "New year",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.387Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4130,
+      "attributes": {
+        "title": "Eid ul Fitr (Eid)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.388Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4131,
+      "attributes": {
+        "title": "Emperor Ashoka Ashtami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.402Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4132,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:44.406Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4133,
+      "attributes": {
+        "title": "Mahavir Jayanthi",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.414Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4134,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2026-03-02",
+        "updatedAt": "2026-02-17T08:16:44.392Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4135,
+      "attributes": {
+        "title": "Ramzan ka Antim Juma",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:39.972Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4136,
+      "attributes": {
+        "title": "Eid-ul-Fitr",
+        "date": "2026-03-22",
+        "updatedAt": "2026-02-17T08:16:44.415Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4137,
+      "attributes": {
+        "title": "Eid-uz-Zoha (Bakrid)",
+        "date": "2026-05-26",
+        "updatedAt": "2026-02-17T08:16:39.973Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4138,
+      "attributes": {
+        "title": "Anugrah Narayan Sinha Jayanti",
+        "date": "2026-06-18",
+        "updatedAt": "2026-02-17T08:16:44.416Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4139,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-27",
+        "updatedAt": "2026-02-17T08:16:44.395Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4140,
+      "attributes": {
+        "title": "Antim Sawan Somvar",
+        "date": "2026-08-24",
+        "updatedAt": "2026-02-17T08:16:39.964Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4141,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.397Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4142,
+      "attributes": {
+        "title": "Hartalika Teej Vrat",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:39.965Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4143,
+      "attributes": {
+        "title": "Vishwakarma Puja",
+        "date": "2026-09-17",
+        "updatedAt": "2026-02-17T08:16:44.398Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4144,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2026-09-25",
+        "updatedAt": "2026-02-17T08:16:44.398Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4145,
+      "attributes": {
+        "title": "Jivitputrika Vrat",
+        "date": "2026-10-04",
+        "updatedAt": "2026-02-17T08:16:44.400Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4146,
+      "attributes": {
+        "title": "Durga Puja Kalash Sthapana",
+        "date": "2026-10-11",
+        "updatedAt": "2026-02-17T08:16:44.400Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4147,
+      "attributes": {
+        "title": "Jayaprakash Narayan Jayanti",
+        "date": "2026-10-11",
+        "updatedAt": "2026-02-17T08:16:39.967Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4148,
+      "attributes": {
+        "title": "Durga Puja (Ekadashi)",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:39.968Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4149,
+      "attributes": {
+        "title": "ShriKrishna Singh Jayanti",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:39.971Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4150,
+      "attributes": {
+        "title": "Chhath Puja (Kharna)",
+        "date": "2026-11-14",
+        "updatedAt": "2026-02-17T08:16:44.406Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4151,
+      "attributes": {
+        "title": "Dr. Rajendra Prasad Jayanti",
+        "date": "2026-12-03",
+        "updatedAt": "2026-02-17T08:16:44.403Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4152,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.403Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4155,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.428Z",
+        "publishedAt": "2026-02-17T09:01:04.720Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "bihar"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

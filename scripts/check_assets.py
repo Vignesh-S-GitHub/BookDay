@@ -12,6 +12,10 @@ assert len(catalog["categories"]) == 14
 assert len(set(catalog["states"])) == 36
 for category in catalog["categories"]:
     assert (public / "art/categories" / f"{category['id']}.webp").is_file()
+    banner = (
+        "train_journey" if category["id"] == "trains" else f"reminder_{category['id']}"
+    )
+    assert (public / "art/banners" / f"{banner}.webp").is_file()
 for record in holidays["records"] + holidays["festival_calendar"]:
     date.fromisoformat(record["date"])
     assert record["source"].startswith("https://")
@@ -31,9 +35,7 @@ for asset in [
     "icons.svg",
     "banners/home_india.webp",
     "banners/train_journey.webp",
-    "banners/temple_darshan.webp",
     "banners/kerala_backwaters.webp",
-    "banners/india_festivals.webp",
 ]:
     assert (public / "art" / asset).is_file(), asset
 assert (public / "fonts/roboto-latin.woff2").is_file()

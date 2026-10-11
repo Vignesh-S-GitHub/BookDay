@@ -1,0 +1,1947 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:52.126469+00:00",
+  "sha256": "f54c9385790d3c01c741ce4c59290eddf106e6d4ca8375002d740a0089ed4f44",
+  "rows": [
+    {
+      "id": 3024,
+      "attributes": {
+        "title": "Republic day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.706Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3025,
+      "attributes": {
+        "title": "Sant Ravi Das Jayanti",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.706Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3026,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.706Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3027,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-16",
+        "updatedAt": "2025-01-28T17:52:53.707Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3028,
+      "attributes": {
+        "title": "Gudi Padwa, Maharishi gautam jayantiChauthi Chand",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.717Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3029,
+      "attributes": {
+        "title": "Eid-ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.698Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3030,
+      "attributes": {
+        "title": "Rama Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.698Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3031,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.699Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3032,
+      "attributes": {
+        "title": "Dr. Ambedkar Jayanti / Vaisakhi",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.699Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3034,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.703Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3035,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.700Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3036,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti / Chatrasaal Jayanti",
+        "date": "2025-05-29",
+        "updatedAt": "2025-01-28T17:52:53.700Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3037,
+      "attributes": {
+        "title": "Id-Uz-Zuha",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.701Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3038,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.701Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3039,
+      "attributes": {
+        "title": "Rakshabandhan",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.701Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3040,
+      "attributes": {
+        "title": "Independence day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.702Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3041,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.702Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3042,
+      "attributes": {
+        "title": "Milad Un Nabi",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.710Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3043,
+      "attributes": {
+        "title": "Gandhi Jayanti / Dussehra (Vijayadashami)",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.729Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3044,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.725Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3045,
+      "attributes": {
+        "title": "Deepavali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.718Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3046,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.741Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3047,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.720Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3048,
+      "attributes": {
+        "title": "Kristu Jayanthi (Christmas)",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.708Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3049,
+      "attributes": {
+        "title": "Guru Gokul Das Birthday / Guru Gobind Singh's Birth Anniversary",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:53.708Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3050,
+      "attributes": {
+        "title": "Makar Sankranti/Pongal",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.708Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3051,
+      "attributes": {
+        "title": "Hazrat Ali Birthday",
+        "date": "2025-01-12",
+        "updatedAt": "2025-01-28T17:52:53.709Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3052,
+      "attributes": {
+        "title": "A Sacrifice Day of Hemu Kalani",
+        "date": "2025-01-21",
+        "updatedAt": "2025-01-28T17:52:53.718Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3053,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2025-02-03",
+        "updatedAt": "2025-01-28T17:52:53.709Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3054,
+      "attributes": {
+        "title": "Dev Narayan Jayanti / Narmada Jayanti",
+        "date": "2025-02-04",
+        "updatedAt": "2025-01-28T17:52:53.709Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3055,
+      "attributes": {
+        "title": "Chhatrapati Shivaji Jayanti",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.710Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3056,
+      "attributes": {
+        "title": "Swami Ramcharan ji Birthday",
+        "date": "2025-02-11",
+        "updatedAt": "2025-01-28T17:52:53.713Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3057,
+      "attributes": {
+        "title": "Shabri Jayanti ",
+        "date": "2025-02-20",
+        "updatedAt": "2025-01-28T17:52:53.715Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3058,
+      "attributes": {
+        "title": "Shab-e-baraat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.711Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3059,
+      "attributes": {
+        "title": "Maharishi Dayanand Saraswati Jayanti",
+        "date": "2025-02-23",
+        "updatedAt": "2025-01-28T17:52:53.711Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3060,
+      "attributes": {
+        "title": "Ekalava Jayanti",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.711Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3061,
+      "attributes": {
+        "title": "Punya Shukrawar (Good Friday)",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.712Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3062,
+      "attributes": {
+        "title": "Todarmal Jayanti",
+        "date": "2025-03-18",
+        "updatedAt": "2025-01-28T17:52:53.712Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3063,
+      "attributes": {
+        "title": "Holi (Holika Dahan)",
+        "date": "2025-03-13",
+        "updatedAt": "2025-01-28T17:52:53.716Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3064,
+      "attributes": {
+        "title": "Bhai Dooj",
+        "date": "2025-03-16",
+        "updatedAt": "2025-01-28T17:52:53.713Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3065,
+      "attributes": {
+        "title": "Rashtriya Janjatiya Gaurav Divas (Bhagwan Birsa Munda Jayanti)",
+        "date": "2025-11-15",
+        "updatedAt": "2025-01-28T17:52:53.716Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3066,
+      "attributes": {
+        "title": "Bhakt Mata Karma Jayanti ",
+        "date": "2025-04-25",
+        "updatedAt": "2025-01-28T17:52:53.725Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3067,
+      "attributes": {
+        "title": "Jamaat-ul-Vida",
+        "date": "2025-04-28",
+        "updatedAt": "2025-01-28T17:52:53.715Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3068,
+      "attributes": {
+        "title": "Day Before Eid-ul-Fitr",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.713Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3069,
+      "attributes": {
+        "title": "Mahatma Jyotibha Phule Jayanti / Hatkeshwar Jayanti",
+        "date": "2025-04-11",
+        "updatedAt": "2025-01-28T17:52:53.720Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3070,
+      "attributes": {
+        "title": "Guha Nishadraj Jayanti",
+        "date": "2025-04-02",
+        "updatedAt": "2025-01-28T17:52:53.714Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3071,
+      "attributes": {
+        "title": "Bhagwan Meenesh Jayanti",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.714Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3072,
+      "attributes": {
+        "title": "Vishu",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.715Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3073,
+      "attributes": {
+        "title": "Srimad Vallabhacharya Jayanti",
+        "date": "2025-04-24",
+        "updatedAt": "2025-01-28T17:52:53.716Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3074,
+      "attributes": {
+        "title": "Sen Jayanti",
+        "date": "2025-04-25",
+        "updatedAt": "2025-01-28T17:52:53.717Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3075,
+      "attributes": {
+        "title": "Akshya tritya",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.720Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3076,
+      "attributes": {
+        "title": "Shankaracharya Jayanti (Ekatmta Diwas/Darsanik Diwas)",
+        "date": "2025-05-02",
+        "updatedAt": "2025-01-28T17:52:53.718Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3077,
+      "attributes": {
+        "title": "Shri Chitragupt Prakat Utsav",
+        "date": "2025-05-04",
+        "updatedAt": "2025-01-28T17:52:53.719Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3078,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.719Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3079,
+      "attributes": {
+        "title": "Mother Ahilyabai Birth day",
+        "date": "2025-05-31",
+        "updatedAt": "2025-01-28T17:52:53.723Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3080,
+      "attributes": {
+        "title": "Mahesh Navami ",
+        "date": "2025-06-04",
+        "updatedAt": "2025-01-28T17:52:53.721Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3081,
+      "attributes": {
+        "title": "Day Before Eid-ul-Adha",
+        "date": "2025-06-06",
+        "updatedAt": "2025-01-28T17:52:53.721Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3082,
+      "attributes": {
+        "title": "Rathayatra",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.722Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3083,
+      "attributes": {
+        "title": "Bada Mahadev pooja",
+        "date": "2025-06-09",
+        "updatedAt": "2025-01-28T17:52:53.722Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3084,
+      "attributes": {
+        "title": "Kabir Jayanti",
+        "date": "2025-06-11",
+        "updatedAt": "2025-01-28T17:52:53.722Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3085,
+      "attributes": {
+        "title": "Gadeer-e-khum",
+        "date": "2025-06-14",
+        "updatedAt": "2025-01-28T17:52:53.723Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3086,
+      "attributes": {
+        "title": "Martyrdom Day of Veerangana Durgavati ",
+        "date": "2025-06-24",
+        "updatedAt": "2025-01-28T17:52:53.729Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3087,
+      "attributes": {
+        "title": "Yom-e-Ashoora",
+        "date": "2025-07-05",
+        "updatedAt": "2025-01-28T17:52:53.723Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3088,
+      "attributes": {
+        "title": "Guru Purnima",
+        "date": "2025-07-10",
+        "updatedAt": "2025-01-28T17:52:53.724Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3089,
+      "attributes": {
+        "title": "Nag Panchami",
+        "date": "2025-07-29",
+        "updatedAt": "2025-01-28T17:52:53.724Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3090,
+      "attributes": {
+        "title": "Goswami TulsiDas Jayanti",
+        "date": "2025-07-31",
+        "updatedAt": "2025-01-28T17:52:53.740Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3091,
+      "attributes": {
+        "title": "A Sacrifice Day of Veerangana Avanti Bai",
+        "date": "2025-03-20",
+        "updatedAt": "2025-01-28T17:52:53.740Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3092,
+      "attributes": {
+        "title": "Durgadas rathore Birth day",
+        "date": "2025-08-13",
+        "updatedAt": "2025-01-28T17:52:53.726Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3093,
+      "attributes": {
+        "title": "Balram Jayanti",
+        "date": "2025-08-14",
+        "updatedAt": "2025-01-28T17:52:53.726Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3094,
+      "attributes": {
+        "title": "Parsi New Year",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.727Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3095,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.743Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3096,
+      "attributes": {
+        "title": "Navakhai",
+        "date": "2025-08-30",
+        "updatedAt": "2025-01-28T17:52:53.727Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3097,
+      "attributes": {
+        "title": "Teji Maharaj day (Teja Dashmi)",
+        "date": "2025-09-02",
+        "updatedAt": "2025-01-28T17:52:53.728Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3098,
+      "attributes": {
+        "title": "Dholyatra",
+        "date": "2025-09-03",
+        "updatedAt": "2025-01-28T17:52:53.738Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3099,
+      "attributes": {
+        "title": "Onam",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.739Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3100,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2025-09-06",
+        "updatedAt": "2025-01-28T17:52:53.756Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3101,
+      "attributes": {
+        "title": "Vishwakarma Jayanti",
+        "date": "2025-09-17",
+        "updatedAt": "2025-01-28T17:52:53.741Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3102,
+      "attributes": {
+        "title": "Sacrife day of Raja Shankar sha and Raghunath Shah",
+        "date": "2025-09-18",
+        "updatedAt": "2025-01-28T17:52:53.742Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3103,
+      "attributes": {
+        "title": "Pran Nath Jayanti",
+        "date": "2025-09-20",
+        "updatedAt": "2025-01-28T17:52:53.728Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3104,
+      "attributes": {
+        "title": "Sarvpitra Moksh Amavashya",
+        "date": "2025-09-21",
+        "updatedAt": "2025-01-28T17:52:53.732Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3105,
+      "attributes": {
+        "title": "Agrasen Jayanti",
+        "date": "2025-09-22",
+        "updatedAt": "2025-01-28T17:52:53.732Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3106,
+      "attributes": {
+        "title": "Dussehra (Maha Ashtami) ",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.737Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3107,
+      "attributes": {
+        "title": "Kevat Jayanti",
+        "date": "2025-05-15",
+        "updatedAt": "2025-01-28T17:52:53.756Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3120,
+      "attributes": {
+        "title": "Tribal Diwas",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.736Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3392,
+      "attributes": {
+        "title": "Dussehra (Maha Navami)",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.878Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3393,
+      "attributes": {
+        "title": "Maharaja Ajmod Dev Jayanti / Samadhi Utsav of Tekchand Ji Maharaj",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.883Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3394,
+      "attributes": {
+        "title": "Karwa Chauth Parv",
+        "date": "2025-10-10",
+        "updatedAt": "2025-01-28T17:52:53.872Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3395,
+      "attributes": {
+        "title": "Birthday of Dr.Syedna Saheb",
+        "date": "2025-10-12",
+        "updatedAt": "2025-01-28T17:52:53.873Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3396,
+      "attributes": {
+        "title": "Diwali (South Indian)",
+        "date": "2025-10-19",
+        "updatedAt": "2025-01-28T17:52:53.873Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3397,
+      "attributes": {
+        "title": "Second day of Diwali",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.873Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3399,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2025-10-27",
+        "updatedAt": "2025-01-28T17:52:53.878Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3400,
+      "attributes": {
+        "title": "Lord Sahastrabahu Jayanti",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.888Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3401,
+      "attributes": {
+        "title": "Namdev Jayanti",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:53.885Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3402,
+      "attributes": {
+        "title": "Jhalkari Jayanti",
+        "date": "2025-11-22",
+        "updatedAt": "2025-01-28T17:52:53.886Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3403,
+      "attributes": {
+        "title": "Sacrifice Day of Guru Teg Bahadur",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:53.899Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3404,
+      "attributes": {
+        "title": "Sant Shri Jintaran Taran Jayanti",
+        "date": "2025-11-27",
+        "updatedAt": "2025-01-28T17:52:53.905Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3405,
+      "attributes": {
+        "title": "World Handicapped Day",
+        "date": "2025-12-03",
+        "updatedAt": "2025-01-28T17:52:53.887Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3406,
+      "attributes": {
+        "title": "Sacrife day of Krantisurya Tantya Bheel / Dattatreya Jayanti",
+        "date": "2025-12-04",
+        "updatedAt": "2025-01-28T17:52:53.877Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3407,
+      "attributes": {
+        "title": "Guru Dhasi Das Jayanti",
+        "date": "2025-12-18",
+        "updatedAt": "2025-01-28T17:52:53.877Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3408,
+      "attributes": {
+        "title": "Birthday anniverasay of Maharaja Khet singh",
+        "date": "2025-12-27",
+        "updatedAt": "2025-01-28T17:52:53.878Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3409,
+      "attributes": {
+        "title": "Balinath Ji Bairava Jayanti",
+        "date": "2025-12-31",
+        "updatedAt": "2025-01-28T17:52:53.875Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3427,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.902Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "madhya-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

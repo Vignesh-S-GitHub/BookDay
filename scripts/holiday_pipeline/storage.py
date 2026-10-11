@@ -59,11 +59,21 @@ def validate(rows: list[dict], states: list[str]) -> None:
         decision = provenance.get("review_decision")
         if decision == "automatically_validated":
             source_url = urlsplit(row["source"])
+            portal = (
+                source_url.netloc == "www.india.gov.in"
+                and bool(re.fullmatch(r"/calendar(?:/[a-z0-9-]+)?", source_url.path))
+                and row.get("source_id", "").startswith("india-portal-")
+            )
+            postal = (
+                source_url.netloc == "www.indiapost.gov.in"
+                and source_url.path == "/holidays-list"
+                and row.get("source_id", "").startswith("india-post-")
+                and row["type"] in {"national_public", "religious_festival"}
+                and row.get("scope") in {"national", "postal_observance"}
+            )
             if (
                 provenance.get("validation_version") != 1
-                or source_url.netloc != "www.india.gov.in"
-                or not re.fullmatch(r"/calendar(?:/[a-z0-9-]+)?", source_url.path)
-                or not row.get("source_id", "").startswith("india-portal-")
+                or not (portal or postal)
                 or any(
                     not re.fullmatch(r"[0-9a-f]{64}", provenance.get(field, ""))
                     for field in ["document_sha256", "parse_hash"]

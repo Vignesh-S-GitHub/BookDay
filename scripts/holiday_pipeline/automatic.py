@@ -10,6 +10,7 @@ from datetime import UTC, date, datetime
 from pathlib import Path
 from urllib import error, request
 
+from . import annual_cache
 from .storage import DATA, ROOT, digest, read, slug, validate, write
 
 PORTAL = "https://www.india.gov.in"
@@ -363,6 +364,28 @@ def merge_records(approved: dict, automatic: dict) -> tuple[list[dict], list[dic
     """Overlay available automatic calendars while retaining specific local notices."""
     incoming = {}
     for row in automatic.get("records", []):
+        if row.get("source_id", "").startswith("india-post-"):
+            # State-government/NIC dates take precedence over a postal guide.
+            matches = [
+                other
+                for other in automatic["records"]
+                if other.get("source_id", "").startswith("india-portal-")
+                and other["jurisdictions"] == row["jurisdictions"]
+                and other["date"][:4] == row["date"][:4]
+                and (
+                    (
+                        row.get("festival_id")
+                        and row.get("festival_id") == other.get("festival_id")
+                    )
+                    or (
+                        row["type"] == "national_public"
+                        and other["type"] == "national_public"
+                        and row["date"] == other["date"]
+                    )
+                )
+            ]
+            if matches:
+                continue
         key = (
             row["date"],
             row["name"].casefold(),
@@ -454,6 +477,15 @@ def synchronize(
         ) -> list[dict] | Exception:
             central, alias, region = selection
             logging.getLogger(__name__).info("Checking %s %s", source_year, region)
+            cache_path = (
+                data
+                / "annual-cache"
+                / str(source_year)
+                / f"portal-{alias or ('central' if central else 'states')}.json"
+            )
+            cached = annual_cache.load(cache_path, source_year, PORTAL + "/calendar")
+            if annual_cache.fresh(cached):
+                return cached["rows"]
             try:
                 return annual_feed(source_year, fetcher, central, alias)
             except (ValueError, KeyError, TypeError, OSError, RuntimeError) as exc:
@@ -471,6 +503,47 @@ def synchronize(
                 grouped, failures = collect_year(raw, year, states, aliases, central)
                 if alias and any(state != region for state in grouped):
                     raise ValueError("Unexpected state in filtered official response")
+                cache_path = (
+                    data
+                    / "annual-cache"
+                    / str(year)
+                    / f"portal-{alias or ('central' if central else 'states')}.json"
+                )
+                cached = annual_cache.load(cache_path, year, PORTAL + "/calendar")
+                if grouped and not failures and not annual_cache.fresh(cached):
+                    # Strip unrelated CMS metadata; retain every field used by the parser.
+                    compact = [
+                        {
+                            "id": row["id"],
+                            "attributes": {
+                                key: value
+                                for key, value in row["attributes"].items()
+                                if key
+                                in {
+                                    "title",
+                                    "date",
+                                    "day",
+                                    "year",
+                                    "holiday_type",
+                                    "publishedAt",
+                                    "updatedAt",
+                                    "state_dept_org",
+                                }
+                            },
+                        }
+                        for row in raw
+                    ]
+                    for row in compact:
+                        parent = row["attributes"].get("state_dept_org", {}).get("data")
+                        if parent:
+                            row["attributes"]["state_dept_org"] = {
+                                "data": {
+                                    "attributes": {
+                                        "alias": parent["attributes"]["alias"]
+                                    }
+                                }
+                            }
+                    annual_cache.save(cache_path, year, PORTAL + "/calendar", compact)
                 document_hash = digest(raw)
                 for state in [region] if alias or central else states:
                     rows = grouped.get(state, [])

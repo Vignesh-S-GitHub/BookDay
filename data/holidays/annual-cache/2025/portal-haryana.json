@@ -1,0 +1,826 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:49.563892+00:00",
+  "sha256": "d166d6dd1a10e81d3bf4a336ae6dd330142df8e7dad423e460cb6c2b78ba3295",
+  "rows": [
+    {
+      "id": 3212,
+      "attributes": {
+        "title": "Shri Guru Gobind Singh Ji Jayanti",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:53.803Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3213,
+      "attributes": {
+        "title": "Guru Ravidas Jayanti",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.787Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3214,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.787Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3215,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.788Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3216,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.788Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3217,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.807Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3218,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar Jayanti",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.790Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3219,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2025-04-29",
+        "updatedAt": "2025-01-28T17:52:53.790Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3220,
+      "attributes": {
+        "title": "Akshya Tritya",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.791Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3221,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2025-05-29",
+        "updatedAt": "2025-01-28T17:52:53.808Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3222,
+      "attributes": {
+        "title": "Sant Kabir Jayanti",
+        "date": "2025-06-11",
+        "updatedAt": "2025-01-28T17:52:53.818Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3224,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.810Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3225,
+      "attributes": {
+        "title": "Maharaja Agrasen Jayanti",
+        "date": "2025-09-22",
+        "updatedAt": "2025-01-28T17:52:53.810Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3226,
+      "attributes": {
+        "title": "Shaheedi Divas/Haryana War Heroes' Martyrdom Day",
+        "date": "2025-09-23",
+        "updatedAt": "2025-01-28T17:52:53.811Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3227,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti/ Dussehra",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.793Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3228,
+      "attributes": {
+        "title": "Maharishi Valmiki jayanti/ Maharaja Ajmidh Jayanti",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.794Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3229,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.802Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3230,
+      "attributes": {
+        "title": "Vishvakarma Day",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.802Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3231,
+      "attributes": {
+        "title": "Guru Nanak Dev Jayanti",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.809Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3232,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-11-25",
+        "updatedAt": "2025-01-28T17:52:53.803Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3233,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.804Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3234,
+      "attributes": {
+        "title": "Basant Panchmi/Sir Chhotu Ram Jayanti",
+        "date": "2025-02-02",
+        "updatedAt": "2025-01-28T17:52:53.804Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3235,
+      "attributes": {
+        "title": "Shaheedi Diwas/Martyrdom Day of Bhagat Singh, Rajguru & Sukhdev",
+        "date": "2025-03-23",
+        "updatedAt": "2025-01-28T17:52:53.804Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3236,
+      "attributes": {
+        "title": "Ram Navmi",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.805Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3238,
+      "attributes": {
+        "title": "Vaisakhi/ Chhath Puja",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:53.806Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3239,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.810Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3240,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.809Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3241,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.812Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3242,
+      "attributes": {
+        "title": "Haryana Day",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:53.807Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3243,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.807Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3244,
+      "attributes": {
+        "title": "Maharishi Kayshap Jayanti",
+        "date": "2025-05-24",
+        "updatedAt": "2025-01-28T17:52:53.819Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3246,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.819Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3247,
+      "attributes": {
+        "title": "Hariyali Teej",
+        "date": "2025-07-27",
+        "updatedAt": "2025-01-28T17:52:53.822Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3248,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.820Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3249,
+      "attributes": {
+        "title": "Milad-un-Nabi or Id-E-Milad (Birth of Prophet Mohammad)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.822Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3250,
+      "attributes": {
+        "title": "Maharishi Dayanand Saraswati Jayanti(with State Celebration)",
+        "date": "2025-02-23",
+        "updatedAt": "2025-01-28T17:52:53.833Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3251,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2025-10-10",
+        "updatedAt": "2025-01-28T17:52:53.811Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3252,
+      "attributes": {
+        "title": "Goverdhan Puja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.823Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3253,
+      "attributes": {
+        "title": "Chhath Puja",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.812Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3254,
+      "attributes": {
+        "title": "Shaheed Udham Singh Martyrdom Day",
+        "date": "2025-07-31",
+        "updatedAt": "2025-01-28T17:52:53.813Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3255,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Martyrdom Day",
+        "date": "2025-11-25",
+        "updatedAt": "2025-01-28T17:52:53.813Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3256,
+      "attributes": {
+        "title": "Guru Brahmanand Jayanti",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.814Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3257,
+      "attributes": {
+        "title": "Shaheed Udham Singh's Jayanti",
+        "date": "2025-12-26",
+        "updatedAt": "2025-01-28T17:52:53.814Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "haryana"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

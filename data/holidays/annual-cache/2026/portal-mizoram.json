@@ -1,0 +1,1149 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:10.265610+00:00",
+  "sha256": "537c03a250205299288f8d5a72a8f9b46726f9844332aeeaba3db4e3ab248732",
+  "rows": [
+    {
+      "id": 4641,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.767Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4642,
+      "attributes": {
+        "title": "New Year Celebration",
+        "date": "2026-01-02",
+        "updatedAt": "2026-02-17T08:16:44.767Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4643,
+      "attributes": {
+        "title": "Missionary Day",
+        "date": "2026-01-11",
+        "updatedAt": "2026-02-17T08:16:44.749Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4644,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.749Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4645,
+      "attributes": {
+        "title": "State Day",
+        "date": "2026-02-20",
+        "updatedAt": "2026-02-17T08:16:44.749Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4646,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.750Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4647,
+      "attributes": {
+        "title": "Chapchar Kut",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:44.768Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4648,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.769Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4649,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.768Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4650,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.769Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4651,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.770Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4652,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.770Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4653,
+      "attributes": {
+        "title": "YMA Day",
+        "date": "2026-06-15",
+        "updatedAt": "2026-02-17T08:16:44.750Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4654,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.751Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4655,
+      "attributes": {
+        "title": "Remna Ni",
+        "date": "2026-06-30",
+        "updatedAt": "2026-02-17T08:16:44.751Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4656,
+      "attributes": {
+        "title": "MHIP Day",
+        "date": "2026-07-06",
+        "updatedAt": "2026-02-17T08:16:44.751Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4657,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.752Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4658,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad (Birthday of Prophet Mohammad)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.248Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4659,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.753Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4660,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.753Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4661,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.772Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4662,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.754Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4663,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.755Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4664,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.755Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4665,
+      "attributes": {
+        "title": "Christmas Celebration",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:44.777Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4666,
+      "attributes": {
+        "title": "New Year’s Eve",
+        "date": "2026-12-31",
+        "updatedAt": "2026-02-17T08:16:44.772Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4667,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:44.764Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4668,
+      "attributes": {
+        "title": "New Year Celebration",
+        "date": "2026-01-05",
+        "updatedAt": "2026-02-17T08:16:44.765Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4669,
+      "attributes": {
+        "title": "Makar Sankranti / Magha Bihu / Pongal",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:40.265Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4670,
+      "attributes": {
+        "title": "Sri Panchami / Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.766Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4671,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.766Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4672,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:44.780Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4673,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.782Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4674,
+      "attributes": {
+        "title": "Shivaji Jayanti",
+        "date": "2026-02-19",
+        "updatedAt": "2026-02-17T08:16:44.782Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4675,
+      "attributes": {
+        "title": "Holika Dahan / Dolyatra",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:40.293Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4676,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.783Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4677,
+      "attributes": {
+        "title": "Jamat-Ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.770Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4678,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2026-04-06",
+        "updatedAt": "2026-02-17T08:16:44.771Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4679,
+      "attributes": {
+        "title": "Vaisakhi / Vishu / Mesadi (Tamil New Year)",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.272Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4680,
+      "attributes": {
+        "title": "Vaisakhadi (Bengali) / Bahag Bihu (Assam)",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.773Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4681,
+      "attributes": {
+        "title": "Birthday of Guru Rabindranath Tagore",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:44.773Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4682,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.774Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4683,
+      "attributes": {
+        "title": "Parsi New Year / Navroz",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:40.275Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4684,
+      "attributes": {
+        "title": "Onam / Thiru Onam Day",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.775Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4685,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.775Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4686,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayaka Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.776Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4687,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.776Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4688,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.791Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4689,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.777Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4690,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.778Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4691,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karwa Chauth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:40.289Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4692,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.779Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4693,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.794Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4694,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.795Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4695,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chhath Puja)",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:40.291Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4696,
+      "attributes": {
+        "title": "Guru Teg Bahadur’s Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.781Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4697,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-12-23",
+        "updatedAt": "2026-02-17T08:16:44.797Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4698,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2026-12-28",
+        "updatedAt": "2026-02-17T08:16:44.781Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4705,
+      "attributes": {
+        "title": "Chaitra Sukladi / Gudi Padava / Ugadi / Cheti Chand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:44.785Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4716,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2026-10-18",
+        "updatedAt": "2026-02-17T08:16:44.789Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "mizoram"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

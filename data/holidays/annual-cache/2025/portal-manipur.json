@@ -1,0 +1,1111 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:52.946246+00:00",
+  "sha256": "f9fd82a78909964a953b405039d0cd156be32681f16821842acdd0cf60c0f787",
+  "rows": [
+    {
+      "id": 3458,
+      "attributes": {
+        "title": "New Year Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.904Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3459,
+      "attributes": {
+        "title": "Imoinu",
+        "date": "2025-01-11",
+        "updatedAt": "2025-01-28T17:52:53.908Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3460,
+      "attributes": {
+        "title": "Gaan-Ngal",
+        "date": "2025-01-12",
+        "updatedAt": "2025-01-28T17:52:53.905Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3461,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.911Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3462,
+      "attributes": {
+        "title": "Lul-Ngal-Ni",
+        "date": "2025-02-15",
+        "updatedAt": "2025-01-28T17:52:53.909Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3463,
+      "attributes": {
+        "title": "Yaosang 2nd Day",
+        "date": "2025-03-15",
+        "updatedAt": "2025-01-28T17:52:53.909Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3464,
+      "attributes": {
+        "title": "Sajibu Nongmapanba (Cheiraoba)",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.912Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3465,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.913Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3466,
+      "attributes": {
+        "title": "Yearly closing of Banks Account",
+        "date": "2025-04-01",
+        "updatedAt": "2025-01-28T17:52:53.912Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3467,
+      "attributes": {
+        "title": "Cheiraoba",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.906Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3468,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.913Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3470,
+      "attributes": {
+        "title": "Id-uz-Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.915Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3471,
+      "attributes": {
+        "title": "Kang (Rathajatra)",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.914Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3472,
+      "attributes": {
+        "title": "Patriot's Day",
+        "date": "2025-08-13",
+        "updatedAt": "2025-01-28T17:52:53.911Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3473,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.916Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3474,
+      "attributes": {
+        "title": "Milad-un-Nabi",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.913Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3475,
+      "attributes": {
+        "title": "Durga Ashtami",
+        "date": "2025-09-30",
+        "updatedAt": "2025-01-28T17:52:53.910Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3476,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.911Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3477,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2025-10-21",
+        "updatedAt": "2025-01-28T17:52:53.924Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3478,
+      "attributes": {
+        "title": "Ningol Chakkouba",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.925Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3479,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.937Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3480,
+      "attributes": {
+        "title": "Imoinu",
+        "date": "2025-12-31",
+        "updatedAt": "2025-01-28T17:52:53.925Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3481,
+      "attributes": {
+        "title": "Uttarayan/Makara Samkranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.926Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3482,
+      "attributes": {
+        "title": "Netaji's Birthday",
+        "date": "2025-01-23",
+        "updatedAt": "2025-01-28T17:52:53.917Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3483,
+      "attributes": {
+        "title": "Saraswati Puja",
+        "date": "2025-02-03",
+        "updatedAt": "2025-01-28T17:52:53.919Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3484,
+      "attributes": {
+        "title": "Sab-e-Barat",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:53.917Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3485,
+      "attributes": {
+        "title": "Zomi Namni",
+        "date": "2025-02-20",
+        "updatedAt": "2025-10-04T10:17:32.300Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3487,
+      "attributes": {
+        "title": "Player's Day",
+        "date": "2025-02-25",
+        "updatedAt": "2025-01-28T17:52:53.914Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3488,
+      "attributes": {
+        "title": "Shiva Ratri",
+        "date": "2025-02-27",
+        "updatedAt": "2025-01-28T17:52:53.921Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3489,
+      "attributes": {
+        "title": "Yaosang 4th Day",
+        "date": "2025-03-17",
+        "updatedAt": "2025-01-28T17:52:53.919Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3490,
+      "attributes": {
+        "title": "Bijoy Govinda Halankar",
+        "date": "2025-03-19",
+        "updatedAt": "2025-01-28T17:52:53.920Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3491,
+      "attributes": {
+        "title": "Baruni",
+        "date": "2025-03-27",
+        "updatedAt": "2025-01-28T17:52:53.920Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3492,
+      "attributes": {
+        "title": "Jamatul Vida/Sab-e-Qdar",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.932Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3493,
+      "attributes": {
+        "title": "Kongba Laitong fatpa",
+        "date": "2025-04-05",
+        "updatedAt": "2025-01-28T17:52:53.920Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3494,
+      "attributes": {
+        "title": "Hun-Thadou Cultural Festival",
+        "date": "2025-04-07",
+        "updatedAt": "2025-01-28T17:52:53.921Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3495,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.922Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3496,
+      "attributes": {
+        "title": "175th Death Anniversary Commemoration of Maharaja Nara Singh",
+        "date": "2025-04-11",
+        "updatedAt": "2025-01-28T17:52:53.922Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3497,
+      "attributes": {
+        "title": "Shilhenba",
+        "date": "2025-04-15",
+        "updatedAt": "2025-01-28T17:52:53.922Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3498,
+      "attributes": {
+        "title": "May Day (Labour Day)",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.923Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3499,
+      "attributes": {
+        "title": "Kanglen (Punarjatra)",
+        "date": "2025-07-05",
+        "updatedAt": "2025-01-28T17:52:53.923Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3500,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.924Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3501,
+      "attributes": {
+        "title": "Harisayan",
+        "date": "2025-07-07",
+        "updatedAt": "2025-01-28T17:52:53.924Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3502,
+      "attributes": {
+        "title": "Jhulon Houba",
+        "date": "2025-08-05",
+        "updatedAt": "2025-01-28T17:52:53.934Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3503,
+      "attributes": {
+        "title": "Jhulon Loiba",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.934Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3504,
+      "attributes": {
+        "title": "Akheri Chahar Shumba",
+        "date": "2025-08-20",
+        "updatedAt": "2025-01-28T17:52:53.935Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3505,
+      "attributes": {
+        "title": "Radha Ashtami",
+        "date": "2025-08-31",
+        "updatedAt": "2025-01-28T17:52:53.934Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3506,
+      "attributes": {
+        "title": "Heikru Hidongba",
+        "date": "2025-09-03",
+        "updatedAt": "2025-01-28T17:52:53.936Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3507,
+      "attributes": {
+        "title": "Tarpon Houba",
+        "date": "2025-09-08",
+        "updatedAt": "2025-01-28T17:52:53.926Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3508,
+      "attributes": {
+        "title": "Tarpon Loiba",
+        "date": "2025-09-21",
+        "updatedAt": "2025-01-28T17:52:53.926Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3509,
+      "attributes": {
+        "title": "Kwak Jatra (Dussehra)",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.930Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3510,
+      "attributes": {
+        "title": "Kuki Rising Day",
+        "date": "2025-10-17",
+        "updatedAt": "2025-01-28T17:52:53.930Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3511,
+      "attributes": {
+        "title": "Govardhon Puja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.931Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3512,
+      "attributes": {
+        "title": "Chaga Ngee/ Gosta Ashtami",
+        "date": "2025-10-30",
+        "updatedAt": "2025-01-28T17:52:53.932Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3513,
+      "attributes": {
+        "title": "Guru Nanak's Birth Day/ Mera Waphukpa",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.931Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3514,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.930Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3516,
+      "attributes": {
+        "title": "Post Christmas",
+        "date": "2025-12-26",
+        "updatedAt": "2025-01-28T17:52:53.944Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3527,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.949Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3544,
+      "attributes": {
+        "title": "New Year's Eve",
+        "date": "2025-12-31",
+        "updatedAt": "2025-01-28T17:52:53.942Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "manipur"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

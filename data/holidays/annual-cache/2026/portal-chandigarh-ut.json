@@ -1,0 +1,769 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.082969+00:00",
+  "sha256": "577166b6d89524a354454c51fd5e5db0fdc1464db7f27ce2bbfb99a2f6dec641",
+  "rows": [
+    {
+      "id": 5162,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.073Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5163,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.076Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5164,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.076Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5165,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.076Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5166,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:45.077Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5167,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.077Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5168,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.078Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5169,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.098Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5170,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.079Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5171,
+      "attributes": {
+        "title": "Janmashtami (Vaishnava)",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:40.583Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5172,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.080Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5173,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.080Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5174,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:45.080Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5175,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.094Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5177,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.082Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5178,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2026-01-13",
+        "updatedAt": "2026-02-17T08:16:45.083Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5179,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:45.083Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5180,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:45.083Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5181,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:45.085Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5182,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.086Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5184,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:45.101Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5185,
+      "attributes": {
+        "title": "Vaisakhi",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:45.087Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5186,
+      "attributes": {
+        "title": "Sri Guru Arjan Dev Ji’s Martyrdom Day",
+        "date": "2026-06-18",
+        "updatedAt": "2026-02-17T08:16:40.579Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5187,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.090Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5188,
+      "attributes": {
+        "title": "Sant Kabir Jayanti",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:45.090Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5189,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.091Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5190,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.091Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5191,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayaka Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.092Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5192,
+      "attributes": {
+        "title": "Maharaja Agrasen Jayanti",
+        "date": "2026-10-11",
+        "updatedAt": "2026-02-17T08:16:45.092Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5193,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karwa Chouth)",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:45.105Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5194,
+      "attributes": {
+        "title": "Govardhan Puja / Vishwakarma Day",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:40.594Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5195,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:45.103Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5196,
+      "attributes": {
+        "title": "Pratihar Shashthi / Surya Shashthi (Chhat Puja)",
+        "date": "2026-11-15",
+        "updatedAt": "2026-02-17T08:16:40.584Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5197,
+      "attributes": {
+        "title": "Sri Guru Teg Bahadur Ji Martyrdom Day",
+        "date": "2026-12-14",
+        "updatedAt": "2026-02-17T08:16:40.593Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5198,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:45.120Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5199,
+      "attributes": {
+        "title": "Jor Mela Fatehgarh Sahib",
+        "date": "2026-12-26",
+        "updatedAt": "2026-02-17T08:16:45.093Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5200,
+      "attributes": {
+        "title": "Jor Mela Fatehgarh Sahib",
+        "date": "2026-12-27",
+        "updatedAt": "2026-02-17T08:16:45.106Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5201,
+      "attributes": {
+        "title": "Jor Mela Fatehgarh Sahib",
+        "date": "2026-12-28",
+        "updatedAt": "2026-02-17T08:16:45.107Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5206,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.096Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5213,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:45.098Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "chandigarh-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

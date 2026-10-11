@@ -1,0 +1,731 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:11.067492+00:00",
+  "sha256": "013406f436e01db442409a6d1578d60ff1e48c2bb389a4684a0031c97586eb70",
+  "rows": [
+    {
+      "id": 4727,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.827Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4728,
+      "attributes": {
+        "title": "Subash Chandra Bose Jayanti / Veer Surendrasai Jayanti / Basanta Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:40.335Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4729,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.797Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4730,
+      "attributes": {
+        "title": "Dola Purnima",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:44.798Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4731,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.798Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4732,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.798Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4733,
+      "attributes": {
+        "title": "Shree Ram Navami",
+        "date": "2026-03-27",
+        "updatedAt": "2026-02-17T08:16:40.307Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4735,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.800Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4736,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar Jayanti / Maha Vishuva Sankranti",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.308Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4737,
+      "attributes": {
+        "title": "Buddha Purnima / Pandit Raghunath Murmu Birthday",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:40.308Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4738,
+      "attributes": {
+        "title": "Sabitri Amabasya",
+        "date": "2026-05-16",
+        "updatedAt": "2026-02-17T08:16:44.810Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4739,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.802Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4740,
+      "attributes": {
+        "title": "Raja Sankranti",
+        "date": "2026-06-15",
+        "updatedAt": "2026-02-17T08:16:44.802Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4741,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.803Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4742,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2026-07-16",
+        "updatedAt": "2026-02-17T08:16:44.803Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4743,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.804Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4744,
+      "attributes": {
+        "title": "Birthday of Prophet Muhammad (Milad-Un-Nabi)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.311Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4746,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.809Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4747,
+      "attributes": {
+        "title": "Ganesh Puja",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.809Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4748,
+      "attributes": {
+        "title": "Nuakhai",
+        "date": "2026-09-15",
+        "updatedAt": "2026-02-17T08:16:44.809Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4749,
+      "attributes": {
+        "title": "Day following Nuakhai",
+        "date": "2026-09-16",
+        "updatedAt": "2026-02-17T08:16:40.344Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4750,
+      "attributes": {
+        "title": "Gandhi Jayanti",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.824Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4751,
+      "attributes": {
+        "title": "Mahasaptami",
+        "date": "2026-10-17",
+        "updatedAt": "2026-02-17T08:16:44.824Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4752,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.825Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4753,
+      "attributes": {
+        "title": "Vijaya Dashami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.333Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4754,
+      "attributes": {
+        "title": "Rahas Purnima",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.827Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4755,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.813Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4756,
+      "attributes": {
+        "title": "Guru Gobind Singh’s Birthday",
+        "date": "2026-01-06",
+        "updatedAt": "2026-02-17T08:16:44.813Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4757,
+      "attributes": {
+        "title": "Sab-e-Qadar",
+        "date": "2026-03-17",
+        "updatedAt": "2026-02-17T08:16:40.324Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4758,
+      "attributes": {
+        "title": "Easter Saturday",
+        "date": "2026-04-04",
+        "updatedAt": "2026-02-17T08:16:44.814Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4759,
+      "attributes": {
+        "title": "Birthday of Raja Ram Mohan Roy",
+        "date": "2026-05-22",
+        "updatedAt": "2026-02-17T08:16:44.815Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4760,
+      "attributes": {
+        "title": "Bahuda Yatra",
+        "date": "2026-07-24",
+        "updatedAt": "2026-02-17T08:16:44.815Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4761,
+      "attributes": {
+        "title": "Foundation Day of Brahmo Samaj",
+        "date": "2026-08-20",
+        "updatedAt": "2026-02-17T08:16:40.326Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4762,
+      "attributes": {
+        "title": "Anla Navami",
+        "date": "2026-11-18",
+        "updatedAt": "2026-02-17T08:16:44.816Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4763,
+      "attributes": {
+        "title": "Prathamashtami",
+        "date": "2026-12-01",
+        "updatedAt": "2026-02-17T08:16:40.327Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4764,
+      "attributes": {
+        "title": "Utkal Divas",
+        "date": "2026-04-01",
+        "updatedAt": "2026-02-17T08:16:44.817Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4765,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.819Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4775,
+      "attributes": {
+        "title": "Jhulana Purnima",
+        "date": "2026-08-27",
+        "updatedAt": "2026-02-17T08:16:44.844Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "odisha"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

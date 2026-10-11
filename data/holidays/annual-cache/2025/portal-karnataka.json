@@ -1,0 +1,370 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:50.847665+00:00",
+  "sha256": "22a07dce81c92b7aaac44daa102f289d2190cdcb1d95a7f290cc2b0302343535",
+  "rows": [
+    {
+      "id": 3373,
+      "attributes": {
+        "title": "Makara Sankranti Festival",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.862Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3374,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.863Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3375,
+      "attributes": {
+        "title": "Khutub-E-Ramzan",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.872Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3376,
+      "attributes": {
+        "title": "Mahaveera Jayanthi",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.883Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3377,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar Jayanthi",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.866Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3378,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.866Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3379,
+      "attributes": {
+        "title": "Basava Jayanthi Akshaya Tritiya",
+        "date": "2025-04-30",
+        "updatedAt": "2025-01-28T17:52:53.875Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3380,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.874Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3381,
+      "attributes": {
+        "title": "Bakrid",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.867Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3383,
+      "attributes": {
+        "title": "Varasiddhi Vinayaka Vrata",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.868Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3384,
+      "attributes": {
+        "title": "Eid-Milad",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.868Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3385,
+      "attributes": {
+        "title": "Mahanavami/Ayudhapooja, Vijayadasami",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.868Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3386,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.869Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3387,
+      "attributes": {
+        "title": "Maharshi Valmiki Jayanthi",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.869Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3388,
+      "attributes": {
+        "title": "Naraka Chaturdashi",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.870Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3389,
+      "attributes": {
+        "title": "Deepavali, Balipadyami",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.870Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3390,
+      "attributes": {
+        "title": "Kannada Rajyothsava",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:53.870Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3391,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.871Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3411,
+      "attributes": {
+        "title": "Independence day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.879Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "karnataka"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

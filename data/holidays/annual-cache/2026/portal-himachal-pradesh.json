@@ -1,0 +1,750 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:06.627011+00:00",
+  "sha256": "41a1b6539d9478d013190f2e11b312c34d04c2496c2a022695971f22d7cf617a",
+  "rows": [
+    {
+      "id": 4294,
+      "attributes": {
+        "title": "Statehood Day",
+        "date": "2026-01-25",
+        "updatedAt": "2026-02-17T08:16:44.541Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4295,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.520Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4296,
+      "attributes": {
+        "title": "New Year’s Day",
+        "date": "2026-01-01",
+        "updatedAt": "2026-02-17T08:16:44.530Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4297,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.520Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4298,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2026-01-23",
+        "updatedAt": "2026-02-17T08:16:44.521Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4300,
+      "attributes": {
+        "title": "Swami Dayanand Saraswati Jayanti",
+        "date": "2026-02-12",
+        "updatedAt": "2026-02-17T08:16:44.534Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4301,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:44.534Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4302,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.523Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4303,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.523Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4304,
+      "attributes": {
+        "title": "Id-Ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:44.524Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4305,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:44.524Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4306,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.525Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4308,
+      "attributes": {
+        "title": "Dr. B.R. Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:44.525Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4309,
+      "attributes": {
+        "title": "Himachal Day",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.526Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4310,
+      "attributes": {
+        "title": "Parshu Ram Jayanti",
+        "date": "2026-04-19",
+        "updatedAt": "2026-02-17T08:16:40.072Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4311,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.526Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4312,
+      "attributes": {
+        "title": "Guru Rabindranath’s Birthday",
+        "date": "2026-05-09",
+        "updatedAt": "2026-02-17T08:16:44.527Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4313,
+      "attributes": {
+        "title": "Id-Ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.527Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4314,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2026-06-17",
+        "updatedAt": "2026-02-17T08:16:44.527Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4315,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:44.528Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4316,
+      "attributes": {
+        "title": "Sant Guru Kabir Jayanti (Prakat Diwas)",
+        "date": "2026-06-29",
+        "updatedAt": "2026-02-17T08:16:44.528Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4317,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.563Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4318,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.529Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4319,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.542Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4320,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:44.529Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4321,
+      "attributes": {
+        "title": "Mahatma Gandhi Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.539Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4322,
+      "attributes": {
+        "title": "Maha Ashtami",
+        "date": "2026-10-19",
+        "updatedAt": "2026-02-17T08:16:44.530Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4323,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.531Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4324,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2026-10-29",
+        "updatedAt": "2026-02-17T08:16:44.531Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4325,
+      "attributes": {
+        "title": "Maharishi Valmiki’s Birthday",
+        "date": "2026-10-26",
+        "updatedAt": "2026-02-17T08:16:44.560Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4326,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:44.567Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4327,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2026-11-09",
+        "updatedAt": "2026-02-17T08:16:44.553Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4328,
+      "attributes": {
+        "title": "Guru Ravidas’s Birthday",
+        "date": "2026-02-01",
+        "updatedAt": "2026-02-17T08:16:44.552Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4329,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.532Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4330,
+      "attributes": {
+        "title": "Guru Teg Bahadur Martyrdom Day",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.532Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4331,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2026-12-24",
+        "updatedAt": "2026-02-17T08:16:44.533Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4332,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.533Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4335,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2026-04-05",
+        "updatedAt": "2026-02-17T08:16:44.536Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4357,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.554Z",
+        "publishedAt": "2026-02-17T09:02:49.610Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "himachal-pradesh"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

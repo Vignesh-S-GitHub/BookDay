@@ -1,0 +1,570 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:40:11.161052+00:00",
+  "sha256": "c273805767b149454c041dea95f498c9b9602f017e51f0235a08dd2e6d04b792",
+  "rows": [
+    {
+      "id": 101,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:49:55.465Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 102,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2025-02-26",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:50:03.689Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 103,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:50:15.641Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 104,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2025-03-31",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:50:26.850Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 105,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:50:50.097Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 106,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:50:59.825Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 107,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2025-05-12",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:51:22.106Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 108,
+      "attributes": {
+        "title": "Id- ul- Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:51:38.826Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Saturday"
+      }
+    },
+    {
+      "id": 109,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:51:51.726Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 110,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:05.374Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 111,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2025-08-16",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:15.108Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Saturday"
+      }
+    },
+    {
+      "id": 112,
+      "attributes": {
+        "title": "Milad- un- Nabi or Id- e- Milad",
+        "date": "2025-09-05",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:24.983Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 113,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday",
+        "date": "2025-10-02",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:34.650Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 114,
+      "attributes": {
+        "title": "Dussehra ",
+        "date": "2025-10-02",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:43.999Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 115,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2025-10-20",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-04T07:16:24.393Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 116,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:52:54.204Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 117,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-08-05T06:53:03.125Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 118,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:11.681Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 119,
+      "attributes": {
+        "title": "Guru Gobind Singh's Birthday",
+        "date": "2025-01-06",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:20.365Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 120,
+      "attributes": {
+        "title": "Makar Sankranti/ Magha Bihu/ Pongal/ Hazarat Ali's Birthday",
+        "date": "2025-01-14",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:29.663Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Tuesday"
+      }
+    },
+    {
+      "id": 121,
+      "attributes": {
+        "title": "Basant Panchami/ Sri Panchami",
+        "date": "2025-02-02",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:39.365Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 122,
+      "attributes": {
+        "title": "Guru Ravi Das's Birthday",
+        "date": "2025-02-12",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:49.332Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 123,
+      "attributes": {
+        "title": "Shiva ji Jayanti",
+        "date": "2025-02-19",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:53:58.703Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 124,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2025-02-23",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:54:13.695Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 125,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2025-03-13",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:54:27.741Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 126,
+      "attributes": {
+        "title": "Dolyatra",
+        "date": "2025-03-14",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:54:41.764Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 127,
+      "attributes": {
+        "title": "Jamat- Ul- Vida",
+        "date": "2025-03-28",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:54:56.903Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 128,
+      "attributes": {
+        "title": "Chaitra Sukladi/ Gudi Padava/ Ugadi/ Cheti Chand",
+        "date": "2025-03-30",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:57:30.933Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 129,
+      "attributes": {
+        "title": "Ram Navmi",
+        "date": "2025-04-06",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T07:00:40.170Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 130,
+      "attributes": {
+        "title": "Vaisakhi Vishu",
+        "date": "2025-04-13",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T07:00:21.420Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 131,
+      "attributes": {
+        "title": "Meshadi (Tamil New Year's Day)",
+        "date": "2025-04-14",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T07:00:08.474Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 132,
+      "attributes": {
+        "title": "Vaisakhadi (Bengal)/ Bahag Bihu (Assam)",
+        "date": "2025-04-15",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:59:55.102Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Tuesday"
+      }
+    },
+    {
+      "id": 133,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2025-04-20",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:59:45.254Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Sunday"
+      }
+    },
+    {
+      "id": 134,
+      "attributes": {
+        "title": "Guru Rabindranath's birthday",
+        "date": "2025-05-09",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:59:34.700Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 135,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2025-06-27",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:59:17.268Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 136,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2025-08-09",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:59:03.798Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Saturday"
+      }
+    },
+    {
+      "id": 137,
+      "attributes": {
+        "title": "Parsi New Year's day/ Nauraj",
+        "date": "2025-08-15",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:58:43.758Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 138,
+      "attributes": {
+        "title": "Janmashtami (Smarta)",
+        "date": "2025-08-15",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:58:21.983Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 139,
+      "attributes": {
+        "title": "Ganesh Chaturthi/ Vinayaka Chaturthi",
+        "date": "2025-08-27",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:58:00.866Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 140,
+      "attributes": {
+        "title": "Onam or Thiru Onam Day",
+        "date": "2025-09-05",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:57:15.897Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 141,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2025-09-29",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:59.459Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 142,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2025-09-30",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:45.892Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Tuesday"
+      }
+    },
+    {
+      "id": 143,
+      "attributes": {
+        "title": "Dussehra (Mahanavmi)",
+        "date": "2025-10-01",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:27.790Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 144,
+      "attributes": {
+        "title": "Maharishi Valmiki's Birthday",
+        "date": "2025-10-07",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:17.934Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Tuesday"
+      }
+    },
+    {
+      "id": 145,
+      "attributes": {
+        "title": "Karaka Chaturthi (KarwaChouth)",
+        "date": "2025-10-10",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:08.562Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 146,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2025-10-20",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:56:00.394Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 147,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2025-10-22",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:55:45.507Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    },
+    {
+      "id": 148,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2025-10-23",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:55:36.624Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Thursday"
+      }
+    },
+    {
+      "id": 149,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chhat Puja)",
+        "date": "2025-10-28",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:55:27.782Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Tuesday"
+      }
+    },
+    {
+      "id": 150,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Martyrdom Day",
+        "date": "2025-11-24",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:55:17.516Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Monday"
+      }
+    },
+    {
+      "id": 151,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "holiday_type": "Restricted",
+        "updatedAt": "2026-08-05T06:55:07.130Z",
+        "publishedAt": "2024-07-11T08:44:53.934Z",
+        "day": "Wednesday"
+      }
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:05.795034+00:00",
+  "sha256": "2d473725282c2bbc71f30037ebe2608724ccfa731ca870cd99c1dd985b9bc791",
+  "rows": [
+    {
+      "id": 4238,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:44.482Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4239,
+      "attributes": {
+        "title": "Holi 2nd Day (Dhuleti)",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:44.483Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4240,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.483Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4242,
+      "attributes": {
+        "title": "Ramzan-Eid (Eid-Ul-Fitr – 1st Shawwal)",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:40.038Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4243,
+      "attributes": {
+        "title": "Shree Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:40.039Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4244,
+      "attributes": {
+        "title": "Mahavir Janma Kalyanak",
+        "date": "2026-03-31",
+        "updatedAt": "2026-02-17T08:16:44.504Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4245,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.505Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4246,
+      "attributes": {
+        "title": "Dr. Babasaheb Ambedkar’s Birthday",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.023Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4247,
+      "attributes": {
+        "title": "Eid-Ul-Adha (Bakri Eid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.485Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4248,
+      "attributes": {
+        "title": "Muharram (Ashura)",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:40.024Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4249,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.486Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4250,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:44.487Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4251,
+      "attributes": {
+        "title": "Janmashtami (Shravan Vad-8)",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.487Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4252,
+      "attributes": {
+        "title": "Samvatsari (Chaturthi Paksha)",
+        "date": "2026-09-15",
+        "updatedAt": "2026-02-17T08:16:44.488Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4253,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.488Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4254,
+      "attributes": {
+        "title": "Dussehra (Vijaya Dashami)",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:40.028Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4255,
+      "attributes": {
+        "title": "Sardar Vallabhbhai Patel’s Birthday",
+        "date": "2026-10-31",
+        "updatedAt": "2026-02-17T08:16:44.489Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4256,
+      "attributes": {
+        "title": "Vikram Samvat New Year Day",
+        "date": "2026-11-10",
+        "updatedAt": "2026-02-17T08:16:40.029Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4257,
+      "attributes": {
+        "title": "Bhai Bij",
+        "date": "2026-11-11",
+        "updatedAt": "2026-02-17T08:16:44.490Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4258,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:44.491Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4259,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.491Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4270,
+      "attributes": {
+        "title": "Chetichand",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:44.522Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4277,
+      "attributes": {
+        "title": "Parsi New Year Day (Pateti)",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:40.042Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4278,
+      "attributes": {
+        "title": "Eid-E-Miladunnabi (Prophet Mohammad’s Birthday)",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.043Z",
+        "publishedAt": "2026-02-17T09:01:26.627Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "gujarat"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

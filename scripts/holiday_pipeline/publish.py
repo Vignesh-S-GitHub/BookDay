@@ -93,7 +93,7 @@ def publish(data=DATA, output=None) -> dict:
             str(year): sorted(
                 {
                     row["festival_id"]
-                    for row in approved["records"]
+                    for row in rows
                     if row.get("festival_id")
                     and row.get("festival")
                     and row["status"] == "official"
@@ -102,11 +102,7 @@ def publish(data=DATA, output=None) -> dict:
                 }
             )
             for year in sorted(
-                {
-                    int(row["date"][:4])
-                    for row in approved["records"]
-                    if state in row["jurisdictions"]
-                }
+                {int(row["date"][:4]) for row in rows if state in row["jurisdictions"]}
             )
         }
         for state in catalog["states"]
@@ -155,6 +151,15 @@ def publish(data=DATA, output=None) -> dict:
         "automatic_updates": {
             "enabled": True,
             "source": "https://www.india.gov.in/calendar",
+            "sources": [
+                "https://www.india.gov.in/calendar",
+                "https://www.indiapost.gov.in/holidays-list",
+            ],
+            "annual_cache": {
+                "historical_refresh_days": 365,
+                "current_refresh_days": 7,
+                "future_refresh_days": 1,
+            },
             "updated": automatic.get("updated"),
         },
         "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays.",

@@ -11,7 +11,7 @@ PUBLIC = ROOT / "public"
 
 def test_new_artwork_is_complete_and_encoded() -> None:
     items = json.loads((ROOT / "docs/artwork.json").read_text(encoding="utf-8"))
-    assert len(items) == 106
+    assert len(items) == 116
     assert len({item["path"] for item in items}) == len(items)
     for item in items:
         contents = (PUBLIC / item["path"].lstrip("/")).read_bytes()

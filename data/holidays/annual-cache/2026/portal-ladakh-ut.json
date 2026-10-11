@@ -1,0 +1,674 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.101539+00:00",
+  "sha256": "6fef98045ee47f6d0524fab469998d3c8635cb2ea0938192063f7eebedddd03c",
+  "rows": [
+    {
+      "id": 5274,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.144Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5275,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.146Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5276,
+      "attributes": {
+        "title": "Nauroz",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.140Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5277,
+      "attributes": {
+        "title": "Eid-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.140Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5278,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.143Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5279,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:45.156Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5280,
+      "attributes": {
+        "title": "Eid-ul-Azha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.157Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5281,
+      "attributes": {
+        "title": "Ashoora (Muharram)",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:40.672Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5282,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.158Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5283,
+      "attributes": {
+        "title": "Eid-i-Milad-ul-Nabi",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:45.146Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5284,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.147Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5285,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.148Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5286,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.148Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5287,
+      "attributes": {
+        "title": "Guru Nanak Dev Ji’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.149Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5288,
+      "attributes": {
+        "title": "Losar",
+        "date": "2026-12-09",
+        "updatedAt": "2026-02-17T08:16:45.149Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5289,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.163Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5290,
+      "attributes": {
+        "title": "Hazrat Ali’s Birthday",
+        "date": "2026-01-03",
+        "updatedAt": "2026-02-17T08:16:45.150Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5291,
+      "attributes": {
+        "title": "Guru Gobind Singh Ji’s Birthday",
+        "date": "2026-01-05",
+        "updatedAt": "2026-02-17T08:16:40.665Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5292,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2026-01-13",
+        "updatedAt": "2026-02-17T08:16:45.161Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5293,
+      "attributes": {
+        "title": "Shab-i-Miraj",
+        "date": "2026-01-17",
+        "updatedAt": "2026-02-17T08:16:45.151Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5295,
+      "attributes": {
+        "title": "Maha Shivratri",
+        "date": "2026-02-15",
+        "updatedAt": "2026-02-17T08:16:45.152Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5296,
+      "attributes": {
+        "title": "Tangpe Chongya",
+        "date": "2026-03-03",
+        "updatedAt": "2026-02-17T08:16:45.152Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5297,
+      "attributes": {
+        "title": "Shab-i-Qadr",
+        "date": "2026-03-13",
+        "updatedAt": "2026-02-17T08:16:45.153Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5298,
+      "attributes": {
+        "title": "1st Navratra",
+        "date": "2026-03-19",
+        "updatedAt": "2026-02-17T08:16:45.153Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5299,
+      "attributes": {
+        "title": "Jumat-ul-Vida",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:45.154Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5300,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2026-03-26",
+        "updatedAt": "2026-02-17T08:16:45.154Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5302,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.155Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5303,
+      "attributes": {
+        "title": "Baisakhi / Vaisakhi",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.671Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5304,
+      "attributes": {
+        "title": "Eid-e-Ghadeer",
+        "date": "2026-06-04",
+        "updatedAt": "2026-02-17T08:16:45.170Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5305,
+      "attributes": {
+        "title": "Martyr’s Day of Guru Arjun Dev Ji",
+        "date": "2026-06-18",
+        "updatedAt": "2026-02-17T08:16:45.173Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5306,
+      "attributes": {
+        "title": "Guru Hargobind Singh Ji’s Birthday",
+        "date": "2026-07-05",
+        "updatedAt": "2026-02-17T08:16:45.173Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5307,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.158Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5308,
+      "attributes": {
+        "title": "Friday following Eid-i-Milad-ul-Nabi",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:45.161Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5309,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:45.159Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5310,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.160Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "ladakh-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

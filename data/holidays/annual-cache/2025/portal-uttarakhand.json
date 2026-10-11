@@ -1,0 +1,864 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:58.426593+00:00",
+  "sha256": "f6900e4901fa9975ccb561995e729a077e16c390ad2f84f585a8f7f54513a468",
+  "rows": [
+    {
+      "id": 3858,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:54.098Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3859,
+      "attributes": {
+        "title": "Makar Sankranti",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:54.086Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3860,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:54.086Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3861,
+      "attributes": {
+        "title": "Basant Panchami",
+        "date": "2025-02-02",
+        "updatedAt": "2025-01-28T17:52:54.089Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3862,
+      "attributes": {
+        "title": "*Shab-e-Barath",
+        "date": "2025-02-14",
+        "updatedAt": "2025-01-28T17:52:54.094Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3863,
+      "attributes": {
+        "title": "Guru Ravidas Jayanti",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:54.087Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3865,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2025-03-13",
+        "updatedAt": "2025-01-28T17:52:54.088Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3866,
+      "attributes": {
+        "title": "Easter Monday",
+        "date": "2025-04-21",
+        "updatedAt": "2025-01-28T17:52:54.089Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3867,
+      "attributes": {
+        "title": "Holi ",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:54.093Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3868,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:54.089Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3869,
+      "attributes": {
+        "title": "*Jamaat-ul-Vida",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:54.099Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3870,
+      "attributes": {
+        "title": "*Eid-ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:54.102Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3871,
+      "attributes": {
+        "title": "Birthday of Dr. B. R. Ambedkar",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:54.110Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3872,
+      "attributes": {
+        "title": "Vaisakhi",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:54.103Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3873,
+      "attributes": {
+        "title": "Veer Kesharichandra Shahid Diwas",
+        "date": "2025-05-03",
+        "updatedAt": "2025-01-28T17:52:54.104Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3874,
+      "attributes": {
+        "title": "Rama Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:54.104Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3875,
+      "attributes": {
+        "title": "Mahavir Jayanti ",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:54.093Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3876,
+      "attributes": {
+        "title": "Budha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:54.095Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3878,
+      "attributes": {
+        "title": "*BAKRID\n(Eid-UI-Zuha)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:54.115Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3879,
+      "attributes": {
+        "title": "Harela",
+        "date": "2025-07-16",
+        "updatedAt": "2025-01-28T17:52:54.110Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3880,
+      "attributes": {
+        "title": "*Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:54.115Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3881,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:54.094Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3882,
+      "attributes": {
+        "title": "Raksha Bandhan ",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:54.098Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3883,
+      "attributes": {
+        "title": "Janmashtami ",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:54.095Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3884,
+      "attributes": {
+        "title": "*Chehallum",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:54.096Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3885,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2025-09-06",
+        "updatedAt": "2025-01-28T17:52:54.096Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3886,
+      "attributes": {
+        "title": "* Id-e-Milad/Barawafat",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:54.097Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3887,
+      "attributes": {
+        "title": "Maharaja Agrasen Jayanti",
+        "date": "2025-09-22",
+        "updatedAt": "2025-01-28T17:52:54.097Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3888,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti / Dussehra (Vijaya Dasami)",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:54.097Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3889,
+      "attributes": {
+        "title": "Dussehra (Mahanavami)",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:54.102Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3890,
+      "attributes": {
+        "title": "Deepavali (Naraka Chaturdasi)",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:54.124Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3891,
+      "attributes": {
+        "title": "Maharishi Valmiki Jayanti",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:54.099Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3892,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:54.099Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3893,
+      "attributes": {
+        "title": "Goverdhan Puja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:54.122Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3894,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:54.122Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3895,
+      "attributes": {
+        "title": "Egas-Bagwal",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:54.120Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3896,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:54.135Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3897,
+      "attributes": {
+        "title": "Chatt Puja",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:54.151Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3898,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:54.125Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3899,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:54.104Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3900,
+      "attributes": {
+        "title": "Shri Guru Gobind Singh Jayanti",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:54.105Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3901,
+      "attributes": {
+        "title": "Cheti Chand",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:54.105Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3902,
+      "attributes": {
+        "title": "Viswakarma Puja",
+        "date": "2025-09-17",
+        "updatedAt": "2025-01-28T17:52:54.107Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3903,
+      "attributes": {
+        "title": "Guru Teg Bahadur Diwas",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:54.109Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3904,
+      "attributes": {
+        "title": "Bhai Duj",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:54.143Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "uttarakhand"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

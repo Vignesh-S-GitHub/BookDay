@@ -1,0 +1,959 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:00.652509+00:00",
+  "sha256": "9e103dc8a59b6a868728e2afb6a6797d26801b374bde7d1ffb140d46f27854a0",
+  "rows": [
+    {
+      "id": 2487,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.451Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2488,
+      "attributes": {
+        "title": "Maha Shivaratri",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:53.455Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2489,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.468Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2490,
+      "attributes": {
+        "title": "Id-ul Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.453Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2491,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:53.453Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2492,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.453Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2493,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.466Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2494,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.465Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2496,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.457Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2497,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.457Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2498,
+      "attributes": {
+        "title": "Milad-un-Nabi or ld-e Milad (Birthday of Prophet Mohammad)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.458Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2499,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday / Dussehra",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.458Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2500,
+      "attributes": {
+        "title": "Maharishi Valmiki's Birthday",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:53.458Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2501,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.459Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2502,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.462Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2503,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.459Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2504,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.460Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2505,
+      "attributes": {
+        "title": "Guru Gobind Singh's Birthday",
+        "date": "2025-01-05",
+        "updatedAt": "2025-01-28T17:52:53.460Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2506,
+      "attributes": {
+        "title": "Makar Sankranti/ Magha Bihu/ Pongal/ Hazarat Ali's Birthday",
+        "date": "2025-01-14",
+        "updatedAt": "2025-01-28T17:52:53.460Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2507,
+      "attributes": {
+        "title": "Basant Panchami/ Sri Panchami",
+        "date": "2025-02-02",
+        "updatedAt": "2025-01-28T17:52:53.461Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2508,
+      "attributes": {
+        "title": "Guru Ravi Das's Birthday",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:53.461Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2509,
+      "attributes": {
+        "title": "Shiva ji Jayanti",
+        "date": "2025-02-19",
+        "updatedAt": "2025-01-28T17:52:53.462Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2511,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2025-03-13",
+        "updatedAt": "2025-01-28T17:52:53.470Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2512,
+      "attributes": {
+        "title": "Dolyatra",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.463Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2513,
+      "attributes": {
+        "title": "Jamat-Ul-Vida",
+        "date": "2025-03-28",
+        "updatedAt": "2025-01-28T17:52:53.464Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2514,
+      "attributes": {
+        "title": "Chaitra Sukladi/ Gudi Padava / Ugadi/ Cheti Chand",
+        "date": "2025-03-30",
+        "updatedAt": "2025-01-28T17:52:53.464Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2515,
+      "attributes": {
+        "title": "Ram Navmi",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:53.474Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2516,
+      "attributes": {
+        "title": "Vaisakhi / Vishu",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:53.473Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2517,
+      "attributes": {
+        "title": "Meshadi (Tamil New Year's Day)",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.474Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2518,
+      "attributes": {
+        "title": "Vaisakhadi (Bengal) / Bahag Bihu (Assam)",
+        "date": "2025-04-15",
+        "updatedAt": "2025-01-28T17:52:53.475Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2519,
+      "attributes": {
+        "title": "Easter Sunday",
+        "date": "2025-04-20",
+        "updatedAt": "2025-01-28T17:52:53.475Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2520,
+      "attributes": {
+        "title": "Guru Rabindranath's Birthday",
+        "date": "2025-05-09",
+        "updatedAt": "2025-01-28T17:52:53.464Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2521,
+      "attributes": {
+        "title": "Rath Yatra",
+        "date": "2025-06-27",
+        "updatedAt": "2025-01-28T17:52:53.465Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2522,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2025-08-09",
+        "updatedAt": "2025-01-28T17:52:53.478Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2523,
+      "attributes": {
+        "title": "Parsi New Year's day/ Nauraj",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.466Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2524,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.467Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2525,
+      "attributes": {
+        "title": "Ganesh Chaturthi/Vinayaka Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.468Z",
+        "publishedAt": "2025-10-04T10:52:49.904Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2526,
+      "attributes": {
+        "title": "Onam or Thiru Onam Day",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.468Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2527,
+      "attributes": {
+        "title": "Dussehra (Saptami)",
+        "date": "2025-09-29",
+        "updatedAt": "2025-01-28T17:52:53.469Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2528,
+      "attributes": {
+        "title": "Dussehra (Mahashtami)",
+        "date": "2025-10-30",
+        "updatedAt": "2025-01-28T17:52:53.471Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2529,
+      "attributes": {
+        "title": "Dussehra (Mahanavmi)",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.479Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2530,
+      "attributes": {
+        "title": "Karaka Chaturthi (Karva Chouth)",
+        "date": "2025-10-10",
+        "updatedAt": "2025-01-28T17:52:53.467Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2531,
+      "attributes": {
+        "title": "Naraka Chaturdasi",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.480Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2532,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:53.471Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2533,
+      "attributes": {
+        "title": "Bjhai Duj",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:53.471Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2534,
+      "attributes": {
+        "title": "Pratihar Shashthi or Surya Shashthi (Chhat Puja)",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:53.469Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2535,
+      "attributes": {
+        "title": "Guru Teg Bahadur's Martyrdom Day",
+        "date": "2025-11-24",
+        "updatedAt": "2025-01-28T17:52:53.470Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2536,
+      "attributes": {
+        "title": "Christmas Eve",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.472Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2539,
+      "attributes": {
+        "title": "Birthday of Swami Dayananda Saraswati",
+        "date": "2025-02-23",
+        "updatedAt": "2025-01-28T17:52:53.473Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2554,
+      "attributes": {
+        "title": "Janmashtami (Smarta)",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.479Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "delhi-nct"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

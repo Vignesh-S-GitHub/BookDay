@@ -1,0 +1,1130 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:55.305959+00:00",
+  "sha256": "5d1e9564be4a73cd770404606ff9c4661855cd8f36f3edc85169f9aa3387d0db",
+  "rows": [
+    {
+      "id": 3654,
+      "attributes": {
+        "title": "New Year Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:54.005Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3655,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2025-01-13",
+        "updatedAt": "2025-01-28T17:52:54.006Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3656,
+      "attributes": {
+        "title": "Birthday of Guru Gobind Singh ji",
+        "date": "2025-01-06",
+        "updatedAt": "2025-01-28T17:52:53.995Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3657,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.995Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3658,
+      "attributes": {
+        "title": "Nirwan Diwas of Bhagwan Adinath Ji",
+        "date": "2025-01-28",
+        "updatedAt": "2025-01-28T17:52:53.999Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3659,
+      "attributes": {
+        "title": "Basanth Panchami / Birthday of Satguru Ram Singh Ji",
+        "date": "2025-02-02",
+        "updatedAt": "2025-01-28T17:52:54.003Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3661,
+      "attributes": {
+        "title": "Maha Shivaratri ",
+        "date": "2025-02-26",
+        "updatedAt": "2025-01-28T17:52:54.002Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3662,
+      "attributes": {
+        "title": "International Women Day",
+        "date": "2025-03-08",
+        "updatedAt": "2025-01-28T17:52:54.002Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3663,
+      "attributes": {
+        "title": "Hola Mohalla",
+        "date": "2025-03-15",
+        "updatedAt": "2025-01-28T17:52:53.996Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3664,
+      "attributes": {
+        "title": "Shaheedi Diwas of Shaheed-e-Azam Bhagat Singh, Sukhdev and Rajguru Ji ",
+        "date": "2025-03-23",
+        "updatedAt": "2025-01-28T17:52:53.997Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3665,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.997Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3666,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.998Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3667,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.998Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3668,
+      "attributes": {
+        "title": "Birthday of Sri Guru Nabha Dass ji",
+        "date": "2025-04-08",
+        "updatedAt": "2025-01-28T17:52:53.999Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3669,
+      "attributes": {
+        "title": "Idu'I Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.999Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3670,
+      "attributes": {
+        "title": "Vaisakhi",
+        "date": "2025-04-13",
+        "updatedAt": "2025-01-28T17:52:54.003Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3671,
+      "attributes": {
+        "title": "Birthday of Dr. B.R. Ambedkar",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:54.013Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3672,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2025-04-06",
+        "updatedAt": "2025-01-28T17:52:54.001Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3674,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:54.001Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3675,
+      "attributes": {
+        "title": "Lord Parshuram Jayanti",
+        "date": "2025-04-29",
+        "updatedAt": "2025-01-28T17:52:54.004Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3676,
+      "attributes": {
+        "title": "Martyrdom Day of Sri Guru Arjun Dev Ji",
+        "date": "2025-05-30",
+        "updatedAt": "2025-01-28T17:52:54.015Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3677,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:54.015Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3678,
+      "attributes": {
+        "title": "Nirjala Ekadashi",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:54.020Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3679,
+      "attributes": {
+        "title": "Kabir Jayanti",
+        "date": "2025-06-11",
+        "updatedAt": "2025-01-28T17:52:54.020Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3680,
+      "attributes": {
+        "title": "Death Anniversary of Maharaja Ranjith Singh Ji",
+        "date": "2025-06-29",
+        "updatedAt": "2025-01-28T17:52:54.015Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3681,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:54.006Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3682,
+      "attributes": {
+        "title": "Martyrdom Day of Shaheed Udham Singh",
+        "date": "2025-07-31",
+        "updatedAt": "2025-01-28T17:52:54.007Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3683,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:54.008Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3684,
+      "attributes": {
+        "title": "Janam Ashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:54.008Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3685,
+      "attributes": {
+        "title": "Pehla Parkash Utsave Sri Guru Granth Sahib Ji",
+        "date": "2025-08-24",
+        "updatedAt": "2025-01-28T17:52:54.009Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3686,
+      "attributes": {
+        "title": "Birthday of Baba Jiwan Singh Ji",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:54.009Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3687,
+      "attributes": {
+        "title": "Samvatsari Diwas",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:54.013Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3688,
+      "attributes": {
+        "title": "Birthday of Baba Sri Chand Ji",
+        "date": "2025-09-01",
+        "updatedAt": "2025-01-28T17:52:54.024Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3689,
+      "attributes": {
+        "title": "Birthday of Sri Guru Ravidas ji",
+        "date": "2025-02-12",
+        "updatedAt": "2025-01-28T17:52:54.009Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3690,
+      "attributes": {
+        "title": "Birthday of Prophet Mohammed Sahib (Milad-un-Nabi or ID-e-Milad)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:54.010Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3691,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2025-09-06",
+        "updatedAt": "2025-01-28T17:52:54.010Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3692,
+      "attributes": {
+        "title": "Birthday of S. Bhagath Singh Ji",
+        "date": "2025-09-28",
+        "updatedAt": "2025-01-28T17:52:54.011Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3693,
+      "attributes": {
+        "title": "Birthday of Mahatma Gandhi Ji / Dussehra",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:54.011Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3694,
+      "attributes": {
+        "title": "Maharaj Agarsain Jayanti",
+        "date": "2025-09-22",
+        "updatedAt": "2025-01-28T17:52:54.012Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3695,
+      "attributes": {
+        "title": "Birthday of Maharishi Valmiki Ji",
+        "date": "2025-10-07",
+        "updatedAt": "2025-01-28T17:52:54.012Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3696,
+      "attributes": {
+        "title": "Birthday of Baba Banda Singh ji",
+        "date": "2025-10-16",
+        "updatedAt": "2025-01-28T17:52:54.024Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3697,
+      "attributes": {
+        "title": "Birthday of Sri Guru Ram Dass Ji",
+        "date": "2025-10-08",
+        "updatedAt": "2025-01-28T17:52:54.013Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3698,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2025-10-10",
+        "updatedAt": "2025-01-28T17:52:54.014Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3699,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:54.014Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3700,
+      "attributes": {
+        "title": "Vishwakarma Day ",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:54.035Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3701,
+      "attributes": {
+        "title": "New Punjab Day",
+        "date": "2025-11-01",
+        "updatedAt": "2025-01-28T17:52:54.026Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3702,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2025-04-10",
+        "updatedAt": "2025-01-28T17:52:54.036Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3703,
+      "attributes": {
+        "title": "Guru Gaddi Diwas Sri Guru Granth Sahib Ji",
+        "date": "2025-10-23",
+        "updatedAt": "2025-01-28T17:52:54.024Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3704,
+      "attributes": {
+        "title": "Chhath Pooja",
+        "date": "2025-10-28",
+        "updatedAt": "2025-01-28T17:52:54.035Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3705,
+      "attributes": {
+        "title": "Birthday of Sant Nam Dev ji",
+        "date": "2025-11-02",
+        "updatedAt": "2025-01-28T17:52:54.025Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3706,
+      "attributes": {
+        "title": "Birthday of Sri Guru Nanak Dev Ji",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:54.016Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3707,
+      "attributes": {
+        "title": "Martyrdom Day of S. Kartar Singh Sarabha ji",
+        "date": "2025-11-16",
+        "updatedAt": "2025-01-28T17:52:54.016Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3708,
+      "attributes": {
+        "title": "Martyrdom day of Sri Guru Teg Bahadur Ji",
+        "date": "2025-11-25",
+        "updatedAt": "2025-01-28T17:52:54.017Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3709,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:54.017Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3710,
+      "attributes": {
+        "title": "Shaheehi Sabha, Shri Fategarh Sahib",
+        "date": "2025-12-27",
+        "updatedAt": "2025-01-28T17:52:54.017Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3711,
+      "attributes": {
+        "title": "Shaheehi Sabha, Shri Fategarh Sahib",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:54.018Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3712,
+      "attributes": {
+        "title": "Shaheehi Sabha, Shri Fategarh Sahib",
+        "date": "2025-12-26",
+        "updatedAt": "2025-01-28T17:52:54.018Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3719,
+      "attributes": {
+        "title": "Saragarhi Day ",
+        "date": "2025-09-12",
+        "updatedAt": "2025-01-28T17:52:54.022Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3731,
+      "attributes": {
+        "title": "Govardhan Pooja",
+        "date": "2025-10-22",
+        "updatedAt": "2025-01-28T17:52:54.026Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "punjab"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

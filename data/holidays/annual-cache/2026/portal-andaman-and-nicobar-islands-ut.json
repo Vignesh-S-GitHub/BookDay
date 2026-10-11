@@ -1,0 +1,313 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:53:41.073143+00:00",
+  "sha256": "45e1229efc8cd1a1344825cb2cf6babb44da7a53e98630336af02dc2581faecd",
+  "rows": [
+    {
+      "id": 5146,
+      "attributes": {
+        "title": "Makar Sankranti / Magha Bihu / Pongal / Hazrat Ali’s Birthday",
+        "date": "2026-01-14",
+        "updatedAt": "2026-02-17T08:16:40.556Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5148,
+      "attributes": {
+        "title": "Holi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:45.081Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5149,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2026-03-21",
+        "updatedAt": "2026-02-17T08:16:45.081Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5150,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:45.082Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5151,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:45.070Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5152,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:45.069Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5153,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2026-06-26",
+        "updatedAt": "2026-02-17T08:16:45.079Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5155,
+      "attributes": {
+        "title": "Milad-un-Nabi / Id-e-Milad (Birthday of Prophet Mohammad) / Onam / Thiru Onam Day",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:40.576Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5156,
+      "attributes": {
+        "title": "Ganesh Chaturthi / Vinayaka Chaturthi",
+        "date": "2026-09-14",
+        "updatedAt": "2026-02-17T08:16:45.084Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5157,
+      "attributes": {
+        "title": "Mahatma Gandhi’s Birthday",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:45.071Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5158,
+      "attributes": {
+        "title": "Dussehra",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:45.071Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5159,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2026-11-08",
+        "updatedAt": "2026-02-17T08:16:45.087Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Sunday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5160,
+      "attributes": {
+        "title": "Guru Nanak’s Birthday",
+        "date": "2026-11-24",
+        "updatedAt": "2026-02-17T08:16:45.072Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5161,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:45.072Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5176,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:45.095Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5183,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:45.086Z",
+        "publishedAt": "2026-02-17T09:22:33.413Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "andaman-and-nicobar-islands-ut"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

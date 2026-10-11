@@ -1,0 +1,617 @@
+{
+  "schema": 1,
+  "year": 2025,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:47:53.367737+00:00",
+  "sha256": "2be044ea3ab11d0bc2fc8e1101a61481f11698dadb95dd6a9c9c89145f69ddbf",
+  "rows": [
+    {
+      "id": 2991,
+      "attributes": {
+        "title": "New Year's Day",
+        "date": "2025-01-01",
+        "updatedAt": "2025-01-28T17:52:53.678Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2992,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2025-01-26",
+        "updatedAt": "2025-01-28T17:52:53.678Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2993,
+      "attributes": {
+        "title": "Holi",
+        "date": "2025-03-14",
+        "updatedAt": "2025-01-28T17:52:53.680Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2994,
+      "attributes": {
+        "title": "Id-ul-Fitr",
+        "date": "2025-03-31",
+        "updatedAt": "2025-01-28T17:52:53.683Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2995,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2025-04-18",
+        "updatedAt": "2025-01-28T17:52:53.692Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2996,
+      "attributes": {
+        "title": "Id-ul-Zuha (Bakrid)",
+        "date": "2025-06-07",
+        "updatedAt": "2025-01-28T17:52:53.679Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2997,
+      "attributes": {
+        "title": "Beh Deinkhlam",
+        "date": "2025-07-14",
+        "updatedAt": "2025-01-28T17:52:53.696Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2998,
+      "attributes": {
+        "title": "Death Anniversary of U Tirot Sing",
+        "date": "2025-07-17",
+        "updatedAt": "2025-01-28T17:52:53.696Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2999,
+      "attributes": {
+        "title": "Janmashtami",
+        "date": "2025-08-16",
+        "updatedAt": "2025-01-28T17:52:53.682Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3000,
+      "attributes": {
+        "title": "Navaratri ends / Maha Navami",
+        "date": "2025-10-01",
+        "updatedAt": "2025-01-28T17:52:53.697Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3001,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2025-08-15",
+        "updatedAt": "2025-01-28T17:52:53.697Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3002,
+      "attributes": {
+        "title": "Mahatma Gandhi's Birthday/ Dussehra",
+        "date": "2025-10-02",
+        "updatedAt": "2025-01-28T17:52:53.683Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3003,
+      "attributes": {
+        "title": "Diwali (Deepavali)",
+        "date": "2025-10-20",
+        "updatedAt": "2025-01-28T17:52:53.684Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3005,
+      "attributes": {
+        "title": "Seng Kut Snem",
+        "date": "2025-11-23",
+        "updatedAt": "2025-01-28T17:52:53.685Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3006,
+      "attributes": {
+        "title": "Death Anniversary of Pa Togan Nengminja Sangma",
+        "date": "2025-12-12",
+        "updatedAt": "2025-01-28T17:52:53.685Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3007,
+      "attributes": {
+        "title": "Death Anniversary of U SoSo Tham",
+        "date": "2025-12-18",
+        "updatedAt": "2025-01-28T17:52:53.685Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3008,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2025-12-24",
+        "updatedAt": "2025-01-28T17:52:53.704Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3009,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2025-12-25",
+        "updatedAt": "2025-01-28T17:52:53.695Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3010,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2025-12-26",
+        "updatedAt": "2025-01-28T17:52:53.697Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3011,
+      "attributes": {
+        "title": "Christmas Festival",
+        "date": "2025-12-27",
+        "updatedAt": "2025-01-28T17:52:53.704Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3012,
+      "attributes": {
+        "title": "Death Anniversary of U Kiang Nangbah",
+        "date": "2025-12-30",
+        "updatedAt": "2025-01-28T17:52:53.693Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3013,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar's Birthday",
+        "date": "2025-04-14",
+        "updatedAt": "2025-01-28T17:52:53.693Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3014,
+      "attributes": {
+        "title": "Assamese New Year's Day (Bihu)",
+        "date": "2025-04-15",
+        "updatedAt": "2025-01-28T17:52:53.693Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Tuesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3015,
+      "attributes": {
+        "title": "May Day",
+        "date": "2025-05-01",
+        "updatedAt": "2025-01-28T17:52:53.694Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3016,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2025-05-12",
+        "updatedAt": "2025-01-28T17:52:53.694Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3017,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2025-07-06",
+        "updatedAt": "2025-01-28T17:52:53.695Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3018,
+      "attributes": {
+        "title": "Tithi of Sri Sri Sankar Dev",
+        "date": "2025-08-25",
+        "updatedAt": "2025-01-28T17:52:53.703Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Monday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3019,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2025-08-27",
+        "updatedAt": "2025-01-28T17:52:53.707Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3021,
+      "attributes": {
+        "title": "ID-E-MILAD (Prophet Mohammad's Birthday)",
+        "date": "2025-09-05",
+        "updatedAt": "2025-01-28T17:52:53.704Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3022,
+      "attributes": {
+        "title": "All Soul's Day",
+        "date": "2025-11-02",
+        "updatedAt": "2025-01-28T17:52:53.705Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Sunday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3023,
+      "attributes": {
+        "title": "Guru Nanak's Birthday",
+        "date": "2025-11-05",
+        "updatedAt": "2025-01-28T17:52:53.705Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2025",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3033,
+      "attributes": {
+        "title": "Wangala Festival",
+        "date": "2025-11-07",
+        "updatedAt": "2025-01-28T17:52:53.703Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2025",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "meghalaya"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

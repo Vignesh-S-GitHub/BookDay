@@ -1,0 +1,484 @@
+{
+  "schema": 1,
+  "year": 2026,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T13:48:07.855848+00:00",
+  "sha256": "31919ad0ea3b9f6c049fdd909146b195a9078188672abed63887f9fdf8186d94",
+  "rows": [
+    {
+      "id": 4409,
+      "attributes": {
+        "title": "Mannam Jayanthi",
+        "date": "2026-01-02",
+        "updatedAt": "2026-02-17T08:16:44.589Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4410,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2026-01-26",
+        "updatedAt": "2026-02-17T08:16:44.590Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4411,
+      "attributes": {
+        "title": "Id-ul-Fitr (Ramzan)*",
+        "date": "2026-03-20",
+        "updatedAt": "2026-02-17T08:16:44.590Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4412,
+      "attributes": {
+        "title": "Maundy Thursday",
+        "date": "2026-04-02",
+        "updatedAt": "2026-02-17T08:16:44.591Z",
+        "publishedAt": "2026-02-17T09:21:29.866Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4413,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2026-04-03",
+        "updatedAt": "2026-02-17T08:16:44.591Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4414,
+      "attributes": {
+        "title": "Dr. B. R. Ambedkar Jayanthi",
+        "date": "2026-04-14",
+        "updatedAt": "2026-02-17T08:16:40.109Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4416,
+      "attributes": {
+        "title": "May Day",
+        "date": "2026-05-01",
+        "updatedAt": "2026-02-17T08:16:44.594Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4417,
+      "attributes": {
+        "title": "Id-ul-Ad’ha (Bakrid)*",
+        "date": "2026-05-27",
+        "updatedAt": "2026-02-17T08:16:44.594Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4418,
+      "attributes": {
+        "title": "Muharram*",
+        "date": "2026-06-25",
+        "updatedAt": "2026-02-17T08:16:44.595Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4419,
+      "attributes": {
+        "title": "Karkadaka Vavu",
+        "date": "2026-08-12",
+        "updatedAt": "2026-02-17T08:16:44.595Z",
+        "publishedAt": "2026-02-17T09:18:54.465Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4420,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2026-08-15",
+        "updatedAt": "2026-02-17T08:16:44.595Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Saturday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4421,
+      "attributes": {
+        "title": "First Onam / Milad-i-Sherif* (Birthday of Prophet Muhammed)",
+        "date": "2026-08-25",
+        "updatedAt": "2026-02-17T08:16:40.113Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4422,
+      "attributes": {
+        "title": "Thiruvonam",
+        "date": "2026-08-26",
+        "updatedAt": "2026-02-17T08:16:44.596Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4424,
+      "attributes": {
+        "title": "Fourth Onam / Sree Narayana Guru Jayanthi / Ayyankali Jayanthi",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:40.114Z",
+        "publishedAt": "2026-02-17T09:20:12.464Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4425,
+      "attributes": {
+        "title": "Sreekrishna Jayanthi",
+        "date": "2026-09-04",
+        "updatedAt": "2026-02-17T08:16:44.597Z",
+        "publishedAt": "2026-02-17T09:20:25.921Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4426,
+      "attributes": {
+        "title": "Gandhi Jayanthi",
+        "date": "2026-10-02",
+        "updatedAt": "2026-02-17T08:16:44.629Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4427,
+      "attributes": {
+        "title": "Sree Narayana Guru Samadhi Day",
+        "date": "2026-09-21",
+        "updatedAt": "2026-02-17T08:16:44.598Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Monday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4428,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2026-10-20",
+        "updatedAt": "2026-02-17T08:16:44.599Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Tuesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4429,
+      "attributes": {
+        "title": "Vijayadasami",
+        "date": "2026-10-21",
+        "updatedAt": "2026-02-17T08:16:44.608Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4430,
+      "attributes": {
+        "title": "Christmas",
+        "date": "2026-12-25",
+        "updatedAt": "2026-02-17T08:16:44.608Z",
+        "publishedAt": "2026-02-17T09:19:45.437Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4431,
+      "attributes": {
+        "title": "Ayya Vaikunda Swami Jayanthi",
+        "date": "2026-03-04",
+        "updatedAt": "2026-02-17T08:16:40.133Z",
+        "publishedAt": "2026-02-17T09:20:38.377Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4432,
+      "attributes": {
+        "title": "Avani Avittom",
+        "date": "2026-08-28",
+        "updatedAt": "2026-02-17T08:16:40.120Z",
+        "publishedAt": "2026-02-17T09:20:52.496Z",
+        "day": "Friday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4433,
+      "attributes": {
+        "title": "Vishwakarma Day",
+        "date": "2026-09-17",
+        "updatedAt": "2026-02-17T08:16:44.632Z",
+        "publishedAt": "2026-02-17T09:19:59.914Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4444,
+      "attributes": {
+        "title": "Vishu",
+        "date": "2026-04-15",
+        "updatedAt": "2026-02-17T08:16:44.617Z",
+        "publishedAt": "2026-02-17T09:21:44.177Z",
+        "day": "Wednesday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4452,
+      "attributes": {
+        "title": "Third Onam",
+        "date": "2026-08-27",
+        "updatedAt": "2026-02-17T08:16:44.620Z",
+        "publishedAt": "2026-02-17T09:08:27.754Z",
+        "day": "Thursday",
+        "year": "2026",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "kerala"
+            }
+          }
+        }
+      }
+    }
+  ]
+}

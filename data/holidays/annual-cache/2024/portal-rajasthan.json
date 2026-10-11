@@ -1,0 +1,997 @@
+{
+  "schema": 1,
+  "year": 2024,
+  "source": "https://www.india.gov.in/calendar",
+  "checked": "2026-10-11T14:01:40.433345+00:00",
+  "sha256": "bf952a5cea9585b37b3fe5cbc52fbf0686aa4a813bbec48ad9c96698564853fb",
+  "rows": [
+    {
+      "id": 1348,
+      "attributes": {
+        "title": "Christian New Year’s Day",
+        "date": "2024-01-01",
+        "updatedAt": "2025-01-28T17:52:52.949Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1349,
+      "attributes": {
+        "title": "Shri Parshvanath Jayanti",
+        "date": "2024-01-06",
+        "updatedAt": "2025-01-28T17:52:52.949Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1351,
+      "attributes": {
+        "title": "Republic Day",
+        "date": "2024-01-26",
+        "updatedAt": "2025-01-28T17:52:52.950Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1352,
+      "attributes": {
+        "title": "Devnarayan Jayanti",
+        "date": "2024-02-16",
+        "updatedAt": "2025-01-28T17:52:52.950Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1353,
+      "attributes": {
+        "title": "Vishwakarma Jayanti",
+        "date": "2024-02-22",
+        "updatedAt": "2025-01-28T17:52:52.963Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1354,
+      "attributes": {
+        "title": "Swami Ramcharan Jayanti / Gadge Maharaj Jayanti",
+        "date": "2024-02-23",
+        "updatedAt": "2025-01-28T17:52:52.959Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1355,
+      "attributes": {
+        "title": "Guru Ravidas Jayanti",
+        "date": "2024-02-24",
+        "updatedAt": "2025-01-28T17:52:52.952Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1356,
+      "attributes": {
+        "title": "Shab-e-baraat",
+        "date": "2024-02-25",
+        "updatedAt": "2025-01-28T17:52:52.952Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1357,
+      "attributes": {
+        "title": "Maharishi Dayanand Saraswati Jayanti",
+        "date": "2024-03-05",
+        "updatedAt": "2025-01-28T17:52:52.964Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1358,
+      "attributes": {
+        "title": "Mahashivratri",
+        "date": "2024-03-08",
+        "updatedAt": "2025-01-28T17:52:52.965Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1359,
+      "attributes": {
+        "title": "Holika Dahan",
+        "date": "2024-03-24",
+        "updatedAt": "2025-01-28T17:52:52.965Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1360,
+      "attributes": {
+        "title": "Dhulandi",
+        "date": "2024-03-25",
+        "updatedAt": "2025-01-28T17:52:52.966Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1361,
+      "attributes": {
+        "title": "Good Friday",
+        "date": "2024-03-29",
+        "updatedAt": "2025-01-28T17:52:52.966Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1363,
+      "attributes": {
+        "title": "Chetichand",
+        "date": "2024-04-10",
+        "updatedAt": "2025-01-28T17:52:52.956Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1364,
+      "attributes": {
+        "title": "Eid-ul-Fitr",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.957Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1365,
+      "attributes": {
+        "title": "Mahatma Jyotiba Phule Jayanti",
+        "date": "2024-04-11",
+        "updatedAt": "2025-01-28T17:52:52.957Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1366,
+      "attributes": {
+        "title": "Baisakhi",
+        "date": "2024-04-13",
+        "updatedAt": "2025-01-28T17:52:52.958Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1367,
+      "attributes": {
+        "title": "Dr. Bhimrao Ambedkar Jayanti",
+        "date": "2024-04-14",
+        "updatedAt": "2025-01-28T17:52:52.958Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1368,
+      "attributes": {
+        "title": "Ram Navami",
+        "date": "2024-04-17",
+        "updatedAt": "2025-01-28T17:52:52.959Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1369,
+      "attributes": {
+        "title": "Mahavir Jayanti",
+        "date": "2024-04-21",
+        "updatedAt": "2025-01-28T17:52:52.959Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1370,
+      "attributes": {
+        "title": "Sain Jayanti",
+        "date": "2024-05-05",
+        "updatedAt": "2025-01-28T17:52:52.983Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1371,
+      "attributes": {
+        "title": "Parshuram Jayanti",
+        "date": "2024-05-10",
+        "updatedAt": "2025-01-28T17:52:52.960Z",
+        "publishedAt": "2025-10-04T10:48:26.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1372,
+      "attributes": {
+        "title": "Buddha Purnima",
+        "date": "2024-05-23",
+        "updatedAt": "2025-01-28T17:52:52.961Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1373,
+      "attributes": {
+        "title": "Maharana Pratap Jayanti",
+        "date": "2024-06-09",
+        "updatedAt": "2025-01-28T17:52:52.961Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1374,
+      "attributes": {
+        "title": "Iduljuha",
+        "date": "2024-06-17",
+        "updatedAt": "2025-01-28T17:52:52.961Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1375,
+      "attributes": {
+        "title": "Muharram",
+        "date": "2024-07-17",
+        "updatedAt": "2025-01-28T17:52:52.962Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1376,
+      "attributes": {
+        "title": "Guru Purnima",
+        "date": "2024-07-21",
+        "updatedAt": "2025-01-28T17:52:52.962Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1377,
+      "attributes": {
+        "title": "World Tribal Day",
+        "date": "2024-08-09",
+        "updatedAt": "2025-01-28T17:52:52.975Z",
+        "publishedAt": "2025-10-04T10:51:07.815Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1378,
+      "attributes": {
+        "title": "Lohri",
+        "date": "2024-01-13",
+        "updatedAt": "2025-01-28T17:52:52.979Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1379,
+      "attributes": {
+        "title": "Guru Gobind Singh Jayanti",
+        "date": "2024-01-17",
+        "updatedAt": "2025-01-28T17:52:52.964Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1380,
+      "attributes": {
+        "title": "Raksha Bandhan",
+        "date": "2024-08-19",
+        "updatedAt": "2025-01-28T17:52:52.964Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1381,
+      "attributes": {
+        "title": "Thattadi",
+        "date": "2024-08-25",
+        "updatedAt": "2025-01-28T17:52:52.988Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1382,
+      "attributes": {
+        "title": "Krishna Janmashtami",
+        "date": "2024-08-26",
+        "updatedAt": "2025-01-28T17:52:52.984Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1383,
+      "attributes": {
+        "title": "Ganesh Chaturthi",
+        "date": "2024-09-07",
+        "updatedAt": "2025-01-28T17:52:52.982Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1384,
+      "attributes": {
+        "title": "Samvatsari",
+        "date": "2024-09-08",
+        "updatedAt": "2025-01-28T17:52:52.996Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1385,
+      "attributes": {
+        "title": "Ramdev Jayanti, Teja Dashami, Khejadli Martyr’s Day",
+        "date": "2024-09-13",
+        "updatedAt": "2025-01-28T17:52:52.984Z",
+        "publishedAt": "2025-10-04T10:49:02.892Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1386,
+      "attributes": {
+        "title": "Baravafat (from the moon)",
+        "date": "2024-09-16",
+        "updatedAt": "2025-01-28T17:52:52.984Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Monday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1387,
+      "attributes": {
+        "title": "Anant Chaturdashi",
+        "date": "2024-09-17",
+        "updatedAt": "2025-01-28T17:52:52.987Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Tuesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1388,
+      "attributes": {
+        "title": "Mahatma Gandhi Jayanti",
+        "date": "2024-10-02",
+        "updatedAt": "2025-01-28T17:52:52.975Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1389,
+      "attributes": {
+        "title": "Navratri & Maharaja Agrasen Birth Anniversary",
+        "date": "2024-10-03",
+        "updatedAt": "2025-01-28T17:52:52.982Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1390,
+      "attributes": {
+        "title": "Durga Ashtami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.976Z",
+        "publishedAt": "2025-10-04T10:49:36.866Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1391,
+      "attributes": {
+        "title": "Vijayadashami",
+        "date": "2024-10-12",
+        "updatedAt": "2025-01-28T17:52:52.977Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1392,
+      "attributes": {
+        "title": "Mahanavami",
+        "date": "2024-10-11",
+        "updatedAt": "2025-01-28T17:52:52.976Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1393,
+      "attributes": {
+        "title": "Jumatulvida",
+        "date": "2024-04-05",
+        "updatedAt": "2025-01-28T17:52:52.977Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1394,
+      "attributes": {
+        "title": "Karva Chauth",
+        "date": "2024-10-20",
+        "updatedAt": "2025-01-28T17:52:52.978Z",
+        "publishedAt": "2025-10-04T10:47:16.464Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1395,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2024-10-31",
+        "updatedAt": "2025-01-28T17:52:52.978Z",
+        "publishedAt": "2025-10-04T10:48:05.492Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1396,
+      "attributes": {
+        "title": "Govardhan Puja",
+        "date": "2024-11-02",
+        "updatedAt": "2025-01-28T17:52:52.978Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Saturday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1397,
+      "attributes": {
+        "title": "Bhai Dooj",
+        "date": "2024-11-03",
+        "updatedAt": "2025-01-28T17:52:52.981Z",
+        "publishedAt": "2025-10-04T10:47:46.739Z",
+        "day": "Sunday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1398,
+      "attributes": {
+        "title": "Guru Nanak Jayanti",
+        "date": "2024-11-15",
+        "updatedAt": "2025-01-28T17:52:52.989Z",
+        "publishedAt": "2025-10-04T10:52:31.656Z",
+        "day": "Friday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1399,
+      "attributes": {
+        "title": "Christmas Day",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.979Z",
+        "publishedAt": "2025-10-04T10:46:59.310Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1400,
+      "attributes": {
+        "title": "Shri Parshvanath Jayanti",
+        "date": "2024-12-25",
+        "updatedAt": "2025-01-28T17:52:52.980Z",
+        "publishedAt": "2025-10-04T10:50:30.685Z",
+        "day": "Wednesday",
+        "year": "2024",
+        "holiday_type": "Restricted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1408,
+      "attributes": {
+        "title": "Independence Day",
+        "date": "2024-08-15",
+        "updatedAt": "2025-01-28T17:52:52.993Z",
+        "publishedAt": "2025-10-04T10:46:40.082Z",
+        "day": "Thursday",
+        "year": "2024",
+        "holiday_type": "Gazetted",
+        "state_dept_org": {
+          "data": {
+            "attributes": {
+              "alias": "rajasthan"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
