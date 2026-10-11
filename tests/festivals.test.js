@@ -149,7 +149,9 @@ test("regional festival associations follow the selected year and last available
     false,
   );
   assert.equal(
-    selected.filter((row) => row.festival_id === "diwali").length,
-    2,
+    selected.filter(
+      (row) => row.festival_id === "diwali" && row.date.startsWith("2027"),
+    ).length,
+    1,
   );
 });
