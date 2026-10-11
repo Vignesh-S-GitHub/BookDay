@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+.wrangler/
+.deploy/
+.env
+.dev.vars
+*.pem
+*.key
+output/
+design-assets/
+BookDay_Style2_Complete_Assets.zip
+ChatGPT Image*.png
