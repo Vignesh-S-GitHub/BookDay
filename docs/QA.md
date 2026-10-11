@@ -97,3 +97,9 @@ The final local gate also passed: 52 pytest, 18 Node, Ruff format/lint, ty, Pret
 - The thirteen new generated panoramas were visually inspected together and in mobile reminder screens. They are packaged as WebP, with prompts and saved paths in `artwork.json`. The train illustration remains established artwork.
 - Ruff format/lint, ty, Prettier, data/asset validation, Python/npm vulnerability audits and the GitHub quality workflow passed. The release has 2,267 public-calendar records and 405 festival observances/guides; postal guides do not establish state public leave.
 - Preview: `da25d2cb-d10e-4606-8cf3-cf8c6ec4dea4`. Production merge, deployment and final live checks are recorded in [PR #6](https://github.com/Vignesh-S-GitHub/BookDay/pull/6).
+
+### Production verification
+
+PR #6 merged as `8f816a7` and deployed as `675f71eb-77c9-4697-a4ff-72334b6dff63`. All ten production browser suites passed. The main unattended update/publish run `38157906048` succeeded and published dual-source manifest `623835804805b7ee15b7`; both portal and India Post annual caches were confirmed on the delivery branch. Production health returned `ok` and a fresh browser cached both official sources.
+
+Automatic delivery, regional/faith symbols, historical/offline dates and Google Calendar template parameters were rechecked after that publication. The holiday UI regression now accepts a nonempty selected-year guide rather than a fixed total of 17 festivals: the official dual-source list can grow without changing the selected-year, stale-response, date or scope assertions. Current visual QA captures remain locally; 113 obsolete probe files and 50 old QA scratch artifacts were removed.
