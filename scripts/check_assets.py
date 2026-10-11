@@ -12,13 +12,17 @@ assert len(catalog["categories"]) == 14
 assert len(set(catalog["states"])) == 36
 for category in catalog["categories"]:
     assert (public / "art/categories" / f"{category['id']}.webp").is_file()
-for record in holidays["records"]:
+for record in holidays["records"] + holidays["festival_calendar"]:
     date.fromisoformat(record["date"])
     assert record["source"].startswith("https://")
     assert record["status"] in {"official", "tentative", "unverified"}
     assert all(
         state == "IN" or state in catalog["states"] for state in record["jurisdictions"]
     )
+    if record["festival"]:
+        assert record["festival_id"] in holidays["festival_art"]
+for festival in holidays["festival_art"].values():
+    assert (public / festival["image"].lstrip("/")).is_file(), festival["name"]
 for asset in [
     "logo.webp",
     "celebration.webp",
@@ -37,5 +41,5 @@ assert (public / "fonts/OFL.txt").is_file()
 for file in ["app.js", "app.css", "index.html", "sw.js", "manifest.webmanifest"]:
     assert "/assets/" not in (public / file).read_text(encoding="utf-8"), file
 print(
-    f"Verified assets for 14 categories, 36 jurisdictions and {len(holidays['records'])} sourced calendar records."
+    f"Verified assets for 14 categories, 36 jurisdictions, {len(holidays['records'])} public-calendar records and {len(holidays['festival_calendar'])} yearly festival observances with {len(holidays['festival_art'])} artwork themes."
 )

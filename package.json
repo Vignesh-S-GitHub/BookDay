@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "BookDay static PWA and Cloudflare deployment tools",
   "scripts": {
-    "test": "node --test tests/calendar-export.test.js tests/booking-fields.test.js",
+    "test": "node --test tests/calendar-export.test.js tests/booking-fields.test.js tests/festivals.test.js tests/holiday-loader.test.js",
     "dev": "uv run pywrangler dev",
     "deploy": "uv run pywrangler deploy"
   },

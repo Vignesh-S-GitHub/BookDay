@@ -1,0 +1,118 @@
+"""Only approved, validated records are emitted as cacheable static datasets."""
+
+from .storage import DATA, ROOT, digest, read, slug, validate, write
+
+CATEGORIES = ["public", "bank", "festival", "education", "district"]
+
+
+def coverage(rows: list[dict], schedules: list[dict], states: list[str]) -> list[dict]:
+    years = sorted({2024, 2025, 2026, 2027, *(int(r["date"][:4]) for r in rows)})
+    report = []
+    for year in years:
+        for state in ["IN", *states]:
+            local = [
+                r
+                for r in rows
+                if r["date"].startswith(str(year)) and state in r["jurisdictions"]
+            ]
+            for category in CATEGORIES:
+                count = sum(
+                    (
+                        r["type"] in {"state_public", "national_public"}
+                        if category == "public"
+                        else r["type"] == "bank_holiday"
+                        if category == "bank"
+                        else bool(r.get("festival"))
+                        if category == "festival"
+                        else r["type"] == "school_holiday"
+                        if category == "education"
+                        else bool(r.get("district"))
+                    )
+                    for r in local
+                )
+                schedule = next(
+                    (
+                        s
+                        for s in schedules
+                        if s["year"] == year
+                        and s["jurisdiction"] == state
+                        and s["category"] == category
+                    ),
+                    None,
+                )
+                status = (
+                    "complete"
+                    if schedule and schedule["sufficient"]
+                    else "partial"
+                    if count
+                    else "not_verified"
+                )
+                report.append(
+                    {
+                        "year": year,
+                        "jurisdiction": state,
+                        "category": category,
+                        "status": status,
+                        "count": count,
+                        "scope": schedule["scope"]
+                        if schedule
+                        else "Only published records; annual source sufficiency not established.",
+                        "source_ids": schedule["source_ids"] if schedule else [],
+                    }
+                )
+    return report
+
+
+def publish(data=DATA, output=None) -> dict:
+    output = output or ROOT / "public/data"
+    approved = read(data / "approved.json")
+    catalog = read(ROOT / "public/data/catalog.json")
+    rows = approved["records"] + approved["festival_calendar"]
+    public_ids = {row["id"] for row in approved["records"]}
+    validate(rows, catalog["states"])
+    report = coverage(rows, approved.get("schedules", []), catalog["states"])
+    version = digest(approved)[:20]
+    # Content-addressed datasets prevent a cached manifest mixing old/new releases.
+    entries = {}
+    for year in sorted({int(r["date"][:4]) for r in rows}):
+        for state in ["IN", *catalog["states"]]:
+            selected = [
+                r
+                for r in rows
+                if r["date"].startswith(str(year)) and state in r["jurisdictions"]
+            ]
+            if not selected:
+                continue
+            payload = {
+                "version": version,
+                "year": year,
+                "jurisdiction": state,
+                "records": [r for r in selected if r["id"] in public_ids],
+                "festival_calendar": [r for r in selected if r["id"] not in public_ids],
+            }
+            checksum = digest(payload)
+            filename = f"{year}/{'national' if state == 'IN' else slug(state)}-{checksum[:16]}.json"
+            write(output / "holidays" / filename, payload)
+            entries[f"{year}:{state}"] = {
+                "url": "/data/holidays/" + filename,
+                "checksum": checksum,
+                "count": len(selected),
+                "version": version,
+            }
+    manifest = {
+        "version": version,
+        "schema": 1,
+        "datasets": entries,
+        "coverage": report,
+        "festival_art": approved["festival_art"],
+        "changes": approved.get("changes", []),
+        "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays.",
+    }
+    write(output / "holidays/manifest.json", manifest)
+    # Transitional compatibility export keeps existing consumers and artwork paths.
+    write(
+        output / "holidays.json",
+        {**approved, "version": 2, "publication_version": version},
+    )
+    write(data / "coverage.json", {"version": version, "rows": report})
+    return manifest

@@ -29,6 +29,7 @@ Deployment uses `workers.asgi.entrypoint(app)` and Workers Static Assets, routin
 - All 14 categories use service-specific date, location and service fields over the shared date engine. Only transport forms show From/To. Hotels use Place, Check-in Date, Nights and Guests; every form has a required reminder time (IST). Provider windows are unknown by default outside the standard railway workflow.
 - Day subtraction, clipped calendar months, fixed dates, recurring weekdays/month days, and Tatkal using origin-station departure and AC/non-AC times. Recurring rules find the latest matching date on or before the event. User rules are labelled unverified.
 - Calendar state selection covers all 28 states and 8 UTs, with a destination overlay, keyboard day navigation, independent layers, derived long weekends and explained calendar demand signals.
+- An illustrated guide covers 34 main and regional festival themes with 65 reviewed year-specific observance dates for 2026–2027. Home, calendar details and nearby-festival insights use matching artwork. The Home date badge is separate from the title and opens the exact date. Local dates override conflicting central entries; unreviewed future dates are not guessed. See [festival sources and maintenance](docs/FESTIVALS.md).
 - Reviewed records include the Tamil Nadu 2026 annual public-holiday schedule, annual national holidays for 2026–2027 and selected Kerala 2026 records. Other state/UT, district, school and future-year coverage remains incomplete, with official URLs, jurisdiction, type, status and review date in each record. State and festival coverage is not complete. Bank holidays never create general long weekends; religious festivals alone never imply public holidays.
 - Versioned, validated localStorage keeps plans and settings on the device. Saved plans can be edited, completed, deleted, shared and exported. This is not cross-device sync.
 - Google Calendar opens its populated editor on the booking **opening** date at the chosen reminder time. Provider opening time remains separately identified. Legacy plans without a chosen time preserve their timed/all-day behavior. The user saves there; Google manages its own notification defaults. BookDay cannot know whether that Save occurred.
@@ -69,7 +70,7 @@ No live prices, seats, slot availability, automatic purchases, sign-in, push/ema
 
 ## Artwork and browser regression
 
-The 36 new raster images live in `public/art/`; vector UI icons are in `public/art/icons.svg`. [Artwork prompts](docs/artwork.json) record each new asset, its saved path and its built-in image-generation prompt. `scripts/package_art.mjs` resizes and encodes generated PNG originals into sharp WebP assets. PNG originals are kept in the image-generation library; the deployable files are committed here. Original user inputs are preserved locally in the ignored `reference-inputs/` folder. The extracted design-kit folder and obsolete served assets were removed.
+The 106 newly generated raster images, including 34 festival themes, live in `public/art/`; vector UI icons are in `public/art/icons.svg`. [Artwork prompts](docs/artwork.json) record each new asset, its saved path and its built-in image-generation prompt. `scripts/package_art.mjs` resizes and encodes generated PNG originals into sharp WebP assets. PNG originals are kept in the image-generation library; the deployable files are committed here. Original user inputs are preserved locally in the ignored `reference-inputs/` folder. The extracted design-kit folder and obsolete served assets were removed.
 
 The committed browser suite covers all categories, planning, saved-plan menus, calendar exports, settings, source-backed insights, responsive layouts, first installation, malformed storage and offline exports:
 
@@ -87,3 +88,19 @@ After opening the running app with Playwright CLI: `npx --yes --package @playwri
 All-state banner and verified-calendar regression: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/destination-regression.js`.
 
 Carousel autoplay, pause, swipe and reduced-motion regression: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/carousel-regression.js`.
+
+Festival images, annual dates, Home readability and navigation, guide layers, year boundaries and offline artwork: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/festivals-regression.js`.
+
+## Holiday pipeline and UI maintenance
+
+The reviewed-data pipeline, source registry, historical backfill, category/state/year coverage matrix and manual approval commands are documented in [HOLIDAY_PIPELINE.md](docs/HOLIDAY_PIPELINE.md). There are 93 calendar records (including 24 each for Tamil Nadu 2024/2025) plus 65 reviewed festival-guide observances. Unverified regions remain explicit; festival dates do not automatically imply public leave.
+
+Mobile state names and Next Booking cards now retain their contents within the theme. Artwork is cached and decoded images are reused between screen visits. The install icon has a white background. Saved movie/hotel/tourism plans use newly generated cinema/resort/coast thumbnails; generation prompts and paths are in [artwork.json](docs/artwork.json).
+
+Historical data loading, stale-request protection, all 36 state labels at five widths, image reuse, offline data and Google event prefill:
+
+```powershell
+npx --yes --package @playwright/cli playwright-cli run-code --filename tests/holiday-ui-regression.js
+```
+
+The daily source workflow uploads pending candidates/reports for human review. It has no permission to merge or publish unreviewed records.

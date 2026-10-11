@@ -1,0 +1,620 @@
+{
+  "version": "9e8798e5586db91f385c",
+  "year": 2026,
+  "jurisdiction": "Tamil Nadu",
+  "records": [
+    {
+      "id": "2026-01-01-new-year's-day-tamil-nadu",
+      "date": "2026-01-01",
+      "name": "New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "new_year",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-01-15-pongal-tamil-nadu",
+      "date": "2026-01-15",
+      "name": "Pongal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "pongal",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-01-16-thiruvalluvar-day-tamil-nadu",
+      "date": "2026-01-16",
+      "name": "Thiruvalluvar Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-01-17-uzhavar-thirunal-tamil-nadu",
+      "date": "2026-01-17",
+      "name": "Uzhavar Thirunal",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "pongal",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-02-01-thai-poosam-tamil-nadu",
+      "date": "2026-02-01",
+      "name": "Thai Poosam",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "thai_poosam",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-03-19-telugu-new-year's-day-tamil-nadu",
+      "date": "2026-03-19",
+      "name": "Telugu New Year's Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ugadi",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-03-21-ramzan-(idu'l-fitr)-tamil-nadu",
+      "date": "2026-03-21",
+      "name": "Ramzan (Idu'l Fitr)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "eid_fitr",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-03-31-mahaveer-jayanthi-tamil-nadu",
+      "date": "2026-03-31",
+      "name": "Mahaveer Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "mahavir_jayanti",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-01-bank-annual-closing-tamil-nadu",
+      "date": "2026-04-01",
+      "name": "Bank annual closing",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "bank_holiday",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Commercial and cooperative banks only; not a general state-office holiday.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "bank"
+    },
+    {
+      "id": "2026-04-03-good-friday-tamil-nadu",
+      "date": "2026-04-03",
+      "name": "Good Friday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "good_friday",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-14-tamil-new-year's-day-/-dr.-b.-r.-ambedkar's-birthday-tamil-nadu",
+      "date": "2026-04-14",
+      "name": "Tamil New Year's Day / Dr. B. R. Ambedkar's Birthday",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "tamil_new_year",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-04-23-tamil-nadu-assembly-polling-day-tamil-nadu",
+      "date": "2026-04-23",
+      "name": "Tamil Nadu Assembly polling day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2026/208_Ex_II_1_2026.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Statewide polling-day public holiday under G.O. Ms. 239, 26 March 2026. Limited constituency bye-election closures are not treated as statewide holidays.",
+      "source_id": "baseline-6",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-05-01-may-day-tamil-nadu",
+      "date": "2026-05-01",
+      "name": "May Day",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": false,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-05-28-bakrid-(idul-azha)-tamil-nadu",
+      "date": "2026-05-28",
+      "name": "Bakrid (Idul Azha)",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "eid_adha",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-06-26-muharram-tamil-nadu",
+      "date": "2026-06-26",
+      "name": "Muharram",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "muharram",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-08-26-milad-un-nabi-tamil-nadu",
+      "date": "2026-08-26",
+      "name": "Milad-un-Nabi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "milad",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-09-04-krishna-jayanthi-tamil-nadu",
+      "date": "2026-09-04",
+      "name": "Krishna Jayanthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "janmashtami",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-09-14-vinayakar-chathurthi-tamil-nadu",
+      "date": "2026-09-14",
+      "name": "Vinayakar Chathurthi",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ganesh_chaturthi",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-10-19-ayutha-pooja-tamil-nadu",
+      "date": "2026-10-19",
+      "name": "Ayutha Pooja",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "ayutha_pooja",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-10-20-vijaya-dasami-tamil-nadu",
+      "date": "2026-10-20",
+      "name": "Vijaya Dasami",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "dussehra",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-11-08-deepavali-tamil-nadu",
+      "date": "2026-11-08",
+      "name": "Deepavali",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "diwali",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    },
+    {
+      "id": "2026-12-25-christmas-tamil-nadu",
+      "date": "2026-12-25",
+      "name": "Christmas",
+      "jurisdictions": [
+        "Tamil Nadu"
+      ],
+      "districts": [],
+      "type": "state_public",
+      "festival": true,
+      "status": "official",
+      "source": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "reviewed": "2026-10-11",
+      "note": "Tamil Nadu state-government offices and commercial/cooperative banks. Private employer schedules may differ. Sunday holidays remain on the published date; no substitute weekday is assumed.",
+      "festival_id": "christmas",
+      "source_id": "baseline-5",
+      "provenance": {
+        "authority": "Tamil Nadu Public Department",
+        "document_sha256": null,
+        "issued": null,
+        "retrieved": null,
+        "reviewed_at": "2026-10-11",
+        "reviewer": "BookDay existing source review",
+        "review_decision": "approved",
+        "reason": "Preserved existing reviewed record; historical source hash unavailable."
+      },
+      "scope": "government_public"
+    }
+  ],
+  "festival_calendar": []
+}

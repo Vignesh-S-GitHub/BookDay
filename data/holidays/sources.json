@@ -1,0 +1,952 @@
+{
+  "schema": 1,
+  "sources": [
+    {
+      "id": "baseline-1",
+      "url": "https://gad.kerala.gov.in/sites/default/files/inline-files/public-holidays-2026_0.pdf",
+      "owner": "Kerala General Administration",
+      "jurisdiction": "Kerala",
+      "year": 2026,
+      "categories": [
+        "bank_holiday",
+        "religious_festival",
+        "state_public"
+      ],
+      "document_type": "pdf",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "public-notice",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated. Conditional document change detection only; new content still requires manual table approval."
+    },
+    {
+      "id": "baseline-2",
+      "url": "https://nhai.gov.in/assets/pdf/NHAI_Table_Calendar-2026.pdf",
+      "owner": "NHAI",
+      "jurisdiction": "IN",
+      "year": 2026,
+      "categories": [
+        "religious_festival"
+      ],
+      "document_type": "pdf",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "public-notice",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated. Conditional document change detection only; new content still requires manual table approval."
+    },
+    {
+      "id": "baseline-3",
+      "url": "https://pfrda.org.in/documents/33652/0/list_holidays_2027.pdf",
+      "owner": "PFRDA",
+      "jurisdiction": "IN",
+      "year": 2027,
+      "categories": [
+        "religious_festival"
+      ],
+      "document_type": "pdf",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "public-notice",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated. Conditional document change detection only; new content still requires manual table approval."
+    },
+    {
+      "id": "baseline-4",
+      "url": "https://www.incredibleindia.gov.in/en/plan-your-trip/public-holidays",
+      "owner": "Government of India Ministry of Tourism",
+      "jurisdiction": "IN",
+      "year": 2026,
+      "categories": [
+        "national_public"
+      ],
+      "document_type": "html",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "manual-review",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated."
+    },
+    {
+      "id": "baseline-5",
+      "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2025/721_Ex_II_1_2025.pdf",
+      "owner": "Tamil Nadu Public Department",
+      "jurisdiction": "Tamil Nadu",
+      "year": 2026,
+      "categories": [
+        "bank_holiday",
+        "religious_festival",
+        "state_public"
+      ],
+      "document_type": "pdf",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "public-notice",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated. Conditional document change detection only; new content still requires manual table approval."
+    },
+    {
+      "id": "baseline-6",
+      "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2026/208_Ex_II_1_2026.pdf",
+      "owner": "Tamil Nadu Public Department",
+      "jurisdiction": "Tamil Nadu",
+      "year": 2026,
+      "categories": [
+        "state_public"
+      ],
+      "document_type": "pdf",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "reviewed-baseline",
+      "collection": "public-notice",
+      "terms": "Official notice, previously table-reviewed. Original retrieval checksum unavailable; preserved explicitly, not fabricated. Conditional document change detection only; new content still requires manual table approval."
+    },
+    {
+      "id": "tn-2024-annual",
+      "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2023/385_Ex_II_1_2023.pdf",
+      "owner": "Tamil Nadu Public Department",
+      "jurisdiction": "Tamil Nadu",
+      "year": 2024,
+      "categories": [
+        "state_public",
+        "bank_holiday"
+      ],
+      "document_type": "pdf",
+      "publication_date": "2023-11-10",
+      "retrieval_date": "2026-10-11T11:17:33.610732+00:00",
+      "checksum": "9043c6f27f40025cbe1b0055eddc5b5ec1c14d485ee5509a757f0748d593179e",
+      "last_successful_check": "2026-10-11T11:17:33.610732+00:00",
+      "adapter": "tn-gazette-v1",
+      "expected_rows": 24,
+      "collection": "public-notice",
+      "terms": "Public government annual notice. Respect robots/access restrictions; no CAPTCHA bypass. Archive linked by NIC Tamil Nadu holiday list. Original Gazette URL verified from official 2023 archive; NIC scanned copy failed text extraction.",
+      "issue_date": "2023-11-09"
+    },
+    {
+      "id": "tn-2025-annual",
+      "url": "https://www.stationeryprinting.tn.gov.in/extraordinary/2024/375_Ex_II_1_2024.pdf",
+      "owner": "Tamil Nadu Public Department",
+      "jurisdiction": "Tamil Nadu",
+      "year": 2025,
+      "categories": [
+        "state_public",
+        "bank_holiday"
+      ],
+      "document_type": "pdf",
+      "publication_date": "2024-11-22",
+      "retrieval_date": "2026-10-11T11:11:42.615939+00:00",
+      "checksum": "97a90cb3c926629f7601b3b107996b45154641ad860593cf9df1d1d444f5e101",
+      "last_successful_check": "2026-10-11T11:11:42.615939+00:00",
+      "adapter": "tn-gazette-v1",
+      "expected_rows": 24,
+      "collection": "public-notice",
+      "terms": "Public government annual notice. Respect robots/access restrictions; no CAPTCHA bypass. Archive linked by NIC Tamil Nadu holiday list.",
+      "etag": "\"67595aa6-3a1c3\"",
+      "last_modified": "Wed, 11 Dec 2024 09:25:58 GMT"
+    },
+    {
+      "id": "rbi-regional",
+      "url": "https://www.rbi.org.in/Scripts/HolidayMatrixDisplay.aspx",
+      "owner": "Reserve Bank of India",
+      "jurisdiction": "IN",
+      "year": null,
+      "categories": [
+        "bank_holiday"
+      ],
+      "document_type": "html",
+      "publication_date": null,
+      "retrieval_date": "2026-10-11",
+      "checksum": null,
+      "last_successful_check": "2026-10-11",
+      "adapter": "pending",
+      "collection": "manual-review",
+      "terms": "Verified interactive portal; regional month/year selection required. All rights reserved. No bulk adapter or general-leave interpretation."
+    },
+    {
+      "id": "pending-andhra-pradesh",
+      "url": null,
+      "owner": "Andhra Pradesh government / General Administration",
+      "jurisdiction": "Andhra Pradesh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-arunachal-pradesh",
+      "url": null,
+      "owner": "Arunachal Pradesh government / General Administration",
+      "jurisdiction": "Arunachal Pradesh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-assam",
+      "url": null,
+      "owner": "Assam government / General Administration",
+      "jurisdiction": "Assam",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-bihar",
+      "url": null,
+      "owner": "Bihar government / General Administration",
+      "jurisdiction": "Bihar",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-chhattisgarh",
+      "url": null,
+      "owner": "Chhattisgarh government / General Administration",
+      "jurisdiction": "Chhattisgarh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-goa",
+      "url": null,
+      "owner": "Goa government / General Administration",
+      "jurisdiction": "Goa",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-gujarat",
+      "url": null,
+      "owner": "Gujarat government / General Administration",
+      "jurisdiction": "Gujarat",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-haryana",
+      "url": null,
+      "owner": "Haryana government / General Administration",
+      "jurisdiction": "Haryana",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-himachal-pradesh",
+      "url": null,
+      "owner": "Himachal Pradesh government / General Administration",
+      "jurisdiction": "Himachal Pradesh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-jharkhand",
+      "url": null,
+      "owner": "Jharkhand government / General Administration",
+      "jurisdiction": "Jharkhand",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-karnataka",
+      "url": null,
+      "owner": "Karnataka government / General Administration",
+      "jurisdiction": "Karnataka",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-kerala",
+      "url": null,
+      "owner": "Kerala government / General Administration",
+      "jurisdiction": "Kerala",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-madhya-pradesh",
+      "url": null,
+      "owner": "Madhya Pradesh government / General Administration",
+      "jurisdiction": "Madhya Pradesh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-maharashtra",
+      "url": null,
+      "owner": "Maharashtra government / General Administration",
+      "jurisdiction": "Maharashtra",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-manipur",
+      "url": null,
+      "owner": "Manipur government / General Administration",
+      "jurisdiction": "Manipur",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-meghalaya",
+      "url": null,
+      "owner": "Meghalaya government / General Administration",
+      "jurisdiction": "Meghalaya",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-mizoram",
+      "url": null,
+      "owner": "Mizoram government / General Administration",
+      "jurisdiction": "Mizoram",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-nagaland",
+      "url": null,
+      "owner": "Nagaland government / General Administration",
+      "jurisdiction": "Nagaland",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-odisha",
+      "url": null,
+      "owner": "Odisha government / General Administration",
+      "jurisdiction": "Odisha",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-punjab",
+      "url": null,
+      "owner": "Punjab government / General Administration",
+      "jurisdiction": "Punjab",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-rajasthan",
+      "url": null,
+      "owner": "Rajasthan government / General Administration",
+      "jurisdiction": "Rajasthan",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-sikkim",
+      "url": null,
+      "owner": "Sikkim government / General Administration",
+      "jurisdiction": "Sikkim",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-tamil-nadu",
+      "url": null,
+      "owner": "Tamil Nadu government / General Administration",
+      "jurisdiction": "Tamil Nadu",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-telangana",
+      "url": null,
+      "owner": "Telangana government / General Administration",
+      "jurisdiction": "Telangana",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-tripura",
+      "url": null,
+      "owner": "Tripura government / General Administration",
+      "jurisdiction": "Tripura",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-uttar-pradesh",
+      "url": null,
+      "owner": "Uttar Pradesh government / General Administration",
+      "jurisdiction": "Uttar Pradesh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-uttarakhand",
+      "url": null,
+      "owner": "Uttarakhand government / General Administration",
+      "jurisdiction": "Uttarakhand",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-west-bengal",
+      "url": null,
+      "owner": "West Bengal government / General Administration",
+      "jurisdiction": "West Bengal",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-andaman-and-nicobar-islands",
+      "url": null,
+      "owner": "Andaman and Nicobar Islands government / General Administration",
+      "jurisdiction": "Andaman and Nicobar Islands",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-chandigarh",
+      "url": null,
+      "owner": "Chandigarh government / General Administration",
+      "jurisdiction": "Chandigarh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-dadra-and-nagar-haveli-and-daman-and-diu",
+      "url": null,
+      "owner": "Dadra and Nagar Haveli and Daman and Diu government / General Administration",
+      "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-delhi",
+      "url": null,
+      "owner": "Delhi government / General Administration",
+      "jurisdiction": "Delhi",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-jammu-and-kashmir",
+      "url": null,
+      "owner": "Jammu and Kashmir government / General Administration",
+      "jurisdiction": "Jammu and Kashmir",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-ladakh",
+      "url": null,
+      "owner": "Ladakh government / General Administration",
+      "jurisdiction": "Ladakh",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-lakshadweep",
+      "url": null,
+      "owner": "Lakshadweep government / General Administration",
+      "jurisdiction": "Lakshadweep",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "pending-puducherry",
+      "url": null,
+      "owner": "Puducherry government / General Administration",
+      "jurisdiction": "Puducherry",
+      "year": null,
+      "categories": [
+        "state_public",
+        "bank_holiday",
+        "school_holiday",
+        "local_event"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Annual notice and archive not yet verified. No URL invented. District and education sources require separate jurisdiction-specific registration."
+    },
+    {
+      "id": "central-dopt-pending",
+      "url": null,
+      "owner": "Department of Personnel and Training",
+      "jurisdiction": "IN",
+      "year": null,
+      "categories": [
+        "central_government"
+      ],
+      "document_type": "pending",
+      "publication_date": null,
+      "retrieval_date": null,
+      "checksum": null,
+      "last_successful_check": null,
+      "adapter": "pending",
+      "collection": "pending",
+      "terms": "Central-office leave is not all-state public leave. DoPT annual circular awaits verified registration; current NHAI/PFRDA observance fixtures remain source scoped."
+    }
+  ]
+}

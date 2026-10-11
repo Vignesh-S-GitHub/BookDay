@@ -17,7 +17,9 @@ for (const item of manifest) {
       ? "categories/"
       : item.type === "banner"
         ? "banners/"
-        : "";
+        : item.type === "festival"
+          ? "festivals/"
+          : "";
   const output = `art/${folder}${item.name}.webp`;
   await mkdir(resolve(publicDir, `art/${folder}`), { recursive: true });
   const image = sharp(item.path).autoOrient();
@@ -40,11 +42,29 @@ for (const item of manifest) {
       "New artwork based on user screenshot references; no original design-kit asset reused",
   });
 }
-await sharp(resolve(publicDir, "art/categories/appointments.webp"))
+await sharp(
+  Buffer.from(
+    (await readFile(resolve(publicDir, "art/app-icon.svg"), "utf8"))
+      .replace('viewBox="0 0 64 64"', 'viewBox="-12 -12 88 88"')
+      .replace(
+        "<defs>",
+        '<rect x="-12" y="-12" width="88" height="88" fill="white"/><defs>',
+      ),
+  ),
+)
   .resize(192, 192)
   .png()
   .toFile(resolve(publicDir, "art/app_icon_192.png"));
-await sharp(resolve(publicDir, "art/categories/appointments.webp"))
+await sharp(
+  Buffer.from(
+    (await readFile(resolve(publicDir, "art/app-icon.svg"), "utf8"))
+      .replace('viewBox="0 0 64 64"', 'viewBox="-12 -12 88 88"')
+      .replace(
+        "<defs>",
+        '<rect x="-12" y="-12" width="88" height="88" fill="white"/><defs>',
+      ),
+  ),
+)
   .resize(512, 512)
   .png()
   .toFile(resolve(publicDir, "art/app_icon_512.png"));

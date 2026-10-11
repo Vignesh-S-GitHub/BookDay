@@ -1,5 +1,13 @@
 # Cloudflare deployment and performance
 
+## Holiday pipeline review preview
+
+The `feature/holiday-pipeline-ui` branch is available at [the Cloudflare review preview](https://holiday-pipeline-ui-bookday.vigneshshanmugam.workers.dev). Its immutable deployment is [eef68bbe](https://eef68bbe-bookday.vigneshshanmugam.workers.dev). This update has not been deployed to production.
+
+`uv run pywrangler deploy --dry-run` passed with 476 Python modules and a 2474.04 KiB compressed Worker. Runtime dependencies and static-first routing are preserved. Maintenance-only pypdf remains outside the Worker. `uv run pywrangler preview --name holiday-pipeline-ui` published the branch preview; Wrangler currently labels previews open beta.
+
+The preview includes 93 reviewed calendar records, 65 festival observances, selected-year caching, daily read-only source checks, white PWA icons and mobile corrections. Refer to [the source/coverage runbook](HOLIDAY_PIPELINE.md) and [executed QA](QA.md). Merge/release review is required before a production deployment; existing CPU-limit caveats below remain applicable.
+
 BookDay was deployed with `uv run pywrangler deploy` on 11 October 2026 to:
 
 https://bookday.vigneshshanmugam.workers.dev
@@ -16,6 +24,7 @@ The proof of concept used FastAPI via `workers.asgi.entrypoint`, a compiled Jinj
 | Screenshot-guided visual rebuild | `5350e92a-428c-43d5-8ed9-6c0a94029967` | 2248 ms | 2474.02 KiB |
 | Final icons and offline cache | `7949d257-7a9e-4c2d-a328-bc8e3def3c2c` | 2291 ms | 2474.02 KiB |
 | Dynamic service forms, controls and 36 destinations | `29d7d311-b592-4905-8636-7013f33db9bb` | 2369 ms | 2474.02 KiB |
+| Illustrated annual festival calendar and readable Home dates | `8b76f389-08f5-4ad4-822a-5aefbb211590` | 2405 ms | 2474.02 KiB |
 
 The visual rebuild replaces the entire served design kit with 36 newly generated images, a new vector icon sprite and a bundled licensed font. It adds the compact reference layouts while preserving date calculations and device-local storage. Static assets route directly through Cloudflare's asset store; only `/api/*` and `/fragments/*` invoke Python. No database or paid API is provisioned. No billing plan upgrade was requested or enabled. The Python runtime and calculation code are unchanged; the CPU evidence below remains a limitation, and no new strict Free-tier capacity claim is made.
 
@@ -59,3 +68,5 @@ uv run uvicorn bookday.local:app --app-dir src --host 127.0.0.1 --port 8000
 For a conventional production host, include Uvicorn in that host's runtime requirements, use HTTPS, a service process manager and static response security headers equivalent to `public/_headers`. Assess that host's costs and sleep policy separately. No alternate paid host has been provisioned.
 
 The dynamic planners update adds 34 original scenic WebP images (70 raster assets total), five functional Home carousel scenes, all 36 state/UT destination banners, themed inputs and service-specific fields. Every plan has a visible required chosen reminder time; provider opening time remains separately sourced. Tamil Nadu 2026 holiday records include the official annual gazette and the statewide polling-day gazette. The static asset directory contains 96 files.
+
+The festival update adds 34 original 1280px WebP images (104 raster assets total), 65 reviewed 2026–2027 festival observances, reusable identity-based artwork, an illustrated annual guide and high-contrast Home dates. Existing state public-holiday records remain separate; local festival dates override the central guide. Wrangler uploaded 39 changed static files; Python code and the compressed Worker bundle remained identical. All artwork is precached for offline browsing; the new festival images total 11,777,366 bytes. [Festival source scope](FESTIVALS.md) describes incomplete future-year and local coverage.

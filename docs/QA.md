@@ -2,10 +2,10 @@
 
 ## Executed checks
 
-- 35 pytest tests pass, including date arithmetic, leap years, calendar-month clipping, year boundaries, past dates, timezone boundaries, fixed/recurring rules, invalid input, standard rail and originating-station Tatkal behavior, plus five new artwork/font/offline-shell regressions.
-- The pytest run executes 9 Node calendar export/category/destination tests. An independent `icalendar` parser accepts the generated timed and all-day ICS files, Unicode Tamil text, escaped locations and multiple alarms. Tests assert CRLF and the 75-octet folding limit.
+- 52 pytest tests pass, including date arithmetic, leap years, calendar-month clipping, year boundaries, past dates, timezone boundaries, fixed/recurring rules, invalid input, standard rail and originating-station Tatkal behavior, five artwork/font/offline-shell regressions and three festival data/source regressions.
+- The pytest run executes 13 Node calendar export/category/destination/festival tests. An independent `icalendar` parser accepts the generated timed and all-day ICS files, Unicode Tamil text, escaped locations and multiple alarms. Tests assert CRLF and the 75-octet folding limit.
 - Ruff formatting/lint, ty, JavaScript syntax and Prettier checks pass. Python and npm audits report no known vulnerabilities in the resolved dependencies.
-- Asset/data checks verify all 70 newly generated WebP images, vector symbols, the locally licensed font, all 36 jurisdictions, PWA brand assets and 45 sourced calendar records. No obsolete `/assets/` reference remains in the app shell.
+- Asset/data checks verify all 106 newly generated WebP images, vector symbols, the locally licensed font, all 36 jurisdictions, PWA brand assets, 93 public-calendar records and 65 yearly festival observances with 34 artwork themes. No obsolete `/assets/` reference remains in the app shell.
 - Cloudflare local Python runtime and real deployed health, JSON calculation and HTML fragment routes return 200. Deployed manifest, service worker, HTMX and logo assets return 200.
 - The optional Uvicorn ASGI fallback starts and serves the same routes and frontend.
 
@@ -49,3 +49,28 @@ The full browser suite, themed-controls suite and all-state destination suite al
 - 45 sourced calendar records. Tamil Nadu annual schedule transcribed from Gazette 721 / G.O. 708; statewide polling holiday 23 April 2026 from Gazette 208 / G.O. 239. Bank-only annual closing is not a general day off; constituency-only polling closures are not extrapolated to the state.
 - Chosen reminder time exports as a timed event on the opening date. Provider opening time and verification remain separate; legacy plans retain timed/all-day behavior. Two added Node tests cover chosen-time exports and unknown provider time.
 - Ruff format/lint, ty, pytest, Prettier, asset checks, uv audit and npm audit passed. Native calendar imports and actual device notifications still need physical-device checks.
+
+
+## Illustrated festivals update
+
+- All 34 newly generated festival images were packaged as 1280px WebP and visually reviewed in a contact sheet. The Home and calendar captures were reviewed for matching style and readable dates. Prompts are in `artwork.json`; source scope and maintenance are in `FESTIVALS.md`.
+- 65 reviewed observance dates cover 34 themes in 2026 and 31 in 2027. Public-calendar records remain separate (45). Node/Python regressions verify changing Diwali/Holi dates, local Pongal/Bakrid/Vishu/Vijayadashami precedence, main festival-family days, source links and absence of invented future dates or state leave.
+- The new `tests/festivals-regression.js` passed locally: matching Home image/date, exact-date navigation, 34-title geometry at 320/360/390/430/1280 widths with no title/date/arrow overlap, illustrated annual guide, 2027 Holi/Diwali navigation, unknown-year messaging, layer toggles, year crossover and all 34 images available offline. Zero browser errors.
+- Full app, themed controls, all-state destinations and carousel browser suites passed locally. Saved plans, calendar exports, all 14 forms, required reminder time, first installation and offline behavior remain covered.
+- 38 pytest tests and 13 Node tests pass. Ruff format/lint, ty, JS syntax, Prettier, asset checks, uv audit and npm audit pass. No dependency changes were needed.
+
+
+## Holiday pipeline and mobile corrections
+
+- 52 Python tests and 18 Node tests pass. Tests use real archived 2024/2025 official PDFs without network calls; they cover parsing/year/weekdays, wrapped cells, bank scope, document hashes, conflicts, exact candidate review, idempotency, missing sources, coverage sufficiency, deterministic/checksummed publication, mixed jurisdictions, tentative/school/district exclusions, the browser fetch receiver and year/state loading. The original 45 reviewed records remain intact; 48 historical Tamil Nadu records were added.
+- All six browser suites passed locally: full app, controls, destinations, carousel, festivals and holiday UI. The new suite checks all 36 state names at 320/360/390/430/1280 widths, Next Booking geometry, decoded-image node reuse, historical Pongal, festival lamp markers, stale-year response protection, offline data/icon availability and the exact Google template title/date/time/details. Zero page or console errors.
+- Three generated saved thumbnails and the white vector-derived install icon were visually inspected. Calendar imagery remains visible in both detail and guide rows. The app preserves route forms, 14 booking categories, device-local plans and ICS exports.
+- Annual files retain the original public JSON membership and classifications; local observances are filtered by jurisdiction. Coverage remains incomplete outside the reviewed scopes. Calendar-based demand is not pricing and does not imply leave.
+- Live source checks are optional network integration checks, distinct from the offline test suite. Unsupported adapters and inaccessible sources are reported without dropping approved data. Scanned 2024 NIC evidence was not OCR-derived; the original Gazette was fetched and reviewed instead.
+- Actual Google Calendar saving in a signed-in account, native mobile app handling and refresh of previously installed OS shortcuts require physical-device verification. Browser checks validate the complete generated template link and ICS fields; they do not claim an external event was saved.
+
+### Final Cloudflare review verification
+
+All six suites passed against [the holiday pipeline preview](https://holiday-pipeline-ui-bookday.vigneshshanmugam.workers.dev), immutable deployment `eef68bbe`, after the browser-loader and first-visit cache corrections: `ui-regression.js`, `controls-regression.js`, `destination-regression.js`, `carousel-regression.js`, `festivals-regression.js` and `holiday-ui-regression.js`. These runs verify real deployed calculations, all 34 festival images offline, cached annual data before service-worker control, five mobile/desktop widths, image node identity and complete Google event parameters. Festival artwork metadata checks now use the annual manifest rather than the transitional bulk export.
+
+The final local gate also passed: 52 pytest, 18 Node, Ruff format/lint, ty, Prettier, approved-data validation, asset checks and Python/npm vulnerability audits. Cloudflare dry-run and branch-preview publication succeeded. Production was not changed by this update.
