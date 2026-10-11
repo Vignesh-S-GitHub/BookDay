@@ -106,3 +106,9 @@ npx --yes --package @playwright/cli playwright-cli run-code --filename tests/hol
 The daily source workflow uploads pending candidates/reports for human review. It has no permission to merge or publish unreviewed records.
 
 Selected-state festival filtering, faith-specific day markers and the single-icon Travel Date picker: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/regional-festivals-regression.js`.
+
+## Final icon and reminder defaults
+
+Small UI icons use a single document-local SVG symbol library, loaded once before the first screen and retained across tab switches. New reminder forms in all 14 categories default to today's date in Asia/Kolkata. Editing saved reminders and transferring an explicitly selected travel date preserves that date.
+
+Regression: `npx --yes --package @playwright/cli playwright-cli run-code --filename tests/final-release-regression.js`. This checks one icon fetch, visible symbols on every tab/form, daily and India-midnight date rollover, and saved/edit/trip-date preservation.

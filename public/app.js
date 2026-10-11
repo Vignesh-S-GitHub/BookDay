@@ -13,6 +13,7 @@ import {
   regionalFestivalIds,
   yearFestivals,
 } from "./festivals.js";
+import { loadIcons } from "./icons.js";
 import { HolidayLoader } from "./holiday-loader.js";
 import { preserveImages, restoreImages } from "./image-cache.js";
 
@@ -47,7 +48,7 @@ const formatDate = (value) =>
       }).format(dateObj(value))
     : "Not announced";
 const icon = (name) =>
-  `<svg class="icon" aria-hidden="true"><use href="/art/icons.svg#${{ holidays: "calendar", long_weekend: "tourism" }[name] || name}"></use></svg>`;
+  `<svg class="icon" aria-hidden="true"><use href="#${{ holidays: "calendar", long_weekend: "tourism" }[name] || name}"></use></svg>`;
 const art = (name) => `/art/categories/${name}.webp`;
 const displayLabel = (c) =>
   ({
@@ -571,7 +572,7 @@ function calculator(id) {
     return intro("Category unavailable", "Choose a category from Explore.");
   const p = editPlan?.category === id ? editPlan : null;
   const trip = id === "hotels" && !p ? tripDraft : null;
-  const date = p?.event_date || trip?.date || shift(today(), 60),
+  const date = p?.event_date || trip?.date || today(),
     mode = p?.mode || c.default_mode;
   const state = p?.travel_state || trip?.state || settings.state;
   const scenic = destinations[state] || destinations["Tamil Nadu"];
@@ -1433,6 +1434,7 @@ async function refreshHolidaySelection() {
   else render();
 }
 try {
+  await loadIcons();
   const response = await fetch("/data/catalog.json");
   if (!response.ok) throw Error("Category data unavailable");
   catalog = await response.json();

@@ -50,7 +50,7 @@ def test_navigation_and_category_symbols_exist() -> None:
     ]:
         assert symbol in ids
     for source in re.findall(
-        r'href="(/art/icons\.svg#\w+)"',
+        r'<use href="(#[-\w]+)"',
         (PUBLIC / "index.html").read_text(encoding="utf-8"),
     ):
         assert source.split("#")[1] in ids
@@ -71,9 +71,22 @@ def test_service_worker_caches_new_art_and_preserves_first_visit_result() -> Non
     assert 'const ANNUAL = "bookday-holiday-data"' in worker
     assert "/fonts/roboto-latin.woff2" in worker
     assert "/art/icons.svg" in worker
+    assert "/icons.js" in worker
     assert "quick_" in worker
     assert "saved_" in worker
     assert "upcoming_train" in worker
     assert "railway" in worker
     client = (PUBLIC / "app.js").read_text(encoding="utf-8")
     assert "if (alreadyControlled) location.reload()" in client
+
+
+def test_icons_are_document_local_and_new_dates_use_today() -> None:
+    client = (PUBLIC / "app.js").read_text(encoding="utf-8")
+    assert "await loadIcons()" in client
+    assert "p?.event_date || trip?.date || today()" in client
+    for filename in ["index.html", "app.js", "controls.js"]:
+        assert "/art/icons.svg#" not in (PUBLIC / filename).read_text(encoding="utf-8")
+    loader = (PUBLIC / "icons.js").read_text(encoding="utf-8")
+    assert 'fetch("/art/icons.svg")' in loader
+    assert "ready ??= installIcons()" in loader
+    assert 'sprite.id = "bookday-icons"' in loader
