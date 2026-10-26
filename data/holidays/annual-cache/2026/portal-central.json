@@ -2,8 +2,8 @@
   "schema": 1,
   "year": 2026,
   "source": "https://www.india.gov.in/calendar",
-  "checked": "2026-10-19T09:04:56.646558+00:00",
-  "sha256": "72b9d2515980ecaf212b834a9ee7bd1b1b6a789990d162680071084ee9115f6c",
+  "checked": "2026-10-26T09:07:44.966118+00:00",
+  "sha256": "ea02940d26deaa86fb31a6127e29c2d3331d0d71f9e0f83e518894d150788612",
   "rows": [
     {
       "id": 4,
@@ -177,7 +177,7 @@
         "date": "2026-11-08",
         "holiday_type": "Gazetted",
         "updatedAt": "2026-08-04T07:29:55.756Z",
-        "publishedAt": "2025-10-30T11:29:36.728Z",
+        "publishedAt": "2026-10-21T09:34:47.397Z",
         "day": "Sunday"
       }
     },

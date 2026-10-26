@@ -1,660 +1,660 @@
 {
-  "version": "9720643709362881b14b",
+  "version": "c51afe450cc0b146d9e3",
   "schema": 2,
   "datasets": {
     "2024:IN": {
-      "url": "/data/holidays/2024/national-c3445ce127c622e8.json",
-      "checksum": "c3445ce127c622e8b1c436412047af19adfe167f639a6b96c9d93d26c45191b8",
+      "url": "/data/holidays/2024/national-c1dfee57327be450.json",
+      "checksum": "c1dfee57327be4508d3067ce6a44d46210041451f1754401afc90ce19cc4cf88",
       "count": 33,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Arunachal Pradesh": {
-      "url": "/data/holidays/2024/arunachal-pradesh-9ddd4fd74e00cb5c.json",
-      "checksum": "9ddd4fd74e00cb5ca60a4ae1095492e9f1f703a6e54e1482826083c9831cd599",
+      "url": "/data/holidays/2024/arunachal-pradesh-67b7945e8b02b8e2.json",
+      "checksum": "67b7945e8b02b8e280706fd2a9bd4a26d73acce1d498b0d1751b250799fc139e",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Assam": {
-      "url": "/data/holidays/2024/assam-b3acbc088dcbae07.json",
-      "checksum": "b3acbc088dcbae07e00aefccb1b26a4fadfbbe52220bc2a9d685589719a9414f",
+      "url": "/data/holidays/2024/assam-1ad8f0ca00d71336.json",
+      "checksum": "1ad8f0ca00d713363ebc7046728e3ecf954e82d1e1afd8858af648e9d2d8cbc4",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Bihar": {
-      "url": "/data/holidays/2024/bihar-aa99a83e011ba743.json",
-      "checksum": "aa99a83e011ba7438c599bbb4000350360eda0e83be723d4c55d0962038c0f12",
+      "url": "/data/holidays/2024/bihar-9191fd14caae24c7.json",
+      "checksum": "9191fd14caae24c72a215ec23a50d5993f5f037f75b1a2625a26b12c4563a815",
       "count": 32,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Chhattisgarh": {
-      "url": "/data/holidays/2024/chhattisgarh-8466d02783be5859.json",
-      "checksum": "8466d02783be58592d92e3f3fdd1ef3bdbd221395ca57317c8e1bfd9fa0937eb",
+      "url": "/data/holidays/2024/chhattisgarh-afcbe9aab64c2bd0.json",
+      "checksum": "afcbe9aab64c2bd07a1eb0435f2a4234f639000e9cbc139ad70ce5bc6714173f",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Goa": {
-      "url": "/data/holidays/2024/goa-16de2ae784a81919.json",
-      "checksum": "16de2ae784a819192c467f1755b9fb22aa73ec253c50707369c20c8ee893e18d",
+      "url": "/data/holidays/2024/goa-456c487b62bb7142.json",
+      "checksum": "456c487b62bb71425867e688bd9fb45306fd56412f13414a81f483579eb0860b",
       "count": 17,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Gujarat": {
-      "url": "/data/holidays/2024/gujarat-71205b8cfadba845.json",
-      "checksum": "71205b8cfadba845327f4e715b7da3dc16a9c2a1102248a430a8e847d5808626",
+      "url": "/data/holidays/2024/gujarat-471c199e98286c76.json",
+      "checksum": "471c199e98286c7605a5d152d5742847fd2bca26821ec8ea82d35eef7eed9b81",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Haryana": {
-      "url": "/data/holidays/2024/haryana-6527e15dd74eb537.json",
-      "checksum": "6527e15dd74eb5372cf0aea35e651ff1ea782980d3aac72dc53a263820f72d2e",
+      "url": "/data/holidays/2024/haryana-57ef21e5be3135f6.json",
+      "checksum": "57ef21e5be3135f60a6a8cec43c910363594c0d1689dfa44d74d14d796ddad84",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Himachal Pradesh": {
-      "url": "/data/holidays/2024/himachal-pradesh-fc00e241a935eec8.json",
-      "checksum": "fc00e241a935eec822d3267b18fded74e08084fcb9bebdec7f8a5a58131d7788",
+      "url": "/data/holidays/2024/himachal-pradesh-20c860a5624538d6.json",
+      "checksum": "20c860a5624538d62d089b29f2aa69a44ca3c7b24ab5134be1c3fbc8908d1b11",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Jharkhand": {
-      "url": "/data/holidays/2024/jharkhand-a2e762b988791d32.json",
-      "checksum": "a2e762b988791d3258a25b18c2835e1e012d9f2e3eb972332bc1fe4c965f0f5b",
+      "url": "/data/holidays/2024/jharkhand-08519520fa40f2f6.json",
+      "checksum": "08519520fa40f2f623be2b014bcbfbad8e3997078c95b70f79c9de401f5e54ed",
       "count": 18,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Karnataka": {
-      "url": "/data/holidays/2024/karnataka-7ccaf48e382364a0.json",
-      "checksum": "7ccaf48e382364a0e7a53058956127d1c5a16d48ea30336e21d5685b9c8b2766",
+      "url": "/data/holidays/2024/karnataka-f07eeb203282c6f0.json",
+      "checksum": "f07eeb203282c6f0850e30db54a74b8d5b089800e50c2eabe3e81cc7e2205f9e",
       "count": 13,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Kerala": {
-      "url": "/data/holidays/2024/kerala-ba26ad7e6ddb5f73.json",
-      "checksum": "ba26ad7e6ddb5f73cab4431ccb38227897bae28751fe5f14fb04f0b28f019413",
+      "url": "/data/holidays/2024/kerala-662bf44812b01f07.json",
+      "checksum": "662bf44812b01f075c678a26a3c48459e5e6cd4359111e8ec0315423d9ef0af5",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Madhya Pradesh": {
-      "url": "/data/holidays/2024/madhya-pradesh-0146bbd9abab601f.json",
-      "checksum": "0146bbd9abab601f2092ce4d9dea1f30d531f201ce1a7ea63a74659726cd8027",
+      "url": "/data/holidays/2024/madhya-pradesh-f86aa52d542dfc95.json",
+      "checksum": "f86aa52d542dfc953db62650ee363c7e0f61d85b11abda95e1856c5af294dacb",
       "count": 24,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Maharashtra": {
-      "url": "/data/holidays/2024/maharashtra-e9a8c8f34f2f0c37.json",
-      "checksum": "e9a8c8f34f2f0c37d01ffd85deabd07567fb8416b65cc53b94ca2a9da267a828",
+      "url": "/data/holidays/2024/maharashtra-e9641583247aa6c1.json",
+      "checksum": "e9641583247aa6c16b5ee51bb1b3e09e6f83a766b22fcba2a490abff2137d538",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Manipur": {
-      "url": "/data/holidays/2024/manipur-2f6178885c8957cd.json",
-      "checksum": "2f6178885c8957cdaad0811ce03e17b520e8f28a2e443cb39ea2014d1492919b",
+      "url": "/data/holidays/2024/manipur-b14974370c1e4115.json",
+      "checksum": "b14974370c1e41155d669e49c29af3254d5ba5495205114fe18962624426ec76",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Meghalaya": {
-      "url": "/data/holidays/2024/meghalaya-802398f27667db82.json",
-      "checksum": "802398f27667db8202b8d4d42df2e93eb9182ddc3f19e7db1b8a07da967eb47b",
+      "url": "/data/holidays/2024/meghalaya-91626e14ae063680.json",
+      "checksum": "91626e14ae063680f3f8293eba5c27b7270e4d3c164e3181049e0e250bd459a7",
       "count": 20,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Mizoram": {
-      "url": "/data/holidays/2024/mizoram-9af230d13ac83e53.json",
-      "checksum": "9af230d13ac83e533bade64e9495995cf718162c7bddb6168e3348018315ec72",
+      "url": "/data/holidays/2024/mizoram-8a65f7027ed8b74e.json",
+      "checksum": "8a65f7027ed8b74ec42e6b944f71caa9aafedc1a0cc1cb964d7b0cb30530d9d9",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Nagaland": {
-      "url": "/data/holidays/2024/nagaland-ba7c96a3385846d0.json",
-      "checksum": "ba7c96a3385846d0889834ea7950f84c9badf05974fccd1f6205966a86b326ac",
+      "url": "/data/holidays/2024/nagaland-6ad54c87984b8eb9.json",
+      "checksum": "6ad54c87984b8eb97b683799ed1d367470b98bb6cbbe8673b6f5ec9023860ef2",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Odisha": {
-      "url": "/data/holidays/2024/odisha-a2c0ee842d6dd78f.json",
-      "checksum": "a2c0ee842d6dd78fe2cab12b1d624a1e2e73e64e908f1c848d14f1b86e0c276e",
+      "url": "/data/holidays/2024/odisha-34c653e77b78db03.json",
+      "checksum": "34c653e77b78db032d30f061ee8c8a8e40e555ccd5b990d112229292256f5ce8",
       "count": 28,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Punjab": {
-      "url": "/data/holidays/2024/punjab-1fd657c24b4756ee.json",
-      "checksum": "1fd657c24b4756eef30b04ca492bca51d211b76b3a1c53ec84e4eb54721e244a",
+      "url": "/data/holidays/2024/punjab-dc7764c06fdb092c.json",
+      "checksum": "dc7764c06fdb092ce5e012d98fc1aa628e5860cea29f895352ef536389abe83b",
       "count": 28,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Rajasthan": {
-      "url": "/data/holidays/2024/rajasthan-9a93c10bdbd63851.json",
-      "checksum": "9a93c10bdbd63851cb785c1e2f5180d095368a5e33953b765e08e7e1c352126f",
+      "url": "/data/holidays/2024/rajasthan-210ca8cae125b021.json",
+      "checksum": "210ca8cae125b021f01dfc2a3853fe2fc659b1d30bf74efa5b954bf842e555e7",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Sikkim": {
-      "url": "/data/holidays/2024/sikkim-a3fa504bfa33ffe7.json",
-      "checksum": "a3fa504bfa33ffe709c7901e35bc5a9b0b52f52490b0d91643ec418f03fb8d65",
+      "url": "/data/holidays/2024/sikkim-6c6dc06e50fdae43.json",
+      "checksum": "6c6dc06e50fdae430d3deada8eca80ed8ed83ec8dd2e877cd98e976a4405924b",
       "count": 22,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Tamil Nadu": {
-      "url": "/data/holidays/2024/tamil-nadu-d26b4a9bb9b3a044.json",
-      "checksum": "d26b4a9bb9b3a0447e17249c997311eee9728627d0233f95d20be8cd11cd3186",
+      "url": "/data/holidays/2024/tamil-nadu-1983aa250d58d72c.json",
+      "checksum": "1983aa250d58d72c1547e80d9c4a79d710c66bb623c6c323ab3f7864649dc7ec",
       "count": 24,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Telangana": {
-      "url": "/data/holidays/2024/telangana-488003095dd85e8f.json",
-      "checksum": "488003095dd85e8f1d6d4b38ddf3f21f707b720be79cf3719d14d6504dd7054b",
+      "url": "/data/holidays/2024/telangana-0a181bdfb44de0af.json",
+      "checksum": "0a181bdfb44de0afc8e398da5702af186ab0edbbac562fc536dc49b685ce38a7",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Tripura": {
-      "url": "/data/holidays/2024/tripura-97d8cd95f7a48356.json",
-      "checksum": "97d8cd95f7a483567153e0f2819c927c896f413a51055386bb38d797fc1fcfb2",
+      "url": "/data/holidays/2024/tripura-f5e039a42ae24d35.json",
+      "checksum": "f5e039a42ae24d35b80f19b343ce406cde6ee3848b82a74cc111bdb4b6d3f351",
       "count": 24,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Uttar Pradesh": {
-      "url": "/data/holidays/2024/uttar-pradesh-b3363917fecfc4ec.json",
-      "checksum": "b3363917fecfc4ec4c7b49ed0521a632bed7ce125832218a1f74e284313e5519",
+      "url": "/data/holidays/2024/uttar-pradesh-e24efccbe28dbc3a.json",
+      "checksum": "e24efccbe28dbc3a51051fc3d4300cf42e64b4382cd79d113b5232a1f284cd14",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Uttarakhand": {
-      "url": "/data/holidays/2024/uttarakhand-417db7290500ca66.json",
-      "checksum": "417db7290500ca664fd1f0e96ee05ee17c69c48a43aa73fa60da83e6538621c5",
+      "url": "/data/holidays/2024/uttarakhand-060d8d7a96e6a1f2.json",
+      "checksum": "060d8d7a96e6a1f258cd128b2e4ac23cd7e1b09af6ad9ef87e77cb7e5dbfd0c1",
       "count": 22,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:West Bengal": {
-      "url": "/data/holidays/2024/west-bengal-58162124d1a901ef.json",
-      "checksum": "58162124d1a901ef5b145984a741461f7aa4a737a7278bd6fc40ed54c24662a1",
+      "url": "/data/holidays/2024/west-bengal-a5b771732f4bd7b8.json",
+      "checksum": "a5b771732f4bd7b8f746732b81b418ea87058ecd1dd129b45ba31809fa4abde3",
       "count": 19,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Andaman and Nicobar Islands": {
-      "url": "/data/holidays/2024/andaman-and-nicobar-islands-fc762eb8b0dc6b99.json",
-      "checksum": "fc762eb8b0dc6b993b99f0756202a3f791a8c80c8da3830a59ce09e338751f2e",
+      "url": "/data/holidays/2024/andaman-and-nicobar-islands-81324580944e4e3c.json",
+      "checksum": "81324580944e4e3cac81562a27822cac6304ff78b8ff2a3c6ad770597dfd54cc",
       "count": 13,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Chandigarh": {
-      "url": "/data/holidays/2024/chandigarh-48a82c9bf1305033.json",
-      "checksum": "48a82c9bf1305033aa83a0e99dcd16ed604fb8bb24e330ccb8a144e851325080",
+      "url": "/data/holidays/2024/chandigarh-f81ecca08ae61a9d.json",
+      "checksum": "f81ecca08ae61a9d9ccbfb81f45cccbb3db7bff2f4549b2922f47cb3bd9ac33d",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Dadra and Nagar Haveli and Daman and Diu": {
-      "url": "/data/holidays/2024/dadra-and-nagar-haveli-and-daman-and-diu-eb85fc6fac273b98.json",
-      "checksum": "eb85fc6fac273b980dc62db14618045d7f4d8917590f66967421836c965455aa",
+      "url": "/data/holidays/2024/dadra-and-nagar-haveli-and-daman-and-diu-55ee2629cfaa1b78.json",
+      "checksum": "55ee2629cfaa1b78d637bd93599fd63416b6c283e8ada219aff50b95e3b23de0",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Delhi": {
-      "url": "/data/holidays/2024/delhi-e8674470dbdf68b4.json",
-      "checksum": "e8674470dbdf68b4e140d34c970ef210406a221796baa0441b9b5a4753485f3f",
+      "url": "/data/holidays/2024/delhi-888550e896232f05.json",
+      "checksum": "888550e896232f05d5fc46e275963427f556d24f3640b5db2a31075328af1fb2",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Jammu and Kashmir": {
-      "url": "/data/holidays/2024/jammu-and-kashmir-6906c792e614ab88.json",
-      "checksum": "6906c792e614ab883caa64d464368723dd88a3d8e235532d0be3fbea38870646",
+      "url": "/data/holidays/2024/jammu-and-kashmir-e42f44fa6cc56b4b.json",
+      "checksum": "e42f44fa6cc56b4bd91e32bcd6f1bb22abed503b190d802a8aba02d6342b45c6",
       "count": 27,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Ladakh": {
-      "url": "/data/holidays/2024/ladakh-f7c95971b179bee8.json",
-      "checksum": "f7c95971b179bee8f5b032cb0a1ec8e07c33ce42c7d1bfaa3932679025418ba0",
+      "url": "/data/holidays/2024/ladakh-1532151a4a6902b8.json",
+      "checksum": "1532151a4a6902b8e7385ed5ed22658bd46e0561ca7da231644f8a2121203cda",
       "count": 13,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Lakshadweep": {
-      "url": "/data/holidays/2024/lakshadweep-05c5520378e15d84.json",
-      "checksum": "05c5520378e15d843c4ef9a7f0a89e63893bf6642b7e087bb5354b88dbd8883d",
+      "url": "/data/holidays/2024/lakshadweep-ba1eb917643dc5a3.json",
+      "checksum": "ba1eb917643dc5a321d35ec4beaee7b8e7f17d6998c9052f1894e06438434bea",
       "count": 16,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2024:Puducherry": {
-      "url": "/data/holidays/2024/puducherry-4a9eb6ced3effa53.json",
-      "checksum": "4a9eb6ced3effa53efb3e93c88d21444ee82cf5a748b80d58296e87de5690c78",
+      "url": "/data/holidays/2024/puducherry-60855f10e63ef53d.json",
+      "checksum": "60855f10e63ef53d0c37bd87b743fa502abeb124cce82c21f3881f99003c8e9c",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:IN": {
-      "url": "/data/holidays/2025/national-3195c4579b627736.json",
-      "checksum": "3195c4579b627736a2dfd87f67be9ffc8d8a3a244a7055d8f9633d60207ec7f6",
+      "url": "/data/holidays/2025/national-e3598d8c2c8fbd21.json",
+      "checksum": "e3598d8c2c8fbd21a6bbde96d4111a293b923de8c72e380c00bb4ed4fa509ca3",
       "count": 33,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Andhra Pradesh": {
-      "url": "/data/holidays/2025/andhra-pradesh-2d2d64f9e68c5130.json",
-      "checksum": "2d2d64f9e68c513045fa9466a6beab555e4dac2e44744d5639be8ad52ec3e823",
+      "url": "/data/holidays/2025/andhra-pradesh-34e80dcf0f34da5b.json",
+      "checksum": "34e80dcf0f34da5bc70134501e42eb124488f8d59af5fbc5eb0d3833450f4a5f",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Arunachal Pradesh": {
-      "url": "/data/holidays/2025/arunachal-pradesh-0f06a30453d20592.json",
-      "checksum": "0f06a30453d2059214cacfa6bf28c32ecb41a2c10de5c947028f02aed0d36862",
+      "url": "/data/holidays/2025/arunachal-pradesh-b2f882ab9fb9692c.json",
+      "checksum": "b2f882ab9fb9692c1086cbaa11e018b48cd70713b7c4cec6a2459f6238dbc4eb",
       "count": 18,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Assam": {
-      "url": "/data/holidays/2025/assam-125371d3b1cfe02f.json",
-      "checksum": "125371d3b1cfe02f0300db79ea0d39a89272e88acc970fe0ce552d3536cb48ac",
+      "url": "/data/holidays/2025/assam-3c9693c0d5538ad0.json",
+      "checksum": "3c9693c0d5538ad0643ae95ea2ec8199dc02f8489036718fa0c2c655242468f1",
       "count": 39,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Bihar": {
-      "url": "/data/holidays/2025/bihar-b2481b021a42016f.json",
-      "checksum": "b2481b021a42016f06f2047b8fa1041fe08883b475ffd1432f406de28abeed9b",
+      "url": "/data/holidays/2025/bihar-59bad25e5b90d228.json",
+      "checksum": "59bad25e5b90d22864dbaa265d928dda4a7c93abfb549c3da8610b4bcf44fbab",
       "count": 37,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Chhattisgarh": {
-      "url": "/data/holidays/2025/chhattisgarh-6ed229a6ec0f124d.json",
-      "checksum": "6ed229a6ec0f124d714d3da668a28514dbe7c23e8ab359d467cb67e923ec6b97",
+      "url": "/data/holidays/2025/chhattisgarh-3b2e4e0dc2624f28.json",
+      "checksum": "3b2e4e0dc2624f28b8c5a75ebed371acaa49bf3165746514bade1472a4452345",
       "count": 30,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Goa": {
-      "url": "/data/holidays/2025/goa-66afa9dbb64e0258.json",
-      "checksum": "66afa9dbb64e02584a6d9072f8f4d4a1e5b3889b4f9b8e84d577a0e593aae784",
+      "url": "/data/holidays/2025/goa-22ea469b097c9363.json",
+      "checksum": "22ea469b097c9363b083d6e2ebb28a8ee680193083d27b2301c7e68e668ca6b2",
       "count": 17,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Gujarat": {
-      "url": "/data/holidays/2025/gujarat-0399ae3fd3f361c1.json",
-      "checksum": "0399ae3fd3f361c1c894498e0e19052c90a1ee58a06f23044720b90ea669ee28",
+      "url": "/data/holidays/2025/gujarat-21b610e5e03476a0.json",
+      "checksum": "21b610e5e03476a0ce34081588440c6ab55565c49b5e5c04fb634859fa078b49",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Haryana": {
-      "url": "/data/holidays/2025/haryana-25da3c8e123d33ae.json",
-      "checksum": "25da3c8e123d33aec73863a3eb08baa7a895cd5dad09a29b3f01f643335c632c",
+      "url": "/data/holidays/2025/haryana-6abe282cf6452f3e.json",
+      "checksum": "6abe282cf6452f3e339aeea5e9ae6134d68aa2b27ca7ff6119254e89556a1810",
       "count": 34,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Himachal Pradesh": {
-      "url": "/data/holidays/2025/himachal-pradesh-ea3f92d483821d8e.json",
-      "checksum": "ea3f92d483821d8e8865539637b059d85fce291e8a9f058785470906100aba1b",
+      "url": "/data/holidays/2025/himachal-pradesh-4774526b83c86022.json",
+      "checksum": "4774526b83c8602234719e3b3c538d2ea5264b4b77121316d4bffe3ab39fe17d",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Jharkhand": {
-      "url": "/data/holidays/2025/jharkhand-d297aeb29c578f79.json",
-      "checksum": "d297aeb29c578f79d1084562ee143ad09cac196a4a3437e84b68da38dc092893",
+      "url": "/data/holidays/2025/jharkhand-1e362f75066fa813.json",
+      "checksum": "1e362f75066fa8130cbffbd886829aeb864049d657f917d9e3c2d14febfaa92b",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Karnataka": {
-      "url": "/data/holidays/2025/karnataka-50801676d617e13b.json",
-      "checksum": "50801676d617e13bba24b0d5005050fc78aa95fea5b6463a9cd873b415dc565c",
+      "url": "/data/holidays/2025/karnataka-83ff64b21a339313.json",
+      "checksum": "83ff64b21a33931315d4d503bd1796592304ab615027c7961aed7567ad005411",
       "count": 24,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Kerala": {
-      "url": "/data/holidays/2025/kerala-3149fa09def8afda.json",
-      "checksum": "3149fa09def8afdaf4317a495a4057665c9f58037a8911db1dc094b3ef33ab8f",
+      "url": "/data/holidays/2025/kerala-2d041db122d8a20f.json",
+      "checksum": "2d041db122d8a20f754c5e212ba250e9258fadaaaf2cb1e2747c858d0930bc04",
       "count": 28,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Madhya Pradesh": {
-      "url": "/data/holidays/2025/madhya-pradesh-e8344216a9a3eabc.json",
-      "checksum": "e8344216a9a3eabc0d338e73b3db5a5b19278a0f67fe0db5598478bff5bda1f0",
+      "url": "/data/holidays/2025/madhya-pradesh-b7529af2a6418699.json",
+      "checksum": "b7529af2a641869987b8d9edab50701004b04ecd0ffa97216612aabbd38f5c0e",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Maharashtra": {
-      "url": "/data/holidays/2025/maharashtra-28b51c00834b7d89.json",
-      "checksum": "28b51c00834b7d89e0cd14cd5d5bef3b124776c21eede29ffde5de4633c4843e",
+      "url": "/data/holidays/2025/maharashtra-6d3d99f5b4c09c8c.json",
+      "checksum": "6d3d99f5b4c09c8c22acc27df5640ea4609b2700e405326e8681897be0738099",
       "count": 28,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Manipur": {
-      "url": "/data/holidays/2025/manipur-94d68f3f13a4a279.json",
-      "checksum": "94d68f3f13a4a279bb7b587477bad5d93ce112fdbe1563b661353d9cb63570d8",
+      "url": "/data/holidays/2025/manipur-214ff049f49b0109.json",
+      "checksum": "214ff049f49b0109068ce42480a4f9dfd6f1ffea51aa8c9273734c386bfc5948",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Meghalaya": {
-      "url": "/data/holidays/2025/meghalaya-2cc664812b5b1b3b.json",
-      "checksum": "2cc664812b5b1b3b82a1a9c009b04090dffd7d1366b8cfa936e32c97819e98de",
+      "url": "/data/holidays/2025/meghalaya-0edb951fc733eb40.json",
+      "checksum": "0edb951fc733eb40cc1c9154ae08b848cffb9ddff98ca98ce35ad40e3998ccca",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Mizoram": {
-      "url": "/data/holidays/2025/mizoram-315a60e7c0d01b69.json",
-      "checksum": "315a60e7c0d01b69ba9655be8cf5015768a6c94870f616a00702315b2d34bf47",
+      "url": "/data/holidays/2025/mizoram-e4d0023f229ba944.json",
+      "checksum": "e4d0023f229ba944d2847a02129323118777b50776d84379bdfbc1d27a3cfb52",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Nagaland": {
-      "url": "/data/holidays/2025/nagaland-03f8159311be19dd.json",
-      "checksum": "03f8159311be19dd56fc9513cdaf31165fd9357e24308cda54d2d9ccc8710c28",
+      "url": "/data/holidays/2025/nagaland-e7d5dceeebf2e731.json",
+      "checksum": "e7d5dceeebf2e731880d1e433c9bc1765383ba3408c91cfff2de3dc8443d1f29",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Odisha": {
-      "url": "/data/holidays/2025/odisha-9c1ba4a411acacaa.json",
-      "checksum": "9c1ba4a411acacaacf8e26d52f0047d196860ddedc8aa17c72c8524e5e088c28",
+      "url": "/data/holidays/2025/odisha-73d0cdd356a45dd4.json",
+      "checksum": "73d0cdd356a45dd4aeb6c0e53e486b024ae9231a9ba6a6408cfb7a2702eba01a",
       "count": 32,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Punjab": {
-      "url": "/data/holidays/2025/punjab-c20634adc9fc3fd2.json",
-      "checksum": "c20634adc9fc3fd2c249688d8e16aed2a7479ca67ad0c65ef40955163e84b635",
+      "url": "/data/holidays/2025/punjab-e57bc801b8039d65.json",
+      "checksum": "e57bc801b8039d656240be84cad09d1e87c2b0a373ea51d4818aadd8a6a331b0",
       "count": 34,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Rajasthan": {
-      "url": "/data/holidays/2025/rajasthan-b0a19a4007768314.json",
-      "checksum": "b0a19a4007768314347953a14733741fa168c776c9ee06a94cb35ea9a41d93f6",
+      "url": "/data/holidays/2025/rajasthan-ac9ce326e1d678df.json",
+      "checksum": "ac9ce326e1d678df8cb4c3d5565d691c98a3c7e69eb39476b9ec045c0c5ac04f",
       "count": 33,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Sikkim": {
-      "url": "/data/holidays/2025/sikkim-6cb917bf98bbe7f9.json",
-      "checksum": "6cb917bf98bbe7f9856032abb5d4e7ea6ef6839c8228dab82e52f5923ebe892f",
+      "url": "/data/holidays/2025/sikkim-454d1a062abbd19b.json",
+      "checksum": "454d1a062abbd19b97ed3cf47e2feefadb63b1c8ed3c49780dedd6b3ad6a09f2",
       "count": 59,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Tamil Nadu": {
-      "url": "/data/holidays/2025/tamil-nadu-0886d5cd73f47ae7.json",
-      "checksum": "0886d5cd73f47ae7a970e9782f8ea9b506ec18d4331805a073bdc30636521625",
+      "url": "/data/holidays/2025/tamil-nadu-c9124ad130ba7e05.json",
+      "checksum": "c9124ad130ba7e05f2df32a047c26cdc60c5ce40c1ac8b427c54a9b9db775ea0",
       "count": 28,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Telangana": {
-      "url": "/data/holidays/2025/telangana-8b4a435268b82bf0.json",
-      "checksum": "8b4a435268b82bf0f97c5c6ba8028a585e2085c5ecc4d475d110898622d2b65e",
+      "url": "/data/holidays/2025/telangana-42531559725c0478.json",
+      "checksum": "42531559725c04789696b453d8738205f74cd88d9e0d7abe26a669e99558091a",
       "count": 31,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Tripura": {
-      "url": "/data/holidays/2025/tripura-6dfc5cf6bc1e61cc.json",
-      "checksum": "6dfc5cf6bc1e61ccbefcc41e9e2db2f23dd1b12263d8ae687607cddc3786a7be",
+      "url": "/data/holidays/2025/tripura-31de7a690bd92265.json",
+      "checksum": "31de7a690bd92265f1317324b9932f3a006d3779d57c168b4cb58ca11620e23c",
       "count": 35,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Uttar Pradesh": {
-      "url": "/data/holidays/2025/uttar-pradesh-571393eb1c045fe5.json",
-      "checksum": "571393eb1c045fe53ec0e6866f532efb2791286fdd67ba0da074698d9e9d31fc",
+      "url": "/data/holidays/2025/uttar-pradesh-ac3a8d9aa14a8228.json",
+      "checksum": "ac3a8d9aa14a8228280e5accc6875119595e991828215727716533de242856ec",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Uttarakhand": {
-      "url": "/data/holidays/2025/uttarakhand-5d30b5e9fbe41c24.json",
-      "checksum": "5d30b5e9fbe41c241a7c957917757ed9caf865f9e74cea5a2b0c83100d5feb62",
+      "url": "/data/holidays/2025/uttarakhand-d8cf40ac303595d2.json",
+      "checksum": "d8cf40ac303595d2fd89ce0344cde36f832b694296992244d1b2afd750bb1a3a",
       "count": 27,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:West Bengal": {
-      "url": "/data/holidays/2025/west-bengal-d1b3bb0459d4e878.json",
-      "checksum": "d1b3bb0459d4e87894644468e0d5fa4f6df0b048e38c7ad316b692b8071ca19b",
+      "url": "/data/holidays/2025/west-bengal-8f2af2a1d918e759.json",
+      "checksum": "8f2af2a1d918e759c240385f4e269fbb61b909c0c551100144e2f4d03d4cdefe",
       "count": 30,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Andaman and Nicobar Islands": {
-      "url": "/data/holidays/2025/andaman-and-nicobar-islands-dc553eee31962a05.json",
-      "checksum": "dc553eee31962a052f702133292654ce20e4a58f13b8dce53a1f6b42f141a959",
+      "url": "/data/holidays/2025/andaman-and-nicobar-islands-77cfdbd80e398f44.json",
+      "checksum": "77cfdbd80e398f44c421c9f80a2a88fa48c20832980b257c73dc77b2bda91143",
       "count": 16,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Dadra and Nagar Haveli and Daman and Diu": {
-      "url": "/data/holidays/2025/dadra-and-nagar-haveli-and-daman-and-diu-3eb9b7f5d15f9687.json",
-      "checksum": "3eb9b7f5d15f9687ba5c8c64c3e76e036becc8d7e570fdc602915b038cd73dce",
+      "url": "/data/holidays/2025/dadra-and-nagar-haveli-and-daman-and-diu-15d2e69d2ebc955f.json",
+      "checksum": "15d2e69d2ebc955ff8b80e8a880d7d80c2af51e0927f3006ae2b9ebc5ec6b9da",
       "count": 16,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Delhi": {
-      "url": "/data/holidays/2025/delhi-f4624c8f8caa185c.json",
-      "checksum": "f4624c8f8caa185caa25098f38488b75a892a9dab8d150d32b4e009e4b4240be",
+      "url": "/data/holidays/2025/delhi-5320b5e0457f1c0c.json",
+      "checksum": "5320b5e0457f1c0c1f711909b1f3500f6095e00385fac9389292f41efafe8042",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Jammu and Kashmir": {
-      "url": "/data/holidays/2025/jammu-and-kashmir-29fa53c6ab04001f.json",
-      "checksum": "29fa53c6ab04001fd49b428b290ec4d86ad6b6cb58e82488a6a93b44594d9014",
+      "url": "/data/holidays/2025/jammu-and-kashmir-5f10ab76ecd10d6d.json",
+      "checksum": "5f10ab76ecd10d6deb90e34eacb09be96e66b655f0b121b2dd29c4507b462c93",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Lakshadweep": {
-      "url": "/data/holidays/2025/lakshadweep-e5b566c853fc99dd.json",
-      "checksum": "e5b566c853fc99dd53107cd2c2c942cd848b2f716b558fdb91778f436bdfbaee",
+      "url": "/data/holidays/2025/lakshadweep-9a3b5e6ed7ac1568.json",
+      "checksum": "9a3b5e6ed7ac156864b4aeb257b6b0b133043b67abc2377f6dd0f83eef3a4ed0",
       "count": 16,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2025:Puducherry": {
-      "url": "/data/holidays/2025/puducherry-4c8bf47b44ee08c6.json",
-      "checksum": "4c8bf47b44ee08c6b1993418ce9b10491fe50c308ea469a7207a15233f1f2935",
+      "url": "/data/holidays/2025/puducherry-84ebc034372fb271.json",
+      "checksum": "84ebc034372fb27179d978d874ba068ef68b550041a078c632d4d83417fb0d96",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:IN": {
-      "url": "/data/holidays/2026/national-fd2aa5bc68a3082c.json",
-      "checksum": "fd2aa5bc68a3082cb7c8093fa7f4de0478a6b268a4ca7e7bf60e72a5536d8f75",
+      "url": "/data/holidays/2026/national-eef5a527b2456b68.json",
+      "checksum": "eef5a527b2456b6806164728644bd121b66aec448d6c66596d4ab979afc7f05d",
       "count": 39,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Andhra Pradesh": {
-      "url": "/data/holidays/2026/andhra-pradesh-96020f80646e71da.json",
-      "checksum": "96020f80646e71da640e131b449afcdb79eeb98e70b83bc042dc147ea0245af1",
+      "url": "/data/holidays/2026/andhra-pradesh-220cf7f91d75898a.json",
+      "checksum": "220cf7f91d75898ab4da5216cc62784be9256aff86a8372473a6d10032931a2c",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Arunachal Pradesh": {
-      "url": "/data/holidays/2026/arunachal-pradesh-d8bf7e4b47065c12.json",
-      "checksum": "d8bf7e4b47065c1218af1d01eaa0ebe4240091c6d970613c0090911e26de6c07",
+      "url": "/data/holidays/2026/arunachal-pradesh-dd5273ec4e212881.json",
+      "checksum": "dd5273ec4e212881c311d8e4fab24beb3e1905d40d756c7ddc5bcec2650edb4e",
       "count": 18,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Assam": {
-      "url": "/data/holidays/2026/assam-e9a08ecde6956454.json",
-      "checksum": "e9a08ecde695645475ac19e0d1b8ea9a392266199130cdeea2e7fc5169edeb43",
+      "url": "/data/holidays/2026/assam-775efed46154be67.json",
+      "checksum": "775efed46154be677f45004931a91a87d0a7b828243a45141974a0214aff2819",
       "count": 24,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Bihar": {
-      "url": "/data/holidays/2026/bihar-529ed11fda91290a.json",
-      "checksum": "529ed11fda91290aa02365e56986fc5da3c07e3b4c70c5f213f20e775bb02680",
+      "url": "/data/holidays/2026/bihar-6e5116874cfe3e1f.json",
+      "checksum": "6e5116874cfe3e1f4ff3d6cf4ed2151007cd8cdf66a7979bf96616b56372333a",
       "count": 36,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Chhattisgarh": {
-      "url": "/data/holidays/2026/chhattisgarh-09f621001c723062.json",
-      "checksum": "09f621001c7230629498d85018106ef0b8be302aeddb4cd76e5ddb14a9fa8c3d",
+      "url": "/data/holidays/2026/chhattisgarh-254d533cbffcbccf.json",
+      "checksum": "254d533cbffcbccfb3b1c457fd22b9291397186899b6be5e225a9203ff15c383",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Goa": {
-      "url": "/data/holidays/2026/goa-9af882cd85a8f1db.json",
-      "checksum": "9af882cd85a8f1dbf39950d96123c88a7f0997a752ed30f8531b72a94bc1df6c",
+      "url": "/data/holidays/2026/goa-0e0772804bbe21d2.json",
+      "checksum": "0e0772804bbe21d224af6249669f5551aa4d88fe1785ae273cc90f23eeeb2b4a",
       "count": 17,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Gujarat": {
-      "url": "/data/holidays/2026/gujarat-91deffe2e8db0377.json",
-      "checksum": "91deffe2e8db03777628cf3e4a15fdcc9e43bd917348f4da51b9686de732ac50",
+      "url": "/data/holidays/2026/gujarat-274d78babe31ca4a.json",
+      "checksum": "274d78babe31ca4aa20e413c634eed6e7eeaa806a9268f005b45e1a584e1e788",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Haryana": {
-      "url": "/data/holidays/2026/haryana-1edbf239d0fa6968.json",
-      "checksum": "1edbf239d0fa6968fbcfc1e7e4dd79ff636fe947f5729f6f1f5b186cbfbb982c",
+      "url": "/data/holidays/2026/haryana-c69d1dfc9f3b638a.json",
+      "checksum": "c69d1dfc9f3b638aef39b48fa4a2416bca5f05d09b71548c4d7c3756c43b62e8",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Himachal Pradesh": {
-      "url": "/data/holidays/2026/himachal-pradesh-a7d0752dc62a4116.json",
-      "checksum": "a7d0752dc62a41168f9ea2646be4f456da5e1b5dd3b88d3fbb39588b545ac61d",
+      "url": "/data/holidays/2026/himachal-pradesh-1ffff19ada5e2183.json",
+      "checksum": "1ffff19ada5e218337101597a3382c317236a0f25eb4d604b12f7deb60e754bc",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Jharkhand": {
-      "url": "/data/holidays/2026/jharkhand-125e82a5bc213c47.json",
-      "checksum": "125e82a5bc213c47762d8d4ba011011816bce61d562e6e552d58bdaebcbae84f",
+      "url": "/data/holidays/2026/jharkhand-0539e102f4e35dfd.json",
+      "checksum": "0539e102f4e35dfd515fd96e22968ad69857f60a14beb5503045d32c1219c0bc",
       "count": 20,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Karnataka": {
-      "url": "/data/holidays/2026/karnataka-23672e3ff3fa6659.json",
-      "checksum": "23672e3ff3fa66594d92275dbb331539a0c099029d479c6046a49f9cb54304b0",
+      "url": "/data/holidays/2026/karnataka-21f59f143229913a.json",
+      "checksum": "21f59f143229913a28905ba490a2b699d2fbb173e0619d8a9bf5d53bd43deb00",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Kerala": {
-      "url": "/data/holidays/2026/kerala-179e42dd9934deaa.json",
-      "checksum": "179e42dd9934deaad65722d92428f186f2d957c6df380bc234976b2956f5ca6a",
+      "url": "/data/holidays/2026/kerala-7548cdb417a4fc51.json",
+      "checksum": "7548cdb417a4fc51717ce1fd68efd768e5ff16d65ddff68aa1f139c5511bd349",
       "count": 27,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Madhya Pradesh": {
-      "url": "/data/holidays/2026/madhya-pradesh-6f7b149667562f17.json",
-      "checksum": "6f7b149667562f17c7106dfde995c6698dffde945b62d2471cfa1dccb0a3b682",
-      "count": 25,
-      "version": "9720643709362881b14b"
+      "url": "/data/holidays/2026/madhya-pradesh-b9de62539b861c0b.json",
+      "checksum": "b9de62539b861c0bb7d91b9c03fae239615304e3936586876748d7bfb19517ba",
+      "count": 24,
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Maharashtra": {
-      "url": "/data/holidays/2026/maharashtra-82af25e856cecdf2.json",
-      "checksum": "82af25e856cecdf2a7ff60445c51710c69bb1a2b4a7e79144b4a82585d66ad5e",
+      "url": "/data/holidays/2026/maharashtra-d8743ba27c6aaaa6.json",
+      "checksum": "d8743ba27c6aaaa612f50d2e6bd5aad9f9664e0c3fc3c15f9422c7174f713955",
       "count": 23,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Manipur": {
-      "url": "/data/holidays/2026/manipur-e62719e4c4150853.json",
-      "checksum": "e62719e4c41508532b32f8df9f722ff72317501ea13a0aa7a996b1d96e88ee62",
+      "url": "/data/holidays/2026/manipur-ea1f25a2724947d1.json",
+      "checksum": "ea1f25a2724947d1c89b74f997a0e412ee7c0260bd649943a6e010844e109559",
       "count": 32,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Meghalaya": {
-      "url": "/data/holidays/2026/meghalaya-61f40e7119774a24.json",
-      "checksum": "61f40e7119774a2468aad52bf3df38e65866879e4359e79262d5139bc74a8636",
+      "url": "/data/holidays/2026/meghalaya-49239823ba498bf0.json",
+      "checksum": "49239823ba498bf0a3f6fa29b8fb5c5fa66ba79b6c67596a9aff34f52bb049bc",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Mizoram": {
-      "url": "/data/holidays/2026/mizoram-de2c3f7d646b7d39.json",
-      "checksum": "de2c3f7d646b7d39251c677989aec522971a40894a28264ecc4103402eef3835",
+      "url": "/data/holidays/2026/mizoram-42e6e99beba4ac4c.json",
+      "checksum": "42e6e99beba4ac4c47f7e30d22ae2bc36b80e285dd69cd0baebcb486da554400",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Nagaland": {
-      "url": "/data/holidays/2026/nagaland-f5d9ca4bea37027b.json",
-      "checksum": "f5d9ca4bea37027b9ad703112bdcb958da4d015ce2551d964078b2bab7179b07",
+      "url": "/data/holidays/2026/nagaland-45c353c669dd22e5.json",
+      "checksum": "45c353c669dd22e5e5b0fa7ec3bd5015482d1c8e9e7aec90582208edec01506c",
       "count": 31,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Odisha": {
-      "url": "/data/holidays/2026/odisha-49165139ae00dbcc.json",
-      "checksum": "49165139ae00dbcc56bd082f62bdd2e70d92b76c3bf1fc1c7bd750b1e1a817b8",
+      "url": "/data/holidays/2026/odisha-f58c4583ac8f5b8b.json",
+      "checksum": "f58c4583ac8f5b8bd103c1b47ca455bdf9de97994335b8f36dc12a70cbefc2c0",
       "count": 30,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Punjab": {
-      "url": "/data/holidays/2026/punjab-20eaeb949c214a57.json",
-      "checksum": "20eaeb949c214a57ddda2826fb5b8bb62f91e11e0e71696b29d5091cb4c9e415",
+      "url": "/data/holidays/2026/punjab-4eddf8a72bc965a8.json",
+      "checksum": "4eddf8a72bc965a83e674bb0ef054f83f5af5729f39e7cb96687213c343540ea",
       "count": 32,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Rajasthan": {
-      "url": "/data/holidays/2026/rajasthan-3c632198e60a41c5.json",
-      "checksum": "3c632198e60a41c5c5d377772d3baae6ca0d60a4199cd2fd747af95cad4033b0",
+      "url": "/data/holidays/2026/rajasthan-7061fb729a9e2d14.json",
+      "checksum": "7061fb729a9e2d149e3df2dd833fe9274d77c1933deffb246051d408b922970d",
       "count": 33,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Sikkim": {
-      "url": "/data/holidays/2026/sikkim-c67f2bfc601dcae3.json",
-      "checksum": "c67f2bfc601dcae3bc0e20e129fb6e7e868a061573d1a9f09199e39576f7050e",
+      "url": "/data/holidays/2026/sikkim-61a2bafe50033c61.json",
+      "checksum": "61a2bafe50033c61d4c82fc03667737c196e98df287bbdda2e621e7320eb223e",
       "count": 56,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Tamil Nadu": {
-      "url": "/data/holidays/2026/tamil-nadu-23ebf53b5d112253.json",
-      "checksum": "23ebf53b5d112253c394ae8de58c9322621ac5c538d021956fdc6cc7469fff06",
+      "url": "/data/holidays/2026/tamil-nadu-325b77e178e8d6e6.json",
+      "checksum": "325b77e178e8d6e68cbef993ef0058f60c53fbd2c7366349b987f5c4023cb4f2",
       "count": 25,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Telangana": {
-      "url": "/data/holidays/2026/telangana-f0bcb2c7a8ae9552.json",
-      "checksum": "f0bcb2c7a8ae95529acdfd9fab4eb814c192bb57cc7e8ed889916ae2d3c9892a",
+      "url": "/data/holidays/2026/telangana-3afcc2b6da4b9caa.json",
+      "checksum": "3afcc2b6da4b9caa052a1de5e8cb89ffac6f1c618b879834d3a054f9e54d0aad",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Tripura": {
-      "url": "/data/holidays/2026/tripura-98444df4fce5cbd3.json",
-      "checksum": "98444df4fce5cbd358fda44faf0ba864e1cf5e9b4aa7e9b420c96bb6cf363b96",
+      "url": "/data/holidays/2026/tripura-2dffdcf2f2f2aed0.json",
+      "checksum": "2dffdcf2f2f2aed0ed5148acadd52aef09baff547f180878e18e96d87bb15985",
       "count": 31,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Uttar Pradesh": {
-      "url": "/data/holidays/2026/uttar-pradesh-8133efdd28b18963.json",
-      "checksum": "8133efdd28b189632243ebf394db0d91404f653bc1f7792761534db68100b7e6",
+      "url": "/data/holidays/2026/uttar-pradesh-52cb3c04a2c3972a.json",
+      "checksum": "52cb3c04a2c3972a3aad3bd228375951b9729de386a380888d185d45a1cd84f6",
       "count": 21,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Uttarakhand": {
-      "url": "/data/holidays/2026/uttarakhand-97572cab72991ff8.json",
-      "checksum": "97572cab72991ff87bf63ad0fcd6d167a2d0f7d1defb676c69b32989aef2267a",
+      "url": "/data/holidays/2026/uttarakhand-ea039fe261faa69d.json",
+      "checksum": "ea039fe261faa69dca85ccc85872e8c4957862ae7801b4fb6157f51e4389ff3a",
       "count": 14,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:West Bengal": {
-      "url": "/data/holidays/2026/west-bengal-c858f8baf2750c58.json",
-      "checksum": "c858f8baf2750c5836cd96af442822d7e772e253124ce174cbb63c88b7e212de",
+      "url": "/data/holidays/2026/west-bengal-9a377ab9a26b6e4d.json",
+      "checksum": "9a377ab9a26b6e4d714f77fab4d649d32ade5f1d94768a8c9fbcae333725317f",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Andaman and Nicobar Islands": {
-      "url": "/data/holidays/2026/andaman-and-nicobar-islands-3117e78bf79a80d8.json",
-      "checksum": "3117e78bf79a80d895dbb0aa6019d824c5f07eb3ef78a8a296f2aac4f6109939",
+      "url": "/data/holidays/2026/andaman-and-nicobar-islands-29ad60747242182f.json",
+      "checksum": "29ad60747242182febf1551c879afedd1872d009569d93a0061c362a47860e19",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Chandigarh": {
-      "url": "/data/holidays/2026/chandigarh-d3aaa901b2f421ac.json",
-      "checksum": "d3aaa901b2f421acb605aace7e3528b06dd96f52a0f928d01473cda107cf962a",
+      "url": "/data/holidays/2026/chandigarh-cc7414dbc9bb5b55.json",
+      "checksum": "cc7414dbc9bb5b553a28a83e1cb33b98289a1c20ffc88fb336ad40ff1aa2cc9f",
       "count": 13,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Dadra and Nagar Haveli and Daman and Diu": {
-      "url": "/data/holidays/2026/dadra-and-nagar-haveli-and-daman-and-diu-b6ed8bcd5209e6fe.json",
-      "checksum": "b6ed8bcd5209e6feafbfc04509f388aaf3c7a709babe01a1a6d2e9852d7a8a03",
-      "count": 15,
-      "version": "9720643709362881b14b"
+      "url": "/data/holidays/2026/dadra-and-nagar-haveli-and-daman-and-diu-ed875751b255fe43.json",
+      "checksum": "ed875751b255fe43b967ae038662f4252b1bcb2d8b4de0ec333e93914dcac45e",
+      "count": 14,
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Delhi": {
-      "url": "/data/holidays/2026/delhi-7dbd66bd2e0cae6c.json",
-      "checksum": "7dbd66bd2e0cae6c258e878668ec11dfa8e0c48fc3dcc6311152f1dc188c22c6",
+      "url": "/data/holidays/2026/delhi-bee861c185cb8ee5.json",
+      "checksum": "bee861c185cb8ee514fa2684d61618211af4fee34503912bdc172ca524381ae2",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Jammu and Kashmir": {
-      "url": "/data/holidays/2026/jammu-and-kashmir-f63e024dc287b88b.json",
-      "checksum": "f63e024dc287b88b8d870243d15ffa79c78645f083cf19bead92d20e6a28754a",
+      "url": "/data/holidays/2026/jammu-and-kashmir-72c89ea2be83654d.json",
+      "checksum": "72c89ea2be83654da744bb9d25f8a7bb6ae3384986609eb7ae479d17d736ffbd",
       "count": 29,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Ladakh": {
-      "url": "/data/holidays/2026/ladakh-b43376e92edfe73b.json",
-      "checksum": "b43376e92edfe73baa27a9205b7c3eb5d2ae51e53ebc70c8e4d5f9f07ab75ffb",
+      "url": "/data/holidays/2026/ladakh-b1f92e70bfa272d0.json",
+      "checksum": "b1f92e70bfa272d0f235ab9da3ac73361beb773ca01ed3d87851fd879593c5ad",
       "count": 13,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Lakshadweep": {
-      "url": "/data/holidays/2026/lakshadweep-93894da79b37b3e0.json",
-      "checksum": "93894da79b37b3e098b63aeb2e39d567df23e717cb4b08e8d14dc938a8a108f0",
+      "url": "/data/holidays/2026/lakshadweep-97693da3caf63eff.json",
+      "checksum": "97693da3caf63eff78b0f7288fdcd89ed081df1c1f3b2201e77a784d5343c9e8",
       "count": 15,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2026:Puducherry": {
-      "url": "/data/holidays/2026/puducherry-1c14a40274fe5c49.json",
-      "checksum": "1c14a40274fe5c496fba06cea20640705e28e7b138462aaab1e7424dc6c5068f",
+      "url": "/data/holidays/2026/puducherry-f201c65cd901af7c.json",
+      "checksum": "f201c65cd901af7ccd4b2d533686724bc1708798e64a8fb019af8813f63642f9",
       "count": 26,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     },
     "2027:IN": {
-      "url": "/data/holidays/2027/national-4d19ff6187dd37d8.json",
-      "checksum": "4d19ff6187dd37d8af84282c3759fc10673f9a24719e273e9152d57744302055",
+      "url": "/data/holidays/2027/national-bb674ff8cc3cf680.json",
+      "checksum": "bb674ff8cc3cf6803ca0d8e6e5940434a6525c9b591d4a7810d3b3abd8d3d890",
       "count": 36,
-      "version": "9720643709362881b14b"
+      "version": "c51afe450cc0b146d9e3"
     }
   },
   "coverage": [
@@ -4087,7 +4087,7 @@
       "jurisdiction": "Arunachal Pradesh",
       "category": "public",
       "status": "partial",
-      "count": 14,
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4357,7 +4357,7 @@
       "jurisdiction": "Haryana",
       "category": "public",
       "status": "partial",
-      "count": 18,
+      "count": 17,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4402,7 +4402,7 @@
       "jurisdiction": "Himachal Pradesh",
       "category": "public",
       "status": "partial",
-      "count": 22,
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4582,7 +4582,7 @@
       "jurisdiction": "Madhya Pradesh",
       "category": "public",
       "status": "partial",
-      "count": 22,
+      "count": 21,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4717,7 +4717,7 @@
       "jurisdiction": "Meghalaya",
       "category": "public",
       "status": "partial",
-      "count": 20,
+      "count": 19,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4852,7 +4852,7 @@
       "jurisdiction": "Odisha",
       "category": "public",
       "status": "partial",
-      "count": 26,
+      "count": 25,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -4897,7 +4897,7 @@
       "jurisdiction": "Punjab",
       "category": "public",
       "status": "partial",
-      "count": 28,
+      "count": 27,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5215,7 +5215,7 @@
       "jurisdiction": "Uttarakhand",
       "category": "public",
       "status": "partial",
-      "count": 14,
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5305,7 +5305,7 @@
       "jurisdiction": "Andaman and Nicobar Islands",
       "category": "public",
       "status": "partial",
-      "count": 13,
+      "count": 12,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5395,7 +5395,7 @@
       "jurisdiction": "Dadra and Nagar Haveli and Daman and Diu",
       "category": "public",
       "status": "partial",
-      "count": 15,
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5440,7 +5440,7 @@
       "jurisdiction": "Delhi",
       "category": "public",
       "status": "partial",
-      "count": 15,
+      "count": 14,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -5485,7 +5485,7 @@
       "jurisdiction": "Jammu and Kashmir",
       "category": "public",
       "status": "partial",
-      "count": 23,
+      "count": 22,
       "scope": "Only published records; annual source sufficiency not established.",
       "source_ids": []
     },
@@ -9869,7 +9869,7 @@
       "current_refresh_days": 7,
       "future_refresh_days": 1
     },
-    "updated": "2026-10-19T09:05:05.837148+00:00"
+    "updated": "2026-10-26T09:07:36.049764+00:00"
   },
   "scope": "Annual source coverage is category- and jurisdiction-specific. Complete annual schedules do not imply all later notices or private-employer leave. Missing data is not zero holidays."
 }
