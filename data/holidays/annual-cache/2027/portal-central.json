@@ -2,8 +2,8 @@
   "schema": 1,
   "year": 2027,
   "source": "https://www.india.gov.in/calendar",
-  "checked": "2026-11-09T11:48:18.194995+00:00",
-  "sha256": "671e413bc9237cb0e13b67c61a6991e6c71c5b434a88406759e660d3ca661598",
+  "checked": "2026-11-11T11:11:59.103795+00:00",
+  "sha256": "fae384d669d51157dc5243a96f5f6f2ad3f23b2e1a5ae560f35dfbdb005efd94",
   "rows": [
     {
       "id": 201,
@@ -157,17 +157,6 @@
         "updatedAt": "2026-08-05T05:49:15.165Z",
         "publishedAt": "2026-07-22T07:00:42.700Z",
         "day": "Saturday"
-      }
-    },
-    {
-      "id": 215,
-      "attributes": {
-        "title": "Diwali (Deepavali)",
-        "date": "2027-10-29",
-        "holiday_type": "Gazetted",
-        "updatedAt": "2026-08-04T08:01:10.998Z",
-        "publishedAt": "2026-08-04T08:01:10.994Z",
-        "day": "Friday"
       }
     },
     {
@@ -541,6 +530,17 @@
         "holiday_type": "Restricted",
         "updatedAt": "2026-08-05T05:58:46.509Z",
         "publishedAt": "2026-07-22T10:19:46.770Z",
+        "day": "Friday"
+      }
+    },
+    {
+      "id": 250,
+      "attributes": {
+        "title": "Diwali",
+        "date": "2027-10-29",
+        "holiday_type": "Gazetted",
+        "updatedAt": "2026-11-11T08:35:49.607Z",
+        "publishedAt": "2026-11-11T08:35:40.035Z",
         "day": "Friday"
       }
     }
